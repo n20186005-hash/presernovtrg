@@ -18,6 +18,33 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        {/* Entity Equivalence Declaration */}
+        <p
+          className="text-lg leading-relaxed mb-4 font-medium"
+          style={{ color: 'var(--text-primary)' }}
+          dangerouslySetInnerHTML={{ __html: t('entityDeclaration') }}
+        />
+
+        {/* Geographic Breadcrumb Hierarchy */}
+        <nav
+          aria-label="Geographic breadcrumb"
+          className="mb-6 p-4 rounded-lg text-sm tracking-wide font-mono"
+          style={{
+            background: 'var(--bg-tertiary)',
+            color: 'var(--text-muted)',
+            border: '1px dashed var(--border-color)',
+          }}
+        >
+          {t('breadcrumb')}
+        </nav>
+
+        {/* Nearby Semantic Cluster */}
+        <p
+          className="text-lg leading-relaxed mb-12"
+          style={{ color: 'var(--text-secondary)' }}
+          dangerouslySetInnerHTML={{ __html: t('nearbyCluster') }}
+        />
+
         <p
           className="text-lg leading-relaxed mb-12"
           style={{ color: 'var(--text-secondary)' }}

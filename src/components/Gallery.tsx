@@ -1,27 +1,44 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/images (1).jpg', alt: '普列舍伦广场全景' },
-  { src: '/gallery/images (2).jpg', alt: '三重桥与广场' },
-  { src: '/gallery/images (3).jpg', alt: '普列舍伦青铜雕像' },
-  { src: '/gallery/images (4).jpg', alt: '方济各会教堂' },
-  { src: '/gallery/images (5).jpg', alt: '乌尔班茨大楼' },
-  { src: '/gallery/images (6).jpg', alt: '广场夜景' },
-  { src: '/gallery/images (7).jpg', alt: '中央药房建筑' },
-  { src: '/gallery/images (8).jpg', alt: '广场咖啡馆' },
-  { src: '/gallery/images (9).jpg', alt: '卢布尔雅那河畔' },
-  { src: '/gallery/images (10).jpg', alt: '中世纪老城街道' },
-  { src: '/gallery/images (11).jpg', alt: '城市风光' },
-  { src: '/gallery/images (12).jpg', alt: '浪漫欧洲夜生活' },
+const photosZh = [
+  { src: '/gallery/images (1).jpg', alt: '普列舍伦广场 Prešernov trg - 斯洛文尼亚卢布尔雅那主景全景' },
+  { src: '/gallery/images (2).jpg', alt: '三重桥 Triple Bridge (Tromostovje) - 紧邻 Prešernov trg' },
+  { src: '/gallery/images (3).jpg', alt: '普列舍伦青铜雕像 - 位于 Prešernov trg 中央' },
+  { src: '/gallery/images (4).jpg', alt: '方济各会天使报喜教堂 - 普列舍伦广场 Prešernov trg 南侧地标' },
+  { src: '/gallery/images (5).jpg', alt: '乌尔班茨 Mayer 百货大楼 - 维也纳分离派建筑 near Prešernov trg' },
+  { src: '/gallery/images (6).jpg', alt: '普列舍伦广场 Prešernov trg 夜景 - 斯洛文尼亚卢布尔雅那' },
+  { src: '/gallery/images (7).jpg', alt: '中央药房建筑 - Prešernov trg 东侧历史建筑' },
+  { src: '/gallery/images (8).jpg', alt: '普列舍伦广场 Prešernov trg 咖啡馆文化场景' },
+  { src: '/gallery/images (9).jpg', alt: '卢布尔雅那河畔 Ljubljanica River - near Prešernov trg' },
+  { src: '/gallery/images (10).jpg', alt: '卢布尔雅那中世纪老城街道 - Prešernov trg 周边街巷' },
+  { src: '/gallery/images (11).jpg', alt: '卢布尔雅那 Ljubljana 城市风光 - 远眺 Prešernov trg' },
+  { src: '/gallery/images (12).jpg', alt: '普列舍伦广场 Prešernov trg 浪漫欧洲夜生活场景' },
+];
+
+const photosEn = [
+  { src: '/gallery/images (1).jpg', alt: 'Prešernov trg - Main panoramic view in Ljubljana, Slovenia' },
+  { src: '/gallery/images (2).jpg', alt: 'Triple Bridge (Tromostovje) near Prešernov trg' },
+  { src: '/gallery/images (3).jpg', alt: 'Prešeren bronze monument at the center of Prešernov trg' },
+  { src: '/gallery/images (4).jpg', alt: 'Franciscan Church of the Annunciation - south facade at Prešernov trg' },
+  { src: '/gallery/images (5).jpg', alt: 'Mayer department store (Vienna Secession) near Prešernov trg' },
+  { src: '/gallery/images (6).jpg', alt: 'Prešernov trg night view - Ljubljana, Slovenia' },
+  { src: '/gallery/images (7).jpg', alt: 'Central Pharmacy historic building - east side of Prešernov trg' },
+  { src: '/gallery/images (8).jpg', alt: 'Outdoor café scene at Prešernov trg, Ljubljana' },
+  { src: '/gallery/images (9).jpg', alt: 'Ljubljanica River waterfront near Prešernov trg' },
+  { src: '/gallery/images (10).jpg', alt: 'Medieval old town streets surrounding Prešernov trg' },
+  { src: '/gallery/images (11).jpg', alt: 'Ljubljana city skyline with Prešernov trg vicinity' },
+  { src: '/gallery/images (12).jpg', alt: 'Romantic European nightlife at Prešernov trg, Ljubljana' },
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
   const messages = useMessages() as any;
+  const locale = useLocale();
   const captions = (messages?.gallery?.captions || []) as string[];
+  const photos = locale === 'zh' ? photosZh : photosEn;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 

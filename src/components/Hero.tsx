@@ -1,7 +1,11 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale();
+  const heroAlt = locale === 'zh'
+    ? '普列舍伦广场 Prešernov trg - 斯洛文尼亚卢布尔雅那主景视图'
+    : 'Prešernov trg - Main view in Ljubljana, Slovenia';
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -9,8 +13,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/images (1).jpg"
-          alt="Prešernov trg"
+          alt={heroAlt}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

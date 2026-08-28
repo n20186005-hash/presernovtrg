@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Prešernov trg Square | Ljubljana's Heart & National Cultural Symbol - Best European Destinations",
-    "description": "Complete guide to Prešernov trg in Ljubljana, Slovenia. Discover opening hours, transport, tickets, travel tips and stunning photos. The city's heart, medieval gateway and national cultural landmark."
+    "title": "Prešernov trg (Ljubljana) - Visitor Guide & Location",
+    "description": "Discover Prešernov trg, the iconic landmark in Ljubljana, Ljubljana, Slovenia. View location map, opening details, nearby Triple Bridge (Tromostovje), and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,15 +11,21 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Prešernov trg",
+    "title": "Prešernov trg (Ljubljana)",
     "subtitle": "Ljubljana's Heart & National Cultural Symbol of Slovenia",
-    "rating": "4.7(12,783)",
-    "reviewCount": "12,783 reviews",
+    "rating": "4.7(13,198)",
+    "reviewCount": "13,198 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Prešernov trg",
+    "title": "About Prešernov trg",
+    "locationTitle": "Location & How to Visit Prešernov trg in Ljubljana",
+    "nearbyTitle": "Landmarks & Attractions Around Prešernov trg",
+    "historyTitle": "History & Significance of Prešernov trg",
+    "entityDeclaration": "Welcome to <strong>Prešernov trg</strong>, widely recognized as the central <strong>Prešernov trg</strong>. Located in the heart of <strong>Ljubljana</strong>, <strong>Ljubljana</strong>, <strong>Slovenia</strong>, this destination serves as a primary hub for travelers visiting the region.",
+    "breadcrumb": "Prešernov trg → Ljubljana → Ljubljana → Slovenia",
+    "nearbyCluster": "When visiting <strong>Prešernov trg</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Triple Bridge (Tromostovje)</strong> and <strong>Ljubljana Castle (Ljubljanski grad)</strong>.",
     "description": "Step into Prešernov trg and instantly feel wrapped in the romantic atmosphere and historical depth of this Central European town. This circular square is like Ljubljana's living room, with a bronze statue standing quietly at its center, colorful buildings surrounding it, and the Triple Bridge connecting the two sides of the river—every detail exudes elegance and vitality.\n\nI visited on a spring afternoon, when sunlight gilded the pink church and Art Nouveau buildings in warm golden hues. Flowers bloomed across the square, street musicians played melodious tunes that echoed through the air. The central Prešeren statue was lifelike, the poet deep in thought, with a goddess above holding a laurel branch, symbolizing poetry and inspiration.\n\nVisitors strolled leisurely, locals gathered at outdoor cafés for chat, children played in the square's center. In the distance, Ljubljana Castle was faintly visible, and traffic flowed across the Triple Bridge, connecting the old and new towns seamlessly.\n\nThere's no rushing here—only the calm that comes from centuries of history and the vibrancy of everyday life. When night falls and lights illuminate, building silhouettes are gently outlined, transforming the square into a stage for European night life. Ancient history and modern energy blend perfectly, healing and awe-inspiring.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -251,9 +257,28 @@
     ]
   },
   "mapSection": {
-    "title": "Getting Here",
+    "title": "Location & How to Visit Prešernov trg in Ljubljana",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
-    "openMaps": "Open in Google Maps"
+    "openMaps": "Open in Google Maps",
+    "officialLinkText": "For official updates and regional tourism information, visit",
+    "officialLinkLabel": "Slovenia / Ljubljana Official Tourism Portal"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Where is Prešernov trg located?",
+        "answer": "Prešernov trg is located in Ljubljana, Ljubljana, Slovenia, at Prešernov trg 1, 1000 Ljubljana."
+      },
+      {
+        "question": "Is Prešernov trg free to visit?",
+        "answer": "Yes, Prešernov trg is a public space and is free to visit year-round, 24 hours a day."
+      },
+      {
+        "question": "What are the main attractions near Prešernov trg?",
+        "answer": "Nearby landmarks include the Triple Bridge (Tromostovje), Ljubljana Castle (Ljubljanski grad), the Franciscan Church of the Annunciation, and the Ljubljana Central Market."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Prešernov trg Independent Travel Research Association. All Rights Reserved.",

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "普列舍伦广场 Prešernov trg｜斯洛文尼亚卢布尔雅那心脏与民族文化象征 - 最佳欧洲景点",
-    "description": "探索斯洛文尼亚卢布尔雅那普列舍伦广场(Prešernov trg)的完整指南。了解开放时间、交通路线、门票信息、游览攻略和精彩照片。城市心脏、中世纪老城门户与民族文化象征。"
+    "title": "普列舍伦广场 Prešernov trg (卢布尔雅那 Ljubljana) - 游览指南与位置",
+    "description": "探索斯洛文尼亚卢布尔雅那 Ljubljana 的标志性地标普列舍伦广场 Prešernov trg。查看位置地图、开放详情、周边三重桥 (Tromostovje) 及游览贴士。"
   },
   "header": {
     "home": "首页",
@@ -11,15 +11,21 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "普列舍伦广场",
+    "title": "普列舍伦广场 Prešernov trg (卢布尔雅那 Ljubljana)",
     "subtitle": "斯洛文尼亚卢布尔雅那城市心脏与民族文化象征",
-    "rating": "4.7(12,783)",
-    "reviewCount": "12,783 条评价",
+    "rating": "4.7(13,198)",
+    "reviewCount": "13,198 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
   "intro": {
-    "title": "探索普列舍伦广场",
+    "title": "关于普列舍伦广场 About Prešernov trg",
+    "locationTitle": "普列舍伦广场位置与交通指南 Location & How to Visit",
+    "nearbyTitle": "普列舍伦广场周边地标与景点 Landmarks & Attractions Around",
+    "historyTitle": "普列舍伦广场历史与文化意义 History & Significance",
+    "entityDeclaration": "欢迎来到 <strong>普列舍伦广场 Prešernov trg</strong>，通常也被直接称为核心 <strong>Prešernov trg</strong>。坐落于 <strong>斯洛文尼亚 Slovenia</strong> <strong>卢布尔雅那 Ljubljana</strong> 市中心，本景区是到访该地区旅客的核心枢纽目的地。",
+    "breadcrumb": "普列舍伦广场 Prešernov trg → 卢布尔雅那 Ljubljana → 卢布尔雅那 Ljubljana → 斯洛文尼亚 Slovenia",
+    "nearbyCluster": "到访 <strong>普列舍伦广场 Prešernov trg</strong> 时，游客可便捷游览周边历史地标与景点，包括 <strong>三重桥 Triple Bridge (Tromostovje)</strong> 与 <strong>卢布尔雅那城堡 Ljubljana Castle (Ljubljanski grad)</strong>。",
     "description": "走进普列舍伦广场，瞬间被中欧小城的浪漫氛围与历史底蕴包裹。这座圆形广场像卢布尔雅那的客厅，中央青铜雕像静静伫立，周边彩色建筑环绕，三重桥连接河流两岸，每一处细节都透着典雅与活力。\n\n我在一个春日午后到访，阳光为粉色教堂与新艺术建筑镀上暖金色光晕，广场上鲜花盛开，街头艺人演奏着悠扬乐曲，旋律回荡在广场上空。中央普列舍伦雕像栩栩如生，诗人昂首沉思，头顶女神手持月桂枝，象征诗歌与灵感。\n\n广场上人群悠然闲适，本地人在露天咖啡馆小聚闲聊，游客漫步欣赏建筑细节，孩子们在广场中心嬉戏打闹。远处卢布尔雅那城堡隐约可见，三重桥上车流与行人往来，将老城与新城紧密相连。\n\n这里没有急促的赶路节奏，只有历史沉淀的从容与生活气息的鲜活。夜晚灯光亮起，建筑轮廓被温柔勾勒，广场变身浪漫的欧式夜生活舞台，古老历史与现代活力完美交融，治愈又震撼。",
     "visitGuide": {
       "title": "游览建议",
@@ -251,9 +257,28 @@
     ]
   },
   "mapSection": {
-    "title": "交通指南",
+    "title": "普列舍伦广场位置与交通指南 Location & How to Visit",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 查看",
+    "officialLinkText": "获取官方最新资讯与区域旅游信息，请访问",
+    "officialLinkLabel": "斯洛文尼亚 / 卢布尔雅那官方旅游门户"
+  },
+  "faq": {
+    "title": "常见问题 FAQ",
+    "items": [
+      {
+        "question": "普列舍伦广场 Prešernov trg 位于哪里？",
+        "answer": "普列舍伦广场 Prešernov trg 位于斯洛文尼亚卢布尔雅那 Ljubljana，详细地址为 Prešernov trg 1, 1000 Ljubljana。"
+      },
+      {
+        "question": "Prešernov trg 游览是否需要门票？",
+        "answer": "是的，普列舍伦广场 Prešernov trg 是公共空间，全年全天24小时免费向公众开放，无需购买门票。"
+      },
+      {
+        "question": "Prešernov trg 周边有哪些主要景点？",
+        "answer": "周边核心地标包括三重桥 Triple Bridge (Tromostovje)、卢布尔雅那城堡 Ljubljana Castle (Ljubljanski grad)、方济各会天使报喜教堂以及卢布尔雅那中央市场。"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 普列舍伦广场独立旅游研究协会 · 保留所有权利。",
