@@ -17,51 +17,47 @@ export async function generateMetadata({
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const baseUrl = 'https://presernovtrg.com';
 
-  const zhUrl = `${baseUrl}/`;
+  const slUrl = `${baseUrl}/`;
+  const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const selfUrl = locale === 'sl' ? slUrl : locale === 'zh' ? zhUrl : enUrl;
   const heroImage = `${baseUrl}/gallery/images%20(1).jpg`;
 
   return {
-    title: locale === 'en'
-      ? 'Prešernov trg (Ljubljana) - Visitor Guide & Location'
-      : '普列舍伦广场 Prešernov trg (卢布尔雅那 Ljubljana) - 游览指南与位置',
+    title: messages.meta.title,
     description: messages.meta.description,
     alternates: {
       canonical: selfUrl,
       languages: {
+        'sl': slUrl,
         'zh': zhUrl,
         'en': enUrl,
-        'x-default': zhUrl,
+        'x-default': slUrl,
       },
     },
     openGraph: {
-      title: locale === 'en'
-        ? 'Prešernov trg - Ljubljana Travel Guide'
-        : '普列舍伦广场 Prešernov trg - 卢布尔雅那 Ljubljana 旅游指南',
-      description: locale === 'en'
-        ? 'Official visitor guide to Prešernov trg in Ljubljana, Ljubljana, Slovenia.'
-        : '斯洛文尼亚卢布尔雅那普列舍伦广场 Prešernov trg 官方游览指南。',
+      title: messages.meta.title,
+      description: messages.meta.description,
       url: selfUrl,
       siteName: 'Prešernov trg',
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
       images: [
         {
           url: heroImage,
           width: 1200,
           height: 675,
-          alt: locale === 'en'
-            ? 'Prešernov trg in Ljubljana, Slovenia'
-            : '斯洛文尼亚卢布尔雅那普列舍伦广场',
+          alt: locale === 'sl'
+            ? 'Prešernov trg v Ljubljani, Slovenija'
+            : locale === 'en'
+              ? 'Prešernov trg in Ljubljana, Slovenia'
+              : '斯洛文尼亚卢布尔雅那普列舍伦广场',
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: locale === 'en'
-        ? 'Prešernov trg - Ljubljana Travel Guide'
-        : '普列舍伦广场 Prešernov trg - 卢布尔雅那旅游指南',
+      title: messages.meta.title,
       description: messages.meta.description,
       images: [heroImage],
     },
@@ -88,13 +84,11 @@ export default async function LocaleLayout({
   const mapsShareUrl = 'https://maps.app.goo.gl/p9nzsuxxzisR1vNF9';
   const govtTourismUrl = 'https://www.visitljubljana.com/';
 
-  const attractionName = locale === 'en' ? 'Prešernov trg' : '普列舍伦广场 Prešernov trg';
+  const attractionName = locale === 'sl' ? 'Prešernov trg' : locale === 'en' ? 'Prešernov trg' : '普列舍伦广场 Prešernov trg';
   const attractionShort = 'Prešernov trg';
-  const cityName = locale === 'en' ? 'Ljubljana' : '卢布尔雅那 Ljubljana';
+  const cityName = locale === 'sl' ? 'Ljubljana' : locale === 'en' ? 'Ljubljana' : '卢布尔雅那 Ljubljana';
   const stateProvince = 'Ljubljana';
-  const countryName = locale === 'en' ? 'Slovenia' : '斯洛文尼亚';
-  const nearby1 = locale === 'en' ? 'Triple Bridge (Tromostovje)' : '三重桥 (Tromostovje)';
-  const nearby2 = locale === 'en' ? 'Ljubljana Castle (Ljubljanski grad)' : '卢布尔雅那城堡 (Ljubljanski grad)';
+  const countryName = locale === 'sl' ? 'Slovenija' : locale === 'en' ? 'Slovenia' : '斯洛文尼亚';
 
   const touristAttractionLd = {
     '@context': 'https://schema.org',
@@ -102,9 +96,11 @@ export default async function LocaleLayout({
     '@id': `${baseUrl}/#attraction`,
     name: attractionName,
     alternateName: [attractionShort, `${cityName} ${attractionName}`],
-    description: locale === 'en'
-      ? `Comprehensive visitor guide to ${attractionName} in ${cityName}, ${stateProvince}, ${countryName}.`
-      : `斯洛文尼亚卢布尔雅那${attractionName}综合游览指南。`,
+    description: locale === 'sl'
+      ? `Celovit vodnik za obisk ${attractionName} v mestu ${cityName}, ${stateProvince}, ${countryName}.`
+      : locale === 'en'
+        ? `Comprehensive visitor guide to ${attractionName} in ${cityName}, ${stateProvince}, ${countryName}.`
+        : `斯洛文尼亚卢布尔雅那${attractionName}综合游览指南。`,
     url: baseUrl,
     image: [heroImage],
     isAccessibleForFree: true,
@@ -131,49 +127,61 @@ export default async function LocaleLayout({
     mainEntity: [
       {
         '@type': 'Question',
-        name: locale === 'en'
-          ? `Where is ${attractionName} located?`
-          : `${attractionName}位于哪里？`,
+        name: locale === 'sl'
+          ? `Kje se nahaja ${attractionName}?`
+          : locale === 'en'
+            ? `Where is ${attractionName} located?`
+            : `${attractionName}位于哪里？`,
         acceptedAnswer: {
           '@type': 'Answer',
-          text: locale === 'en'
-            ? `${attractionName} is located in Ljubljana, Ljubljana, Slovenia, at Prešernov trg 1, 1000 Ljubljana.`
-            : `${attractionName}位于斯洛文尼亚卢布尔雅那，地址为 Prešernov trg 1, 1000 Ljubljana。`,
+          text: locale === 'sl'
+            ? `${attractionName} se nahaja v Ljubljani v Sloveniji na naslovu Prešernov trg 1, 1000 Ljubljana.`
+            : locale === 'en'
+              ? `${attractionName} is located in Ljubljana, Ljubljana, Slovenia, at Prešernov trg 1, 1000 Ljubljana.`
+              : `${attractionName}位于斯洛文尼亚卢布尔雅那，地址为 Prešernov trg 1, 1000 Ljubljana。`,
         },
       },
       {
         '@type': 'Question',
-        name: locale === 'en'
-          ? `Is ${attractionShort} free to visit?`
-          : `${attractionShort}游览是否免费？`,
+        name: locale === 'sl'
+          ? `Ali je obisk ${attractionShort} brezplačen?`
+          : locale === 'en'
+            ? `Is ${attractionShort} free to visit?`
+            : `${attractionShort}游览是否免费？`,
         acceptedAnswer: {
           '@type': 'Answer',
-          text: locale === 'en'
-            ? `Yes, ${attractionName} is a public space and is free to visit year-round, 24 hours a day.`
-            : `是的，${attractionName}是公共空间，全年全天24小时免费开放。`,
+          text: locale === 'sl'
+            ? `Da, ${attractionName} je javni prostor in je vse leto odprt brez vstopnine, 24 ur na dan.`
+            : locale === 'en'
+              ? `Yes, ${attractionName} is a public space and is free to visit year-round, 24 hours a day.`
+              : `是的，${attractionName}是公共空间，全年全天24小时免费开放。`,
         },
       },
       {
         '@type': 'Question',
-        name: locale === 'en'
-          ? `What are the main attractions near ${attractionShort}?`
-          : `${attractionShort}周边有哪些主要景点？`,
+        name: locale === 'sl'
+          ? `Katere glavne znamenitosti so v bližini ${attractionShort}?`
+          : locale === 'en'
+            ? `What are the main attractions near ${attractionShort}?`
+            : `${attractionShort}周边有哪些主要景点？`,
         acceptedAnswer: {
           '@type': 'Answer',
-          text: locale === 'en'
-            ? `Nearby landmarks include the Triple Bridge (Tromostovje), Ljubljana Castle (Ljubljanski grad), the Franciscan Church of the Annunciation, and the Ljubljana Central Market.`
-            : `周边地标包括三重桥 (Tromostovje)、卢布尔雅那城堡 (Ljubljanski grad)、方济各会天使报喜教堂以及卢布尔雅那中央市场。`,
+          text: locale === 'sl'
+            ? `Med bližnjimi znamenitostmi so Tromostovje, Ljubljanski grad, Frančiškanska cerkev Marijinega oznanjenja in osrednja ljubljanska tržnica.`
+            : locale === 'en'
+              ? `Nearby landmarks include the Triple Bridge (Tromostovje), Ljubljana Castle (Ljubljanski grad), the Franciscan Church of the Annunciation, and the Ljubljana Central Market.`
+              : `周边地标包括三重桥 (Tromostovje)、卢布尔雅那城堡 (Ljubljanski grad)、方济各会天使报喜教堂以及卢布尔雅那中央市场。`,
         },
       },
     ],
   };
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'sl' ? 'sl' : locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={locale === 'zh' ? `${baseUrl}/` : `${baseUrl}/en`} />
+        <link rel="canonical" href={locale === 'sl' ? `${baseUrl}/` : locale === 'zh' ? `${baseUrl}/zh` : `${baseUrl}/en`} />
         <meta property="og:image" content={heroImage} />
-        <meta property="og:image:alt" content={locale === 'en' ? `${attractionName} in ${cityName}` : `${attractionName} ${cityName}`} />
+        <meta property="og:image:alt" content={locale === 'sl' ? `${attractionName} v ${cityName}` : locale === 'en' ? `${attractionName} in ${cityName}` : `${attractionName} ${cityName}`} />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script

@@ -7,21 +7,21 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
+  const { locale } = await params;
+  const baseUrl = 'https://presernovtrg.com';
+  const slUrl = `${baseUrl}/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
+  const zhUrl = `${baseUrl}/zh/cookie-settings`;
+  const selfUrl = locale === 'sl' ? slUrl : locale === 'en' ? enUrl : zhUrl;
 
   return {
     alternates: {
-      canonical: itUrl,
+      canonical: selfUrl,
       languages: {
-        'it': itUrl,
+        'sl': slUrl,
         'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
+        'zh': zhUrl,
+        'x-default': slUrl,
       },
     },
   };

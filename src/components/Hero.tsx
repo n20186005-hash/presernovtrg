@@ -5,7 +5,9 @@ export default function Hero() {
   const locale = useLocale();
   const heroAlt = locale === 'zh'
     ? '普列舍伦广场 Prešernov trg - 斯洛文尼亚卢布尔雅那主景视图'
-    : 'Prešernov trg - Main view in Ljubljana, Slovenia';
+    : locale === 'sl'
+      ? 'Prešernov trg - glavni pogled v Ljubljani, Slovenija'
+      : 'Prešernov trg - Main view in Ljubljana, Slovenia';
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">

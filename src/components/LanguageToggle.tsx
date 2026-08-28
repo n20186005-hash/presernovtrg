@@ -5,7 +5,10 @@ import { useRouter, usePathname } from 'next/navigation';
 import { routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
+const UI_ORDERED_LOCALES = ['sl', 'zh', 'en'] as const;
+
 const labels: Record<string, string> = {
+  sl: 'Slovenščina',
   zh: '中文',
   en: 'English',
 };
@@ -78,10 +81,10 @@ export default function LanguageToggle() {
           className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
-          {routing.locales.map((loc) => (
+          {UI_ORDERED_LOCALES.map((loc) => (
             <button
               key={loc}
-              onClick={() => switchLocale(loc)}
+              onClick={() => switchLocale(loc as Locale)}
               className="w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{
                 color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',

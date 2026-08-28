@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "title": "Prešernov trg (Ljubljana) - Vodnik za obisk in lokacija",
+    "description": "Odkrijte Prešernov trg, znamenito mestno središče v Ljubljani, Slovenija. Oglejte si zemljevid lokacije, informacije za obisk, bližnje Tromostovje in uporabne namige za potovanje."
+  },
+  "header": {
+    "home": "Domov",
+    "gallery": "Galerija",
+    "reviews": "Ocene",
+    "map": "Zemljevid",
+    "backToHome": "Nazaj na domačo stran"
+  },
+  "hero": {
+    "title": "Prešernov trg (Ljubljana)",
+    "subtitle": "Srce Ljubljane in nacionalni kulturni simbol Slovenije",
+    "rating": "4.7(13,198)",
+    "reviewCount": "13.198 ocen",
+    "hours": "Odprto 24/7",
+    "openMaps": "Poglej lokacijo"
+  },
+  "intro": {
+    "title": "O Prešernovem trgu",
+    "locationTitle": "Lokacija in kako obiskati Prešernov trg v Ljubljani",
+    "nearbyTitle": "Znamenitosti in zanimivosti okoli Prešernovega trga",
+    "historyTitle": "Zgodovina in pomen Prešernovega trga",
+    "entityDeclaration": "Dobrodošli na <strong>Prešernovem trgu</strong>, osrednjem mestnem prostoru, ki ga obiskovalci pogosto prepoznajo kot glavni <strong>Prešernov trg</strong> Ljubljane. Nahaja se v središču <strong>Ljubljane</strong>, <strong>Slovenije</strong>, in predstavlja eno ključnih izhodišč za raziskovanje mesta.",
+    "breadcrumb": "Prešernov trg → Ljubljana → Ljubljana → Slovenija",
+    "nearbyCluster": "Ob obisku <strong>Prešernovega trga</strong> lahko obiskovalci zlahka raziščejo tudi bližnje zgodovinske znamenitosti, med njimi <strong>Tromostovje</strong> in <strong>Ljubljanski grad</strong>.",
+    "description": "Ko stopite na Prešernov trg, vas hitro objameta romantično vzdušje in zgodovinska globina srednjeevropskega mesta. Ta krožni trg deluje kot dnevna soba Ljubljane: v središču mirno stoji bronasti spomenik, okoli njega se dvigajo barvite fasade, Tromostovje pa povezuje oba bregova reke in celotnemu prostoru daje izjemno eleganco in živahnost.\n\nNa pomladno popoldne sončna svetloba nežno obarva rožnato cerkev in secesijske stavbe v tople zlate tone. Na trgu cvetijo rože, ulični glasbeniki pa s svojimi melodijami napolnijo prostor. Prešernov kip deluje živo in zbrano, nad pesnikom pa se dviga muza z lovorjevo vejo, simbol navdiha in poezije.\n\nObiskovalci se tukaj sprehajajo brez naglice, domačini se srečujejo na terasah kavarn, otroci se igrajo v središču trga. V daljavi se kaže Ljubljanski grad, medtem ko tok ljudi in prometa čez Tromostovje povezuje staro in novo mestno jedro.\n\nNa Prešernovem trgu ni občutka hitenja, temveč predvsem mir, ki ga dajejo stoletja zgodovine, in živahnost vsakdanjega mestnega življenja. Ko se zvečer prižgejo luči, se obrisi stavb mehko izrišejo in trg se spremeni v romantičen oder evropskega večernega utripa. Tu se staro in sodobno srečata na najbolj naraven način.",
+    "visitGuide": {
+      "title": "Nasveti za obisk",
+      "items": [
+        "Za manj gneče in mehkejšo svetlobo pridite med tednom zgodaj zjutraj ali proti večeru",
+        "Celoten javni del trga je brez vstopnine in prosto dostopen",
+        "Večer je najboljši čas za doživetje sončnega zahoda in postopnega prehoda v nočno osvetlitev",
+        "V bližini je veliko kavarn, kjer si lahko vzamete odmor in okusite sproščeni ritem Ljubljane"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Poudarki",
+      "items": [
+        "Srce Ljubljane, glavnega mesta Slovenije",
+        "Krožni pešcem namenjen trg, preoblikovan v letih 1987-1988",
+        "Kulturna znamenitost, poimenovana po narodnem pesniku Francetu Prešernu",
+        "Leta 1991 razglašen za kulturni spomenik državnega pomena"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Odkrijte čar Prešernovega trga",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Stoletja mestnih preobrazb",
+        "content": "Prešernov trg je nastal iz srednjeveškega križišča ob mestnih vratih. V 17. stoletju je ob njem zrasla Frančiškanska cerkev, zaradi katere se je začela oblikovati današnja prostorska zasnova. Po potresu leta 1895 so okoli trga zrasle številne secesijske stavbe, ki so določile njegovo današnjo arhitekturno podobo. Leta 1905 je bil v središču postavljen Prešernov spomenik, posvečen enemu najpomembnejših slovenskih pesnikov.\n\nMed letoma 1987 in 1988 je arhitekt Edvard Ravnikar trg temeljito prenovil ter mu dal današnjo krožno obliko. Po prenovi leta 2007 je postal popolnoma pešcem namenjen prostor. Skozi stoletja se je iz nekdanjega mestnega prehoda razvil v simbol slovenske kulture in osrednje prizorišče ljubljanskega javnega življenja."
+      },
+      {
+        "id": "architecture",
+        "title": "Arhitekturne značilnosti",
+        "content": "Gre za krožni peš trg, tlakovan z granitom in poudarjen z radialnimi vzorci iz svetlega kamna. V središču stoji bronasti spomenik Francetu Prešernu (1905). Na vzhodni strani je stavba Centralne lekarne, na severni Mayerjeva veleblagovnica v slogu secesije, na zahodni strani Tromostovje, na južni pa rožnata fasada Frančiškanske cerkve Marijinega oznanjenja. Trg obdajajo dragoceni primeri baročne in dunajske secesijske arhitekture.\n\nCeloten ambient združuje več slogov: spomenik je neoklasicistična bronasta skulptura, cerkev predstavlja baročno tradicijo, okoliške palače pa secesijsko eleganco. Skupaj ustvarjajo odprt muzej ljubljanske arhitekture."
+      },
+      {
+        "id": "culture",
+        "title": "Kulturni pomen",
+        "content": "Prešernov trg je eden najmočnejših simbolov slovenske narodne identitete. Spomenik Francetu Prešernu spominja na pesnika, katerega delo je pomagalo oblikovati slovenski knjižni jezik, njegove besede pa so postale tudi del slovenske himne. Trg je pomembno prizorišče kulturnih dogodkov, koncertov, umetniških programov, prazničnih sejmov in javnih srečanj.\n\nLeta 1991 je bil razglašen za kulturni spomenik državnega pomena. Danes ostaja osrednji javni prostor Ljubljane in ena najbolj prepoznavnih kulturnih točk v Sloveniji."
+      },
+      {
+        "id": "experience",
+        "title": "Ključna doživetja",
+        "content": "Najlepši čas za obisk Prešernovega trga je večer. Sončni zahod obarva rožnato cerkev in secesijske fasade v tople zlate odtenke, medtem ko se po trgu razlega glasba uličnih izvajalcev. Domačini posedajo v kavarnah, obiskovalci pa občudujejo arhitekturne podrobnosti in mestni utrip.\n\nKo se stemni in se prižgejo luči, se trg spremeni v eno najbolj romantičnih prizorišč v Ljubljani. To je kraj, kjer se ljudje še vedno dogovarjajo za srečanje 'pod spomenikom' in kjer se zgodovina neopazno zlije z vsakdanjim življenjem mesta."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Osnovne informacije",
+    "officialName": "Uradno ime",
+    "officialNameValue": "Prešernov trg",
+    "type": "Vrsta",
+    "typeValue": "Mestni trg, zgodovinska znamenitost, kulturno središče, vhod v staro mestno jedro, lokacija Prešernovega spomenika, osrednja peš cona",
+    "country": "Država",
+    "countryValue": "Slovenija",
+    "city": "Mesto",
+    "cityValue": "Ljubljana",
+    "googleRating": "Ocena Google",
+    "googleRatingValue": "4,7/5 (13.198 ocen)",
+    "phone": "Kontaktni telefon",
+    "phoneValue": "Ljubljana Tourism: +386 1 306 45 00",
+    "address": "Naslov",
+    "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenija"
+  },
+  "hours": {
+    "title": "Odpiralni čas",
+    "outdoor": "Zunanji javni prostor",
+    "outdoorTime": "Odprto vse leto, 24 ur na dan. Javni del trga nima omejitev dostopa.",
+    "lighthouse": "Okoliške cerkve in notranjosti stavb",
+    "summer": "Torek - nedelja",
+    "summerTime": "09:00-18:00",
+    "winter": "Ponedeljek",
+    "winterTime": "Zaprto (razen ob verskih praznikih)",
+    "warning": "Priporočilo za obisk",
+    "warningTime": "Za manj gneče in lepšo svetlobo priporočamo obisk med tednom zgodaj zjutraj ali proti večeru",
+    "tip": "Javni del trga je brezplačen"
+  },
+  "tickets": {
+    "title": "Vstopnine",
+    "outdoor": "Javni del trga",
+    "outdoorPrice": "Brezplačen vstop",
+    "lighthouse": "Notranjosti okoliških cerkva in muzejev",
+    "adults": "Odrasli",
+    "adultsPrice": "Cena je odvisna od posamezne ustanove",
+    "students": "Študenti",
+    "studentsPrice": "Možni popusti",
+    "children": "Otroci",
+    "childrenPrice": "Ponekod brezplačno ali znižano",
+    "card": "Ljubljana Card",
+    "cardPrice": "Lahko zniža stroške vstopov pri več znamenitostih"
+  },
+  "transport": {
+    "title": "Kako do tja",
+    "airport": "Z ljubljanskega letališča",
+    "airportDesc": "Z letališkim prevozom se odpeljite do središča mesta, nato pa do trga peš približno pet minut. Taksi ali prevoz na poziv vas lahko pripelje neposredno v center.",
+    "selfDrive": "Z glavne železniške ali avtobusne postaje",
+    "selfDriveDesc": "Do trga je približno deset minut hoje. Povezave z mestnim prometom so pogoste in dobro organizirane.",
+    "bus": "Iz drugih točk starega mestnega jedra",
+    "busDesc": "Do Prešernovega trga lahko preprosto pridete peš iz Tromostovja, osrednje tržnice, Ljubljanskega gradu in drugih znamenitosti v središču mesta.",
+    "intercity": "Kolesarjenje",
+    "intercityDesc": "V starem mestnem jedru so na voljo postaje sistema za izposojo koles. Kolesarjenje je primerno za krajše razdalje.",
+    "cycling": "Javni prevoz",
+    "cyclingDesc": "Z dnevno vozovnico za mestni promet lahko enostavno raziskujete več delov Ljubljane v enem dnevu.",
+    "tips": "Nasvet za prihod",
+    "tipsDesc": "Staro mestno jedro je najbolj prijetno raziskovati peš. Prešernov trg je idealno izhodišče za obisk več bližnjih znamenitosti."
+  },
+  "route": {
+    "title": "Predlagana peš pot",
+    "overview": "Najlepši obisk je proti večeru. Vstopite s strani Tromostovja, nato se sprehodite po krožnem trgu, opazujte Prešernov spomenik, rožnato cerkev in secesijske fasade, nato pa zaključite s postankom v eni izmed bližnjih kavarn. Za sproščen ogled zadostuje približno ura časa, za podrobnejši obisk pa lahko namenite tudi pol dneva.",
+    "steps": [
+      "Prispejte do bližnjega postajališča ali v staro mestno jedro in se po Tromostovju približajte trgu",
+      "Občudujte pogled s Tromostovja proti Prešernovemu trgu in reki Ljubljanici",
+      "Sprehodite se po granitnem krogu okoli osrednjega spomenika Francetu Prešernu",
+      "Na južni strani si od blizu oglejte baročno pročelje Frančiškanske cerkve Marijinega oznanjenja",
+      "Na vzhodni strani opazujte zgodovinsko stavbo Centralne lekarne",
+      "Na severnem robu ujemite arhitekturne podrobnosti Mayerjeve veleblagovnice",
+      "Ustavite se v kavarni in doživite sproščen tempo mestnega središča",
+      "Pot nadaljujte proti Ljubljanskemu gradu ali drugim znamenitostim starega jedra"
+    ],
+    "supplementsTitle": "Praktični napotki",
+    "supplements": [
+      "Tlak je graniten in deloma kamnit, zato priporočamo udobno obutev",
+      "Poleti poskrbite za zaščito pred soncem, pozimi pa za topla oblačila",
+      "Spoštujte zgodovinske stavbe in javni prostor ter ne plezajte po spomenikih",
+      "Ker je trg priljubljen tudi med domačini, je priporočljivo ohranjati zmeren hrup",
+      "Poleti so občasno organizirani koncerti, umetniški dogodki in javne prireditve"
+    ]
+  },
+  "photoSpots": {
+    "title": "Fotografske točke",
+    "spots": [
+      {
+        "name": "Vhod s Tromostovja",
+        "desc": "Odličen simetričen pogled na trg in rožnato cerkev"
+      },
+      {
+        "name": "Osrednji spomenik",
+        "desc": "Prešernov kip v ospredju z barvitimi stavbami v ozadju"
+      },
+      {
+        "name": "Pogled na cerkev s strani",
+        "desc": "Dobro mesto za poudarjanje baročnega pročelja in kupole"
+      },
+      {
+        "name": "Pred Mayerjevo stavbo",
+        "desc": "Secesijski detajli in urbani prostor v enem kadru"
+      },
+      {
+        "name": "Krožna pot po trgu",
+        "desc": "Tlak in radialni vzorci ustvarijo močan občutek globine"
+      }
+    ],
+    "tips": "Nasveti za fotografiranje",
+    "tipsContent": "Naravne svetlobe je običajno veliko, zato so sončni dnevi odlični za arhitekturne in ulične posnetke. Uporaba dronov je omejena. Pred fotografiranjem domačinov ali uličnih umetnikov je priporočljivo vprašati za dovoljenje."
+  },
+  "hotels": {
+    "title": "Kje bivati",
+    "hotels": [
+      {
+        "name": "Ugodno in šarmantno: zgodovinski hoteli v secesijskih stavbah",
+        "desc": "V bližini trga so hoteli v prenovljenih zgodovinskih palačah z razgledom na središče mesta",
+        "price": "Cene se razlikujejo glede na sezono"
+      },
+      {
+        "name": "Sodobna izbira: nastanitve ob reki",
+        "desc": "Minimalistično zasnovane nastanitve ob Ljubljanici z dobrim dostopom do trga",
+        "price": "Cene se razlikujejo glede na sezono"
+      },
+      {
+        "name": "Posebno doživetje: butični apartmaji v starem mestu",
+        "desc": "Nastanitve v zgodovinskih ulicah starega mestnega jedra z avtentičnim vzdušjem",
+        "price": "Cene se razlikujejo glede na sezono"
+      },
+      {
+        "name": "Proračunska možnost: v bližini glavne postaje",
+        "desc": "Dostopnejše nastanitve z dobro povezavo do centra in kratkim peš dostopom do trga",
+        "price": "Cene se razlikujejo glede na sezono"
+      }
+    ],
+    "supplements": "Nasvet za nastanitev",
+    "supplementsContent": "Najbolj praktično je izbrati nastanitev med Prešernovim trgom in starim mestnim jedrom, saj boste od tam peš dosegli večino ključnih znamenitosti Ljubljane."
+  },
+  "gallery": {
+    "title": "Fotogalerija",
+    "subtitle": "Mestni razgledi in kulturna dediščina Prešernovega trga",
+    "captions": [
+      "Panorama Prešernovega trga",
+      "Tromostovje in trg",
+      "Prešernov spomenik",
+      "Frančiškanska cerkev",
+      "Mayerjeva veleblagovnica",
+      "Trg ponoči",
+      "Stavba Centralne lekarne",
+      "Kavarniško življenje na trgu",
+      "Nabrežje Ljubljanice",
+      "Ulice starega mestnega jedra",
+      "Pogledi na Ljubljano",
+      "Romantično večerno vzdušje"
+    ],
+    "viewAll": "Odpri lokacijo v Google Zemljevidih"
+  },
+  "reviews": {
+    "title": "Ocene obiskovalcev",
+    "declaration": "Ocene so na voljo na Google Maps (zunanja povezava).",
+    "moreReviews": "Poglej več ocen na Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "marec 2026",
+        "rating": 5,
+        "text": "Izjemno romantičen kraj. Večerno vzdušje je čudovito, rožnata cerkev in secesijske stavbe pa skupaj ustvarijo res poseben prizor."
+      },
+      {
+        "name": "Li Hua",
+        "date": "februar 2026",
+        "rating": 5,
+        "text": "Vrhunec mojega potovanja po Sloveniji. Trg ni velik, vendar je vsak detajl prefinjen in poln zgodovine."
+      },
+      {
+        "name": "Wang Fang",
+        "date": "januar 2026",
+        "rating": 5,
+        "text": "Pravi raj za ljubitelje arhitekture. Baročna cerkev, secesijske stavbe in spomenik delujejo skupaj zelo harmonično."
+      },
+      {
+        "name": "Chen Wei",
+        "date": "december 2025",
+        "rating": 4,
+        "text": "Lep mestni trg z odlično lego med starim in novim delom mesta. Še posebej živahen je v času božičnega sejma."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Lokacija in kako obiskati Prešernov trg v Ljubljani",
+    "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenija",
+    "openMaps": "Odpri v Google Zemljevidih",
+    "officialLinkText": "Za uradne informacije in regionalne turistične posodobitve obiščite",
+    "officialLinkLabel": "Uradni turistični portal Ljubljane / Slovenije"
+  },
+  "faq": {
+    "title": "Pogosta vprašanja",
+    "items": [
+      {
+        "question": "Kje se nahaja Prešernov trg?",
+        "answer": "Prešernov trg se nahaja v Ljubljani v Sloveniji, na naslovu Prešernov trg 1, 1000 Ljubljana."
+      },
+      {
+        "question": "Ali je obisk Prešernovega trga brezplačen?",
+        "answer": "Da. Prešernov trg je javni prostor in je odprt vse leto brez vstopnine, 24 ur na dan."
+      },
+      {
+        "question": "Katere glavne znamenitosti so v bližini?",
+        "answer": "V neposredni bližini so Tromostovje, Ljubljanski grad, Frančiškanska cerkev Marijinega oznanjenja in ljubljanska osrednja tržnica."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "© 2026 Independent Travel Research Association Prešernov trg. Vse pravice pridržane.",
+    "privacy": "Politika zasebnosti",
+    "terms": "Pogoji uporabe",
+    "cookies": "Nastavitve piškotkov",
+    "officialResourcesTitle": "Uradni viri",
+    "officialLinks": {
+      "sloveniaInfo": "Slovenska turistična organizacija",
+      "visitLjubljana": "Visit Ljubljana",
+      "govSi": "Slovenija"
+    },
+    "disclaimer": "Ta spletna stran je neodvisen projekt s turističnimi informacijami tretje osebe. Ni povezana z mestnimi ali državnimi uradnimi institucijami."
+  },
+  "privacy": {
+    "title": "Politika zasebnosti",
+    "lastUpdated": "Zadnja posodobitev: april 2026",
+    "sections": [
+      {
+        "heading": "1. Zbiranje informacij",
+        "content": "Praviloma ne zbiramo osebnih podatkov, ki bi neposredno identificirali uporabnika. Morebitne informacije, ki nam jih posredujete prek kontaktnih obrazcev ali elektronske pošte, obravnavamo zaupno."
+      },
+      {
+        "heading": "2. Uporaba informacij",
+        "content": "Zbrane informacije uporabljamo izključno za zagotavljanje, vzdrževanje in izboljševanje storitev ter za komunikacijo z uporabniki. Osebnih podatkov ne prodajamo in jih ne delimo s tretjimi osebami za marketinške namene."
+      },
+      {
+        "heading": "3. Piškotki in tehnologije sledenja",
+        "content": "Uporabljamo piškotke in podobne tehnologije za spremljanje dejavnosti na spletnem mestu in za shranjevanje določenih nastavitev. Brskalnik lahko nastavite tako, da piškotke zavrne ali vas opozori, ko se pošiljajo."
+      },
+      {
+        "heading": "4. Varnost podatkov",
+        "content": "Varnost vaših podatkov nam je pomembna. Uporabljamo razumne ukrepe za zaščito podatkov, vendar noben način prenosa po internetu ne more zagotoviti popolne varnosti."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Pogoji uporabe",
+    "lastUpdated": "Zadnja posodobitev: april 2026",
+    "sections": [
+      {
+        "heading": "1. Sprejem pogojev",
+        "content": "Z dostopom do tega spletnega mesta in njegovo uporabo se strinjate s temi pogoji uporabe. Če se s katerim koli delom pogojev ne strinjate, storitve ne smete uporabljati."
+      },
+      {
+        "heading": "2. Uporaba storitve",
+        "content": "To spletno mesto je neodvisen informativni projekt o potovanjih. Vsebine so namenjene splošnim informacijam. Spletno mesto morate uporabljati odgovorno in zakonito."
+      },
+      {
+        "heading": "3. Intelektualna lastnina",
+        "content": "Vsa vsebina na tem spletnem mestu, vključno z besedili, fotografijami in grafičnimi elementi, je last upravljavca strani, razen če ni navedeno drugače. Nepooblaščena uporaba, kopiranje ali distribucija niso dovoljeni."
+      },
+      {
+        "heading": "4. Omejitev odgovornosti",
+        "content": "Ne odgovarjamo za neposredno ali posredno škodo, ki bi nastala zaradi uporabe ali nezmožnosti uporabe tega spletnega mesta oziroma informacij, objavljenih na njem."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Nastavitve piškotkov",
+    "description": "Upravljajte svoje nastavitve piškotkov.",
+    "essential": {
+      "title": "Nujni piškotki",
+      "description": "Potrebni za osnovno delovanje spletnega mesta.",
+      "badge": "Vedno aktivni"
+    },
+    "analytics": {
+      "title": "Analitični piškotki",
+      "description": "Pomagajo nam razumeti, kako obiskovalci uporabljajo spletno mesto."
+    },
+    "marketing": {
+      "title": "Marketinški piškotki",
+      "description": "Uporabljajo se za sledenje obiskovalcem med spletnimi mesti."
+    },
+    "save": "Shrani nastavitve",
+    "saved": "Nastavitve so shranjene!"
+  },
+  "officialManagement": {
+    "title": "O Prešernovem trgu",
+    "text": "Za upravljanje in vzdrževanje Prešernovega trga skrbi Mestna občina Ljubljana. Gre za enega najpomembnejših mestnih trgov in kulturnih simbolov slovenske prestolnice.\n\nKot srce Ljubljane in eden ključnih nacionalnih simbolov je trg skozi stoletja spremljal prehod iz srednjeveškega mestnega prostora v sodobno kulturno središče. Danes je javni del trga brezplačno dostopen in predstavlja eno najboljših točk za doživljanje slovenske urbane kulture."
+  }
+}

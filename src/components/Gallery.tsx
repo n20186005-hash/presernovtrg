@@ -33,12 +33,27 @@ const photosEn = [
   { src: '/gallery/images (12).jpg', alt: 'Romantic European nightlife at Prešernov trg, Ljubljana' },
 ];
 
+const photosSl = [
+  { src: '/gallery/images (1).jpg', alt: 'Prešernov trg - glavni panoramski pogled v Ljubljani, Sloveniji' },
+  { src: '/gallery/images (2).jpg', alt: 'Tromostovje ob Prešernovem trgu' },
+  { src: '/gallery/images (3).jpg', alt: 'Prešernov spomenik v središču Prešernovega trga' },
+  { src: '/gallery/images (4).jpg', alt: 'Frančiškanska cerkev Marijinega oznanjenja na Prešernovem trgu' },
+  { src: '/gallery/images (5).jpg', alt: 'Mayerjeva veleblagovnica v slogu secesije ob Prešernovem trgu' },
+  { src: '/gallery/images (6).jpg', alt: 'Nočni pogled na Prešernov trg v Ljubljani' },
+  { src: '/gallery/images (7).jpg', alt: 'Zgodovinska stavba Centralne lekarne na vzhodni strani Prešernovega trga' },
+  { src: '/gallery/images (8).jpg', alt: 'Kavarniški prizor na Prešernovem trgu v Ljubljani' },
+  { src: '/gallery/images (9).jpg', alt: 'Nabrežje Ljubljanice v bližini Prešernovega trga' },
+  { src: '/gallery/images (10).jpg', alt: 'Srednjeveške ulice starega mestnega jedra okoli Prešernovega trga' },
+  { src: '/gallery/images (11).jpg', alt: 'Pogled na Ljubljano v okolici Prešernovega trga' },
+  { src: '/gallery/images (12).jpg', alt: 'Romantično evropsko nočno življenje na Prešernovem trgu v Ljubljani' },
+];
+
 export default function Gallery() {
   const t = useTranslations('gallery');
   const messages = useMessages() as any;
   const locale = useLocale();
   const captions = (messages?.gallery?.captions || []) as string[];
-  const photos = locale === 'zh' ? photosZh : photosEn;
+  const photos = locale === 'zh' ? photosZh : locale === 'sl' ? photosSl : photosEn;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 

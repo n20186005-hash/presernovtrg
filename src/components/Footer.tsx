@@ -1,10 +1,11 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
+import { routing } from '@/i18n/routing';
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
 
   return (
     <footer
