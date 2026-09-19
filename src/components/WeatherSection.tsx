@@ -12,6 +12,12 @@ export type CurrentWeather = {
   windKmh: number;
   windDir: number;
   precipitation: number;
+  uv: number | null;
+};
+
+export type WeatherAlert = {
+  event: string;
+  description?: string;
 };
 
 export type DayForecast = {
@@ -32,13 +38,14 @@ export type DayForecast = {
 export default async function WeatherSection() {
   const url =
     `https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}` +
-    `&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m,wind_direction_10m` +
+    `&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m,wind_direction_10m,uv_index` +
     `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,wind_speed_10m_max,uv_index_max` +
-    `&timezone=Europe%2FLjubljana&forecast_days=7&wind_speed_unit=kmh`;
+    `&timezone=Europe%2FLjubljana&forecast_days=7&wind_speed_unit=kmh&alerts=true`;
 
   let current: CurrentWeather | null = null;
   let daily: DayForecast[] = [];
   let observationTime = '';
+  let alerts: WeatherAlert[] = [];
 
   try {
     const res = await fetch(url, { next: { revalidate: 1800 } });
@@ -54,6 +61,7 @@ export default async function WeatherSection() {
         windKmh: Math.round(c.wind_speed_10m),
         windDir: Math.round(c.wind_direction_10m),
         precipitation: c.precipitation,
+        uv: typeof c.uv_index === 'number' ? c.uv_index : null,
       };
       observationTime = c.time;
       const d = json.daily;
@@ -67,6 +75,12 @@ export default async function WeatherSection() {
         windMax: Math.round(d.wind_speed_10m_max[i]),
         uv: d.uv_index_max[i],
       }));
+      if (Array.isArray(json.alerts)) {
+        alerts = json.alerts
+          .filter((a: any) => a && typeof a.event === 'string')
+          .slice(0, 3)
+          .map((a: any) => ({ event: a.event, description: a.description }));
+      }
     }
   } catch {
     current = null;
@@ -74,5 +88,12 @@ export default async function WeatherSection() {
 
   if (!current) return null;
 
-  return <WeatherView current={current} daily={daily} observationTime={observationTime} />;
+  return (
+    <WeatherView
+      current={current}
+      daily={daily}
+      observationTime={observationTime}
+      alerts={alerts}
+    />
+  );
 }
