@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "title": "Plaza Prešeren (Prešernov trg) en Liubliana: Guía de visita",
+    "description": "Todo para visitar la Plaza Prešeren (Prešernov trg) en Liubliana: Puente Triple, Iglesia Franciscana, Monumento a Prešeren, horarios, mapa y mejores fotos. Gratis, abierta 24/7.",
+    "ogImageAlt": "Prešernov trg en Liubliana, Eslovenia"
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Plaza Prešeren (Prešernov trg, Liubliana)",
+    "subtitle": "El corazón de Liubliana y símbolo cultural nacional de Eslovenia",
+    "rating": "4.7(13,277)",
+    "reviewCount": "13.277 opiniones",
+    "hours": "Abierta 24/7",
+    "openMaps": "Ver ubicación"
+  },
+  "intro": {
+    "title": "Sobre la Plaza Prešeren",
+    "locationTitle": "Ubicación y cómo visitar la Plaza Prešeren en Liubliana",
+    "nearbyTitle": "Monumentos y atracciones alrededor de la Plaza Prešeren",
+    "historyTitle": "Historia y significado de la Plaza Prešeren",
+    "entityDeclaration": "Bienvenido a la <strong>Plaza Prešeren</strong>, la céntrica <strong>Prešernov trg</strong> de Liubliana. Situada en el corazón de <strong>Liubliana</strong>, en <strong>Eslovenia</strong>, es el punto de partida esencial para quienes visitan la región.",
+    "breadcrumb": "Prešernov trg → Liubliana → Liubliana → Eslovenia",
+    "nearbyCluster": "Al visitar la <strong>Plaza Prešeren</strong> se exploran fácilmente los monumentos históricos cercanos, entre ellos el <strong>Puente Triple (Tromostovje)</strong> y el <strong>Castillo de Liubliana (Ljubljanski grad)</strong>.",
+    "description": "Al entrar en la Plaza Prešeren te envuelven al instante el ambiente romántico y la profundidad histórica de esta ciudad centroeuropea. La plaza circular es como el salón de Liubliana: en el centro se alza una escultura de bronce, a su alrededor se levantan fachadas de colores y el Puente Triple une las dos orillas del río; cada detalle rezuma elegancia y vitalidad.\n\nEn una tarde de primavera, la luz del sol tiñe de dorado cálido la iglesia rosa y los edificios modernistas. Las flores florecen en la plaza y los músicos callejeros llenan el aire de melodías. La escultura de Prešeren resulta viva y concentrada, y sobre el poeta se alza una musa con una rama de laurel, símbolo de la poesía y la inspiración.\n\nLos visitantes pasean sin prisa, los vecinos se reúnen en las terrazas de los cafés y los niños juegan en el centro de la plaza. A lo lejos se adivina el castillo, mientras el ir y venir sobre el Puente Triple conecta la ciudad vieja y la nueva.\n\nAquí no hay carreras, sino la calma de siglos de historia y la vitalidad de la vida cotidiana. Al caer la noche, las luces delinean suavemente los perfiles de los edificios y la plaza se convierte en el escenario de la vida nocturna europea.",
+    "visitGuide": {
+      "title": "Consejos para la visita",
+      "items": [
+        "Ven en días laborables a primera hora de la mañana o al atardecer: menos gente y luz más suave para pasear y fotografiar",
+        "Toda la superficie pública de la plaza es de acceso gratuito, sin entrada",
+        "El atardecer es el mejor momento para disfrutar de la puesta de sol y del paso gradual a la iluminación nocturna",
+        "Con numerosas cafeterías alrededor, merece la pena detenerse y saborear el ritmo relajado de Liubliana"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Lo más destacado",
+      "items": [
+        "El corazón de Liubliana, capital de Eslovenia",
+        "Plaza peatonal circular, remodelada en 1987–1988",
+        "Referente cultural dedicado al poeta nacional France Prešeren",
+        "Declarada monumento cultural nacional de Eslovenia en 1991"
+      ]
+    }
+  },
+  "nearby": {
+    "title": "Monumentos alrededor de la Plaza Prešeren",
+    "subtitle": "Tres imprescindibles a menos de dos minutos a pie",
+    "items": [
+      {
+        "name": "Puente Triple (Tromostovje)",
+        "walk": "1 minuto a pie · lado oeste",
+        "desc": "El triple paso diseñado por Jože Plečnik une la plaza con la ribera del Ljubljanica y el casco antiguo. Desde los escalones centrales se obtiene la vista clásica de toda la plaza."
+      },
+      {
+        "name": "Iglesia Franciscana de la Anunciación",
+        "walk": "En la plaza · lado sur",
+        "desc": "Construida entre 1646 y 1660, su fachada barroca rosa cierra la plaza por el sur. Su ricamente decorado interior se puede visitar gratis."
+      },
+      {
+        "name": "Monumento a France Prešeren",
+        "walk": "Centro de la plaza",
+        "desc": "La escultura de bronce del poeta nacional, obra de Ivan Zajec erigida en 1905, está coronada por una musa con una rama de laurel — el punto de encuentro que los vecinos llaman simplemente \"pod spomenikom\" (bajo el monumento)."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Descubrir el encanto de la Plaza Prešeren",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Siglos de transformación urbana",
+        "content": "La Plaza Prešeren nació de un cruce junto a la puerta medieval de la ciudad. En el siglo XVII se construyó a su lado la iglesia franciscana y el espacio empezó a tomar forma. Tras el terremoto de 1895 se levantaron a su alrededor numerosos edificios modernistas que definieron su fisonomía actual. En 1905 se colocó en el centro el monumento a France Prešeren, dedicado a uno de los poetas eslovenos más importantes.\n\nEntre 1987 y 1988 el arquitecto Edvard Ravnikar reformó por completo la plaza, transformándola de forma de embudo a la actual planta circular. Tras la renovación de 2007 se convirtió en un espacio exclusivamente peatonal. A lo largo de los siglos pasó de ser la puerta medieval de la ciudad a símbolo de la cultura eslovena y centro de la vida urbana."
+      },
+      {
+        "id": "architecture",
+        "title": "Características arquitectónicas",
+        "content": "Plaza peatonal circular pavimentada con granito y realzada por trazos radiales de piedra clara. En el centro se alza la escultura de bronce de France Prešeren (1905). Al este está el edificio de la Farmacia Central, al norte los grandes almacenes Mayer de estilo modernista, al oeste el Puente Triple y al sur la fachada rosa de la iglesia franciscana de la Anunciación. A su alrededor se conservan valiosos ejemplos del barroco y de la Secesión vienesa.\n\nEl conjunto combina varios estilos: escultura neoclásica en bronce para el monumento, tradición barroca para la iglesia y elegancia modernista para los palacetes circundantes: un museo al aire libre de la arquitectura de Liubliana."
+      },
+      {
+        "id": "culture",
+        "title": "Significado cultural",
+        "content": "La Plaza Prešeren es uno de los símbolos más potentes de la identidad nacional eslovena. El monumento recuerda a France Prešeren, cuya obra contribuyó a formar la lengua literaria eslovena y cuyos versos forman parte del himno nacional. La plaza acoge eventos culturales, conciertos, exposiciones de arte, mercadillos navideños y encuentros públicos.\n\nEn 1991 fue declarada monumento cultural nacional. Hoy es el espacio público más importante de Liubliana y uno de los puntos culturales más conocidos de Eslovenia."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencias imprescindibles",
+        "content": "El mejor momento para visitarla es al atardecer. La puesta de sol tiñe de dorado cálido la iglesia rosa y las fachadas modernistas, mientras la música de los artistas callejeros se extiende por la plaza. Los vecinos charlan en las cafeterías y los visitantes observan los detalles arquitectónicos y el bullicio de la ciudad.\n\nCuando oscurece y se encienden las luces, la plaza se convierte en uno de los escenarios más románticos de Liubliana. Es el lugar donde la gente sigue quedando \"bajo el monumento\", y donde la historia se funde de forma natural con la vida cotidiana de la ciudad."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Prešernov trg (Plaza Prešeren)",
+    "type": "Tipo",
+    "typeValue": "Plaza del centro de la ciudad, monumento histórico, centro cultural, puerta del casco antiguo, ubicación del monumento a Prešeren, núcleo de la zona peatonal",
+    "country": "País",
+    "countryValue": "Eslovenia",
+    "city": "Ciudad",
+    "cityValue": "Liubliana",
+    "googleRating": "Valoración en Google",
+    "googleRatingValue": "4,7/5 (13.277 opiniones)",
+    "phone": "Teléfono de contacto",
+    "phoneValue": "Turismo de Liubliana: +386 1 306 45 00",
+    "address": "Dirección",
+    "addressValue": "Prešernov trg 1, 1000 Liubliana, Eslovenia"
+  },
+  "hours": {
+    "title": "Horario de apertura",
+    "outdoor": "Área pública al aire libre",
+    "outdoorTime": "Abierta todo el año, las 24 horas. No hay restricciones de acceso en la plaza.",
+    "lighthouse": "Iglesias e interiores de los alrededores",
+    "summer": "Martes – domingo",
+    "summerTime": "09:00–18:00",
+    "winter": "Lunes",
+    "winterTime": "Cerrado (excepto festividades religiosas)",
+    "warning": "Recomendaciones de visita",
+    "warningTime": "Para encontrar menos gente y mejor luz, recomendamos visitarla en días laborables a primera hora o al atardecer",
+    "tip": "La zona pública de la plaza es gratuita"
+  },
+  "tickets": {
+    "title": "Precios de entrada",
+    "outdoor": "Zona pública de la plaza",
+    "outdoorPrice": "Entrada gratuita, sin coste",
+    "lighthouse": "Interiores de iglesias y museos de los alrededores",
+    "adults": "Adultos",
+    "adultsPrice": "El precio depende de cada establecimiento",
+    "students": "Estudiantes",
+    "studentsPrice": "Descuentos disponibles",
+    "children": "Niños",
+    "childrenPrice": "Gratis o con descuento en algunos lugares",
+    "card": "Ljubljana Card",
+    "cardPrice": "Puede reducir el coste de las entradas en varias atracciones"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "airport": "Desde el aeropuerto de Liubliana",
+    "airportDesc": "Toma el autobús lanzadera hasta el centro de la ciudad y continúa cinco minutos a pie hasta la entrada de la plaza: unos 25 minutos en total. El taxi y los servicios de transporte con conductor llegan directamente al centro.",
+    "selfDrive": "Desde la estación de tren / autobuses",
+    "selfDriveDesc": "Unos diez minutos a pie hasta las calles que rodean la plaza. El transporte público es frecuente y está bien organizado.",
+    "bus": "Desde el casco antiguo",
+    "busDesc": "Desde el Puente Triple, el Castillo de Liubliana, el mercado central y otras atracciones del centro se llega cómodamente a pie.",
+    "intercity": "En bicicleta",
+    "intercityDesc": "En el casco antiguo hay estaciones de alquiler de bicicletas. La bici resulta práctica para distancias cortas.",
+    "cycling": "Transporte público",
+    "cyclingDesc": "Con el abono diario de transporte urbano puedes recorrer varias zonas de la ciudad en un mismo día.",
+    "tips": "Consejos de llegada",
+    "tipsDesc": "Las calles del casco antiguo son estrechas: lo mejor es recorrerlo a pie. La Plaza Prešeren es una base ideal para visitar varias atracciones cercanas."
+  },
+  "route": {
+    "title": "Recorrido a pie sugerido",
+    "overview": "La visita más bonita es al atardecer. Entra por el Puente Triple, recorre el círculo de la plaza para ver la escultura de Prešeren, la iglesia rosa y los edificios modernistas, pasea por las calles de alrededor y termina tomando algo en uno de los cafés. Para una visita tranquila basta con una hora; para profundizar en la arquitectura y la cultura, media jornada.",
+    "steps": [
+      "Llega a la parada de transporte público más cercana y accede a la plaza por el Puente Triple",
+      "Contempla la vista desde el Puente Triple hacia la plaza y el río",
+      "Recorre el círculo de granito alrededor de la escultura central de France Prešeren",
+      "En el lado sur observa de cerca la fachada barroca de la iglesia franciscana de la Anunciación",
+      "En el lado este mira el histórico edificio de la Farmacia Central",
+      "En el borde norte fotografía los detalles modernistas de los grandes almacenes Mayer",
+      "Detente en una cafetería al aire libre y disfruta del ritmo relajado del centro",
+      "Sal por el lado oeste y continúa hacia el Castillo de Liubliana y el resto del casco antiguo"
+    ],
+    "supplementsTitle": "Notas prácticas",
+    "supplements": [
+      "El pavimento de granito y piedra es irregular: conviene llevar calzado cómodo",
+      "En verano protégete del sol, y en invierno del frío y del viento",
+      "Respeta los edificios históricos y no te subas a las esculturas",
+      "La plaza también es muy frecuentada por los vecinos: mantén un volumen moderado",
+      "En verano se celebran ocasionalmente conciertos al aire libre, exposiciones y eventos públicos"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores fotos",
+    "spots": [
+      {
+        "name": "Entrada desde el Puente Triple",
+        "desc": "Composición simétrica de toda la plaza y de la iglesia rosa."
+      },
+      {
+        "name": "Escultura central",
+        "desc": "La escultura de bronce de Prešeren en primer plano con los edificios de colores al fondo."
+      },
+      {
+        "name": "Iglesia desde un lado",
+        "desc": "Buen punto para destacar la fachada barroca y la cúpula."
+      },
+      {
+        "name": "Frente al edificio Mayer",
+        "desc": "Detalles modernistas y espacio urbano en una sola imagen."
+      },
+      {
+        "name": "Paseo circular de la plaza",
+        "desc": "El pavimento y los trazos radiales crean una gran sensación de profundidad."
+      }
+    ],
+    "tips": "Consejos de fotografía",
+    "tipsContent": "La luz natural suele ser abundante, por lo que los días soleados son ideales para arquitectura y escenas de calle. El uso de drones está prohibido en toda la zona. Pide permiso antes de fotografiar a vecinos y artistas callejeros."
+  },
+  "hotels": {
+    "title": "Dónde alojarse",
+    "hotels": [
+      {
+        "name": "Encanto y buen precio: hoteles históricos modernistas",
+        "desc": "Junto a la plaza, hoteles instalados en palacetes históricos rehabilitados con vistas al centro",
+        "price": "Precios según temporada"
+      },
+      {
+        "name": "Opción de diseño: alojamientos junto al río",
+        "desc": "Alojamientos de líneas sencillas a orillas del Ljubljanica, con buen acceso a la plaza",
+        "price": "Precios según temporada"
+      },
+      {
+        "name": "Experiencia especial: apartamentos boutique en el casco antiguo",
+        "desc": "Alojamientos en calles históricas del casco antiguo, con ambiente auténtico",
+        "price": "Precios según temporada"
+      },
+      {
+        "name": "Opción económica: cerca de la estación central",
+        "desc": "Alojamientos más asequibles, bien comunicados con el centro y a pocos minutos a pie de la plaza",
+        "price": "Precios según temporada"
+      }
+    ],
+    "supplements": "Consejos de alojamiento",
+    "supplementsContent": "Lo más práctico es alojarse entre la Plaza Prešeren y el casco antiguo: desde allí llegarás a pie a la mayoría de las atracciones clave de Liubliana."
+  },
+  "gallery": {
+    "title": "Galería fotográfica",
+    "subtitle": "Vistas urbanas y patrimonio cultural de la Plaza Prešeren",
+    "captions": [
+      "Panorámica de la Plaza Prešeren",
+      "Puente Triple y plaza",
+      "Escultura de bronce de Prešeren",
+      "Iglesia franciscana",
+      "Grandes almacenes Mayer",
+      "La plaza de noche",
+      "Edificio de la Farmacia Central",
+      "Ambiente de cafetería en la plaza",
+      "Ribera del Ljubljanica",
+      "Calles del casco antiguo",
+      "Vistas de la ciudad",
+      "Ambiente romántico nocturno",
+      "Detalle arquitectónico histórico",
+      "Escena de la plaza"
+    ],
+    "viewAll": "Ver la ubicación en Google Maps"
+  },
+  "reviews": {
+    "title": "Opiniones de los visitantes",
+    "declaration": "Las opiniones están disponibles en Google Maps (enlace externo).",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "Marzo de 2026",
+        "rating": 5,
+        "text": "Un lugar excepcionalmente romántico. El ambiente nocturno es precioso y la iglesia rosa junto a los edificios modernistas crea una estampa muy especial."
+      },
+      {
+        "name": "Li Hua",
+        "date": "Febrero de 2026",
+        "rating": 5,
+        "text": "El punto culminante de mi viaje por Eslovenia. La plaza no es grande, pero cada detalle es refinado y está lleno de historia."
+      },
+      {
+        "name": "Wang Fang",
+        "date": "Enero de 2026",
+        "rating": 5,
+        "text": "Un paraíso para los amantes de la arquitectura: iglesia barroca, edificios modernistas y la escultura conviven en gran armonía."
+      },
+      {
+        "name": "Chen Wei",
+        "date": "Diciembre de 2025",
+        "rating": 4,
+        "text": "Una plaza preciosa con una ubicación excelente entre la ciudad vieja y la nueva. Especialmente animada en la época del mercadillo de Navidad."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y cómo visitar la Plaza Prešeren en Liubliana",
+    "subtitle": "Prešernov trg 1, 1000 Liubliana, Eslovenia",
+    "openMaps": "Abrir en Google Maps",
+    "officialLinkText": "Para información oficial y novedades de turismo regional, visita",
+    "officialLinkLabel": "Portal oficial de turismo de Liubliana / Eslovenia"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "question": "¿Dónde está la Plaza Prešeren?",
+        "answer": "La Plaza Prešeren (Prešernov trg) está en Liubliana, Eslovenia, en Prešernov trg 1, 1000 Liubliana."
+      },
+      {
+        "question": "¿La visita a la Plaza Prešeren es gratuita?",
+        "answer": "Sí. La Plaza Prešeren es un espacio público abierto todo el año, las 24 horas, sin entrada."
+      },
+      {
+        "question": "¿Cuáles son las principales atracciones cercanas?",
+        "answer": "En las inmediaciones están el Puente Triple (Tromostovje), el Castillo de Liubliana, la iglesia franciscana de la Anunciación y el mercado central de Liubliana."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Clima actual y pronóstico",
+    "subtitle": "Condiciones en vivo y los próximos días en Liubliana.",
+    "updated": "Actualizado",
+    "today": "Hoy",
+    "now": "Ahora",
+    "feels": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precipToday": "Precipitación hoy",
+    "forecast": "Pronóstico a 7 días",
+    "advice": "Si se prevé lluvia o tormenta, lleva paraguas y reserva más tiempo para fotos y paseos.",
+    "codes": {
+      "0": "Cielo despejado",
+      "1": "Mayormente despejado",
+      "2": "Parcialmente nublado",
+      "3": "Nublado",
+      "45": "Niebla",
+      "48": "Niebla helada",
+      "51": "Llovizna ligera",
+      "53": "Llovizna",
+      "55": "Llovizna densa",
+      "61": "Lluvia ligera",
+      "63": "Lluvia",
+      "65": "Lluvia fuerte",
+      "66": "Lluvia helada",
+      "67": "Lluvia helada fuerte",
+      "71": "Nieve ligera",
+      "73": "Nieve",
+      "75": "Nieve fuerte",
+      "80": "Chubascos",
+      "81": "Chubascos",
+      "82": "Chubascos violentos",
+      "85": "Chubascos de nieve",
+      "86": "Chubascos de nieve fuertes",
+      "95": "Tormenta",
+      "96": "Tormenta con granizo",
+      "99": "Tormenta con granizo"
+    }
+  },
+  "visitor": {
+    "title": "Servicios para visitantes y equipamientos cercanos",
+    "subtitle": "Una visión práctica y neutral: describimos categorías, no comercios concretos.",
+    "note": "Como sitio informativo sin ánimo de lucro, no recomendamos tiendas, cafeterías ni hoteles concretos; la lista agrupa los tipos de servicios que hay cerca de la plaza.",
+    "items": [
+      { "name": "Aseos públicos", "desc": "En la zona peatonal y los grandes nodos de transporte hay aseos públicos y accesibles, la mayoría con moneda o tarjeta." },
+      { "name": "Agua potable", "desc": "Las fuentes públicas son frecuentes en el casco antiguo; una botella reutilizable viene bien en verano." },
+      { "name": "Aparcamiento", "desc": "Garajes y parkings públicos de pago están en el borde del centro; el núcleo de la plaza es peatonal." },
+      { "name": "Restaurantes y comida", "desc": "Alrededor de la plaza se suceden restaurantes de cocina eslovena e internacional." },
+      { "name": "Cafés y repostería", "desc": "Cafeterías, pastelerías y heladerías invitan a un café o postre durante el día." },
+      { "name": "Supermercados y tiendas", "desc": "A pocos minutos a pie hay supermercados pequeños y tiendas de conveniencia." },
+      { "name": "Calles comerciales", "desc": "Las calles peatonales y galerías con marcas locales arrancan junto a la plaza." },
+      { "name": "Gasolineras y carga eléctrica", "desc": "Gasolineras y puntos de carga para coches eléctricos están en las entradas y vías principales." },
+      { "name": "Bancos y cajeros", "desc": "Bancos, casas de cambio y cajeros se concentran en el centro." },
+      { "name": "Farmacia y salud", "desc": "Farmacias y un hospital con urgencias se alcanzan a pie o con un corto trayecto." },
+      { "name": "Información turística", "desc": "Una oficina oficial de turismo ofrece mapas, eventos y consejos de transporte." },
+      { "name": "Accesibilidad", "desc": "Aceras sin barreras, rampas y ascensores conectan la plaza con los alrededores." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Cómo llegar a la Plaza Prešeren",
+    "subtitle": "Desde el aeropuerto, la estación, en transporte público, taxi o bici.",
+    "intro": "La plaza está en el corazón peatonal de Liubliana, así que cada ruta termina con un corto paseo por la zona peatonal.",
+    "timeLabel": "Tiempo",
+    "costLabel": "Coste",
+    "modes": [
+      { "mode": "Desde el aeropuerto", "time": "≈ 25–40 min", "cost": "4–35 €", "steps": ["Toma el autobús del aeropuerto al centro (o un autobús regional).", "Desde la parada céntrica son 5 minutos a pie hasta la plaza.", "Un taxi o VTC te deja en el borde del centro."], "tip": "Reserva el autobús o un traslado compartido para mejor precio." },
+      { "mode": "Desde la estación de tren/autobús", "time": "≈ 10 min a pie", "cost": "1,30 € (billete urbano)", "steps": ["Ambas estaciones están a 10 minutos a pie de la plaza.", "Sigue la señalización a la zona peatonal y al Puente Triple.", "La red urbana de autobuses también llega al entorno."], "tip": "Un billete urbano de 24 h vale para autobuses y la mayoría de líneas." },
+      { "mode": "Autobús y tranvía urbano", "time": "variable", "cost": "1,30 € ida", "steps": ["Varias líneas paran a pocos minutos a pie de la plaza.", "Compra el billete o la tarjeta diaria al conductor o en un kiosco.", "Las paradas indican el casco antiguo y el río."], "tip": "Valida el billete a bordo; los controles son frecuentes." },
+      { "mode": "Taxi y VTC", "time": "5–15 min desde el centro", "cost": "taxímetro / app", "steps": ["Taxis y apps recogen en el aeropuerto, estaciones y puntos fijos.", "Pide 'Prešernov trg' o el Puente Triple.", "Te dejan en el borde peatonal, 1 minuto a pie."], "tip": "Prefiere taxis licenciados con taxímetro visible." },
+      { "mode": "Coche y Park-and-Ride", "time": "variable", "cost": "aparcamiento de pago", "steps": ["Accede por las rondas y aparca en el borde del centro.", "Continúa a pie o en autobús urbano.", "La plaza y el casco antiguo son zonas peatonales."], "tip": "No entres en el núcleo peatonal; el parking es de pago y con límite." },
+      { "mode": "A pie y en bicicleta", "time": "desde cualquier punto céntrico", "cost": "gratis / alquiler", "steps": ["El casco antiguo es compacto y mejor a pie.", "Hay estaciones de bicicleta compartida por el centro.", "Paseos planos junto al río unen la plaza con los parques."], "tip": "Un paseo por el río hasta el castillo o el mercado tarda unos 10 minutos." }
+    ]
+  },
+  "seasons": {
+    "title": "Estrategia de visita por estaciones",
+    "subtitle": "Una visión anual según clima, afluencia y luz.",
+    "columns": { "season": "Estación", "temp": "Temp. media", "precip": "Precipitación", "crowds": "Afluencia", "highlight": "Imprescindibles", "pack": "Qué llevar" },
+    "rows": [
+      { "season": "Primavera (mar–may)", "temp": "8–19 °C", "precip": "Moderada, ~70 mm/mes", "crowds": "Baja–media", "highlight": "Floración, luz suave, pocos turistas", "pack": "Capas, chaqueta de lluvia, calzado cómodo" },
+      { "season": "Verano (jun–ago)", "temp": "18–28 °C", "precip": "Tormentas ocasionales", "crowds": "Alta (temporada alta)", "highlight": "Días largos, terrazas, festivales", "pack": "Protección solar, agua, ropa transpirable" },
+      { "season": "Otoño (sep–nov)", "temp": "9–22 °C", "precip": "Lluvia creciente", "crowds": "Media", "highlight": "Luz dorada, vendimia, calles tranquilas", "pack": "Ropa de abrigo, paraguas, zapatos impermeables" },
+      { "season": "Invierno (dic–feb)", "temp": "-2–6 °C", "precip": "Posible nieve", "crowds": "Baja (salvo fiestas)", "highlight": "Mercado de Navidad, aire fresco, plazas quietas", "pack": "Abrigo, gorro, guantes, botas antideslizantes" }
+    ]
+  },
+  "audience": {
+    "title": "Rutas según el tipo de viajero",
+    "subtitle": "Elige el plan que mejor encaje con tus acompañantes.",
+    "durationLabel": "Duración",
+    "paceLabel": "Ritmo",
+    "tipsTitle": "Bien saber",
+    "plans": [
+      { "name": "Familias con niños", "duration": "1,5–2 h", "pace": "Tranquilo", "tagline": "Llano, sin coches y lleno de pequeños descubrimientos para todas las edades.", "steps": ["Empieza en el Puente Triple y cuenta los tres puentes.", "Deja que los niños busquen la musa y la iglesia rosa.", "Descansa en una cafetería junto al río con espacio.", "Termina con un paseo al mercado central."], "tips": ["Aceras sin escalones, aptas para coches de niño.", "Los aseos y fuentes públicos están cerca.", "Quédate en la plaza abierta: no hay carreteras que cruzar."] },
+      { "name": "Fotografía y naturaleza", "duration": "2–3 h", "pace": "Flexible", "tagline": "Mejor luz y ángulos para la arquitectura y el río.", "steps": ["Fotografía desde el Puente Triple en la hora dorada.", "Enmarca la iglesia rosa contra el cielo del atardecer.", "Capta las fachadas secesión del lado norte.", "Sigue el río para reflejos en el agua."], "tips": ["La hora azul tras el ocaso es la más dramática.", "Un trípode ayuda con poca luz; evita los reflejos.", "Los drones están prohibidos en el casco histórico."] },
+      { "name": "Poco esfuerzo y accesible", "duration": "1 h", "pace": "Muy fácil", "tagline": "Paseo mínimo, con bancos, rampas y buenas vistas.", "steps": ["Llega sin escalones desde el lado de la estación.", "Descansa en un banco con vista a toda la plaza.", "Disfruta del monumento y la iglesia sin subir escalones.", "Vuelve por el paseo llano junto al río."], "tips": ["Rampas y ascensores conectan las rutas principales.", "Los cafés tienen acceso accesible.", "Evita la hora punta de la tarde para más calma."] }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerarios recomendados",
+    "subtitle": "Planes de medio y día completo desde la plaza.",
+    "plans": [
+      { "name": "Medio día (≈ 4 h)", "overview": "Una vuelta relajada por la plaza, el río y el mercado.", "steps": ["10:00 Paseo por la plaza y el Puente Triple.", "10:45 Café en una terraza junto al río.", "11:30 A pie al mercado central y la catedral.", "12:30 Comida en el casco antiguo.", "13:30 Regreso por la iglesia franciscana para fotos."] },
+      { "name": "Día completo (≈ 8 h)", "overview": "La plaza más el castillo, museos y el cinturón verde.", "steps": ["09:30 Plaza, Puente Triple y monumento.", "10:30 Funicular o a pie hasta el castillo.", "12:30 Comida junto al río.", "14:00 Un museo a tu elección en el centro.", "16:00 Bici o paseo rivero hasta el Parque Tivoli.", "18:00 Atardecer de vuelta en la plaza.", "19:30 Cena con vistas a las fachadas iluminadas."] }
+    ]
+  },
+  "science": {
+    "title": "Entender el lugar y tu responsabilidad",
+    "subtitle": "Una lectura breve y científica sobre el entorno de la plaza y cómo protegerlo.",
+    "responsibilityTitle": "Responsabilidad del visitante",
+    "responsibility": "La plaza es un espacio público vivo y un monumento cultural protegido. Permanece en los caminos, cuida el volumen, retira tu basura y no trepes a las estatuas ni te sientes en elementos históricos frágiles, para que el lugar siga siendo disfrutable por todos.",
+    "cards": [
+      { "name": "Río, karst y humedal", "desc": "Liubliana se sitúa donde el Ljubljanica deja el Ljubljansko Barje, un humedal cársico protegido. El caudal del río y el acuífero de la ciudad están ligados a este ecosistema sensible." },
+      { "name": "Microclima urbano", "desc": "La piedra y el granito acumulan el calor diurno y lo liberan tras el ocaso, por eso la plaza abierta se siente más cálida por la tarde: un pequeño ejemplo de la isla de calor urbano." },
+      { "name": "Ecología urbana", "desc": "El río y los parques albergan vencejos, murciélagos y martines pescadores; los tilos y plátanos del casco antiguo refrescan las calles y limpian el aire." },
+      { "name": "Patrimonio y geología", "desc": "Las colinas cercanas son karst de caliza, que dio forma a los manantiales, cuevas y la piedra de los edificios de la plaza." }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historia, relatos y leyendas",
+    "subtitle": "Cómo una puerta medieval se volvió el corazón cultural de Eslovenia.",
+    "timelineTitle": "Cronología",
+    "legendsTitle": "Relatos y leyendas",
+    "events": [
+      { "year": "Edad Media", "title": "La puerta de la ciudad", "desc": "La plaza creció en torno a un cruce junto a la puerta medieval en la ruta comercial al norte." },
+      { "year": "1646–1660", "title": "La iglesia rosa", "desc": "Se construyó la Iglesia Franciscana de la Anunciación, cerrando la plaza al sur con su fachada barroca." },
+      { "year": "1895", "title": "Renacer tras el terremoto", "desc": "El terremoto de 1895 impulsó una reconstrucción de estilo Secesión que define la plaza actual." },
+      { "year": "1905", "title": "El monumento al poeta", "desc": "Se inauguró en el centro la estatua de bronce de France Prešeren, obra de Ivan Zajec." },
+      { "year": "1987–1988", "title": "Una plaza redonda", "desc": "El arquitecto Edvard Ravnikar convirtió el espacio en la actual disposición circular y peatonal." },
+      { "year": "1991", "title": "Un símbolo nacional", "desc": "Prešernov trg fue declarado monumento cultural de importancia nacional de Eslovenia." },
+      { "year": "2007", "title": "El corazón sin coches", "desc": "Tras la renovación, la plaza se volvió totalmente peatonal, el verdadero centro de la vida urbana." }
+    ],
+    "legends": [
+      { "title": "El poeta y su musa", "desc": "El monumento muestra a Prešeren con una musa sobre él. Dicen los lugareños que ella dirige la mirada a la ventana de su amor no correspondido, Julija: un pequeño detalle romántico de la historia de la ciudad." },
+      { "title": "El dragón de Liubliana", "desc": "El dragón heráldico del Puente del Dragón mueve la cola cuando cruza una virgen: una querida leyenda popular de la Ljubljanica." },
+      { "title": "Tres puentes, un paso", "desc": "El Puente Triple empezó siendo un solo puente; más tarde se añadieron dos pasarelas laterales, convirtiendo un cruce en la silueta característica de la plaza." }
+    ]
+  },
+  "footer": {
+    "rights": "© 2026 Asociación independiente de investigación de viajes Prešernov trg. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Fuentes oficiales",
+    "officialLinks": {
+      "sloveniaInfo": "Oficina de turismo de Eslovenia",
+      "visitLjubljana": "Visit Ljubljana",
+      "govSi": "Eslovenia"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información de viajes. No está vinculado a gobiernos locales ni a instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: abril de 2026",
+    "sections": [
+      {
+        "heading": "1. Recopilación de información",
+        "content": "Por lo general no recopilamos datos personales que permitan identificar directamente al usuario. La información que nos envías a través de formularios de contacto o correo electrónico se trata de forma confidencial."
+      },
+      {
+        "heading": "2. Uso de la información",
+        "content": "La información recopilada se usa únicamente para prestar, mantener y mejorar el servicio y para comunicarnos con los usuarios. No vendemos ni compartimos datos personales con terceros con fines de marketing."
+      },
+      {
+        "heading": "3. Cookies y tecnologías de seguimiento",
+        "content": "Utilizamos cookies y tecnologías similares para registrar la actividad en el sitio y guardar determinados ajustes. Puedes configurar el navegador para rechazar todas las cookies o para que te avise cuando se envíen."
+      },
+      {
+        "heading": "4. Seguridad de los datos",
+        "content": "La seguridad de tus datos es importante para nosotros. Adoptamos medidas razonables para protegerlos, aunque ninguna transmisión por internet es completamente segura."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "lastUpdated": "Última actualización: abril de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los términos",
+        "content": "Al acceder a este sitio web y utilizarlo aceptas estos términos del servicio. Si no estás de acuerdo con alguna parte, no puedes usar el servicio."
+      },
+      {
+        "heading": "2. Uso del servicio",
+        "content": "Este sitio web es un proyecto de información de viajes independiente. Los contenidos tienen carácter informativo general. Debes usar el sitio de forma responsable y legal."
+      },
+      {
+        "heading": "3. Propiedad intelectual",
+        "content": "Todos los contenidos del sitio, incluidos textos, fotografías y elementos gráficos, pertenecen al titular, salvo que se indique lo contrario. Queda prohibido el uso, la copia o la distribución no autorizados."
+      },
+      {
+        "heading": "4. Limitación de responsabilidad",
+        "content": "No nos hacemos responsables de los daños directos o indirectos derivados del uso o de la imposibilidad de uso de este sitio web o de la información que contiene."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para el funcionamiento básico del sitio.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies analíticas",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con el sitio."
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Se usan para seguir a los visitantes entre sitios web."
+    },
+    "save": "Guardar ajustes",
+    "saved": "¡Ajustes guardados!"
+  },
+  "officialManagement": {
+    "title": "Sobre la Plaza Prešeren",
+    "text": "La gestión y el mantenimiento de la Plaza Prešeren corresponden al Ayuntamiento de Liubliana. Es una de las plazas más importantes y un símbolo cultural de la capital eslovena.\n\nComo corazón de Liubliana y uno de los principales símbolos nacionales, la plaza ha acompañado durante siglos la transición del espacio medieval al centro cultural moderno. Hoy su zona pública es de acceso gratuito y es uno de los mejores lugares para sentir la cultura urbana eslovena."
+  }
+}

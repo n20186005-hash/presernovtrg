@@ -1,70 +1,56 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
+import {
+  BASE_URL,
+  HTML_LANG,
+  OG_LOCALES,
+  localeAlternates,
+  routing,
+} from '@/i18n/routing';
+import {
+  HERO_IMAGE,
+  type FaqMessages,
+  type MetaMessages,
+  buildBreadcrumbLd,
+  buildFaqLd,
+  buildTouristAttractionLd,
+} from '@/lib/structuredData';
+import PageSections from '@/components/PageSections';
 import type { Metadata } from 'next';
-import Header from '@/components/Header';
-import Hero from '@/components/Hero';
-import Intro from '@/components/Intro';
-import BasicInfo from '@/components/BasicInfo';
-import HoursSection from '@/components/HoursSection';
-import TicketsSection from '@/components/TicketsSection';
-import TransportSection from '@/components/TransportSection';
-import InfoSection from '@/components/InfoSection';
-import RouteSection from '@/components/RouteSection';
-import PhotoSpotsSection from '@/components/PhotoSpotsSection';
-import HotelsSection from '@/components/HotelsSection';
-import Gallery from '@/components/Gallery';
-import Reviews from '@/components/Reviews';
-import FAQSection from '@/components/FAQSection';
-import MapEmbed from '@/components/MapEmbed';
-import Footer from '@/components/Footer';
 
-const DEFAULT_LOCALE = 'sl' as const;
-const baseUrl = 'https://presernovtrg.com';
-const heroImage = `${baseUrl}/gallery/images%20(1).jpg`;
-const mapsShareUrl = 'https://maps.app.goo.gl/p9nzsuxxzisR1vNF9';
-const govtTourismUrl = 'https://www.visitljubljana.com/';
+const DEFAULT_LOCALE = routing.defaultLocale;
 
 export async function generateMetadata(): Promise<Metadata> {
   const messages = (await import(`@/messages/${DEFAULT_LOCALE}.json`)).default;
-
-  const slUrl = `${baseUrl}/`;
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = slUrl;
+  const meta: MetaMessages = messages.meta;
 
   return {
-    title: messages.meta.title,
-    description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        sl: slUrl,
-        zh: zhUrl,
-        en: enUrl,
-        'x-default': slUrl,
-      },
-    },
+    metadataBase: new URL(BASE_URL),
+    title: meta.title,
+    description: meta.description,
+    applicationName: 'Prešernov trg',
+    alternates: localeAlternates(DEFAULT_LOCALE, '/'),
     openGraph: {
-      title: messages.meta.title,
-      description: messages.meta.description,
-      url: selfUrl,
+      title: meta.title,
+      description: meta.description,
+      url: localeAlternates(DEFAULT_LOCALE, '/').canonical,
       siteName: 'Prešernov trg',
-      locale: 'sl_SI',
+      locale: OG_LOCALES[DEFAULT_LOCALE],
       type: 'website',
       images: [
         {
-          url: heroImage,
+          url: HERO_IMAGE,
           width: 1200,
           height: 675,
-          alt: 'Prešernov trg v Ljubljani, Slovenija',
+          alt: meta.ogImageAlt,
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: messages.meta.title,
-      description: messages.meta.description,
-      images: [heroImage],
+      title: meta.title,
+      description: meta.description,
+      images: [HERO_IMAGE],
     },
   };
 }
@@ -73,76 +59,16 @@ export default async function RootPage() {
   setRequestLocale(DEFAULT_LOCALE);
   const messages = (await import(`@/messages/${DEFAULT_LOCALE}.json`)).default;
 
-  const attractionName = 'Prešernov trg';
-  const attractionShort = 'Prešernov trg';
-  const cityName = 'Ljubljana';
-  const stateProvince = 'Ljubljana';
-  const countryName = 'Slovenija';
+  const meta = messages.meta as MetaMessages;
+  const faq = messages.faq as FaqMessages;
 
-  const touristAttractionLd = {
-    '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
-    '@id': `${baseUrl}/#attraction`,
-    name: attractionName,
-    alternateName: [attractionShort, `${cityName} ${attractionName}`],
-    description: `Celovit vodnik za obisk ${attractionName} v mestu ${cityName}, ${stateProvince}, ${countryName}.`,
-    url: baseUrl,
-    image: [heroImage],
-    isAccessibleForFree: true,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: 'Prešernov trg 1',
-      addressLocality: 'Ljubljana',
-      addressRegion: 'Ljubljana',
-      postalCode: '1000',
-      addressCountry: 'SI',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: 46.0514711,
-      longitude: 14.5060726,
-    },
-    hasMap: mapsShareUrl,
-    sameAs: [mapsShareUrl, govtTourismUrl],
-  };
-
-  const faqPageLd = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: [
-      {
-        '@type': 'Question',
-        name: `Kje se nahaja ${attractionName}?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `${attractionName} se nahaja v Ljubljani v Sloveniji na naslovu Prešernov trg 1, 1000 Ljubljana.`,
-        },
-      },
-      {
-        '@type': 'Question',
-        name: `Ali je obisk ${attractionShort} brezplačen?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `Da, ${attractionName} je javni prostor in je vse leto odprt brez vstopnine, 24 ur na dan.`,
-        },
-      },
-      {
-        '@type': 'Question',
-        name: `Katere glavne znamenitosti so v bližini ${attractionShort}?`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: `Med bližnjimi znamenitostmi so Tromostovje, Ljubljanski grad, Frančiškanska cerkev Marijinega oznanjenja in osrednja ljubljanska tržnica.`,
-        },
-      },
-    ],
-  };
+  const attractionLd = buildTouristAttractionLd(DEFAULT_LOCALE, meta);
+  const breadcrumbLd = buildBreadcrumbLd(DEFAULT_LOCALE, 'Prešernov trg');
+  const faqLd = buildFaqLd(faq);
 
   return (
-    <html lang="sl" suppressHydrationWarning>
+    <html lang={HTML_LANG[DEFAULT_LOCALE]} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={`${baseUrl}/`} />
-        <meta property="og:image" content={heroImage} />
-        <meta property="og:image:alt" content={`${attractionName} v ${cityName}`} />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX"
@@ -151,11 +77,15 @@ export default async function RootPage() {
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(attractionLd) }}
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPageLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
         <script
           dangerouslySetInnerHTML={{
@@ -174,24 +104,7 @@ export default async function RootPage() {
       </head>
       <body className="min-h-screen">
         <NextIntlClientProvider locale={DEFAULT_LOCALE} messages={messages}>
-          <Header />
-          <main>
-            <Hero />
-            <Intro />
-            <BasicInfo />
-            <HoursSection />
-            <TicketsSection />
-            <TransportSection />
-            <InfoSection />
-            <RouteSection />
-            <PhotoSpotsSection />
-            <HotelsSection />
-            <Gallery />
-            <Reviews />
-            <FAQSection />
-            <MapEmbed />
-          </main>
-          <Footer />
+          <PageSections />
         </NextIntlClientProvider>
       </body>
     </html>

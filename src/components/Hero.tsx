@@ -14,7 +14,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/images (1).jpg"
+          src="/gallery/presernov-trg-ljubljana-panorama-view-1.jpg"
           alt={heroAlt}
           className="w-full h-full object-cover"
           loading="eager"

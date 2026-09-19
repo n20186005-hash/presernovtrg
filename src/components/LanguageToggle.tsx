@@ -2,15 +2,16 @@
 
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from 'next/navigation';
-import { routing, type Locale } from '@/i18n/routing';
+import { routing, UI_ORDERED_LOCALES, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
-
-const UI_ORDERED_LOCALES = ['sl', 'zh', 'en'] as const;
 
 const labels: Record<string, string> = {
   sl: 'Slovenščina',
-  zh: '中文',
   en: 'English',
+  de: 'Deutsch',
+  es: 'Español',
+  it: 'Italiano',
+  zh: '中文',
 };
 
 export default function LanguageToggle() {

@@ -1,7 +1,8 @@
 {
   "meta": {
-    "title": "Prešernov trg (Ljubljana) - Vodnik za obisk in lokacija",
-    "description": "Odkrijte Prešernov trg, znamenito mestno središče v Ljubljani, Slovenija. Oglejte si zemljevid lokacije, informacije za obisk, bližnje Tromostovje in uporabne namige za potovanje."
+    "title": "Prešernov trg Ljubljana: vodnik za obisk, zemljevid in znamenitosti",
+    "description": "Vse za obisk Prešernovega trga v Ljubljani: Tromostovje, Frančiškanska cerkev, Prešernov spomenik, odpiralni čas, zemljevid in fotografske točke. Brezplačno, odprto 24/7.",
+    "ogImageAlt": "Prešernov trg v Ljubljani, Slovenija"
   },
   "header": {
     "home": "Domov",
@@ -13,8 +14,8 @@
   "hero": {
     "title": "Prešernov trg (Ljubljana)",
     "subtitle": "Srce Ljubljane in nacionalni kulturni simbol Slovenije",
-    "rating": "4.7(13,198)",
-    "reviewCount": "13.198 ocen",
+    "rating": "4.7(13,277)",
+    "reviewCount": "13.277 ocen",
     "hours": "Odprto 24/7",
     "openMaps": "Poglej lokacijo"
   },
@@ -45,6 +46,27 @@
         "Leta 1991 razglašen za kulturni spomenik državnega pomena"
       ]
     }
+  },
+  "nearby": {
+    "title": "Znamenitosti okoli Prešernovega trga",
+    "subtitle": "Tri poudarki, do katerih pridete v manj kot dveh minutah hoje",
+    "items": [
+      {
+        "name": "Tromostovje",
+        "walk": "1 minuta hoje · zahodna stran",
+        "desc": "Trojni prehod po načrtih Jožeta Plečnika povezuje trg z nabrežjem Ljubljanice in starim mestom. S srednjih stopnic se odpira klasičen pogled nazaj na Prešernov trg."
+      },
+      {
+        "name": "Frančiškanska cerkev Marijinega oznanjenja",
+        "walk": "Na trgu · južna stran",
+        "desc": "Cerkev, zgrajena med letoma 1646 in 1660, z rožnato baročno fasado zapira trg na južni strani. Bogato okrašena notranjščina je za obiskovalce brezplačno odprta."
+      },
+      {
+        "name": "Prešernov spomenik",
+        "walk": "Središče trga",
+        "desc": "Bronast kip narodnega pesnika, delo Ivana Zajca iz leta 1905, stoji pod muzo z lovorjevo vejo — to je mesto srečanj, ki mu domačini preprosto rečejo \"pod spomenikom\"."
+      }
+    ]
   },
   "knowledge": {
     "title": "Odkrijte čar Prešernovega trga",
@@ -82,7 +104,7 @@
     "city": "Mesto",
     "cityValue": "Ljubljana",
     "googleRating": "Ocena Google",
-    "googleRatingValue": "4,7/5 (13.198 ocen)",
+    "googleRatingValue": "4,7/5 (13.277 ocen)",
     "phone": "Kontaktni telefon",
     "phoneValue": "Ljubljana Tourism: +386 1 306 45 00",
     "address": "Naslov",
@@ -221,7 +243,9 @@
       "Nabrežje Ljubljanice",
       "Ulice starega mestnega jedra",
       "Pogledi na Ljubljano",
-      "Romantično večerno vzdušje"
+      "Romantično večerno vzdušje",
+      "Podrobnosti zgodovinske arhitekture",
+      "Prizor s trga"
     ],
     "viewAll": "Odpri lokacijo v Google Zemljevidih"
   },
@@ -278,6 +302,143 @@
         "question": "Katere glavne znamenitosti so v bližini?",
         "answer": "V neposredni bližini so Tromostovje, Ljubljanski grad, Frančiškanska cerkev Marijinega oznanjenja in ljubljanska osrednja tržnica."
       }
+    ]
+  },
+  "weather": {
+    "title": "Trenutno vreme in napoved",
+    "subtitle": "Živo stanje in naslednjih nekaj dni v Ljubljani.",
+    "updated": "Posodobljeno",
+    "today": "Danes",
+    "now": "Trenutno",
+    "feels": "Občutek kot",
+    "humidity": "Vlažnost",
+    "wind": "Veter",
+    "precipToday": "Padavine danes",
+    "forecast": "Napoved za 7 dni",
+    "advice": "Če je napovedan dež ali nevihta, vzemite dežnik in računajte na več časa za fotografiranje in hojo.",
+    "codes": {
+      "0": "Jasno nebo",
+      "1": "Pretežno jasno",
+      "2": "Delno oblačno",
+      "3": "Oblačno",
+      "45": "Megla",
+      "48": "Sadrasta megla",
+      "51": "Rahla pahljača",
+      "53": "Pahljača",
+      "55": "Gosta pahljača",
+      "61": "Rahal dež",
+      "63": "Dež",
+      "65": "Močan dež",
+      "66": "Ledeni dež",
+      "67": "Močan ledeni dež",
+      "71": "Rahel sneg",
+      "73": "Sneg",
+      "75": "Močan sneg",
+      "80": "Plohe",
+      "81": "Plohe",
+      "82": "Nevihtne plohe",
+      "85": "Snežne plohe",
+      "86": "Močne snežne plohe",
+      "95": "Nevihta",
+      "96": "Nevihta s točo",
+      "99": "Nevihta s točo"
+    }
+  },
+  "visitor": {
+    "title": "Storitve za obiskovalce in bližnja ponudba",
+    "subtitle": "Praktičen, nevtralen pregled – opisujemo vrste storitev, ne posameznih ponudnikov.",
+    "note": "Kot neprofitna informativna stran ne priporočamo konkretnih trgovin, kavarn ali hotelov; seznam združuje vrste storitev okoli trga.",
+    "items": [
+      { "name": "Javna stranišča", "desc": "Javna in dostopna stranišča so v peš coni in pri glavnih vozliščih; večina deluje z gotovino ali kartico." },
+      { "name": "Pitna voda", "desc": "Javne pitne fontane so pogoste po starem mestnem jedru; v poletju pride prav napolnljiva steklenica." },
+      { "name": "Parkiranje", "desc": "Plačljive javne garaže in parkirišča so ob robu središča; sam trg je zaprt za promet." },
+      { "name": "Gostilne in restavracije", "desc": "Različne restavracije, od slovenske do mednarodne kuhinje, obdajajo ulice okoli trga." },
+      { "name": "Kavarne in sladice", "desc": "Kavarne, slaščičarne in gelaterie so na voljo za hitro kavo ali sladico čez dan." },
+      { "name": "Trgovine in prehramba", "desc": "Majhne trgovine za vsakdanje potrebe so v kratkem sprehodu od trga." },
+      { "name": "Nakupovalne ulice", "desc": "Peš nakupovalne ulice in arkade z lokalnimi znamkami se začnejo že na trgu." },
+      { "name": "Gorivo in polnjenje EV", "desc": "Bencinski servisi in polnilnice za električna vozila so ob mestnih vpadnicah in glavnih cestah." },
+      { "name": "Banke in bankomati", "desc": "Banke, menjalnice in bankomati so v mestnem središču za gotovino in valuto." },
+      { "name": "Lekarna in zdravstvo", "desc": "Lekarne in bolnišnica z nujno pomočjo so dosegljive peš ali s kratko vožnjo." },
+      { "name": "Turistične informacije", "desc": "Uradna turistična pisarna nudi zemljevide, dogodke in nasvete za javni prevoz." },
+      { "name": "Dostopnost", "desc": "Brezstopni pločniki, rampe in dvigala povezujejo trg z bližnjimi znamenitostmi." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Kako priti na Prešernov trg",
+    "subtitle": "Z letališča, železniške in avtobusne postaje, z javnim prevozom, taksijem ali kolesom.",
+    "intro": "Trg leži v peš središču Ljubljane, zato vsak prihod konča kratek sprehod skozi staro mestno jedro.",
+    "timeLabel": "Čas",
+    "costLabel": "Cena",
+    "modes": [
+      { "mode": "Z letališča", "time": "≈ 25–40 min", "cost": "4–35 €", "steps": ["Uporabite avtobus do mestnega središča (ali registrski avtobus).", "Od postaje v središču je do trga 5 minut hoje.", "Taksi ali aplikacija za prevoz vas pripeljeta do roba središča."], "tip": "Vnaprej rezervirajte avtobus ali skupni prevoz za boljšo ceno." },
+      { "mode": "Z železniške in avtobusne postaje", "time": "≈ 10 min hoje", "cost": "1,30 € (mestna vozovnica)", "steps": ["Obe postaji sta 10 minut hoje od trga.", "Sledite oznakam za peš center in Tromostovje.", "Mestni avtobusi pogosto povezujejo območje."], "tip": "24-urna mestna vozovnica velja za avtobuse in večino linij." },
+      { "mode": "Mestni avtobus in tramvaj", "time": "odvisno", "cost": "1,30 € ena vožnja", "steps": ["Več mestnih linij ustavi nekaj minut hoje od trga.", "Kupite vožnjo ali dnevno vozovnico pri vozniku ali v trafiki.", "Postaje kažejo proti starem mestu in reki."], "tip": "Vozovnico potrdite v vozilu; nadzor je aktiven." },
+      { "mode": "Taksi in aplikacije", "time": "5–15 min od središča", "cost": "na števec / aplikacija", "steps": ["Taksi in aplikacije prevzamejo na letališču, postajah in določenih mestih.", "Zaprosite za 'Prešernov trg' ali Tromostovje.", "Voznik vas pusti ob peš robu, 1 minuto hoje."], "tip": "Izberite licenčne taksiste s vidnim števcem." },
+      { "mode": "Avto in P+R", "time": "odvisno", "cost": "plačljivo parkiranje", "steps": ["Pripeljite po obvoznicah in parkirajte ob robu središča.", "Nadaljujte peš ali z mestnim avtobusom.", "Trg in staro mesto sta zaprta za promet."], "tip": "Ne vozite v peš jedro; parkiranje je plačljivo in časovno omejeno." },
+      { "mode": "Hoja in kolesarjenje", "time": "od koder koli v središču", "cost": "brezplačno / najem", "steps": ["Staro mestno jedro je majhno in najbolje peš.", "Postaje za izposojo koles so razpršene po središču.", "Ravne poti ob reki povezujejo trg s parki."], "tip": "Sprehod ob reki do gradu ali tržnice traja okoli 10 minut." }
+    ]
+  },
+  "seasons": {
+    "title": "Sezonska strategija obiska",
+    "subtitle": "Pregled skozi leto na podlagi podnebja, gneče in svetlobe.",
+    "columns": { "season": "Sezona", "temp": "Povpr. temp.", "precip": "Padavine", "crowds": "Gneča", "highlight": "Vrhunci", "pack": "S seboj" },
+    "rows": [
+      { "season": "Pomlad (mar–maj)", "temp": "8–19 °C", "precip": "Zmerne, ~70 mm/mes", "crowds": "Nizka–zmerna", "highlight": "Cvetenje, mehka svetloba, manj turistov", "pack": "Slojasta oblačila, dežni plašč, udobni čevlji" },
+      { "season": "Poletje (jun–avg)", "temp": "18–28 °C", "precip": "Občasne nevihte", "crowds": "Visoka (vrh sezone)", "highlight": "Dolgi dnevi, terase, festivali", "pack": "Zaščita pred soncem, voda, zračna oblačila" },
+      { "season": "Jesen (sep–nov)", "temp": "9–22 °C", "precip": "Vse več dežja", "crowds": "Zmerna", "highlight": "Zlata svetloba, trgatev, mirne ulice", "pack": "Topla oblačila, dežnik, nepremočljivi čevlji" },
+      { "season": "Zima (dec–feb)", "temp": "-2–6 °C", "precip": "Možen sneg", "crowds": "Nizka (razen praznikov)", "highlight": "Adventni sejem, svež zrak, tihi trgi", "pack": "Topli plašč, kapa, rokavice, nezdrsni čevlji" }
+    ]
+  },
+  "audience": {
+    "title": "Načrti po vrsti popotnikov",
+    "subtitle": "Izberite načrt glede na to, s kom potujete.",
+    "durationLabel": "Trajanje",
+    "paceLabel": "Tempo",
+    "tipsTitle": "Koristno za vedeti",
+    "plans": [
+      { "name": "Družine z otroki", "duration": "1,5–2 h", "pace": "Sproščeno", "tagline": "Ravno, brez avtomobilov in polno odkritij za vse starosti.", "steps": ["Začnite pri Tromostovju in preštejte tri prehode.", "Naj otroci poiščejo pesnikovo muzo in rožnato cerkev.", "Vzemite odmor na obrežni kavarni s prostorom.", "Zaključite z lahkim sprehodom do osrednje tržnice."], "tips": ["Pločniki so brezstopni in primerni za vozičke.", "Javna stranišča in fontane so blizu.", "Ostani na odprtem trgu – ni prometnih cest."] },
+      { "name": "Fotografija in narava", "duration": "2–3 h", "pace": "Prilagodljivo", "tagline": "Najboljša svetloba in koti za arhitekturo in reko.", "steps": ["Fotografirajte s Tromostovja ob zlati uri.", "Uokvirite rožnato cerkev ob večernem nebu.", "Ulovite secesijske fasade na severni strani.", "Sledite reki za odseve v vodi."], "tips": ["Modra ura po sončnem zahodu da najbolj drame.", "Stojalo pomaga pri šibki svetlobi.", "Droni so nad zgodovinskim jedrom prepovedani."] },
+      { "name": "Malo napora in dostopnost", "duration": "1 h", "pace": "Zelo enostavno", "tagline": "Minimalno hoje z klopmi, rampami in razgledi.", "steps": ["Pristopite brez stopnic z strani postaje.", "Sedite na klop s celotnim pogledom na trg.", "Uživajte spomenik in cerkev brez stopnic.", "Vrnite se po ravni obrežni promenadi."], "tips": ["Rampe in dvigala povezujejo glavne poti.", "Kavarne imajo dostopne vhode.", "Izogibajte se popoldanske gneče."] }
+    ]
+  },
+  "itineraries": {
+    "title": "Predlagani načrti obiska",
+    "subtitle": "Poldnevni in celodnevni načrti s trga.",
+    "plans": [
+      { "name": "Poldne (≈ 4 h)", "overview": "Sproščen krog trga, reke in tržnice.", "steps": ["10.00 Sprehod po trgu in Tromostovju.", "10.45 Kava na obrežni kavarni.", "11.30 Hoja do osrednje tržnice in stolnice.", "12.30 Kosilo v starem mestu.", "13.30 Vrnitev mimo frančiškanske cerkve."] },
+      { "name": "Cel dan (≈ 8 h)", "overview": "Trg ter grad, muzeji in zeleni pas.", "steps": ["09.30 Trg, Tromostovje in spomenik.", "10.30 Žičnica ali hoja do gradu.", "12.30 Kosilo ob reki.", "14.00 Muzej po izbiri v središču.", "16.00 Kolesarjenje ali hoja do parka Tivoli.", "18.00 Sončni zahod nazaj na trgu.", "19.30 Večerja s pogledom na osvetljene fasade."] }
+    ]
+  },
+  "science": {
+    "title": "Razumevanje kraja in vaša odgovornost",
+    "subtitle": "Kratek, znanstveno utemeljen pogled na okolje trga in kako ga varovati.",
+    "responsibilityTitle": "Odgovornost obiskovalca",
+    "responsibility": "Trg je živ javni prostor in zavarovan kulturni spomenik. Ostanite na poteh, bodite tihi, odložite smeti in nikoli ne plezajte po kipih ali sedajte na krhke zgodovinske podrobnosti, da kraj ostane prijeten za vse.",
+    "cards": [
+      { "name": "Reka, kras in močvirje", "desc": "Ljubljana leži tam, kjer Ljubljanica zapušča Ljubljansko barje, zavarovano kraško močvirje. Tok reke in vodna miza mesta sta povezana s tem občutljivim ekosistemom." },
+      { "name": "Urbano mikro podnebje", "desc": "Kamen in granit hranita dnevno toploto in jo oddajata po sončnem zahodu, zato je odprt trg zvečer toplejši – majhen primer učinka toplotnega otoka." },
+      { "name": "Mestna ekologija", "desc": "Reka in parki so dom hudournikov, netopirjev in vodnih ptic; lipe in platane v starem mestu hlajijo ulice in čistijo zrak." },
+      { "name": "Dediščina in geologija", "desc": "Okoliška hribovja so apnenčasti kras, ki je oblikoval izvire, jame in kamen, uporabljen v stavbah trga." }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Zgodovina, zgodbe in legende",
+    "subtitle": "Kako je srednjeveška vrata postala kulturno srce Slovenije.",
+    "timelineTitle": "Časovnica",
+    "legendsTitle": "Zgodbe in legende",
+    "events": [
+      { "year": "Srednji vek", "title": "Mestna vrata", "desc": "Trg je zrasel ob prehodu pri srednjeveških mestnih vratih na trgovski poti proti severu." },
+      { "year": "1646–1660", "title": "Rožnata cerkev", "desc": "Zgrajena je bila Frančiškanska cerkev Marijinega oznanjenja, ki z baročnim pročeljem zapira trg na jugu." },
+      { "year": "1895", "title": "Vstajenje po potresu", "desc": "Potres leta 1895 je spodbudil obnovo v secesijskem slogu, ki današnji trg zaznamuje." },
+      { "year": "1905", "title": "Pesnikov spomenik", "desc": "Sredi trga so odkrili bronast kip Franceta Prešerna, delo Ivana Zajca." },
+      { "year": "1987–1988", "title": "Okrogel trg", "desc": "Arhitekt Edvard Ravnikar je prostor preoblikoval v krožno, peš razporeditev, ki jo vidimo danes." },
+      { "year": "1991", "title": "Narodni simbol", "desc": "Prešernov trg je bil razglašen za kulturni spomenik državnega pomena za Slovenijo." },
+      { "year": "2007", "title": "Brez avtomobilov", "desc": "Po prenovi je trg postal povsem peš, pravo središče mestnega življenja." }
+    ],
+    "legends": [
+      { "title": "Pesnik in njegova muza", "desc": "Spomenik kaže Prešerna z muzo nad njim. Domnevno obrača pogled proti oknu njegove neuslišane ljubezni Julije – droben romantičen detajl mestne zgodbe." },
+      { "title": "Zmaj Ljubljane", "desc": "Mestni zmaj na Zmajskem mostu naj bi mahal z repom, ko prečka devica – priljubljena ljudska pripovedka o Ljubljanici." },
+      { "title": "Trije mostovi, en prehod", "desc": "Tromostovje se je začelo kot en sam most; kasneje so dodali dva stranska, kar je en prehod spremenilo v značilno silhueto trga." }
     ]
   },
   "footer": {

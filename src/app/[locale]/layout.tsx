@@ -1,7 +1,22 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import { routing } from '@/i18n/routing';
+import {
+  BASE_URL,
+  HTML_LANG,
+  OG_LOCALES,
+  type Locale,
+  localeAlternates,
+  routing,
+} from '@/i18n/routing';
+import {
+  HERO_IMAGE,
+  type FaqMessages,
+  type MetaMessages,
+  buildBreadcrumbLd,
+  buildFaqLd,
+  buildTouristAttractionLd,
+} from '@/lib/structuredData';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
@@ -14,54 +29,49 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://presernovtrg.com';
-
-  const slUrl = `${baseUrl}/`;
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'sl' ? slUrl : locale === 'zh' ? zhUrl : enUrl;
-  const heroImage = `${baseUrl}/gallery/images%20(1).jpg`;
+  const safeLocale = (
+    routing.locales.includes(locale as Locale) ? locale : routing.defaultLocale
+  ) as Locale;
+  const messages = (await import(`@/messages/${safeLocale}.json`)).default;
+  const meta: MetaMessages = messages.meta;
 
   return {
-    title: messages.meta.title,
-    description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'sl': slUrl,
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': slUrl,
-      },
-    },
+    metadataBase: new URL(BASE_URL),
+    title: meta.title,
+    description: meta.description,
+    applicationName: 'Prešernov trg',
+    alternates: localeAlternates(safeLocale, '/'),
     openGraph: {
-      title: messages.meta.title,
-      description: messages.meta.description,
-      url: selfUrl,
+      title: meta.title,
+      description: meta.description,
+      url: localeAlternates(safeLocale, '/').canonical,
       siteName: 'Prešernov trg',
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'zh' ? 'zh_CN' : 'en_US',
+      locale: OG_LOCALES[safeLocale],
       type: 'website',
       images: [
         {
-          url: heroImage,
+          url: HERO_IMAGE,
           width: 1200,
           height: 675,
-          alt: locale === 'sl'
-            ? 'Prešernov trg v Ljubljani, Slovenija'
-            : locale === 'en'
-              ? 'Prešernov trg in Ljubljana, Slovenia'
-              : '斯洛文尼亚卢布尔雅那普列舍伦广场',
+          alt: meta.ogImageAlt,
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: messages.meta.title,
-      description: messages.meta.description,
-      images: [heroImage],
+      title: meta.title,
+      description: meta.description,
+      images: [HERO_IMAGE],
     },
   };
+}
+
+function localizedNodeName(locale: Locale) {
+  if (locale === 'de') return 'Prešeren-Platz (Prešernov trg)';
+  if (locale === 'es') return 'Plaza Prešeren (Prešernov trg)';
+  if (locale === 'it') return 'Piazza Prešeren (Prešernov trg)';
+  if (locale === 'zh') return '普列舍伦广场 Prešernov trg';
+  return 'Prešernov trg';
 }
 
 export default async function LocaleLayout({
@@ -73,124 +83,37 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as any)) {
+  if (!routing.locales.includes(locale as Locale)) {
     notFound();
   }
 
-  setRequestLocale(locale);
+  const currentLocale = locale as Locale;
+  setRequestLocale(currentLocale);
   const messages = await getMessages();
-  const baseUrl = 'https://presernovtrg.com';
-  const heroImage = `${baseUrl}/gallery/images%20(1).jpg`;
-  const mapsShareUrl = 'https://maps.app.goo.gl/p9nzsuxxzisR1vNF9';
-  const govtTourismUrl = 'https://www.visitljubljana.com/';
 
-  const attractionName = locale === 'sl' ? 'Prešernov trg' : locale === 'en' ? 'Prešernov trg' : '普列舍伦广场 Prešernov trg';
-  const attractionShort = 'Prešernov trg';
-  const cityName = locale === 'sl' ? 'Ljubljana' : locale === 'en' ? 'Ljubljana' : '卢布尔雅那 Ljubljana';
-  const stateProvince = 'Ljubljana';
-  const countryName = locale === 'sl' ? 'Slovenija' : locale === 'en' ? 'Slovenia' : '斯洛文尼亚';
+  const meta = (messages as unknown as { meta: MetaMessages }).meta;
+  const faq = (messages as unknown as { faq: FaqMessages }).faq;
 
-  const touristAttractionLd = {
-    '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
-    '@id': `${baseUrl}/#attraction`,
-    name: attractionName,
-    alternateName: [attractionShort, `${cityName} ${attractionName}`],
-    description: locale === 'sl'
-      ? `Celovit vodnik za obisk ${attractionName} v mestu ${cityName}, ${stateProvince}, ${countryName}.`
-      : locale === 'en'
-        ? `Comprehensive visitor guide to ${attractionName} in ${cityName}, ${stateProvince}, ${countryName}.`
-        : `斯洛文尼亚卢布尔雅那${attractionName}综合游览指南。`,
-    url: baseUrl,
-    image: [heroImage],
-    isAccessibleForFree: true,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: 'Prešernov trg 1',
-      addressLocality: 'Ljubljana',
-      addressRegion: 'Ljubljana',
-      postalCode: '1000',
-      addressCountry: 'SI',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: 46.0514711,
-      longitude: 14.5060726,
-    },
-    hasMap: mapsShareUrl,
-    sameAs: [mapsShareUrl, govtTourismUrl],
-  };
-
-  const faqPageLd = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: [
-      {
-        '@type': 'Question',
-        name: locale === 'sl'
-          ? `Kje se nahaja ${attractionName}?`
-          : locale === 'en'
-            ? `Where is ${attractionName} located?`
-            : `${attractionName}位于哪里？`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: locale === 'sl'
-            ? `${attractionName} se nahaja v Ljubljani v Sloveniji na naslovu Prešernov trg 1, 1000 Ljubljana.`
-            : locale === 'en'
-              ? `${attractionName} is located in Ljubljana, Ljubljana, Slovenia, at Prešernov trg 1, 1000 Ljubljana.`
-              : `${attractionName}位于斯洛文尼亚卢布尔雅那，地址为 Prešernov trg 1, 1000 Ljubljana。`,
-        },
-      },
-      {
-        '@type': 'Question',
-        name: locale === 'sl'
-          ? `Ali je obisk ${attractionShort} brezplačen?`
-          : locale === 'en'
-            ? `Is ${attractionShort} free to visit?`
-            : `${attractionShort}游览是否免费？`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: locale === 'sl'
-            ? `Da, ${attractionName} je javni prostor in je vse leto odprt brez vstopnine, 24 ur na dan.`
-            : locale === 'en'
-              ? `Yes, ${attractionName} is a public space and is free to visit year-round, 24 hours a day.`
-              : `是的，${attractionName}是公共空间，全年全天24小时免费开放。`,
-        },
-      },
-      {
-        '@type': 'Question',
-        name: locale === 'sl'
-          ? `Katere glavne znamenitosti so v bližini ${attractionShort}?`
-          : locale === 'en'
-            ? `What are the main attractions near ${attractionShort}?`
-            : `${attractionShort}周边有哪些主要景点？`,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: locale === 'sl'
-            ? `Med bližnjimi znamenitostmi so Tromostovje, Ljubljanski grad, Frančiškanska cerkev Marijinega oznanjenja in osrednja ljubljanska tržnica.`
-            : locale === 'en'
-              ? `Nearby landmarks include the Triple Bridge (Tromostovje), Ljubljana Castle (Ljubljanski grad), the Franciscan Church of the Annunciation, and the Ljubljana Central Market.`
-              : `周边地标包括三重桥 (Tromostovje)、卢布尔雅那城堡 (Ljubljanski grad)、方济各会天使报喜教堂以及卢布尔雅那中央市场。`,
-        },
-      },
-    ],
-  };
+  const attractionLd = buildTouristAttractionLd(currentLocale, meta);
+  const breadcrumbLd = buildBreadcrumbLd(currentLocale, localizedNodeName(currentLocale));
+  const faqLd = buildFaqLd(faq);
 
   return (
-    <html lang={locale === 'sl' ? 'sl' : locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={HTML_LANG[currentLocale]} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={locale === 'sl' ? `${baseUrl}/` : locale === 'zh' ? `${baseUrl}/zh` : `${baseUrl}/en`} />
-        <meta property="og:image" content={heroImage} />
-        <meta property="og:image:alt" content={locale === 'sl' ? `${attractionName} v ${cityName}` : locale === 'en' ? `${attractionName} in ${cityName}` : `${attractionName} ${cityName}`} />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(attractionLd) }}
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPageLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
         <script
           dangerouslySetInnerHTML={{

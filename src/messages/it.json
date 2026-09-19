@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "title": "Piazza Prešeren a Lubiana: Guida, Mappa e Cosa Vedere",
+    "description": "Tutto per visitare Piazza Prešeren (Prešernov trg) a Lubiana: Triplo Ponte, Chiesa Francescana, Monumento a Prešeren, orari, mappa e punti fotografici. Ingresso gratuito, aperto 24/7.",
+    "ogImageAlt": "Prešernov trg a Lubiana, Slovenia"
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla home"
+  },
+  "hero": {
+    "title": "Piazza Prešeren (Prešernov trg, Lubiana)",
+    "subtitle": "Il cuore di Lubiana e simbolo culturale nazionale della Slovenia",
+    "rating": "4.7(13,277)",
+    "reviewCount": "13.277 recensioni",
+    "hours": "Aperto 24/7",
+    "openMaps": "Vedi la posizione"
+  },
+  "intro": {
+    "title": "Informazioni su Piazza Prešeren",
+    "locationTitle": "Posizione e come visitare Piazza Prešeren a Lubiana",
+    "nearbyTitle": "Monumenti e attrazioni attorno a Piazza Prešeren",
+    "historyTitle": "Storia e significato di Piazza Prešeren",
+    "entityDeclaration": "Benvenuti a <strong>Piazza Prešeren</strong>, la centrale <strong>Prešernov trg</strong> di Lubiana. Nel cuore di <strong>Lubiana</strong>, in <strong>Slovenia</strong>, è il punto di partenza principale per chi visita la regione.",
+    "breadcrumb": "Prešernov trg → Lubiana → Lubiana → Slovenia",
+    "nearbyCluster": "Visitando <strong>Piazza Prešeren</strong> si raggiungono facilmente le attrazioni storiche vicine, tra cui il <strong>Triplo Ponte (Tromostovje)</strong> e il <strong>Castello di Lubiana (Ljubljanski grad)</strong>.",
+    "description": "Entrando in Piazza Prešeren si viene subito avvolti dall'atmosfera romantica e dalla profondità storica di questa città mitteleuropea. La piazza circolare è come il salotto di Lubiana: al centro svetta una statua in bronzo, tutt'intorno si affacciano edifici colorati e il Triplo Ponte unisce le due sponde del fiume, con eleganza e vitalità in ogni dettaglio.\n\nIn un pomeriggio di primavera la luce del sole tinge d'oro caldo la chiesa rosa e gli edifici liberty. I fiori sbocciano, i musicisti di strada riempiono la piazza di melodie. La statua di Prešeren appare viva e concentrata, sopra il poeta una musa con un ramo d'alloro, simbolo di poesia e ispirazione.\n\nI visitatori passeggiano senza fretta, i residenti si incontrano ai tavolini dei caffè, i bambini giocano al centro della piazza. In lontananza si intravede il castello, mentre il flusso di persone sul Triplo Ponte unisce città vecchia e città nuova.\n\nQui non c'è corsa, ma la calma dei secoli e la vivacità della vita quotidiana. La sera, quando le luci si accendono, i profili degli edifici si disegnano dolcemente e la piazza diventa il palcoscenico della vita notturna europea.",
+    "visitGuide": {
+      "title": "Consigli per la visita",
+      "items": [
+        "Venite nei giorni feriali al mattino presto o verso sera: meno folla e luce più morbida per passeggiare e fotografare",
+        "Tutta l'area pubblica della piazza è accessibile gratuitamente, senza biglietto",
+        "La sera è il momento migliore per il tramonto e il passaggio graduale all'illuminazione notturna",
+        "I numerosi caffè attorno alla piazza invitano a una pausa e allo stile di vita rilassato di Lubiana"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti salienti",
+      "items": [
+        "Il cuore di Lubiana, capitale della Slovenia",
+        "Piazza pedonale circolare, ridisegnata nel 1987–1988",
+        "Luogo simbolo dedicato al poeta nazionale France Prešeren",
+        "Nel 1991 dichiarata monumento culturale nazionale della Slovenia"
+      ]
+    }
+  },
+  "nearby": {
+    "title": "Monumenti attorno a Piazza Prešeren",
+    "subtitle": "Tre luoghi da non perdere, raggiungibili in meno di due minuti a piedi",
+    "items": [
+      {
+        "name": "Triplo Ponte (Tromostovje)",
+        "walk": "1 minuto a piedi · lato ovest",
+        "desc": "Il triplice passaggio progettato da Jože Plečnik collega la piazza con il lungofiume della Ljubljanica e con il centro storico. Dai gradini centrali si gode la vista classica verso la piazza."
+      },
+      {
+        "name": "Chiesa Francescana dell'Annunciazione",
+        "walk": "Sulla piazza · lato sud",
+        "desc": "Costruita tra il 1646 e il 1660, con la sua facciata barocca rosa chiude la piazza verso sud. L'interno, riccamente decorato, è visitabile gratuitamente."
+      },
+      {
+        "name": "Monumento a France Prešeren",
+        "walk": "Centro della piazza",
+        "desc": "La statua in bronzo del poeta nazionale, realizzata da Ivan Zajec nel 1905, è sormontata da una musa con il ramo d'alloro — il punto d'incontro che i residenti chiamano semplicemente \"pod spomenikom\" (sotto il monumento)."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Scoprire il fascino di Piazza Prešeren",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Secoli di trasformazioni urbane",
+        "content": "Piazza Prešeren nacque da un incrocio presso la porta medievale della città. Nel XVII secolo fu costruita accanto la chiesa francescana e lo spazio iniziò a prendere forma. Dopo il terremoto del 1895 sorsero tutt'intorno numerosi edifici liberty, che definirono il carattere architettonico attuale. Nel 1905 fu collocato al centro il monumento a France Prešeren, dedicato a uno dei maggiori poeti sloveni.\n\nTra il 1987 e il 1988 l'architetto Edvard Ravnikar ridisegnò radicalmente la piazza, trasformandola da imbutiforme a circolare. Dopo il rinnovo del 2007 divenne completamente pedonale. Nel corso dei secoli l'area si è evoluta da porta medievale a simbolo della cultura slovena e fulcro della vita cittadina."
+      },
+      {
+        "id": "architecture",
+        "title": "Caratteristiche architettoniche",
+        "content": "Piazza pedonale circolare pavimentata in granito, con motivi radiali in pietra chiara. Al centro si trova il monumento in bronzo a France Prešeren (1905). A est sorge l'edificio della Farmacia Centrale, a nord il grande magazzino Mayer in stile liberty, a ovest il Triplo Ponte e a sud la facciata rosa della chiesa francescana dell'Annunciazione. Attorno si trovano preziosi esempi di architettura barocca e della Secessione viennese.\n\nL'insieme unisce più stili: scultura neoclassica in bronzo per il monumento, tradizione barocca per la chiesa, eleganza liberty per i palazzi circostanti: un museo all'aperto dell'architettura di Lubiana."
+      },
+      {
+        "id": "culture",
+        "title": "Significato culturale",
+        "content": "Piazza Prešeren è uno dei simboli più forti dell'identità nazionale slovena. Il monumento ricorda France Prešeren, la cui opera contribuì a formare la lingua letteraria slovena e i cui versi sono parte dell'inno nazionale. La piazza ospita eventi culturali, concerti, programmi d'arte, mercatini natalizi e incontri pubblici.\n\nNel 1991 è stata dichiarata monumento culturale nazionale. Oggi è lo spazio pubblico più importante di Lubiana e uno dei punti culturali più noti della Slovenia."
+      },
+      {
+        "id": "experience",
+        "title": "Esperienze da non perdere",
+        "content": "Il momento più bello per visitarla è la sera. Il tramonto tinge d'oro caldo la chiesa rosa e le facciate liberty, mentre la musica degli artisti di strada si diffonde sulla piazza. I residenti seduti ai caffè, i visitatori che osservano i dettagli architettonici e la vita della città.\n\nQuando cala il buio e si accendono le luci, la piazza diventa uno dei palcoscenici più romantici di Lubiana. È il luogo dove ci si dà ancora appuntamento \"sotto il monumento\", e dove la storia si fonde in modo naturale con la quotidianità della città."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazioni di base",
+    "officialName": "Nome ufficiale",
+    "officialNameValue": "Prešernov trg (Piazza Prešeren)",
+    "type": "Tipologia",
+    "typeValue": "Piazza del centro città, monumento storico, centro culturale e artistico, porta del centro storico, sede del monumento a Prešeren, cuore della zona pedonale",
+    "country": "Paese",
+    "countryValue": "Slovenia",
+    "city": "Città",
+    "cityValue": "Lubiana",
+    "googleRating": "Valutazione Google",
+    "googleRatingValue": "4,7/5 (13.277 recensioni)",
+    "phone": "Telefono di contatto",
+    "phoneValue": "Ljubljana Tourism: +386 1 306 45 00",
+    "address": "Indirizzo",
+    "addressValue": "Prešernov trg 1, 1000 Lubiana, Slovenia"
+  },
+  "hours": {
+    "title": "Orari di apertura",
+    "outdoor": "Area pubblica all'aperto",
+    "outdoorTime": "Aperta tutto l'anno, 24 ore su 24. Nessuna limitazione di accesso alla piazza.",
+    "lighthouse": "Chiese e interni circostanti",
+    "summer": "Martedì – domenica",
+    "summerTime": "09:00–18:00",
+    "winter": "Lunedì",
+    "winterTime": "Chiuso (eccetto festività religiose)",
+    "warning": "Consigli per la visita",
+    "warningTime": "Per meno folla e luce migliore consigliamo la visita nei giorni feriali, al mattino presto o verso sera",
+    "tip": "L'area pubblica della piazza è gratuita"
+  },
+  "tickets": {
+    "title": "Prezzi d'ingresso",
+    "outdoor": "Area pubblica della piazza",
+    "outdoorPrice": "Ingresso gratuito, nessun biglietto",
+    "lighthouse": "Interni di chiese e musei circostanti",
+    "adults": "Adulti",
+    "adultsPrice": "Prezzi variabili secondo la struttura",
+    "students": "Studenti",
+    "studentsPrice": "Sconti disponibili",
+    "children": "Bambini",
+    "childrenPrice": "Gratuito o ridotto in alcune strutture",
+    "card": "Ljubljana Card",
+    "cardPrice": "Può ridurre il costo degli ingressi a più attrazioni"
+  },
+  "transport": {
+    "title": "Come arrivare",
+    "airport": "Dall'aeroporto di Lubiana",
+    "airportDesc": "Prendete la navetta per il centro città e proseguite a piedi per circa cinque minuti fino all'ingresso della piazza: circa 25 minuti in totale. Taxi e servizi di mobilità arrivano direttamente in centro.",
+    "selfDrive": "Dalla stazione ferroviaria / degli autobus",
+    "selfDriveDesc": "Circa dieci minuti a piedi fino alle strade attorno alla piazza. I mezzi pubblici sono frequenti e ben organizzati.",
+    "bus": "Dal centro storico",
+    "busDesc": "Dal Triplo Ponte, dal Castello di Lubiana, dal mercato centrale e dalle altre attrazioni del centro la piazza è raggiungibile comodamente a piedi.",
+    "intercity": "In bicicletta",
+    "intercityDesc": "Nel centro storico sono presenti stazioni di bike sharing. La bici è adatta alle brevi distanze.",
+    "cycling": "Trasporto pubblico",
+    "cyclingDesc": "Con il biglietto giornaliero del trasporto urbano potete esplorare più zone della città in un solo giorno.",
+    "tips": "Consigli per l'arrivo",
+    "tipsDesc": "Le strade del centro storico sono strette: il modo migliore per visitarlo è a piedi. Piazza Prešeren è un'ottima base per più attrazioni vicine."
+  },
+  "route": {
+    "title": "Percorso a piedi consigliato",
+    "overview": "Il momento migliore è verso sera. Entrate dal Triplo Ponte, costeggiate il perimetro circolare ammirando la statua di Prešeren, la chiesa rosa e gli edifici liberty, passeggiate nelle strade attorno e concludete con una sosta in uno dei caffè. Per una visita tranquilla basta circa un'ora, per un'esplorazione più approfondita anche mezza giornata.",
+    "steps": [
+      "Arrivate alla fermata dei mezzi pubblici più vicina e raggiungete la piazza attraverso il Triplo Ponte",
+      "Ammirate il Triplo Ponte e la vista che unisce la piazza al fiume",
+      "Camminate lungo il perimetro in granito attorno al monumento centrale a France Prešeren",
+      "A sud osservate da vicino la facciata barocca della chiesa francescana dell'Annunciazione",
+      "A est notate lo storico edificio della Farmacia Centrale",
+      "A nord fotografate i dettagli liberty del grande magazzino Mayer",
+      "Fermatevi in un caffè all'aperto e godetevi il ritmo rilassato del centro",
+      "Uscite dal lato ovest proseguendo verso il Castello di Lubiana e le altre attrazioni del centro storico"
+    ],
+    "supplementsTitle": "Note pratiche",
+    "supplements": [
+      "La pavimentazione in granito e pietra è irregolare: calzature comode consigliate",
+      "In estate proteggetevi dal sole, in vento e freddo vestitevi a strati",
+      "Rispettate gli edifici storici e lo spazio pubblico, non arrampicatevi sui monumenti",
+      "La piazza è molto frequentata anche dai residenti: mantenete un tono di voce moderato",
+      "In estate si tengono occasionalmente concerti, esposizioni d'arte ed eventi pubblici"
+    ]
+  },
+  "photoSpots": {
+    "title": "Punti fotografici",
+    "spots": [
+      {
+        "name": "Ingresso dal Triplo Ponte",
+        "desc": "Inquadratura simmetrica di tutta la piazza e della chiesa rosa."
+      },
+      {
+        "name": "Statua centrale",
+        "desc": "La statua in bronzo di Prešeren in primo piano con gli edifici colorati sullo sfondo."
+      },
+      {
+        "name": "Chiesa vista di lato",
+        "desc": "Ottimo punto per mettere in risalto la facciata barocca e la cupola."
+      },
+      {
+        "name": "Davanti al palazzo Mayer",
+        "desc": "Dettagli liberty e spazio urbano in un solo scatto."
+      },
+      {
+        "name": "Percorso circolare della piazza",
+        "desc": "La pavimentazione e i motivi radiali creano una forte sensazione di profondità."
+      }
+    ],
+    "tips": "Consigli per le foto",
+    "tipsContent": "La luce naturale è generalmente abbondante: le giornate di sole sono ideali per architettura e scene di strada. L'uso dei droni è vietato. Chiedete il permesso prima di fotografare residenti e artisti di strada."
+  },
+  "hotels": {
+    "title": "Dove dormire",
+    "hotels": [
+      {
+        "name": "Fascino e convenienza: hotel storici in stile liberty",
+        "desc": "Nelle vicinanze della piazza, hotel ricavati da palazzi storici ristrutturati con vista sul centro",
+        "price": "Prezzi variabili secondo la stagione"
+      },
+      {
+        "name": "Scelta di design: strutture sul fiume",
+        "desc": "Alloggi dal design essenziale lungo la Ljubljanica, a breve distanza dalla piazza",
+        "price": "Prezzi variabili secondo la stagione"
+      },
+      {
+        "name": "Esperienza speciale: appartamenti boutique nel centro storico",
+        "desc": "Alloggi nelle vie storiche del centro, con atmosfera autentica",
+        "price": "Prezzi variabili secondo la stagione"
+      },
+      {
+        "name": "Opzione economica: vicino alla stazione centrale",
+        "desc": "Soluzioni più accessibili, ben collegate al centro e a pochi minuti a piedi dalla piazza",
+        "price": "Prezzi variabili secondo la stagione"
+      }
+    ],
+    "supplements": "Consigli sull'alloggio",
+    "supplementsContent": "La scelta più pratica è un alloggio tra Piazza Prešeren e il centro storico: da lì raggiungerete a piedi la maggior parte delle attrazioni di Lubiana."
+  },
+  "gallery": {
+    "title": "Galleria fotografica",
+    "subtitle": "Viste della città e patrimonio culturale di Piazza Prešeren",
+    "captions": [
+      "Panorama di Piazza Prešeren",
+      "Triplo Ponte e piazza",
+      "Statua in bronzo di Prešeren",
+      "Chiesa francescana",
+      "Grande magazzino Mayer",
+      "La piazza di notte",
+      "Edificio della Farmacia Centrale",
+      "Vita da caffè in piazza",
+      "Lungofiume della Ljubljanica",
+      "Vie del centro storico",
+      "Viste sulla città",
+      "Atmosfera romantica serale",
+      "Dettaglio architettonico storico",
+      "Scena della piazza"
+    ],
+    "viewAll": "Apri la posizione su Google Maps"
+  },
+  "reviews": {
+    "title": "Recensioni dei visitatori",
+    "declaration": "Le recensioni sono disponibili su Google Maps (link esterno).",
+    "moreReviews": "Vedi più recensioni su Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "Marzo 2026",
+        "rating": 5,
+        "text": "Un luogo eccezionalmente romantico. L'atmosfera serale è incantevole e la chiesa rosa insieme agli edifici liberty crea un quadro davvero speciale."
+      },
+      {
+        "name": "Li Hua",
+        "date": "Febbraio 2026",
+        "rating": 5,
+        "text": "Il momento più bello del mio viaggio in Slovenia. La piazza non è grande, ma ogni dettaglio è curato e ricco di storia."
+      },
+      {
+        "name": "Wang Fang",
+        "date": "Gennaio 2026",
+        "rating": 5,
+        "text": "Un paradiso per gli amanti dell'architettura: chiesa barocca, edifici liberty e monumento convivono in grande armonia."
+      },
+      {
+        "name": "Chen Wei",
+        "date": "Dicembre 2025",
+        "rating": 4,
+        "text": "Una bella piazza cittadina, in posizione eccellente tra città vecchia e città nuova. Particolarmente animata nel periodo del mercatino di Natale."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Posizione e come visitare Piazza Prešeren a Lubiana",
+    "subtitle": "Prešernov trg 1, 1000 Lubiana, Slovenia",
+    "openMaps": "Apri in Google Maps",
+    "officialLinkText": "Per informazioni ufficiali e aggiornamenti sul turismo regionale visita",
+    "officialLinkLabel": "Portale turistico ufficiale di Lubiana / Slovenia"
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "items": [
+      {
+        "question": "Dove si trova Piazza Prešeren?",
+        "answer": "Piazza Prešeren (Prešernov trg) si trova a Lubiana, in Slovenia, in Prešernov trg 1, 1000 Lubiana."
+      },
+      {
+        "question": "La visita a Piazza Prešeren è gratuita?",
+        "answer": "Sì. Piazza Prešeren è uno spazio pubblico aperto tutto l'anno, 24 ore su 24, senza biglietto d'ingresso."
+      },
+      {
+        "question": "Quali sono le principali attrazioni vicine?",
+        "answer": "Nelle immediate vicinanze si trovano il Triplo Ponte (Tromostovje), il Castello di Lubiana, la chiesa francescana dell'Annunciazione e il mercato centrale di Lubiana."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Meteo attuale e previsioni",
+    "subtitle": "Condizioni in tempo reale e i prossimi giorni a Lubiana.",
+    "updated": "Aggiornato",
+    "today": "Oggi",
+    "now": "Adesso",
+    "feels": "Percepiti",
+    "humidity": "Umidità",
+    "wind": "Vento",
+    "precipToday": "Precipitazioni oggi",
+    "forecast": "Previsioni a 7 giorni",
+    "advice": "Se sono previste pioggia o tempeste, porta l'ombrello e concedi più tempo per foto e passeggiate.",
+    "codes": {
+      "0": "Cielo sereno",
+      "1": "Prevalentemente sereno",
+      "2": "Parzialmente nuvoloso",
+      "3": "Coperto",
+      "45": "Nebbia",
+      "48": "Nebbia gelata",
+      "51": "Pioggerella lieve",
+      "53": "Pioggerella",
+      "55": "Pioggerella fitta",
+      "61": "Pioggia lieve",
+      "63": "Pioggia",
+      "65": "Pioggia forte",
+      "66": "Pioggia gelata",
+      "67": "Pioggia gelata forte",
+      "71": "Neve lieve",
+      "73": "Neve",
+      "75": "Neve forte",
+      "80": "Rovesci",
+      "81": "Rovesci",
+      "82": "Rovesci violenti",
+      "85": "Rovesci di neve",
+      "86": "Rovesci di neve forti",
+      "95": "Temporale",
+      "96": "Temporale con grandine",
+      "99": "Temporale con grandine"
+    }
+  },
+  "visitor": {
+    "title": "Servizi per i visitatori e strutture vicine",
+    "subtitle": "Una panoramica pratica e neutrale: descriviamo categorie, non attività specifiche.",
+    "note": "In quanto sito informativo no-profit, non raccomandiamo negozi, caffè o hotel specifici; l'elenco raggruppa i tipi di servizi presenti attorno alla piazza.",
+    "items": [
+      { "name": "Bagni pubblici", "desc": "Nella zona pedonale e ai principali nodi di trasporto ci sono bagni pubblici e accessibili, per lo più a moneta o carta." },
+      { "name": "Acqua potabile", "desc": "Le fontane pubbliche sono comuni nel centro storico; una borraccia riutilizzabile è utile d'estate." },
+      { "name": "Parcheggio", "desc": "Garage e parcheggi pubblici a pagamento si trovano al margine del centro; il cuore della piazza è pedonale." },
+      { "name": "Ristoranti e gastronomia", "desc": "Attorno alla piazza si susseguono ristoranti dalla cucina slovena a quella internazionale." },
+      { "name": "Caffè e dolci", "desc": "Caffetterie, pasticcerie e gelaterie invitano a un caffè o un dolce durante il giorno." },
+      { "name": "Supermercati e negozi", "desc": "A pochi minuti a piedi ci sono supermercati piccoli e negozi di convenienza." },
+      { "name": "Strade dello shopping", "desc": "Le vie pedonali e le gallerie con marche locali iniziano proprio dalla piazza." },
+      { "name": "Benzinai e ricarica", "desc": "Benzinai e punti di ricarica per auto elettriche sono lungo gli accessi e le vie principali." },
+      { "name": "Banche e bancomat", "desc": "Banche, uffici di cambio e bancomat si concentrano in centro." },
+      { "name": "Farmacia e sanità", "desc": "Farmacie e un ospedale con pronto soccorso sono raggiungibili a piedi o con breve tragitto." },
+      { "name": "Informazioni turistiche", "desc": "Un ufficio turistico ufficiale offre mappe, eventi e consigli sui trasporti." },
+      { "name": "Accessibilità", "desc": "Marciapiedi senza barriere, rampe e ascensori collegano la piazza ai dintorni." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Come arrivare in Piazza Prešeren",
+    "subtitle": "Dall'aeroporto, dalla stazione, con i mezzi, taxi o bici.",
+    "intro": "La piazza si trova nel cuore pedonale di Lubiana: ogni percorso termina con una breve passeggiata nella zona pedonale.",
+    "timeLabel": "Tempo",
+    "costLabel": "Costo",
+    "modes": [
+      { "mode": "Dall'aeroporto", "time": "≈ 25–40 min", "cost": "4–35 €", "steps": ["Prendi la navetta aeroportuale per il centro (o un bus regionale).", "Dalla fermata centrale sono 5 minuti a piedi fino alla piazza.", "Un taxi o un NCC ti lascia al margine del centro."], "tip": "Prenota la navetta o un transfer condiviso per il miglior prezzo." },
+      { "mode": "Dalla stazione ferroviaria/autobus", "time": "≈ 10 min a piedi", "cost": "1,30 € (biglietto urbano)", "steps": ["Entrambe le stazioni sono a 10 minuti a piedi dalla piazza.", "Segui l'indicazione per la zona pedonale e il Ponte Triplo.", "La rete urbana di autobus serve anche l'area."], "tip": "Un biglietto urbano 24 ore vale per gli autobus e la maggior parte delle linee." },
+      { "mode": "Autobus e tram urbano", "time": "variabile", "cost": "1,30 € corsa semplice", "steps": ["Diverse linee fermano a pochi minuti a piedi dalla piazza.", "Acquista il biglietto o la card giornaliera dall'autista o in edicola.", "Le fermate indicano il centro storico e il fiume."], "tip": "Convalida il biglietto a bordo; i controlli sono frequenti." },
+      { "mode": "Taxi e NCC", "time": "5–15 min dal centro", "cost": "tassametro / app", "steps": ["Taxi e app prendono all'aeroporto, alle stazioni e in punti fissi.", "Chiedi 'Prešernov trg' o il Ponte Triplo.", "Ti lasciano al margine pedonale, 1 minuto a piedi."], "tip": "Scegli taxi autorizzati con tassametro visibile." },
+      { "mode": "Auto e Park-and-Ride", "time": "variabile", "cost": "parcheggio a pagamento", "steps": ["Raggiungi il centro tramite le circonvallazioni e parcheggia al margine.", "Prosegui a piedi o con l'autobus urbano.", "La piazza e il centro storico sono zone pedonali."], "tip": "Non entrare nel nucleo pedonale; il parcheggio è a pagamento e limitato." },
+      { "mode": "A piedi e in bici", "time": "da qualsiasi punto centrale", "cost": "gratis / noleggio", "steps": ["Il centro storico è compatto e si esplora meglio a piedi.", "Ci sono stazioni di bike sharing nel centro.", "I percorsi piani lungo il fiume uniscono la piazza ai parchi."], "tip": "Una passeggiata lungofiume fino al castello o al mercato dura circa 10 minuti." }
+    ]
+  },
+  "seasons": {
+    "title": "Strategia di visita per stagioni",
+    "subtitle": "Una panoramica annuale su clima, affollamento e luce.",
+    "columns": { "season": "Stagione", "temp": "Temp. media", "precip": "Precipitazioni", "crowds": "Affollamento", "highlight": "Da non perdere", "pack": "Cosa portare" },
+    "rows": [
+      { "season": "Primavera (mar–mag)", "temp": "8–19 °C", "precip": "Moderata, ~70 mm/mese", "crowds": "Basso–medio", "highlight": "Fioriture, luce soft, pochi turisti", "pack": "Strati, giacca pioggia, scarpe comode" },
+      { "season": "Estate (giu–ago)", "temp": "18–28 °C", "precip": "Temporali occasionali", "crowds": "Alto (alta stagione)", "highlight": "Giornate lunghe, terrazze, festival", "pack": "Protezione solare, acqua, abiti traspiranti" },
+      { "season": "Autunno (set–nov)", "temp": "9–22 °C", "precip": "Pioggia crescente", "crowds": "Medio", "highlight": "Luce dorata, vendemmia, vie tranquille", "pack": "Indumenti caldi, ombrello, scarpe impermeabili" },
+      { "season": "Inverno (dic–feb)", "temp": "-2–6 °C", "precip": "Possibile neve", "crowds": "Basso (feste a parte)", "highlight": "Mercatino di Natale, aria fresca, piazze silenziose", "pack": "Cappotto caldo, cappello, guanti, stivali antisdrucciolo" }
+    ]
+  },
+  "audience": {
+    "title": "Itinerari per tipo di viaggiatore",
+    "subtitle": "Scegli il piano adatto a chi viaggia con te.",
+    "durationLabel": "Durata",
+    "paceLabel": "Ritmo",
+    "tipsTitle": "Da sapere",
+    "plans": [
+      { "name": "Famiglie con bambini", "duration": "1,5–2 h", "pace": "Rilassato", "tagline": "Pianeggiante, senza auto e pieno di piccole scoperte per tutte le età.", "steps": ["Inizia dal Ponte Triplo e conta i tre ponti.", "Lascia che i bambini cerchino la musa e la chiesa rosa.", "Fai una pausa in un caffè lungofiume con spazio.", "Concludi con una passeggiata al mercato centrale."], "tips": ["Marciapiedi senza gradini, adatti ai passeggini.", "Bagni e fontane pubbliche sono vicini.", "Resta nella piazza aperta: nessuna strada da attraversare."] },
+      { "name": "Fotografia e natura", "duration": "2–3 h", "pace": "Flessibile", "tagline": "Luce e angolazioni migliori per architettura e fiume.", "steps": ["Fotografa dal Ponte Triplo nell'ora dorata.", "Inquadra la chiesa rosa contro il cielo del tramonto.", "Cattura le facciate Secessione sul lato nord.", "Segui il fiume per i riflessi sull'acqua."], "tips": ["L'ora blu dopo il tramonto è la più drammatica.", "Un treppiede aiuta con poca luce; evita i riflessi.", "I droni sono vietati nel nucleo storico."] },
+      { "name": "Poco sforzo e accessibile", "duration": "1 h", "pace": "Molto facile", "tagline": "Cammino minimo, con panchine, rampe e bei panorami.", "steps": ["Arriva senza gradini dal lato della stazione.", "Riposa su una panchina con vista su tutta la piazza.", "Goditi il monumento e la chiesa senza scale.", "Torna lungo il lungofiume pianeggiante."], "tips": ["Rampe e ascensori collegano i percorsi principali.", "I caffè hanno ingressi accessibili.", "Evita il pomeriggio di punta per più calma."] }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerari consigliati",
+    "subtitle": "Piani di mezza giornata e giornata intera dalla piazza.",
+    "plans": [
+      { "name": "Mezza giornata (≈ 4 h)", "overview": "Un giro rilassato tra piazza, fiume e mercato.", "steps": ["10:00 Passeggiata in piazza e Ponte Triplo.", "10:45 Caffè in una terrazza lungofiume.", "11:30 A piedi al mercato centrale e al duomo.", "12:30 Pranzo nel centro storico.", "13:30 Rientro passando per la chiesa francescana."] },
+      { "name": "Giornata intera (≈ 8 h)", "overview": "La piazza più il castello, i musei e il green belt.", "steps": ["09:30 Piazza, Ponte Triplo e monumento.", "10:30 Funicolare o a piedi fino al castello.", "12:30 Pranzo lungofiume.", "14:00 Un museo a scelta nel centro.", "16:00 Bici o passeggiata lungofiume fino al Parco Tivoli.", "18:00 Tramonto di nuovo in piazza.", "19:30 Cena con vista sulle facciate illuminate."] }
+    ]
+  },
+  "science": {
+    "title": "Capire il luogo e la tua responsabilità",
+    "subtitle": "Una breve lettura scientifica sull'ambiente della piazza e come proteggerlo.",
+    "responsibilityTitle": "Responsabilità del visitatore",
+    "responsibility": "La piazza è uno spazio pubblico vivo e un monumento culturale protetto. Resta sui percorsi, mantieni un volume moderato, porta via i rifiuti e non arrampicarti sulle statue né sederti su elementi storici fragili, così il luogo resta godibile per tutti.",
+    "cards": [
+      { "name": "Fiume, carsismo e zona umida", "desc": "Lubiana sorge dove la Ljubljanica lascia il Ljubljansko Barje, una palude carsica protetta. La portata del fiume e la falda della città sono legate a questo ecosistema sensibile." },
+      { "name": "Microclima urbano", "desc": "Pietra e granito immagazzinano il calore diurno e lo rilasciano dopo il tramonto: per questo la piazza aperta è più calda di sera, un piccolo esempio di isola di calore urbana." },
+      { "name": "Ecologia urbana", "desc": "Fiume e parchi ospitano rondoni, pipistrelli e martin pescatori; i tigli e i platani del centro storico raffreddano le strade e purificano l'aria." },
+      { "name": "Patrimonio e geologia", "desc": "Le colline circostanti sono carso calcareo, che ha plasmato sorgenti, grotte e la pietra degli edifici della piazza." }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Storia, racconti e leggende",
+    "subtitle": "Come una porta medievale è diventata il cuore culturale della Slovenia.",
+    "timelineTitle": "Cronologia",
+    "legendsTitle": "Racconti e leggende",
+    "events": [
+      { "year": "Medioevo", "title": "La porta della città", "desc": "La piazza nacque attorno a un incrocio presso la porta medievale sulla via commerciale verso nord." },
+      { "year": "1646–1660", "title": "La chiesa rosa", "desc": "Fu costruita la Chiesa Francescana dell'Annunciazione, che chiude la piazza a sud con la facciata barocca." },
+      { "year": "1895", "title": "Rinascita dopo il terremoto", "desc": "Il terremoto del 1895 innescò una ricostruzione in stile Secessione che definisce la piazza odierna." },
+      { "year": "1905", "title": "Il monumento al poeta", "desc": "Al centro fu inaugurata la statua bronzea di France Prešeren, opera di Ivan Zajec." },
+      { "year": "1987–1988", "title": "Una piazza rotonda", "desc": "L'architetto Edvard Ravnikar trasformò lo spazio nell'attuale disposizione circolare e pedonale." },
+      { "year": "1991", "title": "Un simbolo nazionale", "desc": "Prešernov trg fu dichiarato monumento culturale di rilevanza nazionale per la Slovenia." },
+      { "year": "2007", "title": "Il cuore senza auto", "desc": "Dopo la ristrutturazione la piazza divenne totalmente pedonale, il vero centro della vita cittadina." }
+    ],
+    "legends": [
+      { "title": "Il poeta e la sua musa", "desc": "Il monumento mostra Prešeren con una musa sopra di lui. Dicono i locali che lei volga lo sguardo alla finestra del suo amore non corrisposto, Julija: un piccolo dettaglio romantico nella storia della città." },
+      { "title": "Il drago di Lubiana", "desc": "Il drago araldico del Ponte dei Draghi muove la coda quando lo attraversa una vergine: una cara leggenda popolare della Ljubljanica." },
+      { "title": "Tre ponti, un attraversamento", "desc": "Il Ponte Triplo iniziò come un'unica arcata; in seguito furono aggiunte due passerelle laterali, trasformando un passaggio nella silhouette caratteristica della piazza." }
+    ]
+  },
+  "footer": {
+    "rights": "© 2026 Associazione indipendente di ricerca turistica Prešernov trg. Tutti i diritti riservati.",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Impostazioni cookie",
+    "officialResourcesTitle": "Fonti ufficiali",
+    "officialLinks": {
+      "sloveniaInfo": "Ente del turismo sloveno",
+      "visitLjubljana": "Visit Ljubljana",
+      "govSi": "Slovenia"
+    },
+    "disclaimer": "Questo sito è un progetto indipendente di informazione turistica. Non è collegato ad amministrazioni locali né a istituzioni ufficiali."
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: aprile 2026",
+    "sections": [
+      {
+        "heading": "1. Raccolta delle informazioni",
+        "content": "Di norma non raccogliamo dati personali che permettano di identificare direttamente l'utente. Le informazioni che ci inviate tramite moduli di contatto o e-mail sono trattate in modo riservato."
+      },
+      {
+        "heading": "2. Utilizzo delle informazioni",
+        "content": "Le informazioni raccolte sono usate esclusivamente per fornire, mantenere e migliorare il servizio e per comunicare con gli utenti. Non vendiamo né condividiamo dati personali con terze parti per finalità di marketing."
+      },
+      {
+        "heading": "3. Cookie e tecnologie di tracciamento",
+        "content": "Utilizziamo cookie e tecnologie simili per monitorare l'attività sul sito e memorizzare alcune impostazioni. Potete impostare il browser in modo che rifiuti i cookie o vi avvisi quando vengono inviati."
+      },
+      {
+        "heading": "4. Sicurezza dei dati",
+        "content": "La sicurezza dei vostri dati è importante per noi. Adottiamo misure adeguate per proteggerli, ma nessun metodo di trasmissione su Internet può garantire sicurezza assoluta."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di servizio",
+    "lastUpdated": "Ultimo aggiornamento: aprile 2026",
+    "sections": [
+      {
+        "heading": "1. Accettazione dei termini",
+        "content": "Accedendo a questo sito e utilizzandolo accettate i presenti termini di servizio. Se non accettate una parte dei termini, non potete usare il servizio."
+      },
+      {
+        "heading": "2. Uso del servizio",
+        "content": "Questo sito è un progetto informativo indipendente dedicato ai viaggi. I contenuti sono a scopo informativo generale. Usate il sito in modo responsabile e lecito."
+      },
+      {
+        "heading": "3. Proprietà intellettuale",
+        "content": "Tutti i contenuti del sito, inclusi testi, fotografie ed elementi grafici, sono di proprietà del gestore, salvo diversa indicazione. Uso, copia o distribuzione non autorizzati sono vietati."
+      },
+      {
+        "heading": "4. Limitazione di responsabilità",
+        "content": "Non siamo responsabili per danni diretti o indiretti derivanti dall'uso o dall'impossibilità di usare questo sito o le informazioni in esso contenute."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie essenziali",
+      "description": "Necessari al funzionamento di base del sito.",
+      "badge": "Sempre attivi"
+    },
+    "analytics": {
+      "title": "Cookie analitici",
+      "description": "Ci aiutano a capire come i visitatori interagiscono con il sito."
+    },
+    "marketing": {
+      "title": "Cookie di marketing",
+      "description": "Utilizzati per tracciare i visitatori tra i diversi siti."
+    },
+    "save": "Salva impostazioni",
+    "saved": "Impostazioni salvate!"
+  },
+  "officialManagement": {
+    "title": "Informazioni su Piazza Prešeren",
+    "text": "La gestione e la manutenzione di Piazza Prešeren sono affidate al Comune di Lubiana. È una delle piazze più importanti e uno dei simboli culturali della capitale slovena.\n\nCome cuore di Lubiana e uno dei principali simboli nazionali, la piazza ha accompagnato nei secoli il passaggio dallo spazio medievale al moderno centro culturale. Oggi l'area pubblica è accessibile gratuitamente ed è uno dei luoghi migliori per vivere la cultura urbana slovena."
+  }
+}
