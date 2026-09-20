@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "presernovtrg",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-09-18",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "binding": "ASSETS",
+    "directory": ".open-next/assets"
+  },
+  "images": {
+    "binding": "IMAGES"
+  },
+  "services": [
+    {
+      // Self-reference service binding - the service name MUST be identical to
+      // "name" above. The OpenNext migration tool derived this value from the
+      // "name" field of package.json ("presernov-trg"), which is not an existing
+      // Worker, so `wrangler deploy` failed with API error 10143:
+      // "references Worker 'presernov-trg' which was not found".
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "presernovtrg"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
