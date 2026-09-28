@@ -24,8 +24,8 @@ export const UI_ORDERED_LOCALES = ['sl', 'en', 'de', 'es', 'it', 'zh'] as const;
  * Canonical origin — always the non-www host. Every canonical URL, hreflang
  * entry, sitemap URL and structured-data URL is generated from this value so
  * that https://presernovtrg.com and https://www.presernovtrg.com can never
- * drift apart again. `www` is additionally 301-redirected to this host in
- * `next.config.ts`.
+ * drift apart again. `www` is additionally redirected to this host in
+ * `src/middleware.ts`.
  */
 export const BASE_URL = 'https://presernovtrg.com';
 

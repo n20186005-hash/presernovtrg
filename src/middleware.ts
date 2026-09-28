@@ -8,7 +8,6 @@ const CANONICAL_HOST_PARSED = new URL(BASE_URL);
 const CANONICAL_HOST = CANONICAL_HOST_PARSED.host;
 const CANONICAL_HOSTNAME = CANONICAL_HOST_PARSED.hostname;
 const DEBUG_HEADER = 'x-presernov-canonical';
-const DEBUG_ENV_PATH = '.dbg/www-path-star.env';
 const BAD_PATH_TOKENS = [
   ':path*',
   ':path',
@@ -17,36 +16,6 @@ const BAD_PATH_TOKENS = [
   encodeURIComponent(':path'),
   encodeURIComponent(':*'),
 ];
-
-function reportDebugEvent(event: {
-  runId: string;
-  hypothesisId: string;
-  location: string;
-  msg: string;
-  data: Record<string, unknown>;
-}) {
-  // #region debug-point A:report-event
-  try {
-    const fs = require('node:fs');
-    let url = 'http://127.0.0.1:7777/event';
-    let sessionId = 'www-path-star';
-    try {
-      const env = fs.readFileSync(DEBUG_ENV_PATH, 'utf8');
-      url = env.match(/DEBUG_SERVER_URL=(.+)/)?.[1] || url;
-      sessionId = env.match(/DEBUG_SESSION_ID=(.+)/)?.[1] || sessionId;
-    } catch {}
-    fetch(url, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({
-        sessionId,
-        ts: Date.now(),
-        ...event,
-      }),
-    }).catch(() => {});
-  } catch {}
-  // #endregion
-}
 
 function parseHost(raw: string | null): { hostname: string; port: string } {
   if (!raw) return { hostname: '', port: '' };
@@ -146,23 +115,6 @@ function getBadPathRedirectUrl(request: NextRequest) {
 export default function middleware(request: NextRequest) {
   const badPathRedirect = getBadPathRedirectUrl(request);
   if (badPathRedirect) {
-    // #region debug-point D:bad-path-redirect
-    reportDebugEvent({
-      runId: 'pre-fix',
-      hypothesisId: 'D',
-      location: 'src/middleware.ts:badPathRedirect',
-      msg: '[DEBUG] bad path redirect generated',
-      data: {
-        pathname: request.nextUrl.pathname,
-        destination: badPathRedirect.toString(),
-        host:
-          request.headers.get('x-forwarded-host') ||
-          request.headers.get('host') ||
-          request.nextUrl.host ||
-          '',
-      },
-    });
-    // #endregion
     const location = badPathRedirect.toString();
     const res = NextResponse.redirect(location, {
       status: 307,
@@ -178,23 +130,6 @@ export default function middleware(request: NextRequest) {
 
   const canonicalRedirect = getCanonicalRedirectUrl(request);
   if (canonicalRedirect) {
-    // #region debug-point A:canonical-redirect
-    reportDebugEvent({
-      runId: 'pre-fix',
-      hypothesisId: 'A',
-      location: 'src/middleware.ts:canonicalRedirect',
-      msg: '[DEBUG] canonical host redirect generated',
-      data: {
-        pathname: request.nextUrl.pathname,
-        destination: canonicalRedirect.toString(),
-        host:
-          request.headers.get('x-forwarded-host') ||
-          request.headers.get('host') ||
-          request.nextUrl.host ||
-          '',
-      },
-    });
-    // #endregion
     const location = canonicalRedirect.toString();
     const res = NextResponse.redirect(location, {
       status: 308,
@@ -210,22 +145,6 @@ export default function middleware(request: NextRequest) {
     );
     return res;
   }
-  // #region debug-point E:pass-through
-  reportDebugEvent({
-    runId: 'pre-fix',
-    hypothesisId: 'E',
-    location: 'src/middleware.ts:passThrough',
-    msg: '[DEBUG] request passed through intl middleware',
-    data: {
-      pathname: request.nextUrl.pathname,
-      host:
-        request.headers.get('x-forwarded-host') ||
-        request.headers.get('host') ||
-        request.nextUrl.host ||
-        '',
-    },
-  });
-  // #endregion
   const res = intlMiddleware(request) as NextResponse;
   try {
     if (res && 'headers' in res) {
