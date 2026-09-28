@@ -8,6 +8,14 @@ const CANONICAL_HOST_PARSED = new URL(BASE_URL);
 const CANONICAL_HOST = CANONICAL_HOST_PARSED.host;
 const CANONICAL_HOSTNAME = CANONICAL_HOST_PARSED.hostname;
 const DEBUG_HEADER = 'x-presernov-canonical';
+const BAD_PATH_TOKENS = [
+  ':path*',
+  ':path',
+  ':*',
+  encodeURIComponent(':path*'),
+  encodeURIComponent(':path'),
+  encodeURIComponent(':*'),
+];
 
 function parseHost(raw: string | null): { hostname: string; port: string } {
   if (!raw) return { hostname: '', port: '' };
@@ -42,15 +50,6 @@ function getCanonicalRedirectUrl(request: NextRequest) {
     '';
   const { hostname: incomingHostname, port: incomingPort } = parseHost(hostHeader);
 
-  if (
-    !incomingHostname ||
-    incomingHostname === CANONICAL_HOSTNAME ||
-    incomingHostname === `www.${CANONICAL_HOSTNAME}` ||
-    incomingHostname.endsWith(`.${CANONICAL_HOSTNAME}`)
-  ) {
-    /* only normalize exact www.<canonical> or other known subdomains later */
-  }
-
   const needsHostRedirect = incomingHostname !== CANONICAL_HOSTNAME;
   if (!needsHostRedirect) return null;
 
@@ -70,7 +69,65 @@ function getCanonicalRedirectUrl(request: NextRequest) {
   return target;
 }
 
+function getBadPathRedirectUrl(request: NextRequest) {
+  const pathname = request.nextUrl.pathname;
+  const hasBadToken = BAD_PATH_TOKENS.some((token) => pathname.includes(token));
+  if (!hasBadToken) return null;
+
+  const protocol =
+    request.headers.get('x-forwarded-proto') ||
+    CANONICAL_HOST_PARSED.protocol.replace(/:$/, '') ||
+    'https';
+
+  const hostHeader =
+    request.headers.get('x-forwarded-host') ||
+    request.headers.get('host') ||
+    request.nextUrl.host ||
+    CANONICAL_HOST;
+  const { hostname: incomingHostname, port: incomingPort } = parseHost(hostHeader);
+  const hostname = incomingHostname || CANONICAL_HOSTNAME;
+  const canonicalPort = parseHost(CANONICAL_HOST).port;
+  const port = canonicalPort ? canonicalPort : incomingPort;
+
+  const cleanPathname =
+    pathname
+      .split('/')
+      .filter((seg) => seg && !BAD_PATH_TOKENS.some((t) => seg.includes(t)))
+      .map((seg) => {
+        let s = seg;
+        for (const t of BAD_PATH_TOKENS) {
+          if (s.includes(t)) s = s.split(t).join('');
+        }
+        return s;
+      })
+      .filter(Boolean)
+      .join('/');
+
+  const target = new URL(request.nextUrl.toString());
+  target.protocol = protocol;
+  target.hostname = hostname === CANONICAL_HOSTNAME ? hostname : CANONICAL_HOSTNAME;
+  target.port = port;
+  target.pathname = cleanPathname ? `/${cleanPathname}` : '/';
+  target.hash = request.nextUrl.hash;
+  return target;
+}
+
 export default function middleware(request: NextRequest) {
+  const badPathRedirect = getBadPathRedirectUrl(request);
+  if (badPathRedirect) {
+    const location = badPathRedirect.toString();
+    const res = NextResponse.redirect(location, {
+      status: 307,
+    });
+    res.headers.set(DEBUG_HEADER, 'middleware-v2-bad-path');
+    res.headers.set('x-presernov-location', location);
+    res.headers.set(
+      'x-presernov-request-path',
+      request.nextUrl.pathname || ''
+    );
+    return res;
+  }
+
   const canonicalRedirect = getCanonicalRedirectUrl(request);
   if (canonicalRedirect) {
     const location = canonicalRedirect.toString();
