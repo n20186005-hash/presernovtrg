@@ -48,7 +48,12 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
-          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p
+            className="text-xs max-w-3xl mx-auto leading-relaxed rounded-lg px-4 py-3"
+            style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-color)' }}
+          >
+            {t('disclaimer')}
+          </p>
         </div>
       </div>
     </footer>

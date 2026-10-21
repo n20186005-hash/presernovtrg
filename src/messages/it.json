@@ -410,7 +410,7 @@
       { "name": "Benzinai e ricarica", "desc": "Benzinai e punti di ricarica per auto elettriche sono lungo gli accessi e le vie principali." },
       { "name": "Banche e bancomat", "desc": "Banche, uffici di cambio e bancomat si concentrano in centro." },
       { "name": "Farmacia e sanità", "desc": "Farmacie e un ospedale con pronto soccorso sono raggiungibili a piedi o con breve tragitto." },
-      { "name": "Informazioni turistiche", "desc": "Un ufficio turistico ufficiale offre mappe, eventi e consigli sui trasporti." },
+      { "name": "Informazioni turistiche", "desc": "I punti informativi per i visitatori nelle vicinanze aiutano con mappe, eventi e indicazioni di base sui trasporti." },
       { "name": "Accessibilità", "desc": "Marciapiedi senza barriere, rampe e ascensori collegano la piazza ai dintorni." }
     ]
   },
@@ -497,12 +497,12 @@
     "privacy": "Informativa sulla privacy",
     "terms": "Termini di servizio",
     "cookies": "Impostazioni cookie",
-    "officialResourcesTitle": "Fonti ufficiali",
+    "officialResourcesTitle": "Link pubblici di riferimento",
     "officialLinks": {
-      "sloveniaInfo": "Ente del turismo sloveno",
-      "govSi": "Slovenia"
+      "sloveniaInfo": "Informazioni di viaggio sulla Slovenia",
+      "govSi": "Informazioni governative"
     },
-    "disclaimer": "Questo sito è un progetto indipendente di informazione turistica. Non è collegato ad amministrazioni locali né a istituzioni ufficiali."
+    "disclaimer": "Questa è una guida di viaggio indipendente e senza scopo di lucro. Non è il sito ufficiale di Turizem Ljubljana o di altre istituzioni pubbliche e non ne rappresenta le posizioni."
   },
   "privacy": {
     "title": "Informativa sulla privacy",
@@ -568,7 +568,7 @@
     "saved": "Impostazioni salvate!"
   },
   "officialManagement": {
-    "title": "Informazioni su Piazza Prešeren",
-    "text": "La gestione e la manutenzione di Piazza Prešeren sono affidate al Comune di Lubiana. È una delle piazze più importanti e uno dei simboli culturali della capitale slovena.\n\nCome cuore di Lubiana e uno dei principali simboli nazionali, la piazza ha accompagnato nei secoli il passaggio dallo spazio medievale al moderno centro culturale. Oggi l'area pubblica è accessibile gratuitamente ed è uno dei luoghi migliori per vivere la cultura urbana slovena."
+    "title": "Avviso di sito indipendente",
+    "text": "Questo sito web è una guida indipendente e senza scopo di lucro dedicata a Piazza Prešeren.\nNon è gestito da Turizem Ljubljana, dal Comune di Lubiana o da altre istituzioni ufficiali, non è affiliato né autorizzato e non parla a loro nome.\n\nPer annunci ufficiali, permessi e questioni amministrative, fai riferimento direttamente alle autorità pubbliche competenti."
   }
 }

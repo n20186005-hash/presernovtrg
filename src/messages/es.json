@@ -410,7 +410,7 @@
       { "name": "Gasolineras y carga eléctrica", "desc": "Gasolineras y puntos de carga para coches eléctricos están en las entradas y vías principales." },
       { "name": "Bancos y cajeros", "desc": "Bancos, casas de cambio y cajeros se concentran en el centro." },
       { "name": "Farmacia y salud", "desc": "Farmacias y un hospital con urgencias se alcanzan a pie o con un corto trayecto." },
-      { "name": "Información turística", "desc": "Una oficina oficial de turismo ofrece mapas, eventos y consejos de transporte." },
+      { "name": "Información turística", "desc": "Los puntos de información para visitantes cercanos ayudan con mapas, eventos y orientación básica de transporte." },
       { "name": "Accesibilidad", "desc": "Aceras sin barreras, rampas y ascensores conectan la plaza con los alrededores." }
     ]
   },
@@ -497,12 +497,12 @@
     "privacy": "Política de privacidad",
     "terms": "Términos del servicio",
     "cookies": "Configuración de cookies",
-    "officialResourcesTitle": "Fuentes oficiales",
+    "officialResourcesTitle": "Enlaces públicos de referencia",
     "officialLinks": {
-      "sloveniaInfo": "Oficina de turismo de Eslovenia",
-      "govSi": "Eslovenia"
+      "sloveniaInfo": "Información de viaje de Eslovenia",
+      "govSi": "Información gubernamental"
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información de viajes. No está vinculado a gobiernos locales ni a instituciones oficiales."
+    "disclaimer": "Esta es una guía de viaje independiente y sin ánimo de lucro. No es el sitio web oficial de Turizem Ljubljana ni de ninguna otra institución pública, y no representa sus posturas."
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -568,7 +568,7 @@
     "saved": "¡Ajustes guardados!"
   },
   "officialManagement": {
-    "title": "Sobre la Plaza Prešeren",
-    "text": "La gestión y el mantenimiento de la Plaza Prešeren corresponden al Ayuntamiento de Liubliana. Es una de las plazas más importantes y un símbolo cultural de la capital eslovena.\n\nComo corazón de Liubliana y uno de los principales símbolos nacionales, la plaza ha acompañado durante siglos la transición del espacio medieval al centro cultural moderno. Hoy su zona pública es de acceso gratuito y es uno de los mejores lugares para sentir la cultura urbana eslovena."
+    "title": "Aviso de sitio independiente",
+    "text": "Este sitio web es una guía independiente y sin ánimo de lucro sobre la Plaza Prešeren.\nNo está gestionado por Turizem Ljubljana, el Ayuntamiento de Liubliana ni ninguna otra institución oficial, tampoco está afiliado, autorizado ni habla en su nombre.\n\nPara anuncios oficiales, permisos y asuntos administrativos, consulta directamente a las autoridades públicas competentes."
   }
 }

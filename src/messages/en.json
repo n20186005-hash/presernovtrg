@@ -410,7 +410,7 @@
       { "name": "Fuel & EV charging", "desc": "Petrol stations and electric-vehicle charging points are found along the city approaches and major roads." },
       { "name": "Banks & ATMs", "desc": "Banks, exchange offices and ATMs are concentrated in the city centre for cash and currency needs." },
       { "name": "Pharmacy & medical", "desc": "Pharmacies and a hospital with emergency care are reachable on foot or by a short ride from the centre." },
-      { "name": "Tourist information", "desc": "An official tourist information office provides maps, events and public-transport advice." },
+      { "name": "Tourist information", "desc": "Nearby visitor-information points can help with maps, events and public-transport basics." },
       { "name": "Accessibility", "desc": "Step-free pavements, ramps and lifts connect the square with nearby attractions and public transport." }
     ]
   },
@@ -497,12 +497,12 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources",
+    "officialResourcesTitle": "Public Reference Links",
     "officialLinks": {
-      "sloveniaInfo": "Slovenian Tourist Board",
-      "govSi": "Slovenia"
+      "sloveniaInfo": "Slovenia travel information",
+      "govSi": "Government information"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or official institutions."
+    "disclaimer": "This is an independent, non-profit travel guide. It is not the official website of Turizem Ljubljana or any other public institution, and it does not represent their views."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -568,7 +568,7 @@
     "saved": "Settings saved!"
   },
   "officialManagement": {
-    "title": "About Prešernov trg",
-    "text": "Prešernov trg is managed and maintained by the Ljubljana City Hall. It is one of the most important city squares and cultural landmarks in Slovenia's capital.\n\nAs Ljubljana's city heart and national symbol, the square has witnessed centuries of transformation from a medieval city gate to a modern cultural landmark. Today, the square's public areas are free for visitors—an excellent destination for experiencing Slovenian cultural charm and European lifestyle, and an important window for visitors worldwide to understand this Central European nation."
+    "title": "Independent Site Notice",
+    "text": "This website is an independent, non-profit travel information guide about Prešernov trg.\nIt is not operated by, affiliated with, endorsed by, or speaking on behalf of Turizem Ljubljana, the City of Ljubljana, or any other official institution.\n\nFor official announcements, permits and administrative matters, please refer to the relevant public authorities directly."
   }
 }

@@ -410,7 +410,7 @@
       { "name": "Gorivo in polnjenje EV", "desc": "Bencinski servisi in polnilnice za električna vozila so ob mestnih vpadnicah in glavnih cestah." },
       { "name": "Banke in bankomati", "desc": "Banke, menjalnice in bankomati so v mestnem središču za gotovino in valuto." },
       { "name": "Lekarna in zdravstvo", "desc": "Lekarne in bolnišnica z nujno pomočjo so dosegljive peš ali s kratko vožnjo." },
-      { "name": "Turistične informacije", "desc": "Uradna turistična pisarna nudi zemljevide, dogodke in nasvete za javni prevoz." },
+      { "name": "Turistične informacije", "desc": "Bližnje točke za obiskovalce pomagajo z zemljevidi, dogodki in osnovnimi informacijami o javnem prevozu." },
       { "name": "Dostopnost", "desc": "Brezstopni pločniki, rampe in dvigala povezujejo trg z bližnjimi znamenitostmi." }
     ]
   },
@@ -497,12 +497,12 @@
     "privacy": "Politika zasebnosti",
     "terms": "Pogoji uporabe",
     "cookies": "Nastavitve piškotkov",
-    "officialResourcesTitle": "Uradni viri",
+    "officialResourcesTitle": "Javne referenčne povezave",
     "officialLinks": {
-      "sloveniaInfo": "Slovenska turistična organizacija",
-      "govSi": "Slovenija"
+      "sloveniaInfo": "Potovalne informacije o Sloveniji",
+      "govSi": "Vladne informacije"
     },
-    "disclaimer": "Ta spletna stran je neodvisen projekt s turističnimi informacijami tretje osebe. Ni povezana z mestnimi ali državnimi uradnimi institucijami."
+    "disclaimer": "To je neodvisen, neprofiten turistični vodnik. Ne gre za uradno spletno stran Turizem Ljubljana ali katere koli druge javne ustanove in ne predstavlja njihovih stališč."
   },
   "privacy": {
     "title": "Politika zasebnosti",
@@ -568,7 +568,7 @@
     "saved": "Nastavitve so shranjene!"
   },
   "officialManagement": {
-    "title": "O Prešernovem trgu",
-    "text": "Za upravljanje in vzdrževanje Prešernovega trga skrbi Mestna občina Ljubljana. Gre za enega najpomembnejših mestnih trgov in kulturnih simbolov slovenske prestolnice.\n\nKot srce Ljubljane in eden ključnih nacionalnih simbolov je trg skozi stoletja spremljal prehod iz srednjeveškega mestnega prostora v sodobno kulturno središče. Danes je javni del trga brezplačno dostopen in predstavlja eno najboljših točk za doživljanje slovenske urbane kulture."
+    "title": "Obvestilo o neodvisnosti spletne strani",
+    "text": "Ta spletna stran je neodvisen, neprofiten informativni vodnik o Prešernovem trgu.\nNe upravlja je Turizem Ljubljana, Mestna občina Ljubljana ali katera koli druga uradna ustanova, z njimi ni povezana, ni od njih pooblaščena in ne govori v njihovem imenu.\n\nZa uradna obvestila, dovoljenja in upravne zadeve se obrnite neposredno na pristojne javne organe."
   }
 }

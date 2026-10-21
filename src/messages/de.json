@@ -410,7 +410,7 @@
       { "name": "Tankstellen & E-Laden", "desc": "Tankstellen und Ladestationen für E-Autos liegen an den Stadtzufahrten und Hauptstraßen." },
       { "name": "Banken & Geldautomaten", "desc": "Banken, Wechselstuben und Geldautomaten konzentrieren sich in der Innenstadt." },
       { "name": "Apotheke & Medizin", "desc": "Apotheken und ein Krankenhaus mit Notaufnahme sind zu Fuß oder mit kurzer Fahrt erreichbar." },
-      { "name": "Touristeninformation", "desc": "Eine offizielle Touristeninformation bietet Karten, Veranstaltungen und Tipps zum Nahverkehr." },
+      { "name": "Touristeninformation", "desc": "Besucherinformationen in der Nähe helfen mit Karten, Veranstaltungen und grundlegenden Hinweisen zum Nahverkehr." },
       { "name": "Barrierefreiheit", "desc": "Stufenfreie Gehwege, Rampen und Aufzüge verbinden den Platz mit nahen Sehenswürdigkeiten." }
     ]
   },
@@ -497,12 +497,12 @@
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
     "cookies": "Cookie-Einstellungen",
-    "officialResourcesTitle": "Offizielle Quellen",
+    "officialResourcesTitle": "Öffentliche Referenzlinks",
     "officialLinks": {
-      "sloveniaInfo": "Slowenische Tourismuszentrale",
-      "govSi": "Slowenien"
+      "sloveniaInfo": "Reiseinformationen zu Slowenien",
+      "govSi": "Behördliche Informationen"
     },
-    "disclaimer": "Diese Website ist ein unabhängiges Reiseinformationsprojekt. Sie ist nicht mit staatlichen oder städtischen Institutionen verbunden."
+    "disclaimer": "Dies ist ein unabhängiger, gemeinnütziger Reiseführer. Es ist weder die offizielle Website von Turizem Ljubljana noch einer anderen öffentlichen Institution und gibt deren Positionen nicht wieder."
   },
   "privacy": {
     "title": "Datenschutzerklärung",
@@ -568,7 +568,7 @@
     "saved": "Einstellungen gespeichert!"
   },
   "officialManagement": {
-    "title": "Über den Prešeren-Platz",
-    "text": "Für die Verwaltung und Pflege des Prešeren-Platzes ist die Stadtgemeinde Ljubljana zuständig. Er ist einer der wichtigsten Stadtplätze und ein kulturelles Symbol der slowenischen Hauptstadt.\n\nAls Herz von Ljubljana und eines der zentralen nationalen Symbole begleitete der Platz über Jahrhunderte den Wandel vom mittelalterlichen Stadtraum zum modernen Kulturzentrum. Heute ist der öffentliche Bereich kostenlos zugänglich und eine der besten Adressen, um urbane slowenische Kultur zu erleben."
+    "title": "Hinweis zur Unabhängigkeit der Website",
+    "text": "Diese Website ist ein unabhängiger, gemeinnütziger Reiseführer über den Prešeren-Platz.\nSie wird weder von Turizem Ljubljana, der Stadt Ljubljana noch von einer anderen offiziellen Institution betrieben, beauftragt, unterstützt oder vertreten.\n\nFür offizielle Bekanntmachungen, Genehmigungen und Verwaltungsangelegenheiten wenden Sie sich bitte direkt an die zuständigen öffentlichen Stellen."
   }
 }

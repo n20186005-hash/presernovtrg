@@ -55,11 +55,7 @@ export function buildTouristAttractionLd(locale: Locale, meta: MetaMessages) {
       longitude: 14.5060726,
     },
     hasMap: MAPS_SHARE_URL,
-    sameAs: [
-      MAPS_SHARE_URL,
-      'https://www.slovenia.info/en',
-      'https://www.ljubljana.si/en/',
-    ],
+    sameAs: [MAPS_SHARE_URL],
     openingHoursSpecification: {
       '@type': 'OpeningHoursSpecification',
       opens: '00:00',

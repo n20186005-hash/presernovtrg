@@ -18,6 +18,18 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        <div
+          className="mb-8 p-6 sm:p-8 rounded-xl border-2"
+          style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--accent)' }}
+        >
+          <h3 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {tOff('title')}
+          </h3>
+          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
+            {tOff('text')}
+          </div>
+        </div>
+
         {/* Entity Equivalence Declaration */}
         <p
           className="text-lg leading-relaxed mb-4 font-medium"
@@ -91,15 +103,6 @@ export default function Intro() {
                 </li>
               ))}
             </ul>
-          </div>
-        </div>
-
-        <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
-          <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-            {tOff('title')}
-          </h2>
-          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
-            {tOff('text')}
           </div>
         </div>
       </div>
