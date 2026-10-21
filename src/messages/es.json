@@ -105,8 +105,6 @@
     "cityValue": "Liubliana",
     "googleRating": "Valoración en Google",
     "googleRatingValue": "4,7/5 (13.277 opiniones)",
-    "phone": "Teléfono de contacto",
-    "phoneValue": "Turismo de Liubliana: +386 1 306 45 00",
     "address": "Dirección",
     "addressValue": "Prešernov trg 1, 1000 Liubliana, Eslovenia"
   },
@@ -283,9 +281,7 @@
   "mapSection": {
     "title": "Ubicación y cómo visitar la Plaza Prešeren en Liubliana",
     "subtitle": "Prešernov trg 1, 1000 Liubliana, Eslovenia",
-    "openMaps": "Abrir en Google Maps",
-    "officialLinkText": "Para información oficial y novedades de turismo regional, visita",
-    "officialLinkLabel": "Portal oficial de turismo de Liubliana / Eslovenia"
+    "openMaps": "Abrir en Google Maps"
   },
   "faq": {
     "title": "Preguntas frecuentes",
@@ -504,7 +500,6 @@
     "officialResourcesTitle": "Fuentes oficiales",
     "officialLinks": {
       "sloveniaInfo": "Oficina de turismo de Eslovenia",
-      "visitLjubljana": "Visit Ljubljana",
       "govSi": "Eslovenia"
     },
     "disclaimer": "Este sitio web es un proyecto independiente de información de viajes. No está vinculado a gobiernos locales ni a instituciones oficiales."

@@ -58,29 +58,6 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
-
-        {/* Official Tourism Authority Outbound Links */}
-        <div className="mt-10 p-6 rounded-xl border border-dashed" style={{ borderColor: 'var(--border-color)', background: 'var(--bg-tertiary)' }}>
-          <p className="text-sm leading-relaxed mb-3" style={{ color: 'var(--text-muted)' }}>
-            {t('officialLinkText')}
-          </p>
-          <div className="flex flex-wrap gap-4 text-sm">
-            <a
-              href="https://www.visitljubljana.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 font-medium hover:underline"
-              style={{ color: 'var(--accent)' }}
-            >
-              {t('officialLinkLabel')}
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-                <polyline points="15 3 21 3 21 9" />
-                <line x1="10" y1="14" x2="21" y2="3" />
-              </svg>
-            </a>
-          </div>
-        </div>
       </div>
     </section>
   );

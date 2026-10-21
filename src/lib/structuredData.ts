@@ -2,7 +2,6 @@ import { BASE_URL, type Locale, localeAlternates, routing } from '@/i18n/routing
 
 export const HERO_IMAGE = `${BASE_URL}/gallery/presernov-trg-ljubljana-panorama-view-1.jpg`;
 export const MAPS_SHARE_URL = 'https://maps.app.goo.gl/p9nzsuxxzisR1vNF9';
-export const TOURISM_URL = 'https://www.visitljubljana.com/';
 
 export type MetaMessages = {
   title: string;
@@ -58,7 +57,6 @@ export function buildTouristAttractionLd(locale: Locale, meta: MetaMessages) {
     hasMap: MAPS_SHARE_URL,
     sameAs: [
       MAPS_SHARE_URL,
-      TOURISM_URL,
       'https://www.slovenia.info/en',
       'https://www.ljubljana.si/en/',
     ],

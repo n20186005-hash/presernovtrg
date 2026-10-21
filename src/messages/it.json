@@ -105,8 +105,6 @@
     "cityValue": "Lubiana",
     "googleRating": "Valutazione Google",
     "googleRatingValue": "4,7/5 (13.277 recensioni)",
-    "phone": "Telefono di contatto",
-    "phoneValue": "Ljubljana Tourism: +386 1 306 45 00",
     "address": "Indirizzo",
     "addressValue": "Prešernov trg 1, 1000 Lubiana, Slovenia"
   },
@@ -283,9 +281,7 @@
   "mapSection": {
     "title": "Posizione e come visitare Piazza Prešeren a Lubiana",
     "subtitle": "Prešernov trg 1, 1000 Lubiana, Slovenia",
-    "openMaps": "Apri in Google Maps",
-    "officialLinkText": "Per informazioni ufficiali e aggiornamenti sul turismo regionale visita",
-    "officialLinkLabel": "Portale turistico ufficiale di Lubiana / Slovenia"
+    "openMaps": "Apri in Google Maps"
   },
   "faq": {
     "title": "Domande frequenti",
@@ -504,7 +500,6 @@
     "officialResourcesTitle": "Fonti ufficiali",
     "officialLinks": {
       "sloveniaInfo": "Ente del turismo sloveno",
-      "visitLjubljana": "Visit Ljubljana",
       "govSi": "Slovenia"
     },
     "disclaimer": "Questo sito è un progetto indipendente di informazione turistica. Non è collegato ad amministrazioni locali né a istituzioni ufficiali."

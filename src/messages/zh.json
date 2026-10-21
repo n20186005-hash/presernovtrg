@@ -105,8 +105,6 @@
     "cityValue": "卢布尔雅那（Ljubljana）",
     "googleRating": "谷歌评分",
     "googleRatingValue": "4.7/5（13,277 条评价）",
-    "phone": "联系电话",
-    "phoneValue": "（卢布尔雅那旅游局： +386 1 306 45 00 ）",
     "address": "地址",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
   },
@@ -283,9 +281,7 @@
   "mapSection": {
     "title": "普列舍伦广场位置与交通指南 Location & How to Visit",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
-    "openMaps": "在 Google Maps 查看",
-    "officialLinkText": "获取官方最新资讯与区域旅游信息，请访问",
-    "officialLinkLabel": "斯洛文尼亚 / 卢布尔雅那官方旅游门户"
+    "openMaps": "在 Google Maps 查看"
   },
   "faq": {
     "title": "常见问题 FAQ",
@@ -504,7 +500,6 @@
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
       "sloveniaInfo": "斯洛文尼亚旅游局",
-      "visitLjubljana": "卢布尔雅那旅游",
       "govSi": "斯洛文尼亚"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"

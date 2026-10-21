@@ -25,9 +25,6 @@ export default function Footer() {
               <a href="https://www.slovenia.info/en" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.sloveniaInfo')}
               </a>
-              <a href="https://www.visitljubljana.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.visitLjubljana')}
-              </a>
               <a href="https://www.gov.si/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.govSi')}
               </a>

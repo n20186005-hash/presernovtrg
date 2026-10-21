@@ -105,8 +105,6 @@
     "cityValue": "Ljubljana",
     "googleRating": "Google-Bewertung",
     "googleRatingValue": "4,7/5 (13.277 Bewertungen)",
-    "phone": "Kontakttelefon",
-    "phoneValue": "Tourismus Ljubljana: +386 1 306 45 00",
     "address": "Adresse",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slowenien"
   },
@@ -283,9 +281,7 @@
   "mapSection": {
     "title": "Lage und Anreise zum Prešeren-Platz in Ljubljana",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slowenien",
-    "openMaps": "In Google Maps öffnen",
-    "officialLinkText": "Für aktuelle Informationen und regionale Tourismustipps besuchen Sie",
-    "officialLinkLabel": "Offizielles Tourismusportal von Ljubljana / Slowenien"
+    "openMaps": "In Google Maps öffnen"
   },
   "faq": {
     "title": "Häufige Fragen",
@@ -504,7 +500,6 @@
     "officialResourcesTitle": "Offizielle Quellen",
     "officialLinks": {
       "sloveniaInfo": "Slowenische Tourismuszentrale",
-      "visitLjubljana": "Visit Ljubljana",
       "govSi": "Slowenien"
     },
     "disclaimer": "Diese Website ist ein unabhängiges Reiseinformationsprojekt. Sie ist nicht mit staatlichen oder städtischen Institutionen verbunden."
