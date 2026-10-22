@@ -3,7 +3,6 @@ import Hero from './Hero';
 import WeatherSection from './WeatherSection';
 import Intro from './Intro';
 import NearbyLandmarks from './NearbyLandmarks';
-import BasicInfo from './BasicInfo';
 import HoursSection from './HoursSection';
 import TicketsSection from './TicketsSection';
 import VisitorServices from './VisitorServices';
@@ -34,7 +33,6 @@ export default function PageSections() {
         <WeatherSection />
         <Intro />
         <NearbyLandmarks />
-        <BasicInfo />
         <HoursSection />
         <TicketsSection />
         <VisitorServices />
