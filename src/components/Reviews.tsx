@@ -47,6 +47,7 @@ export default function Reviews() {
           {t('declaration')}
         </p>
 
+        {items.length > 0 && (
         <div className="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-8">
           {items.map((review, i) => (
             <div
@@ -86,6 +87,16 @@ export default function Reviews() {
             </div>
           ))}
         </div>
+        )}
+
+        {items.length === 0 && t.has('snapshot') && (
+          <div
+            className="mb-8 rounded-xl p-5 text-sm"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)', color: 'var(--text-secondary)' }}
+          >
+            {t('snapshot')}
+          </div>
+        )}
 
         {/* More reviews link — arrow only */}
         <div className="flex justify-center">

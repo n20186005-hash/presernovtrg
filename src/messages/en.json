@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Prešernov Trg Ljubljana: Visitor Guide, Map & Highlights",
+    "title": "Prešeren Square, Ljubljana: Map, Sights & Walking Routes",
     "description": "Plan your visit to Prešernov trg (Prešeren Square) in Ljubljana: Triple Bridge, Franciscan Church, Prešeren Monument, opening hours, map and photo spots. Free, open 24/7.",
     "ogImageAlt": "Prešernov trg in Ljubljana, Slovenia"
   },
@@ -9,13 +9,14 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "guides": "Guides"
   },
   "hero": {
     "title": "Prešernov trg (Ljubljana)",
     "subtitle": "Ljubljana's Heart & National Cultural Symbol of Slovenia",
-    "rating": "4.7(13,277)",
-    "reviewCount": "13,277 reviews",
+    "rating": "4.7(13,383)",
+    "reviewCount": "13,383 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
@@ -24,15 +25,15 @@
     "locationTitle": "Location & How to Visit Prešernov trg in Ljubljana",
     "nearbyTitle": "Landmarks & Attractions Around Prešernov trg",
     "historyTitle": "History & Significance of Prešernov trg",
-    "entityDeclaration": "Welcome to <strong>Prešernov trg</strong>, widely recognized as the central <strong>Prešernov trg</strong>. Located in the heart of <strong>Ljubljana</strong>, <strong>Ljubljana</strong>, <strong>Slovenia</strong>, this destination serves as a primary hub for travelers visiting the region.",
-    "breadcrumb": "Prešernov trg → Ljubljana → Ljubljana → Slovenia",
-    "nearbyCluster": "When visiting <strong>Prešernov trg</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Triple Bridge (Tromostovje)</strong> and <strong>Ljubljana Castle (Ljubljanski grad)</strong>.",
-    "description": "Step into Prešernov trg and instantly feel wrapped in the romantic atmosphere and historical depth of this Central European town. This circular square is like Ljubljana's living room, with a bronze statue standing quietly at its center, colorful buildings surrounding it, and the Triple Bridge connecting the two sides of the river—every detail exudes elegance and vitality.\n\nI visited on a spring afternoon, when sunlight gilded the pink church and Art Nouveau buildings in warm golden hues. Flowers bloomed across the square, street musicians played melodious tunes that echoed through the air. The central Prešeren statue was lifelike, the poet deep in thought, with a goddess above holding a laurel branch, symbolizing poetry and inspiration.\n\nVisitors strolled leisurely, locals gathered at outdoor cafés for chat, children played in the square's center. In the distance, Ljubljana Castle was faintly visible, and traffic flowed across the Triple Bridge, connecting the old and new towns seamlessly.\n\nThere's no rushing here—only the calm that comes from centuries of history and the vibrancy of everyday life. When night falls and lights illuminate, building silhouettes are gently outlined, transforming the square into a stage for European night life. Ancient history and modern energy blend perfectly, healing and awe-inspiring.",
+    "entityDeclaration": "Prešernov trg — known in English as Prešeren Square — is the main public square in the centre of Ljubljana, the capital of Slovenia. It stands on the right bank of the Ljubljanica where the pedestrian old town meets the Triple Bridge, and it is named after France Prešeren, Slovenia’s national poet.",
+    "breadcrumb": "Prešernov trg → Ljubljana → Slovenia",
+    "nearbyCluster": "Nearly everything that makes Ljubljana walkable sits within a few minutes of the square: the Triple Bridge (Tromostovje) across the Ljubljanica, the pink Franciscan Church of the Annunciation closing its southern side, and — a short walk upstream — the Central Market and Ljubljana Castle (Ljubljanski grad). Most visitors use the square as the start and end point of an old-town walk.",
+    "description": "Prešernov trg is a circular, fully pedestrianised square of granite and white marble paving, redesigned by architect Edvard Ravnikar in 1987–1988 and freed from traffic in 2007. At its centre stands the 1905 bronze monument to France Prešeren by Ivan Zajec, a muse holding a laurel branch above the poet. Around it rise the pink Franciscan Church of the Annunciation (1646–1660), the Central Pharmacy building and Secession-style façades rebuilt after the 1895 earthquake. Declared a cultural monument of national importance in 1991, the square is Ljubljana’s default meeting point — locals simply say they will meet »pod spomenikom«, under the monument — and the stage for the city’s main public events, from the Christmas market to Prešeren Day on 8 February.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
         "Visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
-        "The entire square's public areas are free to access with no admission fee",
+        "The public square is free and open around the clock; the Franciscan Church interior is free to enter (donations welcome) — on-site notices list mass times",
         "Evening is the best time to experience the romantic sunset and gradual lighting transition",
         "With numerous cafés nearby, pause to enjoy local coffee and experience the relaxed European lifestyle"
       ]
@@ -74,7 +75,7 @@
       {
         "id": "history",
         "title": "Centuries of Urban Transformation",
-        "content": "Prešernov trg originated as a crossroads at the medieval city gate in the 17th century when the Franciscan Church was built nearby, gradually forming the square's雏形. After the 1895 earthquake, numerous Art Nouveau buildings were constructed around the square, establishing its current architectural character. In 1905, the bronze statue of Prešeren was erected in the square's center, honoring this great national poet.\n\nFrom 1987 to 1988, the square underwent a major renovation by architect Edvard Ravnikar, transforming from a funnel shape into its current circular form. Renovated again in 2007, it became a fully pedestrian square. Over centuries, the square evolved from a medieval city gate to a symbol of national culture and the core of urban life, witnessing Ljubljana's transformation from medieval times to the modern era. Today, it remains one of Slovenia's most representative city landmarks."
+        "content": "Prešernov trg originated as a crossroads at the medieval city gate in the 17th century when the Franciscan Church was built nearby, gradually forming the early shape of the square. After the 1895 earthquake, numerous Art Nouveau buildings were constructed around the square, establishing its current architectural character. In 1905, the bronze statue of Prešeren was erected in the square's center, honoring this great national poet.\n\nFrom 1987 to 1988, the square underwent a major renovation by architect Edvard Ravnikar, transforming from a funnel shape into its current circular form. Renovated again in 2007, it became a fully pedestrian square. Over centuries, the square evolved from a medieval city gate to a symbol of national culture and the core of urban life, witnessing Ljubljana's transformation from medieval times to the modern era. Today, it remains one of Slovenia's most representative city landmarks."
       },
       {
         "id": "architecture",
@@ -104,36 +105,36 @@
     "city": "City",
     "cityValue": "Ljubljana",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7/5 (13,277 reviews)",
+    "googleRatingValue": "4.7/5 (13,383 reviews)",
     "address": "Address",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Outdoor Areas",
-    "outdoorTime": "Open year-round, 24 hours. No access restrictions in public areas",
+    "outdoor": "The public square",
+    "outdoorTime": "Open 24 hours, every day, all year — free, no ticket",
     "lighthouse": "Surrounding Churches & Building Interiors",
-    "summer": "Tuesday - Sunday",
-    "summerTime": "09:00-18:00",
-    "winter": "Monday",
-    "winterTime": "Closed (except religious holidays)",
     "warning": "Visiting Recommendations",
     "warningTime": "Visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
-    "tip": "All square public areas are free with no admission fee"
+    "tip": "Only the square itself never closes and never charges; tickets are needed solely for some indoor venues",
+    "venues": "Indoor venues (church & museums)",
+    "venuesTime": "Hours differ by venue. The Franciscan Church of the Annunciation is normally open to visitors during the day and entry is free (donations welcome); mass times and occasional closures are posted at the church. Check on-site notices before you go."
   },
   "tickets": {
     "title": "Admission Prices",
-    "outdoor": "Square Public Areas",
-    "outdoorPrice": "Free admission, no entry fee",
+    "outdoor": "The public square",
+    "outdoorPrice": "Free — no ticket, no opening hours",
     "lighthouse": "Surrounding Franciscan Church, Central Pharmacy Museum Interiors",
-    "adults": "Adults",
-    "adultsPrice": "Prices vary by venue",
+    "adults": "Museums & galleries",
+    "adultsPrice": "Prices vary by venue — check on-site notices or the Ljubljana City Card",
     "students": "Students",
-    "studentsPrice": "Discounted rates available",
+    "studentsPrice": "Concessions where offered — ask at the venue",
     "children": "Children",
-    "childrenPrice": "Free or discounted at select venues",
+    "childrenPrice": "Usually free or reduced — ask at the venue",
     "card": "Ljubljana City Card",
-    "cardPrice": "Can offset entrance fees at select venues, ideal for multi-attraction travelers"
+    "cardPrice": "Can offset entrance fees at select venues, ideal for multi-attraction travelers",
+    "venues": "Franciscan Church of the Annunciation (interior)",
+    "venuesDesc": "Free entry; donations welcome"
   },
   "transport": {
     "title": "Getting There",
@@ -249,39 +250,18 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review information is available on Google Maps (external link).",
+    "declaration": "The rating shown is an aggregate snapshot from Google Maps, checked October 2026. We do not republish individual reviews.",
     "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "Zhang Ming",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "So romantic! The evening atmosphere is absolutely enchanting. The pink church against the Art Nouveau buildings is captivating. Locals chatting at cafés, children playing—exactly the European life I dreamed of."
-      },
-      {
-        "name": "Li Hua",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "The highlight of my Slovenia trip! Though small, the square is refined, every building has its story. The Prešeren statue is solemn and dignified, the surrounding cafés are stylish. Even more romantic under the night lights."
-      },
-      {
-        "name": "Wang Fang",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "A paradise for architecture lovers! Baroque church, Art Nouveau buildings, classical statues coexist harmoniously. Visit in the evening for stunning architectural lighting—perfect for photos."
-      },
-      {
-        "name": "Chen Wei",
-        "date": "December 2025",
-        "rating": 4,
-        "text": "A beautiful city square with an excellent location connecting old and new towns. Especially lively during the Christmas market—a wonderful place to experience Slovenian culture."
-      }
-    ]
+    "items": [],
+    "snapshot": "4.7 / 5 · 13,383 reviews on Google Maps · checked October 2026"
   },
   "mapSection": {
     "title": "Location & How to Visit Prešernov trg in Ljubljana",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
-    "openMaps": "Open in Google Maps"
+    "openMaps": "Open in Google Maps",
+    "plusCodeLabel": "Google Maps Plus Code",
+    "plusCodeValue": "3G24+HC Ljubljana, Slovenia",
+    "plusCodeHint": "Enter the Plus Code in Google Maps to jump straight to the square."
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -327,7 +307,6 @@
       "precip_heavy_risk": "Heavy rain — avoid low-lying areas and slippery paths.",
       "wind_strong_risk": "Strong wind — keep away from billboards, scaffolding and tall trees.",
       "fog_risk": "Poor visibility — take extra care in traffic.",
-
       "precip_prob_dress": "Showers are likely later — wear shoes with good grip.",
       "precip_heavy_dress": "Wear a waterproof jacket against wind and rain.",
       "precip_light_dress": "Light rain — pavements are slippery, watch your step.",
@@ -337,7 +316,6 @@
       "cold_range_dress": "Big day–night swing — bring an extra layer you can take off.",
       "cold_max_dress": "It is cold — wrap up well.",
       "wind_mid_dress": "Breezy — hats blow off easily, avoid loose long skirts.",
-
       "precip_prob_plan": "Rain is likely. Plan indoor sights first and save open-air stops for later.",
       "precip_light_plan": "Open-air experiences are less enjoyable; keep your camera dry.",
       "precip_heavy_plan": "Not ideal for long outdoor stays; boat trips and the funicular may pause.",
@@ -351,7 +329,6 @@
       "sky_clear_plan": "Clear weather — great for outdoor exploring and sunset views.",
       "sky_cloudy_plan": "Soft light, ideal for photos — comfortable for a long walk without harsh sun.",
       "fog_plan": "Not the day for long-distance views.",
-
       "precip_prob_items": "Umbrella or packable raincoat",
       "precip_light_items": "Folding umbrella",
       "precip_heavy_items": "Raincoat (a long umbrella is awkward in wind)",
@@ -363,7 +340,6 @@
       "cold_freeze_items": "Non-slip shoes",
       "sky_clear_items": "Sun protection",
       "fog_items": "Face mask",
-
       "alert_risk": "{event} warning in effect — consider adjusting your plans, avoid mountain and waterside hazards, and keep monitoring the forecast.",
       "alert_plan": "Choose indoor activities first and follow official updates."
     },
@@ -400,18 +376,54 @@
     "subtitle": "A practical, type-neutral overview — we describe categories, not individual businesses.",
     "note": "As a non-profit information site we do not recommend specific shops, cafés or hotels; the list groups the types of services you can find around the square.",
     "items": [
-      { "name": "Public restrooms", "desc": "Public and accessible toilets are available in the pedestrian centre and the main transport hubs; most are coin- or card-operated." },
-      { "name": "Drinking water", "desc": "Public drinking fountains are common across the old town; a refillable bottle is handy in summer." },
-      { "name": "Parking", "desc": "Paid public car parks and underground garages sit at the edges of the centre; the core square itself is car-free." },
-      { "name": "Dining & restaurants", "desc": "A wide range of sit-down restaurants, from traditional Slovenian to international cuisine, lines the streets around the square." },
-      { "name": "Cafés & desserts", "desc": "Cafés, patisseries and gelaterias are plentiful for a quick coffee or sweet break throughout the day." },
-      { "name": "Grocery & convenience", "desc": "Small supermarkets and convenience stores for snacks and essentials are within a short walk." },
-      { "name": "Shopping streets", "desc": "Pedestrian shopping streets and arcades with local brands and souvenirs begin right at the square." },
-      { "name": "Fuel & EV charging", "desc": "Petrol stations and electric-vehicle charging points are found along the city approaches and major roads." },
-      { "name": "Banks & ATMs", "desc": "Banks, exchange offices and ATMs are concentrated in the city centre for cash and currency needs." },
-      { "name": "Pharmacy & medical", "desc": "Pharmacies and a hospital with emergency care are reachable on foot or by a short ride from the centre." },
-      { "name": "Tourist information", "desc": "Nearby visitor-information points can help with maps, events and public-transport basics." },
-      { "name": "Accessibility", "desc": "Step-free pavements, ramps and lifts connect the square with nearby attractions and public transport." }
+      {
+        "name": "Public restrooms",
+        "desc": "Ljubljana’s public toilets are free to use (official visitor information, Visit Ljubljana). Public and accessible toilets are found in the pedestrian centre, at the main transport hubs and around the market; exact locations and opening times are posted on site."
+      },
+      {
+        "name": "Drinking water",
+        "desc": "Public drinking fountains are common across the old town; a refillable bottle is handy in summer."
+      },
+      {
+        "name": "Parking",
+        "desc": "Paid public car parks and underground garages sit at the edges of the centre; the core square itself is car-free."
+      },
+      {
+        "name": "Dining & restaurants",
+        "desc": "A wide range of sit-down restaurants, from traditional Slovenian to international cuisine, lines the streets around the square."
+      },
+      {
+        "name": "Cafés & desserts",
+        "desc": "Cafés, patisseries and gelaterias are plentiful for a quick coffee or sweet break throughout the day."
+      },
+      {
+        "name": "Grocery & convenience",
+        "desc": "Small supermarkets and convenience stores for snacks and essentials are within a short walk."
+      },
+      {
+        "name": "Shopping streets",
+        "desc": "Pedestrian shopping streets and arcades with local brands and souvenirs begin right at the square."
+      },
+      {
+        "name": "Fuel & EV charging",
+        "desc": "Petrol stations and electric-vehicle charging points are found along the city approaches and major roads."
+      },
+      {
+        "name": "Banks & ATMs",
+        "desc": "Banks, exchange offices and ATMs are concentrated in the city centre for cash and currency needs."
+      },
+      {
+        "name": "Pharmacy & medical",
+        "desc": "Pharmacies and a hospital with emergency care are reachable on foot or by a short ride from the centre."
+      },
+      {
+        "name": "Tourist information",
+        "desc": "Nearby visitor-information points can help with maps, events and public-transport basics."
+      },
+      {
+        "name": "Accessibility",
+        "desc": "Step-free pavements, ramps and lifts connect the square with nearby attractions and public transport."
+      }
     ]
   },
   "transportGuide": {
@@ -421,23 +433,119 @@
     "timeLabel": "Time",
     "costLabel": "Cost",
     "modes": [
-      { "mode": "From the airport", "time": "≈ 25–40 min", "cost": "€4–35", "steps": ["Take the airport shuttle bus to the city centre (or a regional bus).", "From the city-centre stop it is a 5-minute walk to the square.", "A taxi or ride-hailing car brings you directly to the edge of the centre."], "tip": "Book the shuttle or a shared transfer in advance for the best fare." },
-      { "mode": "From the train & bus station", "time": "≈ 10 min walk", "cost": "€1.30 (city ticket)", "steps": ["Both stations are a 10-minute walk from the square.", "Follow the signs to the pedestrian centre and the Triple Bridge.", "Urban buses and a frequent city network also serve the area."], "tip": "A 24-hour urban ticket covers buses and most city lines." },
-      { "mode": "City bus & tram", "time": "varies", "cost": "€1.30 single", "steps": ["Several urban lines stop within a few minutes' walk of the square.", "Buy a single ride or a daily pass from the driver or a kiosk.", "Stops are clearly marked toward the old town and the river."], "tip": "Validate your ticket on board; inspectors are active." },
-      { "mode": "Taxi & ride-hailing", "time": "5–15 min from centre", "cost": "metered / app", "steps": ["Taxis and ride-hailing apps pick up at the airport, stations and marked ranks.", "Ask for 'Prešernov trg' or the Triple Bridge.", "Drivers drop you at the pedestrian edge, a 1-minute walk in."], "tip": "Prefer licensed taxis with a visible meter or a quoted fare." },
-      { "mode": "Driving & park-and-ride", "time": "varies", "cost": "paid parking", "steps": ["Approach via the ring roads and use edge-of-centre garages or P+R lots.", "Leave the car and continue on foot or by city bus.", "The square and old town are car-free zones."], "tip": "Avoid driving into the pedestrian core; parking is paid and time-limited." },
-      { "mode": "Walking & cycling", "time": "from anywhere central", "cost": "free / rental", "steps": ["The old town is compact and best explored on foot.", "Bike-share docks are scattered through the centre.", "Flat riverside paths link the square with parks and attractions."], "tip": "A riverside walk to the castle or the market takes about 10 minutes." }
-    ]
+      {
+        "mode": "From Ljubljana Airport (Jože Pučnik)",
+        "time": "≈ 25–40 min",
+        "cost": "bus ≈ €4–5 / taxi metered",
+        "steps": [
+          "From the terminal take the LPP airport bus towards the city (about 30 minutes).",
+          "Get off at the city-centre stop and walk about 8–10 minutes to the square.",
+          "A taxi or ride-hailing car drops you at the edge of the pedestrian zone, a 1–2 minute walk in."
+        ],
+        "tip": "Line numbers and timetables change — check the current LPP timetable before you travel (checked October 2026)."
+      },
+      {
+        "mode": "From the train & bus station",
+        "time": "≈ 10 min walk",
+        "cost": "free — on foot",
+        "steps": [
+          "Both stations sit about 700 m from the square.",
+          "Walk along Slovenska cesta towards the old town.",
+          "Enter the pedestrian zone via the Triple Bridge or the riverside path."
+        ],
+        "tip": "With luggage the walk is flat and step-free; a short metered taxi ride is the alternative."
+      },
+      {
+        "mode": "City bus (no tram service)",
+        "time": "varies",
+        "cost": "€1.50 single (Urbana)",
+        "steps": [
+          "Several urban lines stop within 2–5 minutes’ walk of the square.",
+          "With an Urbana stored-value card a single ride costs €1.50 and includes transfers for 90 minutes.",
+          "Paying in cash costs more — compare against the LPP price list."
+        ],
+        "tip": "Validate on board; LPP fare inspectors are active. Price list effective 1 September 2026, checked October 2026."
+      },
+      {
+        "mode": "Taxi & ride-hailing",
+        "time": "5–15 min from centre",
+        "cost": "metered / app",
+        "steps": [
+          "Taxis and ride-hailing apps pick up at the airport, stations and marked ranks.",
+          "Ask for 'Prešernov trg' or the Triple Bridge.",
+          "Drivers drop you at the pedestrian edge, a 1-minute walk in."
+        ],
+        "tip": "Prefer licensed taxis with a visible meter or a quoted fare."
+      },
+      {
+        "mode": "Driving & park-and-ride",
+        "time": "varies",
+        "cost": "paid parking",
+        "steps": [
+          "Approach via the ring roads and use edge-of-centre garages or P+R lots.",
+          "Leave the car and continue on foot or by city bus.",
+          "The square and old town are car-free zones."
+        ],
+        "tip": "Avoid driving into the pedestrian core; parking is paid and time-limited."
+      },
+      {
+        "mode": "Walking & cycling",
+        "time": "from anywhere central",
+        "cost": "free / rental",
+        "steps": [
+          "The old town is compact and best explored on foot.",
+          "Bike-share docks are scattered through the centre.",
+          "Flat riverside paths link the square with parks and attractions."
+        ],
+        "tip": "A riverside walk to the castle or the market takes about 10 minutes."
+      }
+    ],
+    "verified": "Transport facts checked in October 2026 against the LPP price list effective 1 September 2026 (Urbana single ride €1.50, transfers included for 90 minutes)."
   },
   "seasons": {
     "title": "Seasonal Visiting Strategy",
     "subtitle": "A year-round overview based on typical climate, crowds and light.",
-    "columns": { "season": "Season", "temp": "Avg temp", "precip": "Precipitation", "crowds": "Crowds", "highlight": "Highlights", "pack": "What to pack" },
+    "columns": {
+      "season": "Season",
+      "temp": "Avg temp",
+      "precip": "Precipitation",
+      "crowds": "Crowds",
+      "highlight": "Highlights",
+      "pack": "What to pack"
+    },
     "rows": [
-      { "season": "Spring (Mar–May)", "temp": "8–19°C", "precip": "Moderate, ~70 mm/mo", "crowds": "Low–moderate", "highlight": "Blossoms, mild light, fewer tourists", "pack": "Light layers, a rain jacket, comfortable shoes" },
-      { "season": "Summer (Jun–Aug)", "temp": "18–28°C", "precip": "Occasional thunderstorms", "crowds": "High (peak season)", "highlight": "Long daylight, open-air cafés, festivals", "pack": "Sun protection, water, breathable clothing" },
-      { "season": "Autumn (Sep–Nov)", "temp": "9–22°C", "precip": "Increasing rain", "crowds": "Moderate", "highlight": "Golden light, wine harvest, calm streets", "pack": "Warm layers, umbrella, waterproof shoes" },
-      { "season": "Winter (Dec–Feb)", "temp": "-2–6°C", "precip": "Snow possible", "crowds": "Low (except holidays)", "highlight": "Advent market, crisp air, quiet squares", "pack": "Warm coat, hat, gloves, non-slip boots" }
+      {
+        "season": "Spring (Mar–May)",
+        "temp": "8–19°C",
+        "precip": "Moderate, ~70 mm/mo",
+        "crowds": "Low–moderate",
+        "highlight": "Blossoms, mild light, fewer tourists",
+        "pack": "Light layers, a rain jacket, comfortable shoes"
+      },
+      {
+        "season": "Summer (Jun–Aug)",
+        "temp": "18–28°C",
+        "precip": "Occasional thunderstorms",
+        "crowds": "High (peak season)",
+        "highlight": "Long daylight, open-air cafés, festivals",
+        "pack": "Sun protection, water, breathable clothing"
+      },
+      {
+        "season": "Autumn (Sep–Nov)",
+        "temp": "9–22°C",
+        "precip": "Increasing rain",
+        "crowds": "Moderate",
+        "highlight": "Golden light, wine harvest, calm streets",
+        "pack": "Warm layers, umbrella, waterproof shoes"
+      },
+      {
+        "season": "Winter (Dec–Feb)",
+        "temp": "-2–6°C",
+        "precip": "Snow possible",
+        "crowds": "Low (except holidays)",
+        "highlight": "Advent market, crisp air, quiet squares",
+        "pack": "Warm coat, hat, gloves, non-slip boots"
+      }
     ]
   },
   "audience": {
@@ -447,17 +555,87 @@
     "paceLabel": "Pace",
     "tipsTitle": "Good to know",
     "plans": [
-      { "name": "Families with kids", "duration": "1.5–2 h", "pace": "Relaxed", "tagline": "Flat, car-free and full of small discoveries for all ages.", "steps": ["Start at the Triple Bridge and count the three crossings.", "Let children spot the poet's muse and the pink church.", "Take a break at a riverside café with space to move.", "End with an easy stroll to the central market."], "tips": ["Pavements are step-free and buggy-friendly.", "Public toilets and water fountains are nearby.", "Keep to the open square — no busy roads to cross."] },
-      { "name": "Photography & nature", "duration": "2–3 h", "pace": "Flexible", "tagline": "Best light and angles for architecture and the river.", "steps": ["Shoot from the Triple Bridge at golden hour.", "Frame the pink church against the evening sky.", "Capture Secession façades on the north side.", "Follow the river for reflective water shots."], "tips": ["Blue hour after sunset gives the most dramatic frames.", "A tripod helps in low light; avoid the centre's light glare.", "Drones are restricted over the historic core."] },
-      { "name": "Low-effort & accessible", "duration": "1 h", "pace": "Very easy", "tagline": "Minimal walking with benches, ramps and views.", "steps": ["Arrive by step-free path from the station side.", "Rest on a central bench with a full view of the square.", "Enjoy the monument and church without stairs.", "Return along the flat riverside promenade."], "tips": ["Ramps and lifts connect the main routes.", "Cafés have accessible entrances.", "Avoid peak afternoon crowds for a calmer visit."] }
+      {
+        "name": "Families with kids",
+        "duration": "1.5–2 h",
+        "pace": "Relaxed",
+        "tagline": "Flat, car-free and full of small discoveries for all ages.",
+        "steps": [
+          "Start at the Triple Bridge and count the three crossings.",
+          "Let children spot the poet's muse and the pink church.",
+          "Take a break at a riverside café with space to move.",
+          "End with an easy stroll to the central market."
+        ],
+        "tips": [
+          "Pavements are step-free and buggy-friendly.",
+          "Public toilets and water fountains are nearby.",
+          "Keep to the open square — no busy roads to cross."
+        ]
+      },
+      {
+        "name": "Photography & nature",
+        "duration": "2–3 h",
+        "pace": "Flexible",
+        "tagline": "Best light and angles for architecture and the river.",
+        "steps": [
+          "Shoot from the Triple Bridge at golden hour.",
+          "Frame the pink church against the evening sky.",
+          "Capture Secession façades on the north side.",
+          "Follow the river for reflective water shots."
+        ],
+        "tips": [
+          "Blue hour after sunset gives the most dramatic frames.",
+          "A tripod helps in low light; avoid the centre's light glare.",
+          "Drones are restricted over the historic core."
+        ]
+      },
+      {
+        "name": "Low-effort & accessible",
+        "duration": "1 h",
+        "pace": "Very easy",
+        "tagline": "Minimal walking with benches, ramps and views.",
+        "steps": [
+          "Arrive by step-free path from the station side.",
+          "Rest on a central bench with a full view of the square.",
+          "Enjoy the monument and church without stairs.",
+          "Return along the flat riverside promenade."
+        ],
+        "tips": [
+          "Ramps and lifts connect the main routes.",
+          "Cafés have accessible entrances.",
+          "Avoid peak afternoon crowds for a calmer visit."
+        ]
+      }
     ]
   },
   "itineraries": {
     "title": "Suggested Itineraries",
     "subtitle": "Half-day and full-day plans starting from the square.",
     "plans": [
-      { "name": "Half-day (≈ 4 h)", "overview": "A relaxed loop covering the square, the river and the market.", "steps": ["10:00 Stroll the square and the Triple Bridge.", "10:45 Coffee at a riverside café.", "11:30 Walk to the central market and the cathedral.", "12:30 Lunch in the old town.", "13:30 Return via the Franciscan church for photos."] },
-      { "name": "Full-day (≈ 8 h)", "overview": "The square plus the castle, museums and the green belt.", "steps": ["09:30 Square, Triple Bridge and the monument.", "10:30 Funicular or walk up to the castle.", "12:30 Lunch near the river.", "14:00 A museum of your choice in the centre.", "16:00 Riverside bike or walk to Tivoli Park.", "18:00 Sunset back at the square.", "19:30 Dinner with a view of the lit façades."] }
+      {
+        "name": "Half-day (≈ 4 h)",
+        "overview": "A relaxed loop covering the square, the river and the market.",
+        "steps": [
+          "10:00 Stroll the square and the Triple Bridge.",
+          "10:45 Coffee at a riverside café.",
+          "11:30 Walk to the central market and the cathedral.",
+          "12:30 Lunch in the old town.",
+          "13:30 Return via the Franciscan church for photos."
+        ]
+      },
+      {
+        "name": "Full-day (≈ 8 h)",
+        "overview": "The square plus the castle, museums and the green belt.",
+        "steps": [
+          "09:30 Square, Triple Bridge and the monument.",
+          "10:30 Funicular or walk up to the castle.",
+          "12:30 Lunch near the river.",
+          "14:00 A museum of your choice in the centre.",
+          "16:00 Riverside bike or walk to Tivoli Park.",
+          "18:00 Sunset back at the square.",
+          "19:30 Dinner with a view of the lit façades."
+        ]
+      }
     ]
   },
   "science": {
@@ -466,10 +644,22 @@
     "responsibilityTitle": "Visitor responsibility",
     "responsibility": "The square is a living public space and a protected cultural monument. Please stay on paths, keep noise considerate, dispose of litter, and never climb the statues or sit on fragile historic features so the site stays enjoyable for everyone.",
     "cards": [
-      { "name": "River, karst & wetland", "desc": "Ljubljana sits where the Ljubljanica leaves the Ljubljana Marsh, a protected karst wetland. The river's flow and the city's water table are linked to this sensitive ecosystem." },
-      { "name": "Urban microclimate", "desc": "Stone and granite store daytime heat and release it after sunset, so the open square feels warmer in the evening — a small example of the urban heat-island effect." },
-      { "name": "City ecology", "desc": "The river and parks are home to swifts, bats and kingfishers; the old town's lime and plane trees cool the streets and clean the air." },
-      { "name": "Heritage & geology", "desc": "The surrounding hills are limestone karst, which shaped the region's springs, caves and the very stone used in the square's buildings." }
+      {
+        "name": "River, karst & wetland",
+        "desc": "Ljubljana sits where the Ljubljanica leaves the Ljubljana Marsh, a protected karst wetland. The river's flow and the city's water table are linked to this sensitive ecosystem."
+      },
+      {
+        "name": "Urban microclimate",
+        "desc": "Stone and granite store daytime heat and release it after sunset, so the open square feels warmer in the evening — a small example of the urban heat-island effect."
+      },
+      {
+        "name": "City ecology",
+        "desc": "The river and parks are home to swifts, bats and kingfishers; the old town's lime and plane trees cool the streets and clean the air."
+      },
+      {
+        "name": "Heritage & geology",
+        "desc": "The surrounding hills are limestone karst, which shaped the region's springs, caves and the very stone used in the square's buildings."
+      }
     ]
   },
   "historyTimeline": {
@@ -478,18 +668,55 @@
     "timelineTitle": "Timeline",
     "legendsTitle": "Stories & legends",
     "events": [
-      { "year": "Middle Ages", "title": "The city gate", "desc": "The square grew around a crossing by the medieval town gate on the trade route to the north." },
-      { "year": "1646–1660", "title": "The pink church", "desc": "The Franciscan Church of the Annunciation was built, closing the square to the south with its baroque façade." },
-      { "year": "1895", "title": "Rebirth after the quake", "desc": "The earthquake of 1895 prompted reconstruction in the Secession style that defines the square today." },
-      { "year": "1905", "title": "The poet's monument", "desc": "The bronze statue of France Prešeren, by Ivan Zajec, was unveiled in the centre of the square." },
-      { "year": "1987–1988", "title": "A round square", "desc": "Architect Edvard Ravnikar reshaped the space into the circular, pedestrian layout we see today." },
-      { "year": "1991", "title": "A national symbol", "desc": "Prešernov trg was declared a cultural monument of national importance for Slovenia." },
-      { "year": "2007", "title": "Car-free heart", "desc": "After renovation the square became fully pedestrian, the true centre of city life." }
+      {
+        "year": "Middle Ages",
+        "title": "The city gate",
+        "desc": "The square grew around a crossing by the medieval town gate on the trade route to the north."
+      },
+      {
+        "year": "1646–1660",
+        "title": "The pink church",
+        "desc": "The Franciscan Church of the Annunciation was built, closing the square to the south with its baroque façade."
+      },
+      {
+        "year": "1895",
+        "title": "Rebirth after the quake",
+        "desc": "The earthquake of 1895 prompted reconstruction in the Secession style that defines the square today."
+      },
+      {
+        "year": "1905",
+        "title": "The poet's monument",
+        "desc": "The bronze statue of France Prešeren, by Ivan Zajec, was unveiled in the centre of the square."
+      },
+      {
+        "year": "1987–1988",
+        "title": "A round square",
+        "desc": "Architect Edvard Ravnikar reshaped the space into the circular, pedestrian layout we see today."
+      },
+      {
+        "year": "1991",
+        "title": "A national symbol",
+        "desc": "Prešernov trg was declared a cultural monument of national importance for Slovenia."
+      },
+      {
+        "year": "2007",
+        "title": "Car-free heart",
+        "desc": "After renovation the square became fully pedestrian, the true centre of city life."
+      }
     ],
     "legends": [
-      { "title": "The poet and his muse", "desc": "The monument shows Prešeren with a muse above him. Locals say she turns her gaze toward the window of his unrequited love, Julija — a small, romantic detail in the city's story." },
-      { "title": "The dragon of Ljubljana", "desc": "The city's dragon, seen on the Dragon Bridge, is said to wave its tail when a virgin crosses — a beloved local tale of the Ljubljanica." },
-      { "title": "Three bridges, one crossing", "desc": "The Triple Bridge began as a single span; two side footbridges were added later, turning one crossing into the square's signature silhouette." }
+      {
+        "title": "The poet and his muse",
+        "desc": "The monument shows Prešeren with a muse above him. Locals say she turns her gaze toward the window of his unrequited love, Julija — a small, romantic detail in the city's story."
+      },
+      {
+        "title": "The dragon of Ljubljana",
+        "desc": "The city's dragon, seen on the Dragon Bridge, is said to wave its tail when a virgin crosses — a beloved local tale of the Ljubljanica."
+      },
+      {
+        "title": "Three bridges, one crossing",
+        "desc": "The Triple Bridge began as a single span; two side footbridges were added later, turning one crossing into the square's signature silhouette."
+      }
     ]
   },
   "footer": {
@@ -500,9 +727,12 @@
     "officialResourcesTitle": "Public Reference Links",
     "officialLinks": {
       "sloveniaInfo": "Slovenia travel information",
-      "govSi": "Government information"
+      "govSi": "Government information",
+      "visitLjubljana": "Visit Ljubljana — official visitor information",
+      "lpp": "LPP — Ljubljana public transport & fares"
     },
-    "disclaimer": "This is an independent, non-profit travel guide. It is not the official website of Turizem Ljubljana or any other public institution, and it does not represent their views."
+    "disclaimer": "This is an independent, non-profit travel guide. It is not the official website of Turizem Ljubljana or any other public institution, and it does not represent their views.",
+    "contactNote": "Questions or corrections about this guide: write to the site team at the address listed in the privacy policy. That address serves our own content only — it is not a contact for the square, the City of Ljubljana or the tourist board. Official sources: Visit Ljubljana and LPP (links above)."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -570,5 +800,9 @@
   "officialManagement": {
     "title": "Independent Site Notice",
     "text": "This website is an independent, non-profit travel information guide about Prešernov trg.\nIt is not operated by, affiliated with, endorsed by, or speaking on behalf of Turizem Ljubljana, the City of Ljubljana, or any other official institution.\n\nFor official announcements, permits and administrative matters, please refer to the relevant public authorities directly."
+  },
+  "topicLinks": {
+    "title": "In-Depth Guides to Prešeren Square & Ljubljana",
+    "subtitle": "History, the monument, maps, transport, walking routes and events — each page answers one practical question."
   }
 }

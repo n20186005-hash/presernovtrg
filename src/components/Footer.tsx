@@ -22,6 +22,12 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
+              <a href="https://www.visitljubljana.com/en" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.visitLjubljana')}
+              </a>
+              <a href="https://www.lpp.si/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.lpp')}
+              </a>
               <a href="https://www.slovenia.info/en" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.sloveniaInfo')}
               </a>
@@ -53,6 +59,9 @@ export default function Footer() {
             style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-color)' }}
           >
             {t('disclaimer')}
+          </p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+            {t('contactNote')}
           </p>
         </div>
       </div>

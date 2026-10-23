@@ -29,6 +29,13 @@ export default function TransportGuide() {
         </p>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        <p
+          className="mb-6 text-sm rounded-lg px-4 py-3"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', color: 'var(--text-secondary)' }}
+        >
+          {t('verified')}
+        </p>
+
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
           {modes.map((m, i) => (
             <div

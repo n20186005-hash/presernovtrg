@@ -1,7 +1,8 @@
 import Header from './Header';
 import Hero from './Hero';
-import WeatherSection from './WeatherSection';
 import Intro from './Intro';
+import TopicLinks from './TopicLinks';
+import WeatherSection from './WeatherSection';
 import NearbyLandmarks from './NearbyLandmarks';
 import HoursSection from './HoursSection';
 import TicketsSection from './TicketsSection';
@@ -30,8 +31,9 @@ export default function PageSections() {
       <Header />
       <main>
         <Hero />
-        <WeatherSection />
         <Intro />
+        <TopicLinks />
+        <WeatherSection />
         <NearbyLandmarks />
         <HoursSection />
         <TicketsSection />

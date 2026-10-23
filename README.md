@@ -1,5 +1,36 @@
 # presernovtrg — www → apex 重定向修复说明
 
+## 专题页（topic pages）架构（2026-10 新增）
+
+站点定位为「以普列舍仁广场为中心的卢布尔雅那步行游览指南」，除各语言首页外，
+还发布长尾专题页（规划 40 页，分批上线）。
+
+- **内容层**：`src/data/topics.ts`（类型 + 注册表 + `getTopic`/`topicLocales`/
+  `topicAlternates`）、`src/data/topics.en.ts`（英文全量）、`src/data/topics.sl.ts`
+  （斯洛文尼亚语重点页）。每个 `TopicContent` 含 title/description/h1/intro/
+  facts/sections/faq/related/updated；`related` 只链接已存在的语种版本，
+  未建页面自动过滤，不会产生死链。
+- **路由**：`src/app/[locale]/[topic]/page.tsx`（`generateStaticParams` 只生成
+  「该语种有内容」的 locale×slug 组合，`dynamicParams=false`），
+  `generateMetadata` 输出自引用 canonical + 仅含已发布语种的 hreflang，
+  页面注入 BreadcrumbList + FAQPage + WebPage(about #attraction) JSON-LD。
+- **路径名**：`src/i18n/routing.ts` 的 `pathnames` 已注册全部 40 个专题 slug
+  （跨语种相同）；斯洛文尼亚语沿用根目录无前缀结构。
+- **首页入口**：`src/components/TopicLinks.tsx`（`#guides` 区块，Header 导航
+  「Guides/Vodniki」锚点）按当前语种渲染可用专题卡片；`src/app/sitemap.ts`
+  收录全部已发布专题 URL（每语种一条 canonical + alternates）。
+- **新增一个专题页**：在 `TOPIC_SLUGS` 加 slug → routing pathnames 加同名项 →
+  在对应语言文件写 `TopicContent` → 重新构建（sitemap/首页/内链自动生效）。
+- **新增一个语种版本**：只在对应 `topics.<lang>.ts` 写该 slug 的内容即可，
+  hreflang/sitemap/内链自动纳入该语种。
+
+批次（2026-10）：第一批 14 页（history / preseren-monument / map /
+triple-bridge / franciscan-church / station-to-square / airport-to-square /
+bus-urbana / parking / accessibility / one-hour-walk / christmas-market /
+christmas-lights / where-to-stay），其中斯洛文尼亚语已发布 6 页重点页
+（history / preseren-monument / map / station-to-square / christmas-market /
+christmas-lights）。
+
 ## 现象
 访问 `https://www.presernovtrg.com` 时被错误重定向到
 `https://presernovtrg.com/:path*`,并渲染 Next.js 的 404 页面

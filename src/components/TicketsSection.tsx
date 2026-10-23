@@ -41,7 +41,7 @@ export default function TicketsSection() {
             </div>
           </div>
 
-          {/* Lighthouse */}
+          {/* Indoor venues */}
           <div
             className="rounded-2xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
@@ -57,8 +57,11 @@ export default function TicketsSection() {
                 </svg>
               </div>
               <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                {t('lighthouse')}
+                {t('venues')}
               </h3>
+              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
+                {t('venuesDesc')}
+              </p>
             </div>
             <div className="space-y-3">
               <PriceRow label={t('adults')} value={t('adultsPrice')} />

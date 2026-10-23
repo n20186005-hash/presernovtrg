@@ -37,6 +37,13 @@ export default function MapEmbed() {
           />
         </div>
 
+        <p className="mt-4 text-sm" style={{ color: 'var(--text-muted)' }}>
+          <span className="font-medium" style={{ color: 'var(--text-secondary)' }}>{t('plusCodeLabel')}:</span>{' '}
+          <span style={{ fontVariantNumeric: 'tabular-nums' }}>{t('plusCodeValue')}</span>
+          {' — '}
+          {t('plusCodeHint')}
+        </p>
+
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a

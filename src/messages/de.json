@@ -9,13 +9,14 @@
     "gallery": "Galerie",
     "reviews": "Bewertungen",
     "map": "Karte",
-    "backToHome": "Zurück zur Startseite"
+    "backToHome": "Zurück zur Startseite",
+    "guides": "Guides"
   },
   "hero": {
     "title": "Prešeren-Platz (Prešernov trg, Ljubljana)",
     "subtitle": "Das Herz von Ljubljana und nationales Kultursymbol Sloweniens",
-    "rating": "4.7(13,277)",
-    "reviewCount": "13.277 Bewertungen",
+    "rating": "4.7(13,383)",
+    "reviewCount": "13.383 Bewertungen",
     "hours": "Rund um die Uhr geöffnet",
     "openMaps": "Standort ansehen"
   },
@@ -24,15 +25,15 @@
     "locationTitle": "Lage und Anreise zum Prešeren-Platz in Ljubljana",
     "nearbyTitle": "Sehenswürdigkeiten rund um den Prešeren-Platz",
     "historyTitle": "Geschichte und Bedeutung des Prešeren-Platzes",
-    "entityDeclaration": "Willkommen am <strong>Prešeren-Platz</strong>, dem zentralen <strong>Prešernov trg</strong> von Ljubljana. Mitten im Zentrum von <strong>Ljubljana</strong>, <strong>Slowenien</strong>, gelegen, ist dieser Ort der wichtigste Ausgangspunkt für Reisende in der Region.",
-    "breadcrumb": "Prešernov trg → Ljubljana → Ljubljana → Slowenien",
-    "nearbyCluster": "Rund um den <strong>Prešeren-Platz</strong> erreichen Besucher bequem weitere historische Sehenswürdigkeiten, darunter die <strong>Dreifache Brücke (Tromostovje)</strong> und die <strong>Burg von Ljubljana (Ljubljanski grad)</strong>.",
-    "description": "Sobald Sie den Prešeren-Platz betreten, umgibt Sie die romantische Atmosphäre und die historische Tiefe dieser mitteleuropäischen Stadt. Der runde Platz wirkt wie das Wohnzimmer von Ljubljana: In der Mitte steht ruhig eine Bronzestatue, ringsum erheben sich farbige Fassaden, und die Dreifache Brücke verbindet beide Flussufer – jedes Detail strahlt Eleganz und Lebendigkeit aus.\n\nAn einem Frühlingsnachmittag taucht das Sonnenlicht die rosa Kirche und die Jugendstilbauten in warmes Gold. Blumen blühen auf dem Platz, Straßenmusiker füllen die Luft mit Melodien. Das Prešeren-Denkmal wirkt lebendig und konzentriert, über dem Dichter erhebt sich die Muse mit dem Lorbeerzweig als Sinnbild für Dichtung und Inspiration.\n\nBesucher schlendern ohne Eile, Einheimische treffen sich auf den Caféterrassen, Kinder spielen in der Mitte des Platzes. In der Ferne zeigt sich die Burg von Ljubljana, während der Strom der Menschen über die Dreifache Brücke Alt- und Neustadt verbindet.\n\nHier gibt es keine Hast, sondern die Ruhe jahrhundertelanger Geschichte und die Lebendigkeit des städtischen Alltags. Wenn abends die Lichter angehen, zeichnen sich die Umrisse der Gebäude sanft ab und der Platz wird zur Bühne des europäischen Nachtlebens.",
+    "entityDeclaration": "Der Prešeren-Platz (Prešernov trg) ist der zentrale Platz in der Innenstadt von Ljubljana, der Hauptstadt Sloweniens. Er liegt am rechten Ufer der Ljubljanica, wo die Fußgängerzone der Altstadt auf die Dreifache Brücke trifft, und ist nach France Prešeren, dem Nationaldichter Sloweniens, benannt.",
+    "breadcrumb": "Prešeren-Platz → Ljubljana → Slowenien",
+    "nearbyCluster": "Fast alles, was Ljubljana begehbar macht, liegt wenige Minuten vom Platz entfernt: die Dreifache Brücke (Tromostovje) über die Ljubljanica, die rosafarbene Franziskanerkirche Mariä Verkündigung an der Südseite und — wenige Minuten flussaufwärts — der Zentralmarkt und die Burg Ljubljana (Ljubljanski grad). Die meisten Besucher nutzen den Platz als Start- und Endpunkt eines Altstadtspaziergangs.",
+    "description": "Der Prešeren-Platz ist ein kreisförmiger, vollständig fußgängerfreier Platz mit Granit- und weißem Marmorpflaster, den Architekt Edvard Ravnikar 1987–1988 umgestaltete und der 2007 endgültig autofrei wurde. In der Mitte steht das Bronzedenkmal für France Prešeren von Ivan Zajec aus dem Jahr 1905, über dem Dichter eine Muse mit Lorbeerzweig. Ringsum erheben sich die rosafarbene Franziskanerkirche (1646–1660), das Gebäude der Zentralapotheke und Secessionsfassaden, die nach dem Erdbeben von 1895 wiederaufgebaut wurden. Seit 1991 steht der Platz als Denkmal von nationaler Bedeutung unter Schutz; er ist Ljubljanas Standardtreffpunkt — Einheimische sagen einfach »pod spomenikom«, unter dem Denkmal — und Bühne der großen öffentlichen Ereignisse, vom Weihnachtsmarkt bis zum Prešeren-Tag am 8. Februar.",
     "visitGuide": {
       "title": "Tipps für den Besuch",
       "items": [
         "Kommen Sie unter der Woche am frühen Morgen oder am Abend: weniger Menschen und weicheres Licht zum Schlendern und Fotografieren",
-        "Der gesamte öffentliche Bereich des Platzes ist frei zugänglich und kostet keinen Eintritt",
+        "Der öffentliche Platz ist kostenlos und rund um die Uhr geöffnet; das Innere der Franziskanerkirche ist frei (Spenden willkommen) — Messzeiten und Schließungen hängen vor Ort aus",
         "Der Abend ist die beste Zeit für den Sonnenuntergang und den allmählichen Übergang zur Nachtbeleuchtung",
         "Zahlreiche Cafés in der Umgebung laden zu einer Pause und entspanntem Lebensgefühl ein"
       ]
@@ -104,36 +105,36 @@
     "city": "Stadt",
     "cityValue": "Ljubljana",
     "googleRating": "Google-Bewertung",
-    "googleRatingValue": "4,7/5 (13.277 Bewertungen)",
+    "googleRatingValue": "4,7/5 (13.383 Bewertungen)",
     "address": "Adresse",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slowenien"
   },
   "hours": {
     "title": "Öffnungszeiten",
-    "outdoor": "Öffentlicher Bereich im Freien",
-    "outdoorTime": "Ganzjährig rund um die Uhr geöffnet. Der öffentliche Teil des Platzes hat keine Zutrittsbeschränkungen.",
+    "outdoor": "Der öffentliche Platz",
+    "outdoorTime": "Täglich rund um die Uhr geöffnet — kostenlos, ohne Ticket",
     "lighthouse": "Umliegende Kirchen und Innenräume",
-    "summer": "Dienstag – Sonntag",
-    "summerTime": "09:00–18:00",
-    "winter": "Montag",
-    "winterTime": "Geschlossen (außer an religiösen Feiertagen)",
     "warning": "Empfehlung für den Besuch",
     "warningTime": "Für weniger Andrang und schöneres Licht empfehlen wir einen Besuch unter der Woche am frühen Morgen oder gegen Abend",
-    "tip": "Der öffentliche Bereich des Platzes ist kostenlos"
+    "tip": "Nur der Platz selbst schließt nie und kostet nie; Tickets braucht man allein für manche Innenräume",
+    "venues": "Innenräume (Kirche & Museen)",
+    "venuesTime": "Die Zeiten unterscheiden sich je nach Ort. Die Franziskanerkirche Mariä Verkündigung ist tagsüber normalerweise für Besucher geöffnet, der Eintritt ist frei (Spenden willkommen); Messzeiten und gelegentliche Schließungen hängen an der Kirche aus. Prüfen Sie die Hinweise vor Ort."
   },
   "tickets": {
     "title": "Eintrittspreise",
     "outdoor": "Öffentlicher Bereich des Platzes",
-    "outdoorPrice": "Freier Eintritt, keine Gebühr",
+    "outdoorPrice": "Kostenlos — ohne Ticket, ohne Öffnungszeiten",
     "lighthouse": "Innenräume der umliegenden Kirchen und Museen",
-    "adults": "Erwachsene",
-    "adultsPrice": "Preise je nach Einrichtung",
+    "adults": "Museen & Galerien",
+    "adultsPrice": "Preise je nach Einrichtung — Hinweise vor Ort oder die Ljubljana City Card prüfen",
     "students": "Studierende",
-    "studentsPrice": "Ermäßigungen möglich",
+    "studentsPrice": "Ermäßigungen, wo angeboten — vor Ort fragen",
     "children": "Kinder",
-    "childrenPrice": "Teilweise kostenlos oder ermäßigt",
+    "childrenPrice": "Meist kostenlos oder ermäßigt — vor Ort fragen",
     "card": "Ljubljana Card",
-    "cardPrice": "Kann Eintritte bei mehreren Sehenswürdigkeiten vergünstigen"
+    "cardPrice": "Kann Eintritte bei mehreren Sehenswürdigkeiten vergünstigen",
+    "venues": "Franziskanerkirche Mariä Verkündigung (Innenraum)",
+    "venuesDesc": "Freier Eintritt; Spenden sind willkommen"
   },
   "transport": {
     "title": "Anreise",
@@ -249,39 +250,18 @@
   },
   "reviews": {
     "title": "Bewertungen der Besucher",
-    "declaration": "Bewertungen sind auf Google Maps verfügbar (externer Link).",
+    "declaration": "Die angezeigte Bewertung ist ein aggregierter Stand von Google Maps, geprüft im Oktober 2026. Einzelbewertungen geben wir nicht wieder.",
     "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
-    "items": [
-      {
-        "name": "Zhang Ming",
-        "date": "März 2026",
-        "rating": 5,
-        "text": "Ein außergewöhnlich romantischer Ort. Die Abendstimmung ist wunderschön, die rosa Kirche und die Jugendstilbauten ergeben zusammen ein ganz besonderes Bild."
-      },
-      {
-        "name": "Li Hua",
-        "date": "Februar 2026",
-        "rating": 5,
-        "text": "Der Höhepunkt meiner Slowenienreise. Der Platz ist nicht groß, aber jedes Detail ist fein ausgearbeitet und voller Geschichte."
-      },
-      {
-        "name": "Wang Fang",
-        "date": "Januar 2026",
-        "rating": 5,
-        "text": "Ein Paradies für Architekturliebhaber. Barocke Kirche, Jugendstilbauten und Denkmal wirken sehr harmonisch zusammen."
-      },
-      {
-        "name": "Chen Wei",
-        "date": "Dezember 2025",
-        "rating": 4,
-        "text": "Ein schöner Stadtplatz mit hervorragender Lage zwischen Alt- und Neustadt. Besonders lebhaft zur Zeit des Weihnachtsmarktes."
-      }
-    ]
+    "items": [],
+    "snapshot": "4,7 / 5 · 13.383 Bewertungen auf Google Maps · geprüft Oktober 2026"
   },
   "mapSection": {
     "title": "Lage und Anreise zum Prešeren-Platz in Ljubljana",
     "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slowenien",
-    "openMaps": "In Google Maps öffnen"
+    "openMaps": "In Google Maps öffnen",
+    "plusCodeLabel": "Google-Maps-Plus-Code",
+    "plusCodeValue": "3G24+HC Ljubljana, Slowenien",
+    "plusCodeHint": "Plus-Code in Google Maps eingeben, um direkt zum Platz zu springen."
   },
   "faq": {
     "title": "Häufige Fragen",
@@ -327,7 +307,6 @@
       "precip_heavy_risk": "Starker Regen – meiden Sie Tieflagen und rutschige Wege.",
       "wind_strong_risk": "Starker Wind – Abstand zu Werbetafeln, Gerüsten und hohen Bäumen halten.",
       "fog_risk": "Schlechte Sicht – im Straßenverkehr besonders vorsichtig sein.",
-
       "precip_prob_dress": "Schauer sind wahrscheinlich – Schuhe mit gutem Profil tragen.",
       "precip_heavy_dress": "Wasserdichte Jacke gegen Wind und Regen tragen.",
       "precip_light_dress": "Leichter Regen – Wege sind rutschig, achten Sie auf den Tritt.",
@@ -337,7 +316,6 @@
       "cold_range_dress": "Großer Unterschied zwischen Tag und Nacht – eine zusätzliche Schicht einpacken.",
       "cold_max_dress": "Es ist kalt – gut einpacken.",
       "wind_mid_dress": "Windig – Hüte fliegen leicht weg, weite lange Röcke sind ungünstig.",
-
       "precip_prob_plan": "Regen ist wahrscheinlich. Planen Sie Indoor-Sehenswürdigkeiten zuerst, Stopps im Freien später.",
       "precip_light_plan": "Erlebnisse im Freien sind weniger schön; schützen Sie die Kamera.",
       "precip_heavy_plan": "Nicht ideal für lange Aufenthalte im Freien; Bootsfahrten und Standseilbahn können pausieren.",
@@ -351,7 +329,6 @@
       "sky_clear_plan": "Klares Wetter – ideal für Erkundungen im Freien und den Sonnenuntergang.",
       "sky_cloudy_plan": "Weiches Licht, ideal zum Fotografieren – angenehm für einen langen Spaziergang ohne grelle Sonne.",
       "fog_plan": "Kein Tag für weite Ausblicke.",
-
       "precip_prob_items": "Regenschirm oder Regenponcho",
       "precip_light_items": "Taschenschirm",
       "precip_heavy_items": "Regenponcho (ein langer Schirm ist bei Wind unpraktisch)",
@@ -363,7 +340,6 @@
       "cold_freeze_items": "Rutschfeste Schuhe",
       "sky_clear_items": "Sonnenschutz",
       "fog_items": "Maske",
-
       "alert_risk": "Warnung {event} ist aktiv – passen Sie Ihre Pläne an, meiden Sie Berg- und Uferbereiche und verfolgen Sie die Vorhersage weiter.",
       "alert_plan": "Wählen Sie zuerst Aktivitäten in Innenräumen und folgen Sie den offiziellen Updates."
     },
@@ -400,18 +376,54 @@
     "subtitle": "Eine praktische, neutrale Übersicht – wir beschreiben Kategorien, keine einzelnen Anbieter.",
     "note": "Als gemeinnützige Informationsseite empfehlen wir keine bestimmten Geschäfte, Cafés oder Hotels; die Liste ordnet die Arten von Angeboten rund um den Platz.",
     "items": [
-      { "name": "Öffentliche Toiletten", "desc": "In der Fußgängerzone und an den Hauptknotenpunkten gibt es öffentliche und barrierefreie Toiletten, meist münz- oder kartenbetrieben." },
-      { "name": "Trinkwasser", "desc": "Öffentliche Trinkbrunnen sind in der Altstadt verbreitet; eine wiederbefüllbare Flasche ist im Sommer praktisch." },
-      { "name": "Parken", "desc": "Kostenpflichtige öffentliche Garagen und Parkplätze liegen am Rand des Zentrums; der Kernplatz ist autofrei." },
-      { "name": "Restaurants & Gastronomie", "desc": "Rund um den Platz reihen sich Restaurants von der slowenischen bis zur internationalen Küche." },
-      { "name": "Cafés & Süßes", "desc": "Cafés, Konditoreien und Eisdielen laden tagsüber zum kurzen Kaffee oder Nachtisch ein." },
-      { "name": "Supermärkte & Drogerie", "desc": "Kleine Supermärkte und Convenience-Läden für Snacks und Alltagsbedarf erreicht man in kurzem Fußweg." },
-      { "name": "Einkaufsstraßen", "desc": "Fußgänger-Einkaufsstraßen und Arkaden mit lokalen Marken beginnen direkt am Platz." },
-      { "name": "Tankstellen & E-Laden", "desc": "Tankstellen und Ladestationen für E-Autos liegen an den Stadtzufahrten und Hauptstraßen." },
-      { "name": "Banken & Geldautomaten", "desc": "Banken, Wechselstuben und Geldautomaten konzentrieren sich in der Innenstadt." },
-      { "name": "Apotheke & Medizin", "desc": "Apotheken und ein Krankenhaus mit Notaufnahme sind zu Fuß oder mit kurzer Fahrt erreichbar." },
-      { "name": "Touristeninformation", "desc": "Besucherinformationen in der Nähe helfen mit Karten, Veranstaltungen und grundlegenden Hinweisen zum Nahverkehr." },
-      { "name": "Barrierefreiheit", "desc": "Stufenfreie Gehwege, Rampen und Aufzüge verbinden den Platz mit nahen Sehenswürdigkeiten." }
+      {
+        "name": "Öffentliche Toiletten",
+        "desc": "Öffentliche Toiletten sind in Ljubljana kostenlos nutzbar (offizielle Besucherinformation, Visit Ljubljana). Öffentliche und barrierefreie Toiletten finden Sie in der Fußgängerzone, an den Verkehrsknotenpunkten und rund um den Markt; genaue Standorte und Öffnungszeiten hängen vor Ort aus."
+      },
+      {
+        "name": "Trinkwasser",
+        "desc": "Öffentliche Trinkbrunnen sind in der Altstadt verbreitet; eine wiederbefüllbare Flasche ist im Sommer praktisch."
+      },
+      {
+        "name": "Parken",
+        "desc": "Kostenpflichtige öffentliche Garagen und Parkplätze liegen am Rand des Zentrums; der Kernplatz ist autofrei."
+      },
+      {
+        "name": "Restaurants & Gastronomie",
+        "desc": "Rund um den Platz reihen sich Restaurants von der slowenischen bis zur internationalen Küche."
+      },
+      {
+        "name": "Cafés & Süßes",
+        "desc": "Cafés, Konditoreien und Eisdielen laden tagsüber zum kurzen Kaffee oder Nachtisch ein."
+      },
+      {
+        "name": "Supermärkte & Drogerie",
+        "desc": "Kleine Supermärkte und Convenience-Läden für Snacks und Alltagsbedarf erreicht man in kurzem Fußweg."
+      },
+      {
+        "name": "Einkaufsstraßen",
+        "desc": "Fußgänger-Einkaufsstraßen und Arkaden mit lokalen Marken beginnen direkt am Platz."
+      },
+      {
+        "name": "Tankstellen & E-Laden",
+        "desc": "Tankstellen und Ladestationen für E-Autos liegen an den Stadtzufahrten und Hauptstraßen."
+      },
+      {
+        "name": "Banken & Geldautomaten",
+        "desc": "Banken, Wechselstuben und Geldautomaten konzentrieren sich in der Innenstadt."
+      },
+      {
+        "name": "Apotheke & Medizin",
+        "desc": "Apotheken und ein Krankenhaus mit Notaufnahme sind zu Fuß oder mit kurzer Fahrt erreichbar."
+      },
+      {
+        "name": "Touristeninformation",
+        "desc": "Besucherinformationen in der Nähe helfen mit Karten, Veranstaltungen und grundlegenden Hinweisen zum Nahverkehr."
+      },
+      {
+        "name": "Barrierefreiheit",
+        "desc": "Stufenfreie Gehwege, Rampen und Aufzüge verbinden den Platz mit nahen Sehenswürdigkeiten."
+      }
     ]
   },
   "transportGuide": {
@@ -421,23 +433,119 @@
     "timeLabel": "Dauer",
     "costLabel": "Kosten",
     "modes": [
-      { "mode": "Vom Flughafen", "time": "≈ 25–40 Min", "cost": "4–35 €", "steps": ["Nimm den Flughafenbus ins Zentrum (oder einen Regionalbus).", "Vom Halt in der City sind es 5 Minuten Fußweg zum Platz.", "Taxi oder Ride-Hailing bringen dich direkt an den Rand des Zentrums."], "tip": "Buch Bus oder geteiltes Transfer frühzeitig für den besten Preis." },
-      { "mode": "Von Bahn- & Busbahnhof", "time": "≈ 10 Min Fußweg", "cost": "1,30 € (Stadtticket)", "steps": ["Beide Bahnhöfe sind 10 Minuten Fußweg vom Platz entfernt.", "Folge den Schildern zur Fußgängerzone und zur DreiBrücke.", "Städtische Busse erschließen das Areal häufig."], "tip": "Ein 24-Stunden-Stadtticket gilt für Busse und die meisten Linien." },
-      { "mode": "Stadtbus & Bahn", "time": "variabel", "cost": "1,30 € Einzelfahrt", "steps": ["Mehrere Linien halten wenige Minuten Fußweg vom Platz.", "Kaufe Fahrschein oder Tageskarte beim Fahrer oder Kiosk.", "Haltestellen zeigen Richtung Altstadt und Fluss."], "tip": "Fahrschein im Fahrzeug entwerten; Kontrollen sind aktiv." },
-      { "mode": "Taxi & Ride-Hailing", "time": "5–15 Min ab Zentrum", "cost": "Taxameter / App", "steps": ["Taxis und Apps nehmen am Flughafen, Bahnhof und festen Punkten auf.", "Bitte nach 'Prešernov trg' oder der DreiBrücke.", "Fahrer setzen dich am Fußgängerrand ab, 1 Minute Fußweg."], "tip": "Bevorzuge lizenziertes Taxi mit sichtbarem Zähler." },
-      { "mode": "Auto & Park-and-Ride", "time": "variabel", "cost": "kostenpflichtig", "steps": ["Über Ringstraßen anfahren und am Zentrumrand parken.", "Zu Fuß oder mit Stadtbus weiter.", "Platz und Altstadt sind autofreie Zonen."], "tip": "Nicht in den Fußgängerkern fahren; Parken ist kostenpflichtig und zeitbegrenzt." },
-      { "mode": "Zu Fuß & Rad", "time": "ab überall zentral", "cost": "frei / Miete", "steps": ["Die Altstadt ist kompakt und am besten zu Fuß zu erkunden.", "Fahrrad-Verleihstationen sind im Zentrum verteilt.", "Flache Uferwege verbinden Platz mit Parks."], "tip": "Ein Uferspaziergang zu Burg oder Markt dauert etwa 10 Minuten." }
-    ]
+      {
+        "mode": "Vom Flughafen Jože Pučnik",
+        "time": "≈ 25–40 Min",
+        "cost": "Bus ≈ 4–5 € / Taxi nach Taxameter",
+        "steps": [
+          "Vom Terminal mit dem LPP-Flughafenbus Richtung Innenstadt (rund 30 Minuten).",
+          "An der Haltestelle im Zentrum aussteigen und etwa 8–10 Minuten zum Platz gehen.",
+          "Taxi oder Ride-Hailing setzt Sie am Rand der Fußgängerzone ab, 1–2 Gehminuten."
+        ],
+        "tip": "Liniennummern und Fahrpläne ändern sich — prüfen Sie den aktuellen Fahrplan der LPP (Stand Oktober 2026)."
+      },
+      {
+        "mode": "Von Bahn- & Busbahnhof",
+        "time": "≈ 10 Min. zu Fuß",
+        "cost": "kostenlos — zu Fuß",
+        "steps": [
+          "Beide Bahnhöfe liegen rund 700 m vom Platz entfernt.",
+          "Zu Fuß über die Slovenska cesta Richtung Altstadt.",
+          "Eintritt in die Fußgängerzone über die Dreifache Brücke oder den Flussweg."
+        ],
+        "tip": "Mit Gepäck ist der Weg eben und stufenfrei; alternativ eine kurze Taxifahrt nach Taxameter."
+      },
+      {
+        "mode": "Stadtbus (keine Straßenbahn)",
+        "time": "variabel",
+        "cost": "1,50 € Einzelfahrt (Urbana)",
+        "steps": [
+          "Mehrere Stadtlinien halten 2–5 Gehminuten vom Platz entfernt.",
+          "Mit der Urbana-Wertkarte kostet eine Fahrt 1,50 € und gilt für Umstiege innerhalb von 90 Minuten.",
+          "Barzahlung ist teurer — vergleichen Sie die LPP-Preisliste."
+        ],
+        "tip": "Entwerten Sie an Bord; die LPP führt Kontrollen durch. Preisliste gültig ab 1. September 2026, geprüft Oktober 2026."
+      },
+      {
+        "mode": "Taxi & Ride-Hailing",
+        "time": "5–15 Min ab Zentrum",
+        "cost": "Taxameter / App",
+        "steps": [
+          "Taxis und Apps nehmen am Flughafen, Bahnhof und festen Punkten auf.",
+          "Bitte nach 'Prešernov trg' oder der DreiBrücke.",
+          "Fahrer setzen dich am Fußgängerrand ab, 1 Minute Fußweg."
+        ],
+        "tip": "Bevorzuge lizenziertes Taxi mit sichtbarem Zähler."
+      },
+      {
+        "mode": "Auto & Park-and-Ride",
+        "time": "variabel",
+        "cost": "kostenpflichtig",
+        "steps": [
+          "Über Ringstraßen anfahren und am Zentrumrand parken.",
+          "Zu Fuß oder mit Stadtbus weiter.",
+          "Platz und Altstadt sind autofreie Zonen."
+        ],
+        "tip": "Nicht in den Fußgängerkern fahren; Parken ist kostenpflichtig und zeitbegrenzt."
+      },
+      {
+        "mode": "Zu Fuß & Rad",
+        "time": "ab überall zentral",
+        "cost": "frei / Miete",
+        "steps": [
+          "Die Altstadt ist kompakt und am besten zu Fuß zu erkunden.",
+          "Fahrrad-Verleihstationen sind im Zentrum verteilt.",
+          "Flache Uferwege verbinden Platz mit Parks."
+        ],
+        "tip": "Ein Uferspaziergang zu Burg oder Markt dauert etwa 10 Minuten."
+      }
+    ],
+    "verified": "Verkehrsdaten geprüft im Oktober 2026 anhand der LPP-Preisliste gültig ab 1. September 2026 (Urbana-Einzelfahrt 1,50 € inkl. Umstiege innerhalb 90 Minuten)."
   },
   "seasons": {
     "title": "Saisonale Besuchsstrategie",
     "subtitle": "Ein ganzjähriger Überblick zu Klima, Andrang und Licht.",
-    "columns": { "season": "Saison", "temp": "Ø Temp.", "precip": "Niederschlag", "crowds": "Andrang", "highlight": "Highlights", "pack": "Packen" },
+    "columns": {
+      "season": "Saison",
+      "temp": "Ø Temp.",
+      "precip": "Niederschlag",
+      "crowds": "Andrang",
+      "highlight": "Highlights",
+      "pack": "Packen"
+    },
     "rows": [
-      { "season": "Frühling (Mär–Mai)", "temp": "8–19 °C", "precip": "Mäßig, ~70 mm/Mon", "crowds": "Gering–mittel", "highlight": "Blüte, weiches Licht, weniger Touristen", "pack": "Schichten, Regenjacke, bequeme Schuhe" },
-      { "season": "Sommer (Jun–Aug)", "temp": "18–28 °C", "precip": "Örtlich Gewitter", "crowds": "Hoch (Hochsaison)", "highlight": "Lange Tage, Terrassen, Feste", "pack": "Sonenschutz, Wasser, luftige Kleidung" },
-      { "season": "Herbst (Sep–Nov)", "temp": "9–22 °C", "precip": "Zunehmender Regen", "crowds": "Mittel", "highlight": "Goldenes Licht, Weinlese, ruhige Straßen", "pack": "Warme Schichten, Schirm, wasserdichte Schuhe" },
-      { "season": "Winter (Dez–Feb)", "temp": "-2–6 °C", "precip": "Schnee möglich", "crowds": "Gering (außer Feiertage)", "highlight": "Adventmarkt, klare Luft, stille Plätze", "pack": "Warmer Mantel, Mütze, rutschfeste Stiefel" }
+      {
+        "season": "Frühling (Mär–Mai)",
+        "temp": "8–19 °C",
+        "precip": "Mäßig, ~70 mm/Mon",
+        "crowds": "Gering–mittel",
+        "highlight": "Blüte, weiches Licht, weniger Touristen",
+        "pack": "Schichten, Regenjacke, bequeme Schuhe"
+      },
+      {
+        "season": "Sommer (Jun–Aug)",
+        "temp": "18–28 °C",
+        "precip": "Örtlich Gewitter",
+        "crowds": "Hoch (Hochsaison)",
+        "highlight": "Lange Tage, Terrassen, Feste",
+        "pack": "Sonenschutz, Wasser, luftige Kleidung"
+      },
+      {
+        "season": "Herbst (Sep–Nov)",
+        "temp": "9–22 °C",
+        "precip": "Zunehmender Regen",
+        "crowds": "Mittel",
+        "highlight": "Goldenes Licht, Weinlese, ruhige Straßen",
+        "pack": "Warme Schichten, Schirm, wasserdichte Schuhe"
+      },
+      {
+        "season": "Winter (Dez–Feb)",
+        "temp": "-2–6 °C",
+        "precip": "Schnee möglich",
+        "crowds": "Gering (außer Feiertage)",
+        "highlight": "Adventmarkt, klare Luft, stille Plätze",
+        "pack": "Warmer Mantel, Mütze, rutschfeste Stiefel"
+      }
     ]
   },
   "audience": {
@@ -447,17 +555,87 @@
     "paceLabel": "Tempo",
     "tipsTitle": "Gut zu wissen",
     "plans": [
-      { "name": "Familien mit Kindern", "duration": "1,5–2 h", "pace": "Entspannt", "tagline": "Flach, autofrei und voller kleiner Entdeckungen für alle Alter.", "steps": ["Starte an der DreiBrücke und zähle die drei Brücken.", "Lass Kinder die Muse und die rosa Kirche entdecken.", "Pause in einem Ufer-Café mit Platz.", "Ende mit einem Spaziergang zum Zentralmarkt."], "tips": ["Gehwege stufenlos und kinderwagengeeignet.", "Öffentliche Toiletten und Brunnen sind nah.", "Bleib auf dem offenen Platz – keine Straßen zu queren."] },
-      { "name": "Fotografie & Natur", "duration": "2–3 h", "pace": "Flexibel", "tagline": "Beste Licht- und Winkel für Architektur und Fluss.", "steps": ["Fotografiere von der DreiBrücke in der Goldenen Stunde.", "Rahme die rosa Kirche vor Abendhimmel.", "Erfasse Secessionsfassaden an der Nordseite.", "Folge dem Fluss für Spiegelungen."], "tips": ["Die Blaue Stunde nach Sonnenuntergang wirkt am dramatischsten.", "Stativ hilft bei wenig Licht; Lichtreflexe meiden.", "Drohnen über dem historischen Kern sind verboten."] },
-      { "name": "Wenig Anstrengung & barrierefrei", "duration": "1 h", "pace": "Sehr leicht", "tagline": "Minimaler Fußweg mit Bänken, Rampen und Ausblicken.", "steps": ["Komm stufenfrei von der Bahnhofsseite.", "Raste auf einer Bank mit Blick über den Platz.", "Genieße Denkmal und Kirche ohne Stufen.", "Zurück entlang der flachen Uferpromenade."], "tips": ["Rampen und Aufzüge verbinden die Hauptwege.", "Cafés haben barrierefreie Eingänge.", "Meide die Nachmittagsspitze für mehr Ruhe."] }
+      {
+        "name": "Familien mit Kindern",
+        "duration": "1,5–2 h",
+        "pace": "Entspannt",
+        "tagline": "Flach, autofrei und voller kleiner Entdeckungen für alle Alter.",
+        "steps": [
+          "Starte an der DreiBrücke und zähle die drei Brücken.",
+          "Lass Kinder die Muse und die rosa Kirche entdecken.",
+          "Pause in einem Ufer-Café mit Platz.",
+          "Ende mit einem Spaziergang zum Zentralmarkt."
+        ],
+        "tips": [
+          "Gehwege stufenlos und kinderwagengeeignet.",
+          "Öffentliche Toiletten und Brunnen sind nah.",
+          "Bleib auf dem offenen Platz – keine Straßen zu queren."
+        ]
+      },
+      {
+        "name": "Fotografie & Natur",
+        "duration": "2–3 h",
+        "pace": "Flexibel",
+        "tagline": "Beste Licht- und Winkel für Architektur und Fluss.",
+        "steps": [
+          "Fotografiere von der DreiBrücke in der Goldenen Stunde.",
+          "Rahme die rosa Kirche vor Abendhimmel.",
+          "Erfasse Secessionsfassaden an der Nordseite.",
+          "Folge dem Fluss für Spiegelungen."
+        ],
+        "tips": [
+          "Die Blaue Stunde nach Sonnenuntergang wirkt am dramatischsten.",
+          "Stativ hilft bei wenig Licht; Lichtreflexe meiden.",
+          "Drohnen über dem historischen Kern sind verboten."
+        ]
+      },
+      {
+        "name": "Wenig Anstrengung & barrierefrei",
+        "duration": "1 h",
+        "pace": "Sehr leicht",
+        "tagline": "Minimaler Fußweg mit Bänken, Rampen und Ausblicken.",
+        "steps": [
+          "Komm stufenfrei von der Bahnhofsseite.",
+          "Raste auf einer Bank mit Blick über den Platz.",
+          "Genieße Denkmal und Kirche ohne Stufen.",
+          "Zurück entlang der flachen Uferpromenade."
+        ],
+        "tips": [
+          "Rampen und Aufzüge verbinden die Hauptwege.",
+          "Cafés haben barrierefreie Eingänge.",
+          "Meide die Nachmittagsspitze für mehr Ruhe."
+        ]
+      }
     ]
   },
   "itineraries": {
     "title": "Empfohlene Reiserouten",
     "subtitle": "Halb- und ganztägige Pläne ab dem Platz.",
     "plans": [
-      { "name": "Halbtag (≈ 4 h)", "overview": "Entspannte Runde über Platz, Fluss und Markt.", "steps": ["10:00 Spaziergang über Platz und DreiBrücke.", "10:45 Kaffee in einem Ufer-Café.", "11:30 Fußweg zum Zentralmarkt und Dom.", "12:30 Mittagessen in der Altstadt.", "13:30 Rückweg an der Franziskanerkirche vorbei."] },
-      { "name": "Ganztag (≈ 8 h)", "overview": "Platz plus Burg, Museen und Grüngürtel.", "steps": ["09:30 Platz, DreiBrücke und Denkmal.", "10:30 Standseilbahn oder zu Fuß zur Burg.", "12:30 Mittagessen am Fluss.", "14:00 Museum nach Wahl im Zentrum.", "16:00 Ufer-Radtour oder Spaziergang zum Tivoli-Park.", "18:00 Sonnenuntergang zurück am Platz.", "19:30 Abendessen mit Blick auf die beleuchteten Fassaden."] }
+      {
+        "name": "Halbtag (≈ 4 h)",
+        "overview": "Entspannte Runde über Platz, Fluss und Markt.",
+        "steps": [
+          "10:00 Spaziergang über Platz und DreiBrücke.",
+          "10:45 Kaffee in einem Ufer-Café.",
+          "11:30 Fußweg zum Zentralmarkt und Dom.",
+          "12:30 Mittagessen in der Altstadt.",
+          "13:30 Rückweg an der Franziskanerkirche vorbei."
+        ]
+      },
+      {
+        "name": "Ganztag (≈ 8 h)",
+        "overview": "Platz plus Burg, Museen und Grüngürtel.",
+        "steps": [
+          "09:30 Platz, DreiBrücke und Denkmal.",
+          "10:30 Standseilbahn oder zu Fuß zur Burg.",
+          "12:30 Mittagessen am Fluss.",
+          "14:00 Museum nach Wahl im Zentrum.",
+          "16:00 Ufer-Radtour oder Spaziergang zum Tivoli-Park.",
+          "18:00 Sonnenuntergang zurück am Platz.",
+          "19:30 Abendessen mit Blick auf die beleuchteten Fassaden."
+        ]
+      }
     ]
   },
   "science": {
@@ -466,10 +644,22 @@
     "responsibilityTitle": "Besucherverantwortung",
     "responsibility": "Der Platz ist ein lebendiger öffentlicher Raum und ein geschütztes Kulturdenkmal. Bitte bleib auf den Wegen, halte die Lautstärke angenehm, entsorge Müll und klettere nie auf Statuen oder setze dich auf fragile historische Teile – damit der Ort für alle genießbar bleibt.",
     "cards": [
-      { "name": "Fluss, Karst & Feuchtgebiet", "desc": "Ljubljana liegt dort, wo die Ljubljanica das Ljubljansko Barje, ein geschütztes Karstmoor, verlässt. Flussführung und Grundwasser der Stadt hängen an diesem sensiblen Ökosystem." },
-      { "name": "Urbanes Mikroklima", "desc": "Stein und Granit speichern Tageswärme und geben sie nach Sonnenuntergang ab – der offene Platz wirkt abends wärmer, ein kleines Beispiel für den städtischen Wärmeinsel-Effekt." },
-      { "name": "Stadtökologie", "desc": "Fluss und Parks sind Heimat von Mauerseglern, Fledermäusen und Eisvögeln; die Linden und Platanen der Altstadt kühlen die Straßen und reinigen die Luft." },
-      { "name": "Erbe & Geologie", "desc": "Die umliegenden Hügel sind Kalkstein-Karst, der die Quellen, Höhlen und den Stein der Platzgebäude prägte." }
+      {
+        "name": "Fluss, Karst & Feuchtgebiet",
+        "desc": "Ljubljana liegt dort, wo die Ljubljanica das Ljubljansko Barje, ein geschütztes Karstmoor, verlässt. Flussführung und Grundwasser der Stadt hängen an diesem sensiblen Ökosystem."
+      },
+      {
+        "name": "Urbanes Mikroklima",
+        "desc": "Stein und Granit speichern Tageswärme und geben sie nach Sonnenuntergang ab – der offene Platz wirkt abends wärmer, ein kleines Beispiel für den städtischen Wärmeinsel-Effekt."
+      },
+      {
+        "name": "Stadtökologie",
+        "desc": "Fluss und Parks sind Heimat von Mauerseglern, Fledermäusen und Eisvögeln; die Linden und Platanen der Altstadt kühlen die Straßen und reinigen die Luft."
+      },
+      {
+        "name": "Erbe & Geologie",
+        "desc": "Die umliegenden Hügel sind Kalkstein-Karst, der die Quellen, Höhlen und den Stein der Platzgebäude prägte."
+      }
     ]
   },
   "historyTimeline": {
@@ -478,18 +668,55 @@
     "timelineTitle": "Zeitstrahl",
     "legendsTitle": "Geschichten & Sagen",
     "events": [
-      { "year": "Mittelalter", "title": "Das Stadttor", "desc": "Der Platz entstand an einer Kreuzung beim mittelalterlichen Stadttor an der Handelsroute nach Norden." },
-      { "year": "1646–1660", "title": "Die rosa Kirche", "desc": "Die Franziskanerkirche Mariä Verkündigung entstand und schloss den Platz nach Süden mit ihrer Barockfassade ab." },
-      { "year": "1895", "title": "Wiedergeburt nach dem Beben", "desc": "Das Erdbeben 1895 löste den Wiederaufbau im Secessionsstil aus, der den Platz heute prägt." },
-      { "year": "1905", "title": "Das Dichterdenkmal", "desc": "Die bronzene Statue des France Prešeren von Ivan Zajec wurde im Zentrum enthüllt." },
-      { "year": "1987–1988", "title": "Ein runder Platz", "desc": "Architekt Edvard Ravnikar gestaltete den Raum in die heute kreisrunde, fußgängerfreundliche Form um." },
-      { "year": "1991", "title": "Ein nationales Symbol", "desc": "Prešernov trg wurde zum Kulturdenkmal von nationaler Bedeutung für Slowenien erklärt." },
-      { "year": "2007", "title": "Das autofreie Herz", "desc": "Nach der Sanierung wurde der Platz vollständig fußgängerfreundlich – das wahre Zentrum des Stadtlebens." }
+      {
+        "year": "Mittelalter",
+        "title": "Das Stadttor",
+        "desc": "Der Platz entstand an einer Kreuzung beim mittelalterlichen Stadttor an der Handelsroute nach Norden."
+      },
+      {
+        "year": "1646–1660",
+        "title": "Die rosa Kirche",
+        "desc": "Die Franziskanerkirche Mariä Verkündigung entstand und schloss den Platz nach Süden mit ihrer Barockfassade ab."
+      },
+      {
+        "year": "1895",
+        "title": "Wiedergeburt nach dem Beben",
+        "desc": "Das Erdbeben 1895 löste den Wiederaufbau im Secessionsstil aus, der den Platz heute prägt."
+      },
+      {
+        "year": "1905",
+        "title": "Das Dichterdenkmal",
+        "desc": "Die bronzene Statue des France Prešeren von Ivan Zajec wurde im Zentrum enthüllt."
+      },
+      {
+        "year": "1987–1988",
+        "title": "Ein runder Platz",
+        "desc": "Architekt Edvard Ravnikar gestaltete den Raum in die heute kreisrunde, fußgängerfreundliche Form um."
+      },
+      {
+        "year": "1991",
+        "title": "Ein nationales Symbol",
+        "desc": "Prešernov trg wurde zum Kulturdenkmal von nationaler Bedeutung für Slowenien erklärt."
+      },
+      {
+        "year": "2007",
+        "title": "Das autofreie Herz",
+        "desc": "Nach der Sanierung wurde der Platz vollständig fußgängerfreundlich – das wahre Zentrum des Stadtlebens."
+      }
     ],
     "legends": [
-      { "title": "Der Dichter und seine Muse", "desc": "Das Denkmal zeigt Prešeren mit einer Muse über ihm. Laut Einheimischen richtet sie den Blick zum Fenster seiner unerwiderten Liebe Julija – ein kleines romantisches Detail der Stadtgeschichte." },
-      { "title": "Der Drache von Ljubljana", "desc": "Der Stadtdrache auf der Drachenbrücke soll mit dem Schwanz wedeln, sobald eine Jungfrau sie überquert – eine beliebte Volkssage der Ljubljanica." },
-      { "title": "Drei Brücken, ein Übergang", "desc": "Die DreiBrücke begann als einfache Spanne; später kamen zwei seitliche Fußgängerbrücken hinzu und machten aus einem Übergang die Signatur des Platzes." }
+      {
+        "title": "Der Dichter und seine Muse",
+        "desc": "Das Denkmal zeigt Prešeren mit einer Muse über ihm. Laut Einheimischen richtet sie den Blick zum Fenster seiner unerwiderten Liebe Julija – ein kleines romantisches Detail der Stadtgeschichte."
+      },
+      {
+        "title": "Der Drache von Ljubljana",
+        "desc": "Der Stadtdrache auf der Drachenbrücke soll mit dem Schwanz wedeln, sobald eine Jungfrau sie überquert – eine beliebte Volkssage der Ljubljanica."
+      },
+      {
+        "title": "Drei Brücken, ein Übergang",
+        "desc": "Die DreiBrücke begann als einfache Spanne; später kamen zwei seitliche Fußgängerbrücken hinzu und machten aus einem Übergang die Signatur des Platzes."
+      }
     ]
   },
   "footer": {
@@ -500,9 +727,12 @@
     "officialResourcesTitle": "Öffentliche Referenzlinks",
     "officialLinks": {
       "sloveniaInfo": "Reiseinformationen zu Slowenien",
-      "govSi": "Behördliche Informationen"
+      "govSi": "Behördliche Informationen",
+      "visitLjubljana": "Visit Ljubljana — offizielle Besucherinformation",
+      "lpp": "LPP — Stadtverkehr und Fahrpreise"
     },
-    "disclaimer": "Dies ist ein unabhängiger, gemeinnütziger Reiseführer. Es ist weder die offizielle Website von Turizem Ljubljana noch einer anderen öffentlichen Institution und gibt deren Positionen nicht wieder."
+    "disclaimer": "Dies ist ein unabhängiger, gemeinnütziger Reiseführer. Es ist weder die offizielle Website von Turizem Ljubljana noch einer anderen öffentlichen Institution und gibt deren Positionen nicht wieder.",
+    "contactNote": "Fragen oder Korrekturen zu diesem Guide: schreiben Sie dem Team über die Adresse in der Datenschutzerklärung. Diese Adresse gilt nur für unsere Inhalte — sie ist keine Kontaktadresse für den Platz, die Stadt Ljubljana oder das Tourismusamt. Offizielle Quellen: Visit Ljubljana und LPP (Links oben)."
   },
   "privacy": {
     "title": "Datenschutzerklärung",
@@ -570,5 +800,9 @@
   "officialManagement": {
     "title": "Hinweis zur Unabhängigkeit der Website",
     "text": "Diese Website ist ein unabhängiger, gemeinnütziger Reiseführer über den Prešeren-Platz.\nSie wird weder von Turizem Ljubljana, der Stadt Ljubljana noch von einer anderen offiziellen Institution betrieben, beauftragt, unterstützt oder vertreten.\n\nFür offizielle Bekanntmachungen, Genehmigungen und Verwaltungsangelegenheiten wenden Sie sich bitte direkt an die zuständigen öffentlichen Stellen."
+  },
+  "topicLinks": {
+    "title": "Detailführer zum Prešeren-Platz & Ljubljana",
+    "subtitle": "Geschichte, Denkmal, Karte, Verkehr, Spaziergänge und Events — jede Seite beantwortet eine praktische Frage."
   }
 }
