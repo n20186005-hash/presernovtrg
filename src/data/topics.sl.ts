@@ -1687,4 +1687,352 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
     related: ['where-to-stay', 'one-day-itinerary', 'central-market', 'evening-walk'],
     updated: 'Vodnik po območjih, ne priporočila lokalov. Preverjeno oktober 2026.',
   },
-};
+  'art-nouveau-walk': {
+    slug: 'art-nouveau-walk',
+    title: 'Sprehod po secesiji iz Prešernovega trga v Ljubljani',
+    description:
+      'Sprehodna pot iz Prešernovega trga ob Miklošičevi cesti do secesijskih pročel Ljubljane, s tem, kaj iskati na vsaki stavbi.',
+    h1: 'Sprehod po secesiji (Art Nouveau) iz Prešernovega trga',
+    intro:
+      'Ljubljana je eno najlažjih mest v Evropi za ogled celotne četrti, obnovljene v enem samem sodobnem slogu. Potres leta 1895 je porušil staro središče, obnova pa je potekala v dunajskem secesijskem slogu – kar večina ljudi imenuje art nouveau. Ta sprehod se začne na trgu in sledi najpomembnejši secesijski ulici mesta.',
+    facts: [
+      { label: 'Slog tukaj', value: 'Dunajska secesija (lokalni art nouveau)' },
+      { label: 'Povzročitelj', value: 'Potres leta 1895 in desetletje obnove' },
+      { label: 'Dolžina poti', value: 'Približno 1,2 km v eno smer do železniške četrti' },
+      { label: 'Čas', value: '45–70 minut s postanki' },
+      { label: 'Ključna ulica', value: 'Miklošičeva cesta' },
+      { label: 'Arhitekti', value: 'Maks Fabiani, Ciril Metod Koch, Jože Plečnik' },
+    ],
+    sections: [
+      {
+        id: 'why',
+        title: 'Zakaj je Ljubljana secesijsko mesto',
+        paragraphs: [
+          'Po potresu 14. aprila 1895 se je Ljubljana hitro in sodobno obnovila. Nova pročelja so uporabljala secesijski besednjak z Dunaja: geometrijski okras, stilizirane cvetlice, ženske figure in zaobljene vogalne stolpe.',
+          'Ker se je obnova odvijala v nekaj letih, cele ulice delijo videz – kar ta sprehod naredi skladen, namesto razpršenega.',
+        ],
+      },
+      {
+        id: 'route',
+        title: 'Pot',
+        bullets: [
+          'Začnite na Prešernovem trgu: Urbancova hiša (1903) na vogalu Čopove je vaš prvi secesijski dragulj.',
+          'Pojdite po Wolfovi, nato na Miklošičevo cesto – glavni pas secesijskih pročel.',
+          'Nadaljujte mimo železniške četrti, kjer avenijo obdajajo več znamenitih stavb.',
+          'Vrnite se isto pot ali se zankajte nazaj ob reki za različico.',
+        ],
+      },
+      {
+        id: 'look',
+        title: 'Kaj opazovati',
+        bullets: [
+          'Vogalni stolpi in okrogla erker okna – secesijski arhitekti so oboževali vogale ulic.',
+          'Stilizirane ženske figure in cvetlični reliefi nad pritličjem.',
+          'Geometrijske frize in medaljone namesto starih kipov.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Kakšna je razlika med art nouveau in secesijo tukaj?',
+        answer:
+          'To je isto gibanje; "secesija" je dunajsko ime. V Ljubljani slogu pravimo secesija, a je to srednjeevropska veja art nouveau.',
+      },
+      {
+        question: 'Kako dolg je sprehod?',
+        answer:
+          'Približno 1,2 km v eno smer do železniške četrti, približno 45–70 minut s postanki za branje pročel. Ves čas je raven in tlakovan.',
+      },
+      {
+        question: 'Kje se sprehod začne?',
+        answer:
+          'Na samem Prešernovem trgu – Urbancova hiša na vogalu Čopove je prva secesijska stavba – nato ob Wolfovi in Miklošičevi cesti.',
+      },
+    ],
+    related: ['architecture', '1895-earthquake', 'hauptman-house', 'urbanc-house'],
+    updated:
+      'Vir: Vodnik po arhitekturi Visit Ljubljana, register dediščine. Dejstva preverjena oktobra 2026.',
+  },
+  'photography': {
+    slug: 'photography',
+    title: 'Foto točke Prešernovega trga: kam usmeriti fotoaparat',
+    description:
+      'Najboljši koti za Prešernov trg: s Tromostovja, odsev ob bregu, bližnji posnetek spomenika in luči v modri uri.',
+    h1: 'Prešernov trg: kje ga fotografirati',
+    intro:
+      'Trg je majhen in živahen, kar dobro kompozicijo naredi težjo, kot se zdi. Trik je fotografirati z robov – mostov in brega – namesto da stojite na sredini. Ta stran našteva razgledne točke, ki dejansko delujejo.',
+    facts: [
+      { label: 'Najboljši široki posnetek', value: 'Z daljnega kraka Tromostovja, z pogledom nazaj' },
+      { label: 'Najboljši odsev', value: 'Breg tik južno od cerkve pri mirni vodi' },
+      { label: 'Najboljša podrobnost', value: 'Relief Julije na spomeniku in pročelje cerkve' },
+      { label: 'Najboljša svetloba', value: 'Modra ura in sezona božičnih luči' },
+      { label: 'Izogibajte se', value: 'Zračnim kablom nad tramvaji in ploski svetlobi opoldne' },
+      { label: 'Stativi', value: 'Dovoljeni na peš trgu; pazite na pešce' },
+    ],
+    sections: [
+      {
+        id: 'bridge',
+        title: 'S Tromostovja',
+        paragraphs: [
+          'Stopite na levi breg Tromostovja in se ozrite nazaj. Dobite celoten trg, spomenik v središču in rožnato cerkev za njim – klasičen okvir razglednice, ki deluje skoraj ob kateri koli uri.',
+          'Stopite na stranski krak za tesnejšo kompozicijo, ki v ospredje vključuje balustrado mostu in doda globino.',
+        ],
+      },
+      {
+        id: 'river',
+        title: 'Z brega',
+        paragraphs: [
+          'Sestopite na promenado tik južno od cerkve. V mirnem dnevu se trg in pročelje cerkve odražata v Ljubljanici – najboljši zrcalni posnetek v središču in običajno manj obljuden kot sam trg.',
+        ],
+      },
+      {
+        id: 'blue',
+        title: 'Modra ura in luči',
+        paragraphs: [
+          'Trg je obrnjen približno proti jugu, zato topla svetloba ob zahodu obsije pročelje cerkve. Ostanite za modro uro, ko se prižgejo svetilke; decembra božične luči spremenijo celoten prostor v motiv za dolgo osvetlitvijo.',
+          'Za pot luči in čase glejte namensko stran o božičnih lučeh.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Kje je najboljši razgled na Prešernov trg?',
+        answer:
+          'Z daljnega kraka Tromostovja z pogledom nazaj na trg, s spomenikom v središču in Frančiškansko cerkvijo za njim. To je klasični okvir in deluje večji del dneva.',
+      },
+      {
+        question: 'Kdaj je najboljša svetloba?',
+        answer:
+          'Pozno popoldne v modro uro, ko pročelje cerkve ujame toplo svetlobo in se prižgejo svetilke trga. Božične luči v decembru so dodaten bon.',
+      },
+      {
+        question: 'Ali lahko uporabim stativ?',
+        answer:
+          'Da, na peš trgu, a naj bo izven glavnih hojnih linij in bodite obzirni med živahnimi večeri.',
+      },
+    ],
+    related: ['map', 'christmas-lights', 'one-hour-walk', 'evening-walk'],
+    updated: 'Praktični nasveti za fotografiranje; lokacije preverjene oktobra 2026.',
+  },
+  'hauptman-house': {
+    slug: 'hauptman-house',
+    title: 'Hauptmanova hiša: pročelje in zgodovina',
+    description:
+      'Hauptmanova hiša na vogalu Wolfove in Prešernovega trga: neorenesančno pročelje iz leta 1873 in kaj si ogledati od blizu.',
+    h1: 'Hauptmanova hiša na Prešernovem trgu',
+    intro:
+      'Na severozahodnem vogalu trga, kjer se Wolfova ulica sreča s trgom, stoji Hauptmanova hiša – neorenesančna stavba, starejša od obnove po potresu 1895, ki kaže zgodnejši historicistični okus ob svojih secesijskih sosedah. Bližnji ogled je enostaven in brezplačen.',
+    facts: [
+      { label: 'Zgrajeno', value: '1873' },
+      { label: 'Slog', value: 'Neorenesansa (historicizem)' },
+      { label: 'Arhitekt', value: 'Ferdinand Schulz' },
+      { label: 'Vogal', value: 'Wolfova ulica in Prešernov trg' },
+      { label: 'Za', value: 'Trgovec Adolf Hauptman' },
+      { label: 'Ogled', value: 'Le zunanjost; pritličje v poslovni rabi' },
+    ],
+    sections: [
+      {
+        id: 'building',
+        title: 'Starejša plast trga',
+        paragraphs: [
+          'Hauptmanova hiša (1873) je ena redkih stavb ob trgu, ki je preživela potres 1895 in ni bila obnovljena v secesijskem slogu. Zato je uporaben kontrast: težja, bolj simetrična in manj cvetlična od pročel okoli sebe.',
+        ],
+      },
+      {
+        id: 'facade',
+        title: 'Kaj opazovati',
+        bullets: [
+          'Uravnoteženo neorenesančno pročelje z urejenimi okni in zadržanim okrasom.',
+          'Vogalni položaj pomeni, da jo lahko beremo z dveh ulic hkrati.',
+          'Namenoma jo primerjajte z Urbancovo hišo nasproti, zgrajeno 30 let kasneje v polni secesiji.',
+        ],
+      },
+      {
+        id: 'view',
+        title: 'Kako si jo ogledati',
+        paragraphs: [
+          'Stojte na trgu in poglejte severozahodno; stavba tvori vogal, kjer se začne Wolfova. Vstopnica ni potrebna – to je delujoč prostor v pritličju, zato uživajte pročelje s pločnika.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Kdo je načrtoval Hauptmanovo hišo?',
+        answer:
+          'Načrtoval jo je arhitekt Ferdinand Schulz in zgradil leta 1873 za trgovca Adolfa Hauptmana.',
+      },
+      {
+        question: 'Kakšen slog je?',
+        answer:
+          'Neorenesančni (historicistični), zaradi česar je vidno starejša po občutku od secesijskih stavb, obnovljenih po 1895, ki obdajajo trg.',
+      },
+      {
+        question: 'Ali lahko greste notri?',
+        answer:
+          'Pritličje je v poslovni rabi, zato obiskovalci pročelje gledajo s trga in Wolfove ulice. Ločene vstopnice ali muzeja ni.',
+      },
+    ],
+    related: ['architecture', 'urbanc-house', 'art-nouveau-walk'],
+    updated: 'Vir: Register dediščine Mestne občine Ljubljana. Dejstva preverjena oktobra 2026.',
+  },
+  'urbanc-house': {
+    slug: 'urbanc-house',
+    title: 'Urbancova hiša: secesijski vogalni dragulj',
+    description:
+      'Urbancova hiša na vogalu Čopove in Prešernovega trga: secesijsko pročelje iz leta 1903 z alegoričnimi kipi in znamenito kavarno v pritličju.',
+    h1: 'Urbancova hiša na Prešernovem trgu',
+    intro:
+      'Vogalna stavba, kjer se trg sreča s Čopovo ulico, je Urbancova hiša, zgrajena leta 1903 v dunajskem secesijskem slogu. Njeno bogato okrašeno pročelje je najboljši primer sodobne obnove Ljubljane, njena kavarna v pritličju pa je že več kot stoletje zbirališče.',
+    facts: [
+      { label: 'Zgrajeno', value: '1903' },
+      { label: 'Slog', value: 'Dunajska secesija (art nouveau)' },
+      { label: 'Vogal', value: 'Prešernov trg in Čopova ulica' },
+      { label: 'Opomba', value: 'Alegorični kipi na pročelju' },
+      { label: 'Kavarna', value: 'Zgodovinska kavarna v pritličju na vogalu' },
+      { label: 'Ogled', value: 'Zunanjost; kavarna odprta za obiskovalce' },
+    ],
+    sections: [
+      {
+        id: 'history',
+        title: 'Razstava novega sloga',
+        paragraphs: [
+          'Urbancova hiša (1903) je bila zgrajena kot veličasten poslovno-stanovanjski vogalni blok v času, ko je Ljubljana sprejemala secesijsko zasnovo. Njeno pročelje je bolj izdelano kot pri sosedah, zato jo fotografi izpostavljajo.',
+        ],
+      },
+      {
+        id: 'facade',
+        title: 'Kaj opazovati',
+        bullets: [
+          'Alegorični kipi in frizi, značilni za secesijski okras.',
+          'Močan poudarek vogalnega stolpa – tipično za obravnavo vogalov ulic v tem slogu.',
+          'Originalne linije trgovin v pritličju, ki še vedno delujejo kot s preloma stoletja.',
+        ],
+      },
+      {
+        id: 'cafe',
+        title: 'Kavarna na vogalu',
+        paragraphs: [
+          'Kavarna v pritličju je generacije veljala za znamenito zbirališče. Naravno mesto za premor na krožni hoji po trgu in branje pročelja s terase ob pločniku.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Kaj je Urbancova hiša?',
+        answer:
+          'Vogalna stavba v dunajski secesiji iz leta 1903 na Prešernovem trgu ob Čopovi ulici, znana po bogatem pročelju in zgodovinski kavarni v pritličju.',
+      },
+      {
+        question: 'Zakaj je pomembna?',
+        answer:
+          'To je najbogatejše secesijsko pročelje na trgu in jasen primer sodobne obnove po 1895, ki določa videz središča Ljubljane.',
+      },
+      {
+        question: 'Ali lahko greste notri?',
+        answer:
+          'Kavarna na vogalu je odprta za javnost; zgornja nadstropja niso turistična atrakcija, zato uživajte pročelje s trga in kavo v kavarni.',
+      },
+    ],
+    related: ['architecture', 'hauptman-house', 'art-nouveau-walk'],
+    updated: 'Vir: Register dediščine Mestne občine Ljubljana. Dejstva preverjena oktobra 2026.',
+  },
+  'rainy-day': {
+    slug: 'rainy-day',
+    title: 'Načrt za deževen dan v Ljubljani iz Prešernovega trga',
+    description:
+      'Notranje alternative blizu Prešernovega trga: pokrite povezave, muzeji in galerije ter kako v dežju ostati prijetno.',
+    h1: 'Deževen dan okoli Prešernovega trga',
+    intro:
+      'Ljubljana je v dežju še vedno dobra, če načrtujete pokritost. Ta stran povezuje notranje postaje s kratkimi, pokritimi prehodi, da moker dan ostane udoben – in se povezuje s stranmi o brezplačnih znamenitostih in gradu za celoten načrt.',
+    facts: [
+      { label: 'Strategija', value: 'Poveži notranje postaje s kratkimi pokritimi hojami' },
+      { label: 'Notranje', value: 'Muzeji, galerije, dvorana tržnice, kavarne' },
+      { label: 'Pokrito', value: 'Dvorana Osrednje tržnice za suh ogled' },
+      { label: 'Dežniki', value: 'Breg je bolj izpostavljen kot uličice' },
+      { label: 'Izogibajte se', value: 'Dolgo čakanje na odprtem trgu v plohi' },
+      { label: 'Poveži z', value: 'Notranjost gradu, muzeji, postanki za hrano' },
+    ],
+    sections: [
+      {
+        id: 'plan',
+        title: 'Načrt za deževen dan',
+        bullets: [
+          'Začnite pod streho v dvorani Osrednje tržnice namesto na odprtem trgu.',
+          'Premikajte se med muzeji in galerijami v starem mestu po uličicah, ne po odprtem bregu.',
+          'Uporabite kavarne kot načrtovane suhe premike med postajami.',
+        ],
+      },
+      {
+        id: 'tips',
+        title: 'Praktični nasveti',
+        paragraphs: [
+          'Uličice starega mesta so bolj zavetne kot odprt trg in izpostavljena promenada ob reki. Mostove in trg prihranite za premor v vremenu, notranjost muzejev pa za najmočnejši dež.',
+          'Lokalno preverite odpiralne ure – nekateri manjši muzeji so zaprti ob ponedeljkih.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Ali je Ljubljana vredna ogleda v dežju?',
+        answer:
+          'Da, z načrtom, ki upošteva streho: dvorana tržnice, muzeji, galerije in kavarne vas ohranijo suhe, uličice starega mesta pa so bolj zavetne kot odprt trg in reka.',
+      },
+      {
+        question: 'Čem se izogibati v mokrem dnevu?',
+        answer:
+          'Dolgemu čakanju na odprtem trgu in izpostavljeni promenadi ob reki. Namesto tega povežite notranje postaje s kratkimi prehodi po uličicah.',
+      },
+    ],
+    related: ['free-sights', 'ljubljana-castle', 'food-and-cafes', 'central-market'],
+    updated: 'Navodila; odpiralni časi se razlikujejo – preverite lokalno. Preverjeno oktobra 2026.',
+  },
+  'family-walk': {
+    slug: 'family-walk',
+    title: 'Prešernov trg z otroki: družinski sprehod',
+    description:
+      'Kratek, vozičkom prijazen sprehod iz Prešernovega trga: ravni odseki, stranišča, postanek v kavarni in preproste opazovalne naloge za otroke.',
+    h1: 'Družinski sprehod iz Prešernovega trga',
+    intro:
+      'Ljubljana je preprosto mesto z otroki: ravno ob reki, polno mostov za štetje in golobov za opazovanje. Ta načrt ohranja odseke kratke, vključuje postanek za stranišče in kavarno ter otrokom da nekaj za gledati.',
+    facts: [
+      { label: 'Dolžina', value: 'Približno 1 uro s premori' },
+      { label: 'Površina', value: 'Ravno ob reki; tlakovanec v uličicah' },
+      { label: 'Vozički', value: 'V redu na promenadi; težje v starem mestu' },
+      { label: 'Stranišča', value: 'Javna stranišča ob bregu (brezplačna)' },
+      { label: 'Naloge', value: 'Štej mostove, poišči zmaje, opazi pesnika' },
+      { label: 'Kavarne', value: 'Terasa ob reki za počitek' },
+    ],
+    sections: [
+      {
+        id: 'route',
+        title: 'Pot',
+        bullets: [
+          'Začnite na trgu: poiščite pesnikov spomenik in rožnato cerkev.',
+          'Prečkajte Tromostovje in zavijte ob reki – ravno in prijazno vozičkom.',
+          'Nadaljujte do Zmajskega mostu, da preštejete zmaje (vrhunec za večino otrok).',
+        ],
+      },
+      {
+        id: 'tips',
+        title: 'Nasveti za starše',
+        paragraphs: [
+          'Za najboljšo vožnjo z vozičkom ostanite ob bregu; tlakovanec starega mesta je težji. Uporabite brezplačna javna stranišča ob reki in načrtujte postanek na terasi kavarne, da sprehod ostane zabaven in ne pohod.',
+          'Otroke povabite k majhni nalogi – štejte mostove, poiščite zmaja, najdite kip, obrnjen proti reki – da sprehod spremenite v igro.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: 'Ali je Ljubljana dobra z majhnimi otroki?',
+        answer:
+          'Da. Breg je raven in prijazen vozičkom, zmaji na Zmajskem mostu so uspeh, trg pa je brez avtom in varen za raziskovanje.',
+      },
+      {
+        question: 'Kje so stranišča z otroki?',
+        answer:
+          'Najprimernejša so brezplačna javna stranišča ob bregu; objekte imajo tudi kavarne in dvorana tržnice.',
+      },
+    ],
+    related: ['one-hour-walk', 'dragon-bridge', 'public-toilets', 'drinking-water'],
+    updated: 'Navodila za družine; objekti preverjeni oktobra 2026.',
+  },};
