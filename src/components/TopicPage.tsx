@@ -1,3 +1,4 @@
+import UniversityContext from './UniversityContext';
 import { getTopic, topicLocales, type TopicContent } from '@/data/topics';
 import { HREFLANG_TAGS, routing, type Locale } from '@/i18n/routing';
 
@@ -51,6 +52,8 @@ export default function TopicPage({
           </p>
         </div>
       </header>
+
+      {['history', 'architecture', 'franciscan-church', 'art-nouveau-walk', 'urbanc-house', 'triple-bridge'].includes(slug) && <UniversityContext />}
 
       <div className="section-padding">
         <div className="max-w-4xl mx-auto space-y-14">

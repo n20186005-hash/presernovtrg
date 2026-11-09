@@ -27,7 +27,7 @@
     "historyTitle": "Geschichte und Bedeutung des Prešeren-Platzes",
     "entityDeclaration": "Der Prešeren-Platz (Prešernov trg) ist der zentrale Platz in der Innenstadt von Ljubljana, der Hauptstadt Sloweniens. Er liegt am rechten Ufer der Ljubljanica, wo die Fußgängerzone der Altstadt auf die Dreifache Brücke trifft, und ist nach France Prešeren, dem Nationaldichter Sloweniens, benannt.",
     "breadcrumb": "Prešeren-Platz → Ljubljana → Slowenien",
-    "nearbyCluster": "Fast alles, was Ljubljana begehbar macht, liegt wenige Minuten vom Platz entfernt: die Dreifache Brücke (Tromostovje) über die Ljubljanica, die rosafarbene Franziskanerkirche Mariä Verkündigung an der Südseite und — wenige Minuten flussaufwärts — der Zentralmarkt und die Burg Ljubljana (Ljubljanski grad). Die meisten Besucher nutzen den Platz als Start- und Endpunkt eines Altstadtspaziergangs.",
+    "nearbyCluster": "Fast alles, was Ljubljana begehbar macht, liegt wenige Minuten vom Platz entfernt: die Dreifache Brücke (Tromostovje) über die Ljubljanica, die rosafarbene Franziskanerkirche Mariä Verkündigung an der Nordseite und — wenige Minuten flussaufwärts — der Zentralmarkt und die Burg Ljubljana (Ljubljanski grad). Die meisten Besucher nutzen den Platz als Start- und Endpunkt eines Altstadtspaziergangs.",
     "description": "Der Prešeren-Platz ist ein kreisförmiger, vollständig fußgängerfreier Platz mit Granit- und weißem Marmorpflaster, den Architekt Edvard Ravnikar 1987–1988 umgestaltete und der 2007 endgültig autofrei wurde. In der Mitte steht das Bronzedenkmal für France Prešeren von Ivan Zajec aus dem Jahr 1905, über dem Dichter eine Muse mit Lorbeerzweig. Ringsum erheben sich die rosafarbene Franziskanerkirche (1646–1660), das Gebäude der Zentralapotheke und Secessionsfassaden, die nach dem Erdbeben von 1895 wiederaufgebaut wurden. Seit 1991 steht der Platz als Denkmal von nationaler Bedeutung unter Schutz; er ist Ljubljanas Standardtreffpunkt — Einheimische sagen einfach »pod spomenikom«, unter dem Denkmal — und Bühne der großen öffentlichen Ereignisse, vom Weihnachtsmarkt bis zum Prešeren-Tag am 8. Februar.",
     "visitGuide": {
       "title": "Tipps für den Besuch",
@@ -59,8 +59,8 @@
       },
       {
         "name": "Franziskanerkirche Mariä Verkündigung",
-        "walk": "Am Platz · Südseite",
-        "desc": "Zwischen 1646 und 1660 erbaut, schließt die rosa Barockfassade den Platz nach Süden ab. Der reich geschmückte Innenraum kann kostenlos besichtigt werden."
+        "walk": "Am Platz · Nordseite",
+        "desc": "Die Verkündigungskirche wurde Mitte des 17. Jahrhunderts errichtet; ihre Barockfassade weist zum Platz. Bitte aktuelle Besuchsbedingungen prüfen."
       },
       {
         "name": "France-Prešeren-Denkmal",
@@ -80,7 +80,7 @@
       {
         "id": "architecture",
         "title": "Architektonische Merkmale",
-        "content": "Es handelt sich um einen runden Fußgängerplatz, gepflastert mit Granit und betont durch radiale Muster aus hellem Stein. In der Mitte steht das bronzene France-Prešeren-Denkmal von 1905. Auf der Ostseite liegt das Gebäude der Zentralapotheke, im Norden das Kaufhaus Mayer im Jugendstil, im Westen die Dreifache Brücke und im Süden die rosa Fassade der Franziskanerkirche Mariä Verkündigung. Ringsum finden sich wertvolle Beispiele barocker und Wiener Secessionsarchitektur.\n\nDas Ensemble verbindet mehrere Stile: Das Denkmal ist eine neoklassizistische Bronzeskulptur, die Kirche folgt der barocken Tradition, die umliegenden Palais der Wiener Secession. Zusammen bilden sie ein Freilichtmuseum der Architektur von Ljubljana."
+        "content": "Die Verkündigungskirche, bekannt als Franziskanerkirche, steht an der Nordseite des Platzes. Das slowenische Denkmalregister beschreibt den frühbarocken Bau mit sechs Seitenkapellen und Werken im Inneren, die mit Francesco Robba, Matevž Langus, Matej Sternen und Jože Plečnik verbunden sind. Die Kirche dient dem Gottesdienst; bitte aktuelle Besuchsbedingungen prüfen.\n\nDas 1903 nach Plänen von Fredrich Sigmundt errichtete Warenhaus Urbanc steht für die Geschäftsarchitektur der Secession am Platz. Die Drei Brücken über die Ljubljanica verbinden die Brücke von 1842 mit zwei 1931–1932 nach Plänen Jože Plečniks errichteten Fußgängerbrücken."
       },
       {
         "id": "culture",
@@ -158,7 +158,7 @@
       "Kommen Sie an der nahen Haltestelle an und nähern Sie sich dem Platz über die Dreifache Brücke",
       "Genießen Sie den Blick von der Dreifachen Brücke auf den Platz und die Ljubljanica",
       "Spazieren Sie über den Granitkreis um das zentrale France-Prešeren-Denkmal",
-      "Betrachten Sie auf der Südseite die barocke Fassade der Franziskanerkirche Mariä Verkündigung aus der Nähe",
+      "Betrachten Sie auf der Nordseite die barocke Fassade der Franziskanerkirche Mariä Verkündigung aus der Nähe",
       "Auf der Ostseite sehen Sie das historische Gebäude der Zentralapotheke",
       "Am nördlichen Rand fangen Sie architektonische Details des Kaufhauses Mayer ein",
       "Machen Sie eine Pause in einem Café und erleben Sie das entspannte Tempo des Zentrums",
@@ -676,7 +676,7 @@
       {
         "year": "1646–1660",
         "title": "Die rosa Kirche",
-        "desc": "Die Franziskanerkirche Mariä Verkündigung entstand und schloss den Platz nach Süden mit ihrer Barockfassade ab."
+        "desc": "Die Verkündigungskirche entstand Mitte des 17. Jahrhunderts und blickt von Norden auf den Platz."
       },
       {
         "year": "1895",
@@ -804,5 +804,15 @@
   "topicLinks": {
     "title": "Detailführer zum Prešeren-Platz & Ljubljana",
     "subtitle": "Geschichte, Denkmal, Karte, Verkehr, Spaziergänge und Events — jede Seite beantwortet eine praktische Frage."
+  },
+  "universityContext": {
+    "title": "Kirche und Gebäude am Platz",
+    "church": "Die Verkündigungskirche, bekannt als Franziskanerkirche, steht an der Nordseite des Platzes. Das slowenische Denkmalregister beschreibt den frühbarocken Bau mit sechs Seitenkapellen und Werken im Inneren, die mit Francesco Robba, Matevž Langus, Matej Sternen und Jože Plečnik verbunden sind. Die Kirche dient dem Gottesdienst; bitte aktuelle Besuchsbedingungen prüfen.",
+    "buildings": "Das 1903 nach Plänen von Fredrich Sigmundt errichtete Warenhaus Urbanc steht für die Geschäftsarchitektur der Secession am Platz. Die Drei Brücken über die Ljubljanica verbinden die Brücke von 1842 mit zwei 1931–1932 nach Plänen Jože Plečniks errichteten Fußgängerbrücken.",
+    "credit": "Dr. Matevž Rudolf, Fachberater des Verlags der Universität Ljubljana, empfahl das frei zugängliche Buch in seiner E-Mail vom 6. November 2026. Der von Katja Mahnič herausgegebene Band (2024) entstand aus einem museologischen Projekt der Kunstgeschichte der Universität zur Vermittlung der Kirche. Die Empfehlung bedeutet keine Prüfung oder Billigung dieser unabhängigen Website.",
+    "book": "Buch des Universitätsverlags",
+    "churchRecord": "Denkmalregister: Kirche",
+    "urbanc": "Denkmalregister: Urbanc",
+    "bridge": "Denkmalregister: Drei Brücken"
   }
 }

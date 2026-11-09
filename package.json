@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && opennextjs-cloudflare build --skipNextBuild",
-    "build:next": "next build",
+    "build": "next build --webpack && opennextjs-cloudflare build --skipNextBuild",
+    "build:next": "next build --webpack",
     "start": "next start",
     "lint": "next lint",
     "cf:build": "opennextjs-cloudflare build",
@@ -13,7 +13,7 @@
     "cf:deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
-    "next": "^15.1.0",
+    "next": "16.3.3",
     "next-intl": "^4.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

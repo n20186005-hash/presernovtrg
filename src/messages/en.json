@@ -25,9 +25,9 @@
     "locationTitle": "Location & How to Visit Prešernov trg in Ljubljana",
     "nearbyTitle": "Landmarks & Attractions Around Prešernov trg",
     "historyTitle": "History & Significance of Prešernov trg",
-    "entityDeclaration": "Prešernov trg — known in English as Prešeren Square — is the main public square in the centre of Ljubljana, the capital of Slovenia. It stands on the right bank of the Ljubljanica where the pedestrian old town meets the Triple Bridge, and it is named after France Prešeren, Slovenia’s national poet.",
+    "entityDeclaration": "Prešernov trg — known in English as Prešeren Square — is the main public square in the centre of Ljubljana, the capital of Slovenia. It stands on the left bank of the Ljubljanica where the pedestrian old town meets the Triple Bridge, and it is named after France Prešeren, Slovenia’s national poet.",
     "breadcrumb": "Prešernov trg → Ljubljana → Slovenia",
-    "nearbyCluster": "Nearly everything that makes Ljubljana walkable sits within a few minutes of the square: the Triple Bridge (Tromostovje) across the Ljubljanica, the pink Franciscan Church of the Annunciation closing its southern side, and — a short walk upstream — the Central Market and Ljubljana Castle (Ljubljanski grad). Most visitors use the square as the start and end point of an old-town walk.",
+    "nearbyCluster": "Nearly everything that makes Ljubljana walkable sits within a few minutes of the square: the Triple Bridge (Tromostovje) across the Ljubljanica, the pink Franciscan Church of the Annunciation on its northern side, and — a short walk upstream — the Central Market and Ljubljana Castle (Ljubljanski grad). Most visitors use the square as the start and end point of an old-town walk.",
     "description": "Prešernov trg is a circular, fully pedestrianised square of granite and white marble paving, redesigned by architect Edvard Ravnikar in 1987–1988 and freed from traffic in 2007. At its centre stands the 1905 bronze monument to France Prešeren by Ivan Zajec, a muse holding a laurel branch above the poet. Around it rise the pink Franciscan Church of the Annunciation (1646–1660), the Central Pharmacy building and Secession-style façades rebuilt after the 1895 earthquake. Declared a cultural monument of national importance in 1991, the square is Ljubljana’s default meeting point — locals simply say they will meet »pod spomenikom«, under the monument — and the stage for the city’s main public events, from the Christmas market to Prešeren Day on 8 February.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -59,8 +59,8 @@
       },
       {
         "name": "Franciscan Church of the Annunciation",
-        "walk": "On the square · south side",
-        "desc": "Built between 1646 and 1660, this pink Baroque church closes the square to the south. The richly decorated interior is open to visitors free of charge."
+        "walk": "On the square · north side",
+        "desc": "The Church of the Annunciation was built in the mid-17th century; its Baroque façade faces the square. Check current visiting arrangements."
       },
       {
         "name": "France Prešeren Monument",
@@ -80,7 +80,7 @@
       {
         "id": "architecture",
         "title": "Architectural Features",
-        "content": "A circular pedestrian square with granite paving and white marble radial patterns. At its center stands the Prešeren bronze statue (erected 1905). To the east is the Central Pharmacy building, to the north the Mayer department store (Art Nouveau style), to the west the Triple Bridge, and to the south the pink facade of the Franciscan Church of the Annunciation. Baroque and Vienna Secession architectural treasures surround the square.\n\nA fusion of architectural styles: the Prešeren statue is Neo-Classical bronze sculpture; the Franciscan Church is Baroque with elegant pink exterior; the Mayer building and surrounding structures are Vienna Secession (Art Nouveau) style with graceful curves and exquisite decorations. The overall ensemble combines Central European classical elegance with Slovenian local character, making it an open-air museum of Ljubljana's architectural art."
+        "content": "The Church of the Annunciation, known as the Franciscan Church, stands on the north side of the square. Slovenia’s heritage record describes its early-Baroque structure, six side chapels and interior works associated with Francesco Robba, Matevž Langus, Matej Sternen and Jože Plečnik. It remains a place of worship; check current visiting arrangements.\n\nThe Urbanc department store, designed by Fredrich Sigmundt and completed in 1903, represents the Secession-era commercial architecture around the square. Across the Ljubljanica, the Triple Bridge incorporates the 1842 bridge and two pedestrian bridges designed by Jože Plečnik in 1931–1932."
       },
       {
         "id": "culture",
@@ -158,7 +158,7 @@
       "Arrive at nearby public transport stop, walk to Prešernov trg entrance via the Triple Bridge",
       "Admire the magnificent Triple Bridge and the view connecting Prešernov trg with the river",
       "Stroll along the circular granite path, observing details of the central Prešeren bronze statue",
-      "Head south to admire the Baroque facade of the pink Franciscan Church of the Annunciation up close",
+      "Head north to admire the Baroque facade of the Franciscan Church of the Annunciation",
       "Wander east to view the historic Central Pharmacy building exterior and learn about the square's transformation",
       "Stop at the north side to photograph the Mayer department store and appreciate Vienna Secession Art Nouveau details",
       "Rest at an outdoor café, enjoy local coffee and experience relaxed European lifestyle",
@@ -676,7 +676,7 @@
       {
         "year": "1646–1660",
         "title": "The pink church",
-        "desc": "The Franciscan Church of the Annunciation was built, closing the square to the south with its baroque façade."
+        "desc": "The Church of the Annunciation was built in the mid-17th century and faces the square from the north."
       },
       {
         "year": "1895",
@@ -804,5 +804,15 @@
   "topicLinks": {
     "title": "In-Depth Guides to Prešeren Square & Ljubljana",
     "subtitle": "History, the monument, maps, transport, walking routes and events — each page answers one practical question."
+  },
+  "universityContext": {
+    "title": "Church and the square’s buildings",
+    "church": "The Church of the Annunciation, known as the Franciscan Church, stands on the north side of the square. Slovenia’s heritage record describes its early-Baroque structure, six side chapels and interior works associated with Francesco Robba, Matevž Langus, Matej Sternen and Jože Plečnik. It remains a place of worship; check current visiting arrangements.",
+    "buildings": "The Urbanc department store, designed by Fredrich Sigmundt and completed in 1903, represents the Secession-era commercial architecture around the square. Across the Ljubljanica, the Triple Bridge incorporates the 1842 bridge and two pedestrian bridges designed by Jože Plečnik in 1931–1932.",
+    "credit": "University of Ljubljana Press senior consultant Matevž Rudolf recommended this open book in his email of 6 November 2026. Edited by Katja Mahnič (2024), it grew from a University of Ljubljana art-history museology project on presenting the Church of the Annunciation. The recommendation is not a review or endorsement of this independent site.",
+    "book": "University Press book",
+    "churchRecord": "Church heritage record",
+    "urbanc": "Urbanc heritage record",
+    "bridge": "Triple Bridge heritage record"
   }
 }

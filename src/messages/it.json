@@ -27,7 +27,7 @@
     "historyTitle": "Storia e significato di Piazza Prešeren",
     "entityDeclaration": "Piazza Prešeren (Prešernov trg) è la piazza principale del centro di Lubiana, capitale della Slovenia. Si trova sulla riva destra della Ljubljanica, dove il centro storico pedonale incontra il Triplo Ponte, e prende il nome da France Prešeren, poeta nazionale sloveno.",
     "breadcrumb": "Piazza Prešeren → Lubiana → Slovenia",
-    "nearbyCluster": "Quasi tutto ciò che rende Lubiana una città da percorrere a piedi si trova a pochi minuti dalla piazza: il Triplo Ponte (Tromostovje) sulla Ljubljanica, la chiesa francescana dell’Annunciazione, rosa, sul lato sud e — pochi minuti risalendo il fiume — il Mercato centrale e il Castello di Lubiana (Ljubljanski grad). La maggior parte dei visitatori usa la piazza come inizio e fine di una passeggiata nel centro storico.",
+    "nearbyCluster": "Quasi tutto ciò che rende Lubiana una città da percorrere a piedi si trova a pochi minuti dalla piazza: il Triplo Ponte (Tromostovje) sulla Ljubljanica, la chiesa francescana dell’Annunciazione, rosa, sul lato nord e — pochi minuti risalendo il fiume — il Mercato centrale e il Castello di Lubiana (Ljubljanski grad). La maggior parte dei visitatori usa la piazza come inizio e fine di una passeggiata nel centro storico.",
     "description": "Piazza Prešeren è una piazza circolare completamente pedonale, con pavimentazione in granito e marmo bianco, ridisegnata dall’architetto Edvard Ravnikar nel 1987–1988 e liberata dal traffico nel 2007. Al centro si erge il monumento in bronzo a France Prešeren di Ivan Zajec del 1905, con una musa che regge un ramo d’alloro sopra il poeta. Intorno si trovano la chiesa francescana dell’Annunciazione (1646–1660), il palazzo della Farmacia centrale e le facciate in stile Liberty ricostruite dopo il terremoto del 1895. Dichiarata monumento culturale di rilevanza nazionale nel 1991, la piazza è il punto d’incontro per antonomasia di Lubiana — gli abitanti dicono semplicemente »pod spomenikom«, sotto il monumento — e il palcoscenico dei grandi eventi pubblici, dal mercatino di Natale alla Giornata di Prešeren dell’8 febbraio.",
     "visitGuide": {
       "title": "Consigli per la visita",
@@ -59,8 +59,8 @@
       },
       {
         "name": "Chiesa Francescana dell'Annunciazione",
-        "walk": "Sulla piazza · lato sud",
-        "desc": "Costruita tra il 1646 e il 1660, con la sua facciata barocca rosa chiude la piazza verso sud. L'interno, riccamente decorato, è visitabile gratuitamente."
+        "walk": "Sulla piazza · lato nord",
+        "desc": "La chiesa dell’Annunciazione fu costruita a metà Seicento e la sua facciata barocca guarda la piazza. Verifica le condizioni di visita."
       },
       {
         "name": "Monumento a France Prešeren",
@@ -80,7 +80,7 @@
       {
         "id": "architecture",
         "title": "Caratteristiche architettoniche",
-        "content": "Piazza pedonale circolare pavimentata in granito, con motivi radiali in pietra chiara. Al centro si trova il monumento in bronzo a France Prešeren (1905). A est sorge l'edificio della Farmacia Centrale, a nord il grande magazzino Mayer in stile liberty, a ovest il Triplo Ponte e a sud la facciata rosa della chiesa francescana dell'Annunciazione. Attorno si trovano preziosi esempi di architettura barocca e della Secessione viennese.\n\nL'insieme unisce più stili: scultura neoclassica in bronzo per il monumento, tradizione barocca per la chiesa, eleganza liberty per i palazzi circostanti: un museo all'aperto dell'architettura di Lubiana."
+        "content": "La chiesa dell’Annunciazione, nota come chiesa francescana, si trova sul lato nord della piazza. Il registro sloveno dei beni culturali descrive l’edificio del primo Barocco, le sei cappelle laterali e opere interne associate a Francesco Robba, Matevž Langus, Matej Sternen e Jože Plečnik. È tuttora un luogo di culto: verifica le condizioni di visita.\n\nIl grande magazzino Urbanc, progettato da Fredrich Sigmundt e completato nel 1903, rappresenta l’architettura commerciale della Secessione sulla piazza. Il Triplo Ponte sulla Ljubljanica unisce il ponte del 1842 a due passaggi pedonali progettati da Jože Plečnik nel 1931–1932."
       },
       {
         "id": "culture",
@@ -676,7 +676,7 @@
       {
         "year": "1646–1660",
         "title": "La chiesa rosa",
-        "desc": "Fu costruita la Chiesa Francescana dell'Annunciazione, che chiude la piazza a sud con la facciata barocca."
+        "desc": "La chiesa dell’Annunciazione fu costruita a metà Seicento e si affaccia sulla piazza da nord."
       },
       {
         "year": "1895",
@@ -804,5 +804,15 @@
   "topicLinks": {
     "title": "Guide dettagliate a Piazza Prešeren e Lubiana",
     "subtitle": "Storia, monumento, mappa, trasporti, percorsi a piedi ed eventi: ogni pagina risponde a una domanda pratica."
+  },
+  "universityContext": {
+    "title": "La chiesa e gli edifici della piazza",
+    "church": "La chiesa dell’Annunciazione, nota come chiesa francescana, si trova sul lato nord della piazza. Il registro sloveno dei beni culturali descrive l’edificio del primo Barocco, le sei cappelle laterali e opere interne associate a Francesco Robba, Matevž Langus, Matej Sternen e Jože Plečnik. È tuttora un luogo di culto: verifica le condizioni di visita.",
+    "buildings": "Il grande magazzino Urbanc, progettato da Fredrich Sigmundt e completato nel 1903, rappresenta l’architettura commerciale della Secessione sulla piazza. Il Triplo Ponte sulla Ljubljanica unisce il ponte del 1842 a due passaggi pedonali progettati da Jože Plečnik nel 1931–1932.",
+    "credit": "Il dott. Matevž Rudolf, consulente della casa editrice dell’Università di Lubiana, ha consigliato il libro aperto nella sua e-mail del 6 novembre 2026. Curato da Katja Mahnič (2024), nasce da un progetto di museologia di Storia dell’arte dell’università dedicato alla presentazione della chiesa. Il consiglio non implica revisione o approvazione di questo sito indipendente.",
+    "book": "Libro della casa editrice universitaria",
+    "churchRecord": "Registro della chiesa",
+    "urbanc": "Registro di casa Urbanc",
+    "bridge": "Registro del Triplo Ponte"
   }
 }

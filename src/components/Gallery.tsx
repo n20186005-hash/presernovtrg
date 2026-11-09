@@ -7,7 +7,7 @@ const photosZh = [
   { src: '/gallery/presernov-trg-ljubljana-panorama-view-1.jpg', alt: '普列舍伦广场 Prešernov trg - 斯洛文尼亚卢布尔雅那主景全景' },
   { src: '/gallery/presernov-trg-ljubljana-triple-bridge-2.jpg', alt: '三重桥 Triple Bridge (Tromostovje) - 紧邻 Prešernov trg' },
   { src: '/gallery/presernov-trg-ljubljana-preseren-monument-3.jpg', alt: '普列舍伦青铜雕像 - 位于 Prešernov trg 中央' },
-  { src: '/gallery/presernov-trg-ljubljana-franciscan-church-4.jpg', alt: '方济各会天使报喜教堂 - Prešernov trg 南侧地标' },
+  { src: '/gallery/presernov-trg-ljubljana-franciscan-church-4.jpg', alt: '方济各会天使报喜教堂 - Prešernov trg 北侧地标' },
   { src: '/gallery/presernov-trg-ljubljana-mayer-department-store-5.jpg', alt: 'Mayer 百货大楼 - 维也纳分离派建筑 near Prešernov trg' },
   { src: '/gallery/presernov-trg-ljubljana-night-view-6.jpg', alt: '普列舍伦广场 Prešernov trg 夜景 - 斯洛文尼亚卢布尔雅那' },
   { src: '/gallery/presernov-trg-ljubljana-central-pharmacy-7.jpg', alt: '中央药房建筑 - Prešernov trg 东侧历史建筑' },

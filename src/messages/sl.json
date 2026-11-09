@@ -27,7 +27,7 @@
     "historyTitle": "Zgodovina in pomen Prešernovega trga",
     "entityDeclaration": "Prešernov trg je glavni javni trg v središču Ljubljane, glavnega mesta Slovenije. Leži na desnem bregu Ljubljanice, kjer peš cona starega mesta seka Tromostovje, in je poimenovan po Francevu Prešernu, narodnem pesniku.",
     "breadcrumb": "Prešernov trg → Ljubljana → Slovenija",
-    "nearbyCluster": "Skoraj vse, zaradi česar je Ljubljana mesto za hojo, je oddaljeno le nekaj minut od trga: Tromostovje prek Ljubljanice, rožnata frančiškanska cerkev Marijinega oznanjenja na južni strani ter nekaj minut proč osrednja tržnica in Ljubljanski grad. Večina obiskovalcev trg uporabi kot začetek in konec sprehoda po starem mestu.",
+    "nearbyCluster": "Skoraj vse, zaradi česar je Ljubljana mesto za hojo, je oddaljeno le nekaj minut od trga: Tromostovje prek Ljubljanice, rožnata frančiškanska cerkev Marijinega oznanjenja na severni strani ter nekaj minut proč osrednja tržnica in Ljubljanski grad. Večina obiskovalcev trg uporabi kot začetek in konec sprehoda po starem mestu.",
     "description": "Prešernov trg je krožni peš trg z granitno in belo marmornato površino, ki ga je arhitekt Edvard Ravnikar v letih 1987–1988 preoblikoval v današnjo obliko, po prenovi leta 2007 pa je brez prometa. V središču stoji bronasti spomenik Franci Prešernu Ivana Zajca iz leta 1905 z muzo, ki pesniku drži lovoriko. Okoli njega se dvigajo rožnata frančiškanska cerkev (1646–1660), stavba centralne lekarne in secesijske fasade, obnovljene po potresu leta 1895. Trg je od leta 1991 spomenik kulturnega pomena za državo, glavno ljubljansko zborno mesto — domačini pravijo preprosto »pod spomenikom« — in prizorišče največjih javnih dogodkov, od božične tržnice do Prešernovega dne 8. februarja.",
     "visitGuide": {
       "title": "Nasveti za obisk",
@@ -59,8 +59,8 @@
       },
       {
         "name": "Frančiškanska cerkev Marijinega oznanjenja",
-        "walk": "Na trgu · južna stran",
-        "desc": "Cerkev, zgrajena med letoma 1646 in 1660, z rožnato baročno fasado zapira trg na južni strani. Bogato okrašena notranjščina je za obiskovalce brezplačno odprta."
+        "walk": "Na trgu · severna stran",
+        "desc": "Cerkev Marijinega oznanjenja je bila zgrajena sredi 17. stoletja; njeno baročno pročelje gleda na trg. Preverite pogoje obiska."
       },
       {
         "name": "Prešernov spomenik",
@@ -80,7 +80,7 @@
       {
         "id": "architecture",
         "title": "Arhitekturne značilnosti",
-        "content": "Gre za krožni peš trg, tlakovan z granitom in poudarjen z radialnimi vzorci iz svetlega kamna. V središču stoji bronasti spomenik Francetu Prešernu (1905). Na vzhodni strani je stavba Centralne lekarne, na severni Mayerjeva veleblagovnica v slogu secesije, na zahodni strani Tromostovje, na južni pa rožnata fasada Frančiškanske cerkve Marijinega oznanjenja. Trg obdajajo dragoceni primeri baročne in dunajske secesijske arhitekture.\n\nCeloten ambient združuje več slogov: spomenik je neoklasicistična bronasta skulptura, cerkev predstavlja baročno tradicijo, okoliške palače pa secesijsko eleganco. Skupaj ustvarjajo odprt muzej ljubljanske arhitekture."
+        "content": "Cerkev Marijinega oznanjenja, znana kot frančiškanska cerkev, stoji na severni strani trga. Register kulturne dediščine jo opisuje kot zgodnjebaročno cerkev s šestimi stranskimi kapelami in opremo, povezano s Francescom Robbo, Matevžem Langusom, Matejem Sternenom in Jožetom Plečnikom. Cerkev je tudi bogoslužni prostor; preverite aktualne pogoje obiska.\n\nUrbančeva veleblagovnica po načrtih Fredricha Sigmundta iz leta 1903 predstavlja secesijsko trgovsko arhitekturo ob trgu. Tromostovje prek Ljubljanice združuje most iz leta 1842 in mostova za pešce po načrtih Jožeta Plečnika iz let 1931–1932."
       },
       {
         "id": "culture",
@@ -158,7 +158,7 @@
       "Prispejte do bližnjega postajališča ali v staro mestno jedro in se po Tromostovju približajte trgu",
       "Občudujte pogled s Tromostovja proti Prešernovemu trgu in reki Ljubljanici",
       "Sprehodite se po granitnem krogu okoli osrednjega spomenika Francetu Prešernu",
-      "Na južni strani si od blizu oglejte baročno pročelje Frančiškanske cerkve Marijinega oznanjenja",
+      "Na severni strani si od blizu oglejte baročno pročelje frančiškanske cerkve Marijinega oznanjenja",
       "Na vzhodni strani opazujte zgodovinsko stavbo Centralne lekarne",
       "Na severnem robu ujemite arhitekturne podrobnosti Mayerjeve veleblagovnice",
       "Ustavite se v kavarni in doživite sproščen tempo mestnega središča",
@@ -676,7 +676,7 @@
       {
         "year": "1646–1660",
         "title": "Rožnata cerkev",
-        "desc": "Zgrajena je bila Frančiškanska cerkev Marijinega oznanjenja, ki z baročnim pročeljem zapira trg na jugu."
+        "desc": "Cerkev Marijinega oznanjenja je bila zgrajena sredi 17. stoletja in se s severne strani odpira proti trgu."
       },
       {
         "year": "1895",
@@ -804,5 +804,15 @@
   "topicLinks": {
     "title": "Podrobni vodniki po Prešernovem trgu in Ljubljani",
     "subtitle": "Zgodovina, spomenik, zemljevid, promet, hoje in dogodki — vsaka stran reši eno praktično vprašanje."
+  },
+  "universityContext": {
+    "title": "Cerkev in stavbe ob trgu",
+    "church": "Cerkev Marijinega oznanjenja, znana kot frančiškanska cerkev, stoji na severni strani trga. Register kulturne dediščine jo opisuje kot zgodnjebaročno cerkev s šestimi stranskimi kapelami in opremo, povezano s Francescom Robbo, Matevžem Langusom, Matejem Sternenom in Jožetom Plečnikom. Cerkev je tudi bogoslužni prostor; preverite aktualne pogoje obiska.",
+    "buildings": "Urbančeva veleblagovnica po načrtih Fredricha Sigmundta iz leta 1903 predstavlja secesijsko trgovsko arhitekturo ob trgu. Tromostovje prek Ljubljanice združuje most iz leta 1842 in mostova za pešce po načrtih Jožeta Plečnika iz let 1931–1932.",
+    "credit": "Dr. Matevž Rudolf, strokovni svetovalec Založbe Univerze v Ljubljani, je v odgovoru 6. novembra 2026 priporočil prosto dostopno knjigo. Zbornik, ki ga je uredila Katja Mahnič (2024), je nastal v okviru muzeološkega projekta umetnostne zgodovine Univerze v Ljubljani o predstavitvi cerkve. Priporočilo ne pomeni pregleda ali podpore temu neodvisnemu spletišču.",
+    "book": "Knjiga Založbe UL",
+    "churchRecord": "Register cerkve",
+    "urbanc": "Register Urbančeve hiše",
+    "bridge": "Register Tromostovja"
   }
 }

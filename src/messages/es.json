@@ -27,7 +27,7 @@
     "historyTitle": "Historia y significado de la Plaza Prešeren",
     "entityDeclaration": "La Plaza Prešeren (Prešernov trg) es la plaza principal del centro de Liubliana, la capital de Eslovenia. Se encuentra en la orilla derecha del Ljubljanica, donde el casco antiguo peatonal se une al Puente Triple, y debe su nombre a France Prešeren, el poeta nacional esloveno.",
     "breadcrumb": "Plaza Prešeren → Liubliana → Eslovenia",
-    "nearbyCluster": "Casi todo lo que hace reconocible Liubliana queda a pocos minutos de la plaza: el Puente Triple (Tromostovje) sobre el Ljubljanica, la iglesia franciscana de la Anunciación, de color rosa, en su lado sur y —unos minutos río arriba— el Mercado Central y el Castillo de Liubliana (Ljubljanski grad). La mayoría de visitantes usan la plaza como inicio y final de un paseo por el casco antiguo.",
+    "nearbyCluster": "Casi todo lo que hace reconocible Liubliana queda a pocos minutos de la plaza: el Puente Triple (Tromostovje) sobre el Ljubljanica, la iglesia franciscana de la Anunciación, de color rosa, en su lado norte y —unos minutos río arriba— el Mercado Central y el Castillo de Liubliana (Ljubljanski grad). La mayoría de visitantes usan la plaza como inicio y final de un paseo por el casco antiguo.",
     "description": "La Plaza Prešeren es una plaza circular completamente peatonal, con pavimento de granito y mármol blanco, rediseñada por el arquitecto Edvard Ravnikar en 1987–1988 y libre de tráfico desde 2007. En el centro se alza el monumento de bronce a France Prešeren, obra de Ivan Zajec de 1905, con una musa que sostiene una rama de laurel sobre el poeta. A su alrededor se levantan la iglesia franciscana de la Anunciación (1646–1660), el edificio de la Farmacia Central y las fachadas modernistas reconstruidas tras el terremoto de 1895. Declarada monumento cultural de importancia nacional en 1991, la plaza es el punto de encuentro por defecto de Liubliana —los locales dicen simplemente »pod spomenikom«, bajo el monumento— y el escenario de los grandes actos públicos, del mercado navideño al Día de Prešeren del 8 de febrero.",
     "visitGuide": {
       "title": "Consejos para la visita",
@@ -59,8 +59,8 @@
       },
       {
         "name": "Iglesia Franciscana de la Anunciación",
-        "walk": "En la plaza · lado sur",
-        "desc": "Construida entre 1646 y 1660, su fachada barroca rosa cierra la plaza por el sur. Su ricamente decorado interior se puede visitar gratis."
+        "walk": "En la plaza · lado norte",
+        "desc": "La iglesia de la Anunciación se construyó a mediados del siglo XVII y su fachada barroca mira a la plaza. Consulta las condiciones actuales de visita."
       },
       {
         "name": "Monumento a France Prešeren",
@@ -80,7 +80,7 @@
       {
         "id": "architecture",
         "title": "Características arquitectónicas",
-        "content": "Plaza peatonal circular pavimentada con granito y realzada por trazos radiales de piedra clara. En el centro se alza la escultura de bronce de France Prešeren (1905). Al este está el edificio de la Farmacia Central, al norte los grandes almacenes Mayer de estilo modernista, al oeste el Puente Triple y al sur la fachada rosa de la iglesia franciscana de la Anunciación. A su alrededor se conservan valiosos ejemplos del barroco y de la Secesión vienesa.\n\nEl conjunto combina varios estilos: escultura neoclásica en bronce para el monumento, tradición barroca para la iglesia y elegancia modernista para los palacetes circundantes: un museo al aire libre de la arquitectura de Liubliana."
+        "content": "La iglesia de la Anunciación, conocida como iglesia franciscana, se encuentra en el lado norte de la plaza. El registro esloveno de patrimonio describe el edificio barroco temprano, sus seis capillas laterales y obras interiores vinculadas a Francesco Robba, Matevž Langus, Matej Sternen y Jože Plečnik. Sigue siendo un lugar de culto: consulta las condiciones actuales de visita.\n\nLos grandes almacenes Urbanc, proyectados por Fredrich Sigmundt y terminados en 1903, representan la arquitectura comercial de la Secesión junto a la plaza. El Puente Triple sobre el Ljubljanica combina el puente de 1842 con dos pasarelas diseñadas por Jože Plečnik en 1931–1932."
       },
       {
         "id": "culture",
@@ -158,7 +158,7 @@
       "Llega a la parada de transporte público más cercana y accede a la plaza por el Puente Triple",
       "Contempla la vista desde el Puente Triple hacia la plaza y el río",
       "Recorre el círculo de granito alrededor de la escultura central de France Prešeren",
-      "En el lado sur observa de cerca la fachada barroca de la iglesia franciscana de la Anunciación",
+      "En el lado norte observa de cerca la fachada barroca de la iglesia franciscana de la Anunciación",
       "En el lado este mira el histórico edificio de la Farmacia Central",
       "En el borde norte fotografía los detalles modernistas de los grandes almacenes Mayer",
       "Detente en una cafetería al aire libre y disfruta del ritmo relajado del centro",
@@ -676,7 +676,7 @@
       {
         "year": "1646–1660",
         "title": "La iglesia rosa",
-        "desc": "Se construyó la Iglesia Franciscana de la Anunciación, cerrando la plaza al sur con su fachada barroca."
+        "desc": "La iglesia de la Anunciación se construyó a mediados del siglo XVII y mira a la plaza desde el norte."
       },
       {
         "year": "1895",
@@ -804,5 +804,15 @@
   "topicLinks": {
     "title": "Guías detalladas de la Plaza Prešeren y Liubliana",
     "subtitle": "Historia, monumento, mapa, transporte, rutas a pie y eventos: cada página responde una pregunta práctica."
+  },
+  "universityContext": {
+    "title": "La iglesia y los edificios de la plaza",
+    "church": "La iglesia de la Anunciación, conocida como iglesia franciscana, se encuentra en el lado norte de la plaza. El registro esloveno de patrimonio describe el edificio barroco temprano, sus seis capillas laterales y obras interiores vinculadas a Francesco Robba, Matevž Langus, Matej Sternen y Jože Plečnik. Sigue siendo un lugar de culto: consulta las condiciones actuales de visita.",
+    "buildings": "Los grandes almacenes Urbanc, proyectados por Fredrich Sigmundt y terminados en 1903, representan la arquitectura comercial de la Secesión junto a la plaza. El Puente Triple sobre el Ljubljanica combina el puente de 1842 con dos pasarelas diseñadas por Jože Plečnik en 1931–1932.",
+    "credit": "El Dr. Matevž Rudolf, asesor de la Editorial de la Universidad de Liubliana, recomendó este libro abierto en su correo del 6 de noviembre de 2026. Editado por Katja Mahnič (2024), nació de un proyecto de museología de Historia del Arte de la universidad para presentar la iglesia. La recomendación no supone revisión ni aval de este sitio independiente.",
+    "book": "Libro de la editorial universitaria",
+    "churchRecord": "Registro patrimonial de la iglesia",
+    "urbanc": "Registro patrimonial de Urbanc",
+    "bridge": "Registro patrimonial del Puente Triple"
   }
 }

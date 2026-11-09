@@ -1,6 +1,7 @@
 import Header from './Header';
 import Hero from './Hero';
 import Intro from './Intro';
+import UniversityContext from './UniversityContext';
 import TopicLinks from './TopicLinks';
 import WeatherSection from './WeatherSection';
 import NearbyLandmarks from './NearbyLandmarks';
@@ -32,6 +33,7 @@ export default function PageSections() {
       <main>
         <Hero />
         <Intro />
+        <UniversityContext />
         <TopicLinks />
         <WeatherSection />
         <NearbyLandmarks />

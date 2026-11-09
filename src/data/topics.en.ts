@@ -11,7 +11,7 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
       'Prešeren Square looks like a single design, but it is a palimpsest: a medieval crossing, a baroque church, a Secession rebuild after an earthquake, a national monument, and a late-20th-century pedestrian redesign. This page walks through the layers in order, so you can read the square as a timeline rather than just a photo stop.',
     facts: [
       { label: 'First form', value: 'A crossing by the medieval town gate, south of the old-town core' },
-      { label: '1646\u20131660', value: 'Franciscan Church of the Annunciation built, closing the square to the south' },
+      { label: '1646\u20131660', value: 'Franciscan Church of the Annunciation built, facing the square from the north' },
       { label: '1895', value: 'Earthquake destroys much of the area; rebuilt in Secession (Art Nouveau) style' },
       { label: '1905', value: 'Bronze monument to France Pre\u0161eren by Ivan Zajec unveiled in the centre' },
       { label: '1987\u20131988', value: 'Architect Edvard Ravnikar reshapes the square into its circular form' },
@@ -28,9 +28,9 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
       },
       {
         id: 'church',
-        title: 'The pink church closes the southern side (1646\u20131660)',
+        title: 'The pink church stands on the northern side (1646\u20131660)',
         paragraphs: [
-          'The Franciscan Church of the Annunciation, built between 1646 and 1660, gave the junction its first architectural anchor. Its early-baroque fa\u00e7ade closes the southern edge of the square, and for two centuries the pink wall was the backdrop of every event held here.',
+          'The Church of the Annunciation was built in the mid-17th century; its Baroque façade faces the square from the north.',
           'The church is still an active monastery church \u2014 which is why the square\u2019s soundscape mixes tourists, traffic-free strollers and church bells.',
         ],
       },
@@ -201,7 +201,7 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
         id: 'sides',
         title: 'What lies on each side',
         paragraphs: [
-          'The square is bounded by its landmarks: the Triple Bridge leaves from the west, the pink Franciscan Church closes the south, Secession fa\u00e7ades line the north and east, and the Pre\u0161eren monument stands at the centre. Once you fix those four facts, the square stops being a maze.',
+          'The square is bounded by its landmarks: the Triple Bridge leads south towards the old town, the Franciscan Church stands to the north, Secession fa\u00e7ades frame the square, and the Pre\u0161eren monument stands at the centre. Once you fix those four facts, the square stops being a maze.',
           'The river runs just south of the church. From the square you can drop to the riverside promenade in under a minute, which is the fastest way to reach the market and the Dragon Bridge on foot.',
         ],
       },
@@ -220,7 +220,7 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
         title: 'Easy meeting points',
         paragraphs: [
           'The default is \u201cpod spomenikom\u201d \u2014 under the Pre\u0161eren monument. It is visible from every entrance, impossible to miss, and what locals will suggest.',
-          'Backups that also work: the steps of the pink church on the south side, the middle span of the Triple Bridge, or any of the caf\u00e9 terraces on the north side. If you arrange a meeting point with a group, name the landmark, not the street \u2014 street names around the square change every block.',
+          'Backups that also work: the steps of the pink church on the north side, the middle span of the Triple Bridge, or any of the caf\u00e9 terraces on the north side. If you arrange a meeting point with a group, name the landmark, not the street \u2014 street names around the square change every block.',
         ],
       },
       {
@@ -353,10 +353,10 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
       'The pink church on Pre\u0161eren Square: what to see on the fa\u00e7ade and inside, whether entry is free, mass times, and how to visit respectfully.',
     h1: 'The Franciscan Church of the Annunciation',
     intro:
-      'The pink church is the square\u2019s southern wall and its most photographed building. It is also a working monastery church \u2014 which shapes when you can go in, what you can do inside, and how to behave. Here is what to know before you step out of the sun.',
+      'The pink church is the square\u2019s northern landmark and its most photographed building. It is also a working monastery church \u2014 which shapes when you can go in, what you can do inside, and how to behave. Here is what to know before you step out of the sun.',
     facts: [
       { label: 'Built', value: '1646\u20131660, early Baroque' },
-      { label: 'Position', value: 'Closes the southern side of Pre\u0161eren Square' },
+      { label: 'Position', value: 'Stands on the northern side of Pre\u0161eren Square' },
       { label: 'Entry', value: 'Free; donations welcome' },
       { label: 'Opening', value: 'Generally open to visitors during the day; mass times and closures posted on site' },
       { label: 'Status', value: 'Active Franciscan monastery church' },
@@ -1263,7 +1263,7 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
     sections: [
       {
         id: 'church',
-        title: 'The pink church closes the south',
+        title: 'The pink church stands to the north',
         paragraphs: [
           'The Franciscan Church of the Annunciation (1646–1660) is the square’s oldest and most dominant building. Its unusual pink (really a faded terracotta-and-lime) baroque façade makes it the easiest landmark to find from anywhere nearby.',
           'Step inside and you leave the square’s noise entirely — a working monastery church, which is why church bells still mix with the tourist chatter outside.',
@@ -1450,7 +1450,7 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
       {
         question: 'What survived the earthquake?',
         answer:
-          'The 17th-century Franciscan Church of the Annunciation survived and still closes the south side of the square, making it the oldest visible element there.',
+          'The 17th-century Franciscan Church of the Annunciation survived and still faces the square from the north, making it the oldest visible element there.',
       },
     ],
     related: ['history', 'architecture', 'art-nouveau-walk'],

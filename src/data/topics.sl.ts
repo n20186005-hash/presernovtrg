@@ -11,7 +11,7 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
       'Prešernov trg izgleda kot ena zasnova, je pa palimpsest: srednjeveško križišče, baročna cerkev, secesijska prenova po potresu, nacionalni spomenik in poznodvajsetaška peš cona. Ta stran predstavi plasti po vrsti, da trg berete kot časovnico in ne le kot foto točko.',
     facts: [
       { label: 'Prva oblika', value: 'Križišče pri srednjeveških mestnih vratih ob poti na sever' },
-      { label: '1646–1660', value: 'Frančiškanska cerkev Marijinega oznanjenja zapre trg z južne strani' },
+      { label: '1646–1660', value: 'Frančiškanska cerkev Marijinega oznanjenja stoji na severni strani trga' },
       { label: '1895', value: 'Potres uniči veliko dela okolice; nova gradnja v secesijskem slogu' },
       { label: '1905', value: 'Bronasti spomenik Franci Prešernu Ivana Zajca v središču trga' },
       { label: '1987–1988', value: 'Arhitekt Edvard Ravnikar trg preoblikuje v današnji krožni prostor' },
@@ -28,9 +28,9 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
       },
       {
         id: 'cerkev',
-        title: 'Rožnata cerkev zapre južno stran (1646–1660)',
+        title: 'Rožnata cerkev stoji na severni strani (1646–1660)',
         paragraphs: [
-          'Frančiškanska cerkev Marijinega oznanjenja, zgrajena med 1646 in 1660, je križišču dala prvo arhitekturno sidro. Njen zgodnjerokokoša fasada zapira južni rob trga in je bila skozi stoletja ozadje vsakega dogodka na tem prostoru.',
+          'Cerkev Marijinega oznanjenja je bila zgrajena sredi 17. stoletja; njena baročna fasada se s severne strani odpira proti trgu.',
           'Cerkev je še danes aktivna samostanska cerkev — zato se v zvočni sliki trga prepletajo turisti, peš hoja in cerkveni zvonovi.',
         ],
       },
@@ -200,7 +200,7 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
         id: 'strani',
         title: 'Kaj je na vsaki strani',
         paragraphs: [
-          'Trg omejujejo znamenitosti: Tromostovje odhaja proti zahodu, rožnata frančiškanska cerkev zapira jug, secesijske fasade obdajajo sever in vzhod, Prešernov spomenik pa stoji v sredini. Ko imaš te štiri dejstva, trg neha biti labirint.',
+          'Trg omejujejo znamenitosti: Tromostovje vodi proti jugu, rožnata frančiškanska cerkev stoji na severu, secesijske fasade pa obdajajo trg, Prešernov spomenik pa stoji v sredini. Ko imaš te štiri dejstva, trg neha biti labirint.',
           'Reka teče tik južno od cerkve. S trga se lahko v manj kot minuti spustite na nabrežje, kar je najhitreja peš pot do tržnice in Zmajskega mostu.',
         ],
       },
@@ -219,7 +219,7 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
         title: 'Enostavna zborna mesta',
         paragraphs: [
           'Privzeto je "pod spomenikom" — pod Prešernovim spomenikom. Viden je z vsakega vhoda, nemogoče ga je zgrešiti in domačini bodo predlagali ravno njega.',
-          'Rezervni načini, ki tudi delujejo: stopnice rožnate cerkve na južni strani, srednji lok Tromostovja ali katere od kavarnih teras na severni strani. Če dogovarjate zborno mesto, imenujte orientacijsko točko, ne ulico — imena ulic okoli trga se menjavajo vsak blok.',
+          'Rezervni načini, ki tudi delujejo: stopnice rožnate cerkve na severni strani, srednji lok Tromostovja ali katere od kavarnih teras na severni strani. Če dogovarjate zborno mesto, imenujte orientacijsko točko, ne ulico — imena ulic okoli trga se menjavajo vsak blok.',
         ],
       },
       {
@@ -591,7 +591,7 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
     sections: [
       {
         id: 'church',
-        title: 'Rožnata cerkev zapira jug',
+        title: 'Rožnata cerkev stoji na severu',
         paragraphs: [
           'Frančiškanska cerkev Marijinega oznanjenja (1646–1660) je najstarejša in najbolj prevladujoča stavba na trgu. Njena nenavadna rožnata (pravzaprav bledo terakota in apnenec) baročna fasada je najlažja orientacijska točka v bližini.',
           'Stopite v notranjost in šum trga izgine — to je delujoč samostanska cerkev, zato se zvonovi mešajo s turističnim vrvežem zunaj.',
