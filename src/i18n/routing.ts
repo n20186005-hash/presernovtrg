@@ -9,6 +9,8 @@ export const routing = defineRouting({
   },
   pathnames: {
     '/': '/',
+    '/nearby': '/nearby',
+    '/[topic]': '/[topic]',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',
@@ -137,6 +139,7 @@ export function localeAlternates(locale: Locale, path = '/') {
 /** All static routes that exist for every locale. */
 export const STATIC_PATHS = [
   '/',
+  '/nearby',
   '/privacy-policy',
   '/terms-of-service',
   '/cookie-settings',

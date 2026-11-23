@@ -4,6 +4,7 @@ import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
+import { nearbyLabels } from '@/data/nearby-labels';
 import { routing } from '@/i18n/routing';
 
 export default function Header() {
@@ -43,6 +44,9 @@ export default function Header() {
               {t(section)}
             </a>
           ))}
+          <a href={`${prefix}/nearby`} className="text-sm font-medium transition-colors" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>
+            {nearbyLabels[locale as keyof typeof nearbyLabels]}
+          </a>
         </nav>
 
         <div className="flex items-center gap-2">

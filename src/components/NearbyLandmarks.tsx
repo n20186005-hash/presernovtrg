@@ -1,8 +1,14 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+import { nearbyLabels } from '@/data/nearby-labels';
+import { routing } from '@/i18n/routing';
 
 export default function NearbyLandmarks() {
+  const locale = useLocale();
+  const label = nearbyLabels[locale as keyof typeof nearbyLabels];
+  const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
   const t = useTranslations('nearby');
   const messages = useMessages() as any;
   const landmarks = (messages?.nearby?.items || []) as Array<{
@@ -22,6 +28,8 @@ export default function NearbyLandmarks() {
         </h2>
         <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>
           {t('subtitle')}
+          {' '}
+          <a href={`${prefix}/nearby`} className="font-semibold underline" style={{ color: 'var(--accent)' }}>{label}</a>
         </p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 

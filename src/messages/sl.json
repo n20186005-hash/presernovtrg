@@ -15,8 +15,8 @@
   "hero": {
     "title": "Prešernov trg (Ljubljana)",
     "subtitle": "Srce Ljubljane in nacionalni kulturni simbol Slovenije",
-    "rating": "4.7(13,383)",
-    "reviewCount": "13.383 ocen",
+    "rating": "4.7(13,470)",
+    "reviewCount": "13.470 ocen",
     "hours": "Odprto 24/7",
     "openMaps": "Poglej lokacijo"
   },
@@ -105,7 +105,7 @@
     "city": "Mesto",
     "cityValue": "Ljubljana",
     "googleRating": "Ocena Google",
-    "googleRatingValue": "4,7/5 (13.383 ocen)",
+    "googleRatingValue": "4,7/5 (13.470 ocen)",
     "address": "Naslov",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenija"
   },
@@ -253,7 +253,7 @@
     "declaration": "Prikazana ocena je agregirani posnetek z Googlovih zemljevidov, preverjen oktobra 2026. Posameznih ocen ne objavljamo.",
     "moreReviews": "Poglej več ocen na Google Maps",
     "items": [],
-    "snapshot": "4,7 / 5 · 13.383 ocen na Googlovih zemljevidih · preverjeno oktober 2026"
+    "snapshot": "4,7 / 5 · 13.470 ocen na Googlovih zemljevidih · preverjeno 23. novembra 2026"
   },
   "mapSection": {
     "title": "Lokacija in kako obiskati Prešernov trg v Ljubljani",
@@ -720,19 +720,12 @@
     ]
   },
   "footer": {
-    "rights": "© 2026 Independent Travel Research Association Prešernov trg. Vse pravice pridržane.",
+    "rights": "© 2026 Prešernov trg · Vse pravice pridržane",
     "privacy": "Politika zasebnosti",
     "terms": "Pogoji uporabe",
     "cookies": "Nastavitve piškotkov",
-    "officialResourcesTitle": "Javne referenčne povezave",
-    "officialLinks": {
-      "sloveniaInfo": "Potovalne informacije o Sloveniji",
-      "govSi": "Vladne informacije",
-      "visitLjubljana": "Visit Ljubljana — uradne turistične informacije",
-      "lpp": "LPP — mestni promet in vozovnice"
-    },
-    "disclaimer": "To je neodvisen, neprofiten turistični vodnik. Ne gre za uradno spletno stran Turizem Ljubljana ali katere koli druge javne ustanove in ne predstavlja njihovih stališč.",
-    "contactNote": "Vprašanja ali popravki k temu vodniku: pišite ekipi strani na naslov, naveden v politiki zasebnosti. Ta naslov je namenjen izključno našim vsebinam — ni naslov trga, Mestne občine Ljubljana ali turističnega urada. Uradni viri: Visit Ljubljana in LPP (povezave zgoraj)."
+    "disclaimer": "To spletno mesto je neodvisen turistično-informacijski projekt. Nismo povezani z nobenim državnim organom ali uradno organizacijo.",
+    "siteLinks": "Povezave spletnega mesta"
   },
   "privacy": {
     "title": "Politika zasebnosti",
@@ -754,7 +747,9 @@
         "heading": "4. Varnost podatkov",
         "content": "Varnost vaših podatkov nam je pomembna. Uporabljamo razumne ukrepe za zaščito podatkov, vendar noben način prenosa po internetu ne more zagotoviti popolne varnosti."
       }
-    ]
+    ],
+    "contactTitle": "Stik in popravki",
+    "contactNote": "Kontaktni kanali spletnega mesta so namenjeni vprašanjem in popravkom v zvezi s tem vodnikom. Za upravljanje trga ali uradne zadeve se obrnite neposredno na Mestno občino Ljubljana ali Turizem Ljubljana."
   },
   "terms": {
     "title": "Pogoji uporabe",
@@ -799,7 +794,14 @@
   },
   "officialManagement": {
     "title": "Obvestilo o neodvisnosti spletne strani",
-    "text": "Ta spletna stran je neodvisen, neprofiten informativni vodnik o Prešernovem trgu.\nNe upravlja je Turizem Ljubljana, Mestna občina Ljubljana ali katera koli druga uradna ustanova, z njimi ni povezana, ni od njih pooblaščena in ne govori v njihovem imenu.\n\nZa uradna obvestila, dovoljenja in upravne zadeve se obrnite neposredno na pristojne javne organe."
+    "text": "Ta spletna stran je neodvisen, neprofiten informativni vodnik o Prešernovem trgu.\nNe upravlja je Turizem Ljubljana, Mestna občina Ljubljana ali katera koli druga uradna ustanova, z njimi ni povezana, ni od njih pooblaščena in ne govori v njihovem imenu.\n\nZa uradna obvestila, dovoljenja in upravne zadeve se obrnite neposredno na pristojne javne organe.",
+    "officialResourcesTitle": "Javne referenčne povezave",
+    "officialLinks": {
+      "sloveniaInfo": "Potovalne informacije o Sloveniji",
+      "govSi": "Vladne informacije",
+      "visitLjubljana": "Visit Ljubljana — uradne turistične informacije",
+      "lpp": "LPP — mestni promet in vozovnice"
+    }
   },
   "topicLinks": {
     "title": "Podrobni vodniki po Prešernovem trgu in Ljubljani",

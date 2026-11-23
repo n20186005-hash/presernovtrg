@@ -1,0 +1,862 @@
+{
+  "butchers-bridge": {
+    "kind": "bridge",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "Steel, glass and sculpture between the market and the cafés",
+      "note": "Keep the central deck clear for crossings and use the quays for longer photo stops.",
+      "highlight": "Compare the sculptural figures on the deck with the line of padlocks along the glass edge."
+    },
+    "sl": {
+      "tagline": "Jeklo, steklo in kipi med tržnico in kavarnami",
+      "note": "Sredino mostu pustite prehodno. Za daljši fotografski postanek se umaknite na nabrežje.",
+      "highlight": "Primerjajte kipe na mostu z nizom ključavnic ob steklenem robu."
+    }
+  },
+  "cobblers-bridge": {
+    "kind": "bridge",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "Plečnik’s open-air square above the Ljubljanica",
+      "note": "Use both banks to see the columns in profile. The deck can feel crowded when groups stop across it.",
+      "highlight": "Compare the slimmer columns and the lower stone balustrades. The arrangement reads differently from the quay and from the deck."
+    },
+    "sl": {
+      "tagline": "Plečnikov trg na prostem nad Ljubljanico",
+      "note": "Oglejte si stebre z obeh bregov. Ob skupinah na mostu pustite dovolj prostora za prehod.",
+      "highlight": "Primerjajte vitke stebre in nižje kamnite ograje. Z nabrežja je razpored drugačen kot z mostu."
+    }
+  },
+  "trnovo-bridge": {
+    "kind": "bridge",
+    "minutes": "15–20",
+    "en": {
+      "tagline": "A tree-lined bridge opening onto Trnovo’s church forecourt",
+      "note": "Continue at street level if the lower embankment path is wet or unsuitable for your group.",
+      "highlight": "Look for the trees planted on the deck and the stone pyramids that mark the church approach."
+    },
+    "sl": {
+      "tagline": "Most z drevesi pred trnovsko cerkvijo",
+      "note": "Če je nižja pot ob vodi mokra ali neprimerna, ostanite na ravni ulice.",
+      "highlight": "Poiščite drevesa na mostu in kamnite piramide pred cerkvijo."
+    }
+  },
+  "hradecky-bridge": {
+    "kind": "bridge",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "A nineteenth-century cast-iron crossing relocated to Krakovo",
+      "note": "Inspect the ironwork from the paths by the bridge. Leave the railings clear for others.",
+      "highlight": "Look at the repeated metal panels and shallow arch to see how the span was assembled."
+    },
+    "sl": {
+      "tagline": "Litoželezni most iz 19. stoletja, prestavljen v Krakovo",
+      "note": "Železno konstrukcijo si oglejte z bližnjih poti. Ob ograji pustite prostor drugim.",
+      "highlight": "Ponavljajoča se kovinska polja in plitev lok pokažejo, kako je most sestavljen."
+    }
+  },
+  "st-james-bridge": {
+    "kind": "bridge",
+    "minutes": "5–10",
+    "en": {
+      "tagline": "A riverside crossroads between Breg and Castle Hill",
+      "note": "Use the pavement and marked crossings. The best place to pause is off the deck.",
+      "highlight": "Compare the upstream and downstream views to see where the tight old-town river corridor gives way to broader banks."
+    },
+    "sl": {
+      "tagline": "Rečno križišče med Bregom in Grajskim gričem",
+      "note": "Uporabite pločnik in označene prehode. Za postanek se umaknite z mostu.",
+      "highlight": "Primerjajte pogled v obe smeri in opazujte, kje se ozko rečno jedro odpre v širše bregove."
+    }
+  },
+  "st-peters-bridge": {
+    "kind": "bridge",
+    "minutes": "5–10",
+    "en": {
+      "tagline": "A road bridge beside the twin towers of St Peter’s",
+      "note": "Use street crossings near the bridge approaches. Plan a photo from the bank rather than the road.",
+      "highlight": "Use the church towers and the bend of the river as reference points on opposite approaches."
+    },
+    "sl": {
+      "tagline": "Cestni most ob dveh zvonikih cerkve sv. Petra",
+      "note": "Pri dovozih uporabite prehode za pešce. Fotografirajte z nabrežja.",
+      "highlight": "Zvonika in zavoj reke sta orientacijski točki z različnih strani mostu."
+    }
+  },
+  "ljubljana-town-hall": {
+    "kind": "civic",
+    "minutes": "20–35",
+    "en": {
+      "tagline": "A clock tower, an arcaded courtyard and the seat of local government",
+      "note": "Allow extra time for an announced exhibition. Enter only spaces marked for visitors.",
+      "highlight": "Look from the clock tower down to the arcade, then into the courtyard if open."
+    },
+    "sl": {
+      "tagline": "Urni stolp, arkadno dvorišče in sedež mestne uprave",
+      "note": "Za razstavo si vzemite več časa. Vstopajte v prostore, označene za obiskovalce.",
+      "highlight": "Pogled od urnega stolpa spustite do arkad in, če je odprto, nadaljujte na dvorišče."
+    }
+  },
+  "robba-fountain": {
+    "kind": "monument",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "Three river figures at the foot of a Baroque obelisk",
+      "note": "Stay outside the basin and approach from the open side of Mestni trg.",
+      "highlight": "Circle the basin to see all three figures and the way their vessels turn toward the square."
+    },
+    "sl": {
+      "tagline": "Tri rečne figure ob baročnem obelisku",
+      "note": "Ostanite zunaj bazena in se približajte z odprte strani Mestnega trga.",
+      "highlight": "Obidite bazen in si oglejte vse tri figure ter njihove posode, obrnjene proti trgu."
+    }
+  },
+  "tivoli-park": {
+    "kind": "park",
+    "minutes": "45–90",
+    "en": {
+      "tagline": "A broad promenade at the foot of wooded Rožnik",
+      "note": "The lower park and hill paths are different outings. Start below the mansion for a shorter walk.",
+      "highlight": "Follow the promenade’s long sightline, then take one of the parallel paths to see how the formal avenue meets landscaped lawns."
+    },
+    "sl": {
+      "tagline": "Široko sprehajališče ob gozdnatem Rožniku",
+      "note": "Spodnji park in gozdne poti sta različna obiska. Za krajši sprehod ostanite pod gradom.",
+      "highlight": "Sledite dolgi osi sprehajališča. Po vzporedni poti opazujte prehod z drevoreda na trate."
+    }
+  },
+  "tivoli-mansion": {
+    "kind": "museum",
+    "minutes": "45–75",
+    "en": {
+      "tagline": "Graphic arts at the end of Jakopič Promenade",
+      "note": "Check MGLC’s accessibility guidance before taking the front staircase to the exhibition.",
+      "hours": "Tue–Sun 10:00–18:00. Closed Mondays, 1 January and 25 December. On 24 and 31 December, 10:00–14:00.",
+      "admission": "Adults €8, students and pensioners €5, family €12. Biennale rates may differ.",
+      "highlight": "Look for the cast-iron dogs by the steps and the view down the avenue from the terrace."
+    },
+    "sl": {
+      "tagline": "Grafična umetnost na koncu Jakopičevega sprehajališča",
+      "note": "Pred vzponom po stopnicah si oglejte informacije MGLC o dostopnosti.",
+      "hours": "Tor–ned 10.00–18.00. Zaprto ob ponedeljkih, 1. januarja in 25. decembra. 24. in 31. decembra 10.00–14.00.",
+      "admission": "Odrasli 8 €, študenti in upokojenci 5 €, družinska 12 €. Med bienalom lahko veljajo druge cene.",
+      "highlight": "Ob stopnicah poiščite litoželezne pse, s terase pa pogled po sprehajališču."
+    },
+    "hoursUrl": "https://mglc.si/en/plan-your-visit/basic-information/"
+  },
+  "cekin-mansion": {
+    "kind": "museum",
+    "minutes": "60–90",
+    "en": {
+      "tagline": "Modern Slovenian history inside a Baroque residence",
+      "note": "Check whether the temporary exhibition and permanent collection have different admission arrangements.",
+      "hours": "Tue–Sun 10:00–18:00. Closed Mondays and selected public holidays.",
+      "admission": "Adults €6, reduced €4, family €12. Free on the first Sunday of the month.",
+      "highlight": "Observe the symmetry of the palace first, then the change in scale between its rooms and the museum exhibits."
+    },
+    "sl": {
+      "tagline": "Novejša slovenska zgodovina v baročnem dvorcu",
+      "note": "Preverite, ali za začasno razstavo in stalno zbirko veljajo različni pogoji vstopa.",
+      "hours": "Tor–ned 10.00–18.00. Zaprto ob ponedeljkih in nekaterih praznikih.",
+      "admission": "Odrasli 6 €, znižana 4 €, družinska 12 €. Prva nedelja v mesecu brezplačno.",
+      "highlight": "Najprej si oglejte simetrijo dvorca, nato razmerje med sobami in muzejskimi eksponati."
+    },
+    "hoursUrl": "https://www.muzej-nz.si/en/visit/"
+  },
+  "national-gallery": {
+    "kind": "museum",
+    "minutes": "60–120",
+    "en": {
+      "tagline": "Historic Slovenian art and the original Robba Fountain",
+      "note": "Allow time before last entry and choose a ticket for the collection you want to see.",
+      "hours": "Tue–Sun 10:00–18:00, Thursdays until 20:00. Last entry 30 minutes before closing. Check holiday hours.",
+      "admission": "Adults €10 for the permanent collection, €6 for temporary exhibitions or €14 combined.",
+      "highlight": "Start with the original stone fountain and compare its setting indoors with the replica outside Town Hall."
+    },
+    "sl": {
+      "tagline": "Slovenska umetnost in izvirni Robbov vodnjak",
+      "note": "Pridite pred zadnjim vstopom in izberite vstopnico za želeno zbirko.",
+      "hours": "Tor–ned 10.00–18.00, ob četrtkih do 20.00. Zadnji vstop 30 minut pred zaprtjem. Preverite praznični urnik.",
+      "admission": "Odrasli: stalna zbirka 10 €, začasne razstave 6 €, kombinirana vstopnica 14 €.",
+      "highlight": "Začnite pri izvirnem kamnitem vodnjaku in ga primerjajte s kopijo pred Mestno hišo."
+    },
+    "hoursUrl": "https://www.ng-slo.si/en/visit-us/opening-hours-and-entrance-fee"
+  },
+  "modern-gallery": {
+    "kind": "museum",
+    "minutes": "45–90",
+    "en": {
+      "tagline": "Slovenian modern art in Edvard Ravnikar’s gallery",
+      "note": "Verify the venue on your ticket if attending an exhibition advertised jointly with +MSUM.",
+      "hours": "Tue–Sun 10:00–18:00. Thursdays in July and August until 20:00. Last entry 30 minutes before closing.",
+      "admission": "Adults €7, reduced €3.50, family €14. Free on the first Sunday of the month.",
+      "highlight": "Read the entrance and low gallery wings as one composition, then see which permanent or temporary show is on."
+    },
+    "sl": {
+      "tagline": "Slovenska moderna umetnost v Ravnikarjevi galeriji",
+      "note": "Pri razstavah v skupnem programu z +MSUM preverite prizorišče na vstopnici.",
+      "hours": "Tor–ned 10.00–18.00. Ob četrtkih julija in avgusta do 20.00. Zadnji vstop 30 minut pred zaprtjem.",
+      "admission": "Odrasli 7 €, znižana 3,50 €, družinska 14 €. Prva nedelja v mesecu brezplačno.",
+      "highlight": "Vhod in nizka krila si oglejte kot celoto, nato preverite aktualne razstave."
+    },
+    "hoursUrl": "https://www.mg-lj.si/en/visit/778/info_mg/"
+  },
+  "national-museum": {
+    "kind": "museum",
+    "minutes": "60–120",
+    "en": {
+      "tagline": "Archaeological collections in the Muzejska building",
+      "note": "Check the branch name before booking. The Metelkova site and the Natural History Museum have separate visitor information.",
+      "hours": "Muzejska’s published 2026 hours are daily 10:00–18:00, Thursdays until 20:00. Closed on selected holidays.",
+      "admission": "Adults €8, seniors and students €4, family €16 for the Muzejska site.",
+      "highlight": "Use the Muzejska entrance for archaeology and look for exhibits that place individual finds in the context of settlement."
+    },
+    "sl": {
+      "tagline": "Arheološke zbirke v stavbi na Muzejski ulici",
+      "note": "Pred nakupom preverite enoto. Metelkova in Prirodoslovni muzej imata ločene informacije.",
+      "hours": "Objavljeni urnik za Muzejsko v letu 2026 je vsak dan 10.00–18.00, ob četrtkih do 20.00. Zaprto ob nekaterih praznikih.",
+      "admission": "Na Muzejski: odrasli 8 €, upokojenci in študenti 4 €, družinska 16 €.",
+      "highlight": "Za arheologijo uporabite vhod na Muzejski. Poiščite razlage, ki najdbe povežejo z zgodovino poselitve."
+    },
+    "hoursUrl": "https://www.nms.si/en/plan-your-visit/opening-hours-and-contact",
+    "ticketsUrl": "https://www.nms.si/en/shop/tickets/muzejska"
+  },
+  "plecnik-house": {
+    "kind": "museum",
+    "minutes": "60–90",
+    "en": {
+      "tagline": "The rooms, garden and working world of Jože Plečnik",
+      "note": "Reserve the timed tour if the architect’s original rooms are your main reason for visiting.",
+      "hours": "Tue–Sun 10:00–18:00. Original rooms by hourly guided tour, last regular tour 17:00. Holiday hours vary.",
+      "admission": "Guided tour of the original home: adults €12, reduced €9 and family €25. Separate tickets are available for exhibitions.",
+      "highlight": "The curved extension, modest furnishings and garden reveal the architect’s domestic scale."
+    },
+    "sl": {
+      "tagline": "Sobe, vrt in delovni svet Jožeta Plečnika",
+      "note": "Če želite videti arhitektove izvirne prostore, rezervirajte termin vodenja.",
+      "hours": "Tor–ned 10.00–18.00. Izvirni prostori so na voljo z vodenjem vsako polno uro, zadnji redni ogled ob 17.00. Praznični urnik se razlikuje.",
+      "admission": "Vodeni ogled izvirnega doma: odrasli 12 €, znižana vstopnica 9 € in družinska 25 €. Za razstave so na voljo ločene vstopnice.",
+      "highlight": "Valjasti prizidek, skromna oprema in vrt razkrivajo merilo arhitektovega doma."
+    },
+    "hoursUrl": "https://mgml.si/en/plecnik-house/visit-us/"
+  },
+  "slovene-ethnographic-museum": {
+    "kind": "museum",
+    "minutes": "60–100",
+    "en": {
+      "tagline": "Objects and personal accounts in the former barracks quarter",
+      "note": "Ask at reception which collections are open and which use a separate ticket.",
+      "hours": "Tue–Sun 10:00–18:00, Thursdays until 20:00. Closed Mondays and selected public holidays.",
+      "admission": "Adults €8. Children, students and pensioners €5.",
+      "highlight": "Compare an everyday object on display with the testimony explaining who made or used it."
+    },
+    "sl": {
+      "tagline": "Predmeti in pričevanja v nekdanji vojašnici",
+      "note": "Na blagajni vprašajte, katere zbirke so odprte in katere zahtevajo posebno vstopnico.",
+      "hours": "Tor–ned 10.00–18.00, ob četrtkih do 20.00. Zaprto ob ponedeljkih in nekaterih praznikih.",
+      "admission": "Odrasli 8 €. Otroci, študenti in upokojenci 5 €.",
+      "highlight": "Primerjajte vsakdanji predmet z razlago o tem, kdo ga je izdelal ali uporabljal."
+    },
+    "hoursUrl": "https://www.etno-muzej.si/en/welcome-to-the-slovene-ethnographic-museum"
+  },
+  "metelkova": {
+    "kind": "arts",
+    "minutes": "20–40",
+    "en": {
+      "tagline": "Murals, courtyards and independent cultural venues",
+      "note": "Respect signs on studios and private rooms. Check each night-time event separately.",
+      "highlight": "Look for old barracks buildings altered with murals, mosaics and found objects in the public courtyards."
+    },
+    "sl": {
+      "tagline": "Poslikave, dvorišča in neodvisna prizorišča",
+      "note": "Upoštevajte oznake na ateljejih. Večerne dogodke preverite pri posameznem organizatorju.",
+      "highlight": "Na javnih dvoriščih poiščite stare vojašnice, preoblikovane s poslikavami, mozaiki in predmeti."
+    }
+  },
+  "krizanke": {
+    "kind": "venue",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "A former monastery and Plečnik’s open-air performance complex",
+      "note": "For outdoor performances, check the event’s weather and entry arrangements ahead of time.",
+      "highlight": "At the street entrances, look for patterns in the stonework and changes between open and sheltered court edges."
+    },
+    "sl": {
+      "tagline": "Nekdanji samostan in Plečnikovo poletno gledališče",
+      "note": "Za predstavo na prostem preverite navodila za vreme in vstop.",
+      "highlight": "Ob uličnih vhodih poiščite vzorce v kamnu in prehode med odprtimi ter pokritimi robovi."
+    }
+  },
+  "ursuline-church": {
+    "kind": "church",
+    "minutes": "15–25",
+    "en": {
+      "tagline": "An undulating Baroque façade facing Congress Square",
+      "note": "View the façade from the square before crossing Slovenska cesta at the pedestrian signals.",
+      "highlight": "The deepest façade shadows show where the curved half-columns project toward the square."
+    },
+    "sl": {
+      "tagline": "Valovito baročno pročelje nasproti Kongresnega trga",
+      "note": "Pročelje si najprej oglejte s trga, nato prečkajte Slovensko cesto pri semaforju.",
+      "highlight": "Globlje sence na pročelju razkrijejo polstebre, ki se izbočijo proti trgu."
+    }
+  },
+  "st-james-church": {
+    "kind": "church",
+    "minutes": "15–25",
+    "en": {
+      "tagline": "Jesuit heritage at the southern end of the old town",
+      "note": "Keep sightseeing and photography outside service times. Interior access can change.",
+      "highlight": "Look at the tower from Levstikov trg. Inside, if open, look for the sculptural treatment of the altars."
+    },
+    "sl": {
+      "tagline": "Jezuitska dediščina na južnem robu starega mesta",
+      "note": "Ogled in fotografiranje načrtujte zunaj bogoslužja. Dostop v notranjost se lahko spremeni.",
+      "highlight": "Zvonik si oglejte z Levstikovega trga. Če je cerkev odprta, opazujte kiparsko oblikovanje oltarjev."
+    }
+  },
+  "st-peters-church": {
+    "kind": "church",
+    "minutes": "10–20",
+    "en": {
+      "tagline": "Twin towers beside the eastern river crossing",
+      "note": "Use marked crossings near Rozmanova ulica and check parish access for the interior.",
+      "highlight": "Compare the two towers from the bridge and from the north bank to see the effect of the curved river approach."
+    },
+    "sl": {
+      "tagline": "Dva zvonika ob vzhodnem rečnem prehodu",
+      "note": "Pri Rozmanovi uporabite prehode za pešce, ogled notranjosti pa preverite pri župniji.",
+      "highlight": "Zvonika primerjajte z mostu in severnega brega, kjer se spremeni smer pristopa."
+    }
+  },
+  "trnovo-church": {
+    "kind": "church",
+    "minutes": "15–25",
+    "en": {
+      "tagline": "The parish church at the far end of Plečnik’s bridge",
+      "note": "Leave the forecourt clear when parishioners arrive or depart. Plan the bridge and church as one stop.",
+      "highlight": "Look back along the bridge axis from the forecourt to see the link between stream, trees and towers."
+    },
+    "sl": {
+      "tagline": "Župnijska cerkev ob koncu Plečnikovega mostu",
+      "note": "Ob prihodu ali odhodu vernikov pustite trg prost. Most in cerkev si oglejte skupaj.",
+      "highlight": "S cerkvenega trga poglejte po osi mostu in opazujte povezavo med potokom, drevesi in zvonikoma."
+    }
+  },
+  "neboticnik": {
+    "kind": "tower",
+    "minutes": "20–45",
+    "en": {
+      "tagline": "A 1930s tower and a terrace above the old rooftops",
+      "note": "Check lift availability and the café’s arrangements before planning a terrace visit.",
+      "highlight": "Compare the rounded street corner with the stepped upper levels. The tower changes shape as you cross the street."
+    },
+    "sl": {
+      "tagline": "Stolpnica iz tridesetih let in terasa nad starimi strehami",
+      "note": "Pred obiskom terase pri kavarni preverite dostop z dvigalom.",
+      "highlight": "Primerjajte zaobljeni vogal in stopničasta zgornja nadstropja z različnih strani ulice."
+    }
+  },
+  "cankar-hall": {
+    "kind": "venue",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "Ravnikar’s cultural centre beside Republic Square",
+      "note": "Allow extra time to find the hall named on the ticket. Public entrances vary by programme.",
+      "highlight": "From Republic Square, look at the relationship between the low foyer volumes and the civic towers."
+    },
+    "sl": {
+      "tagline": "Ravnikarjev kulturni center ob Trgu republike",
+      "note": "Pustite si čas za iskanje dvorane z vstopnice. Vhodi se razlikujejo glede na program.",
+      "highlight": "S Trga republike opazujte razmerje med nizkimi preddverji in stolpnicama."
+    }
+  },
+  "ljubljana-opera": {
+    "kind": "venue",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "A historic opera house with a modern extension",
+      "note": "Check the performance’s language, surtitles and start time before booking.",
+      "highlight": "Walk around the building to compare the historic ornament with the treatment of the modern extension."
+    },
+    "sl": {
+      "tagline": "Zgodovinska operna hiša s sodobnim prizidkom",
+      "note": "Pred nakupom preverite jezik, nadnapise in začetek predstave.",
+      "highlight": "Obhodite stavbo in primerjajte zgodovinski okras s sodobnim prizidkom."
+    }
+  },
+  "philharmonic-hall": {
+    "kind": "venue",
+    "minutes": "10–25",
+    "en": {
+      "tagline": "A concert hall anchoring the river end of Congress Square",
+      "note": "Read the concert listing for the hall and door time. The time above is for an exterior stop.",
+      "highlight": "Look for the inscriptions above the entrance and the hall’s long view across the civic square."
+    },
+    "sl": {
+      "tagline": "Koncertna dvorana na rečnem robu Kongresnega trga",
+      "note": "V programu poiščite dvorano in čas vstopa. Navedeni čas je za ogled zunanjosti.",
+      "highlight": "Poiščite napise nad vhodom in daljši pogled na dvorano čez trg."
+    }
+  },
+  "botanical-garden": {
+    "kind": "garden",
+    "minutes": "45–75",
+    "en": {
+      "tagline": "University plant collections and a tropical glasshouse",
+      "note": "Stay on marked paths and leave plants and labels in place. Check glasshouse rules separately.",
+      "hours": "Outdoor garden daily from 07:30. Closes at 17:00 Nov–Mar, 20:00 Jul–Aug and 19:00 in the other months. Glasshouse hours differ.",
+      "admission": "Free outdoor entry for individuals. Tropical glasshouse €4.50 adults, €3.50 students, €10 family. Group rates differ.",
+      "highlight": "Compare wild-looking outdoor beds with the labelled tropical collections under glass."
+    },
+    "sl": {
+      "tagline": "Univerzitetne rastlinske zbirke in tropski rastlinjak",
+      "note": "Ostanite na poteh in ne premikajte rastlin ali oznak. Pravila za rastlinjak preverite posebej.",
+      "hours": "Zunanji vrt vsak dan od 7.30. Zapre se ob 17.00 nov–mar, ob 20.00 jul–avg in ob 19.00 v drugih mesecih. Rastlinjak ima ločen urnik.",
+      "admission": "Zunanji vrt je za posameznike brezplačen. Tropski rastlinjak: odrasli 4,50 €, študenti 3,50 €, družinska vstopnica 10 €. Za skupine veljajo druge cene.",
+      "highlight": "Primerjajte zunanje grede z označenimi tropskimi zbirkami v rastlinjaku."
+    },
+    "hoursUrl": "https://www.botanicni-vrt.si/en/info/working-time-entrance-fee"
+  },
+  "spica": {
+    "kind": "park",
+    "minutes": "20–40",
+    "en": {
+      "tagline": "Terraces overlooking the fork of the Ljubljanica",
+      "note": "Choose the upper path if you want to avoid steps to the water. Keep clear of slippery edges.",
+      "highlight": "Find where the Ljubljanica continues and where the Gruber Canal branches away, then trace the two shorelines from above."
+    },
+    "sl": {
+      "tagline": "Terase nad razcepom Ljubljanice",
+      "note": "Za pot brez stopnic ob vodi izberite višjo pot. Ne približujte se spolzkim robovom.",
+      "highlight": "Poiščite nadaljevanje Ljubljanice in odcep Gruberjevega prekopa ter z višine sledite obema bregovoma."
+    }
+  },
+  "gruber-palace": {
+    "kind": "archive",
+    "minutes": "10–20",
+    "en": {
+      "tagline": "A late-Baroque palace that now houses the national archives",
+      "note": "The reading room has its own registration process. Keep the working entrance clear when stopping outside.",
+      "highlight": "Look at how a formal palace frontage fits into the tight street by the archives entrance."
+    },
+    "sl": {
+      "tagline": "Poznobaročna palača, v kateri deluje državni arhiv",
+      "note": "Za čitalnico velja poseben postopek prijave. Pri ogledu zunanjosti pustite vhod prost.",
+      "highlight": "Oglejte si, kako je formalno pročelje palače umeščeno v ozko ulico ob arhivu."
+    }
+  },
+  "zois-mansion": {
+    "kind": "house",
+    "minutes": "5–15",
+    "en": {
+      "tagline": "The street frontage of an Enlightenment patron’s home",
+      "note": "View the portal from Breg. The accommodation entrance serves guests and staff.",
+      "highlight": "Read the commemorative details around the portal and look at the façade in the line of Breg houses."
+    },
+    "sl": {
+      "tagline": "Ulično pročelje doma razsvetljenskega mecena",
+      "note": "Portal si oglejte z Brega. Nastanitveni vhod je namenjen gostom in osebju.",
+      "highlight": "Oglejte si spominske podrobnosti ob portalu in pročelje v nizu hiš na Bregu."
+    }
+  },
+  "republic-square": {
+    "kind": "square",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "Ravnikar’s civic plaza and the setting for independence ceremonies",
+      "note": "Use signed diversions during official events. Parliament visits require separate arrangements.",
+      "highlight": "Stand near the cultural centre and take in the open plaza, parliament frontage and angular towers together."
+    },
+    "sl": {
+      "tagline": "Ravnikarjeva ploščad in prostor slovesnosti ob osamosvojitvi",
+      "note": "Med slovesnostmi sledite začasnim oznakam. Obiske parlamenta uredite posebej.",
+      "highlight": "Ob kulturnem centru zajemite pogled na odprto ploščad, parlament in oglati stolpnici."
+    }
+  },
+  "ljubljana-zoo": {
+    "kind": "zoo",
+    "minutes": "120–180",
+    "en": {
+      "tagline": "Wooded paths and animal exhibits below Rožnik",
+      "note": "Check the feeding programme and today’s map. Keep food on your side of the barriers.",
+      "hours": "Open daily with seasonal closing times. Check the zoo’s current hours before choosing an afternoon visit.",
+      "admission": "Adults €11.50. Children under 15 €7.50, under 2 free.",
+      "highlight": "Look at how enclosures and viewing paths make use of the wooded slope. Use the daily programme to choose an extra stop."
+    },
+    "sl": {
+      "tagline": "Gozdne poti in živalske ograde pod Rožnikom",
+      "note": "Preverite program hranjenja in aktualni zemljevid. Živalim ne ponujajte hrane.",
+      "hours": "Odprto vsak dan, čas zaprtja je sezonski. Pred popoldanskim obiskom preverite aktualni urnik.",
+      "admission": "Odrasli 11,50 €. Otroci do 15. leta 7,50 €, mlajši od dveh let brezplačno.",
+      "highlight": "Opazujte, kako so ograde in poti umeščene v gozdnato pobočje. Dodaten postanek izberite po dnevnem programu."
+    },
+    "hoursUrl": "https://www.zoo.si/en/info",
+    "ticketsUrl": "https://cms.zoo.si/assets/dokumenti/zoo-ljubljana-cenik.pdf"
+  },
+  "st-florian-church": {
+    "kind": "church",
+    "minutes": "10–20",
+    "en": {
+      "tagline": "A church and stairway tucked into the Castle Hill approach",
+      "note": "Expect a sloping approach on Gornji trg. Use the lower pavement for views of the steps.",
+      "highlight": "The narrowing street and raised stairway emphasise the church entrance below Castle Hill."
+    },
+    "sl": {
+      "tagline": "Cerkev s stopniščem ob vzponu na Grajski grič",
+      "note": "Na Gornjem trgu pričakujte klanec. Stopnišče si oglejte s spodnjega pločnika.",
+      "highlight": "Zožena ulica in višje stopnišče poudarjata vhod pod Grajskim gričem."
+    }
+  },
+  "preseren-monument": {
+    "kind": "monument",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "A bronze poet and muse in Ljubljana’s main meeting place",
+      "note": "View the pedestal from the square and keep the steps clear during gatherings.",
+      "walk": [
+        "Step into Prešeren Square from Čopova.",
+        "Circle the plinth to compare the poet and the figure above him.",
+        "Continue to the church frontage or cross the Triple Bridge."
+      ],
+      "photography": "Frame the bronze figures against the square from the open pavement. From farther back the church provides a sense of scale.",
+      "highlight": "Look up from the plinth to distinguish the poet from the figure of the muse above him.",
+      "discovery": "Ivan Zajec’s monument was unveiled in 1905. Its upright composition lets you identify Prešeren below the muse, while the open square gives several clear lines of sight.",
+      "tip": "Circle the plinth before crossing to the church so you can compare the figures from both directions."
+    },
+    "sl": {
+      "tagline": "Bronasta upodobitev pesnika in muze na mestnem zbirališču",
+      "note": "Podstavek si oglejte s trga. Med zbiranji pustite stopnice prehodne.",
+      "walk": [
+        "S Čopove stopite na Prešernov trg.",
+        "Obidite podstavek in si oglejte pesnika ter figuro nad njim.",
+        "Nadaljujte do cerkve ali čez Tromostovje."
+      ],
+      "photography": "S trga zajemite bronasti figuri. Z večje razdalje vključite cerkev za občutek merila.",
+      "highlight": "S podstavka poglejte navzgor in ločite pesnika od muze nad njim.",
+      "discovery": "Spomenik Ivana Zajca so odkrili leta 1905. Pokončna kompozicija poudari pesnika pod muzo, odprti trg pa omogoča pogled z več strani.",
+      "tip": "Podstavek obidite pred odhodom do cerkve, da si figuri ogledate z dveh strani."
+    }
+  },
+  "triple-bridge": {
+    "kind": "bridge",
+    "minutes": "10–20",
+    "en": {
+      "tagline": "Three crossings where the city meets its old town",
+      "note": "Use the riverside for longer photo stops. Side stairs are optional and can be avoided.",
+      "walk": [
+        "Start on Prešeren Square and look across all three spans.",
+        "Cross the central span to Stritarjeva.",
+        "Return by a side span to compare its angle and width."
+      ],
+      "photography": "From the lower quay where open, look back at the crossing with the pink church behind it. A street-level photograph from the east bank also shows the fan of spans.",
+      "highlight": "Compare the central line with both side spans from the square. The railings make the diverging angles easy to trace.",
+      "discovery": "Plečnik added two angled pedestrian bridges to the older central crossing. Look from the square at how the side bridges spread toward the quays and how the repeating balustrades bring the three together.",
+      "tip": "Cross the centre first and come back by a side bridge to see the difference in angle and width."
+    },
+    "sl": {
+      "tagline": "Trije prehodi med mestnim središčem in starim mestom",
+      "note": "Za daljše fotografiranje uporabite nabrežje. Stranskim stopnicam se lahko izognete.",
+      "walk": [
+        "Začnite na Prešernovem trgu in si oglejte vse tri mostove.",
+        "Po srednjem pridite na Stritarjevo.",
+        "Vrnite se po stranskem in primerjajte njegovo smer ter širino."
+      ],
+      "photography": "Z dostopnega spodnjega nabrežja zajemite mostove in rožnato cerkev. Tudi z vzhodnega brega je dobro vidna pahljačasta zasnova.",
+      "highlight": "S trga primerjajte srednji in oba stranska mostova. Ograje poudarjajo različne smeri.",
+      "discovery": "Plečnik je starejšemu srednjemu mostu dodal dva poševna mostova za pešce. S trga opazujte razpiranje proti nabrežju in ponavljanje kamnitih ograj.",
+      "tip": "Najprej prečkajte po srednjem mostu, nato se vrnite po stranskem in primerjajte smer ter širino."
+    }
+  },
+  "franciscan-church": {
+    "kind": "church",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "The pink Baroque landmark overlooking Prešeren Square",
+      "note": "Check the church’s visiting schedule and observe posted rules for photos and services.",
+      "walk": [
+        "View the façade from the south edge of the square.",
+        "Climb the front steps only if the church is open to visitors.",
+        "Return to the square for the relationship between the church, monument and bridge."
+      ],
+      "photography": "Use the south side of the square to include the façade and staircase, then frame the copper figure above the gable from closer in.",
+      "hours": "Check the Franciscans’ visiting timetable separately from Mass. The square and façade can be visited outside church hours.",
+      "admission": "The outside of the church is free to view. Check the monastery’s current terms for any organised interior visit.",
+      "highlight": "Look for the copper figure high above the square and the curve of the Baroque façade.",
+      "discovery": "The seventeenth-century church presents its Baroque frontage directly to the square. Look for the copper figure of Mary outside and Francesco Robba’s main altar if the interior is open to sightseers.",
+      "tip": "Start across the square for a full view of the façade and steps."
+    },
+    "sl": {
+      "tagline": "Rožnata baročna cerkev nad Prešernovim trgom",
+      "note": "Preverite čas ogledov in upoštevajte pravila fotografiranja in bogoslužja.",
+      "walk": [
+        "Pročelje si oglejte z južne strani trga.",
+        "Po stopnicah pojdite do vhoda, če je cerkev odprta za ogled.",
+        "Vrnite se na trg in primerjajte lego cerkve, spomenika in mostu."
+      ],
+      "photography": "Z južne strani trga zajemite pročelje s stopniščem. Od bliže poiščite bakreni kip nad zatrepom.",
+      "hours": "Urnik ogledov pri frančiškanih preverite ločeno od urnika maš. Trg in pročelje sta dostopna tudi izven cerkvenega urnika.",
+      "admission": "Ogled zunanjosti je brezplačen. Za organiziran ogled notranjosti preverite pogoje samostana.",
+      "highlight": "Visoko nad trgom poiščite bakreni kip in opazujte krivulje baročnega pročelja.",
+      "discovery": "Cerkev iz 17. stoletja je z baročnim pročeljem obrnjena neposredno proti trgu. Zunaj poiščite bakreni kip Marije, ob odprtju za oglede pa glavni oltar Francesca Robbe.",
+      "tip": "Za pogled na celotno pročelje in stopnišče začnite na drugi strani trga."
+    },
+    "hoursUrl": "https://www.visitljubljana.com/en/poi/franciscan-church"
+  },
+  "hauptman-house": {
+    "kind": "house",
+    "minutes": "5–10",
+    "en": {
+      "tagline": "A corner house with a patterned Secession façade",
+      "note": "Look up from the open square without standing in the narrow Čopova approach.",
+      "walk": [
+        "Approach Prešeren Square from Čopova.",
+        "Look up at the upper floors of number 1 from the square.",
+        "Move across the square toward Urbanc House to compare the two corner buildings."
+      ],
+      "photography": "Take a vertical frame from the open square to capture the patterned upper floors without blocking Čopova.",
+      "highlight": "Read the changing tile colours and pattern from the top storeys down to the corner.",
+      "discovery": "It is one of the corner façades associated with Ljubljana’s Secession-era rebuilding. Look up from the pedestrian square to see the patterned upper floors, which are easy to miss when walking along the shopfronts.",
+      "tip": "Pair the frontage with Urbanc House across the square for a quick architectural comparison."
+    },
+    "sl": {
+      "tagline": "Vogalna hiša z vzorčastim secesijskim pročeljem",
+      "note": "Pročelje si oglejte z odprtega trga in pustite prehod na Čopovo prost.",
+      "walk": [
+        "Po Čopovi pridite na Prešernov trg.",
+        "S trga poiščite zgornja nadstropja številke 1.",
+        "Obrnite se proti Urbančevi hiši za primerjavo vogalnih stavb."
+      ],
+      "photography": "Z odprtega trga uporabite pokončni kader za vzorce v zgornjih nadstropjih.",
+      "highlight": "Opazujte spremembe barv in vzorcev oblog od zgornjih nadstropij do vogala.",
+      "discovery": "Vogalna hiša sodi med pročelja, povezana s secesijsko prenovo Ljubljane. S trga poglejte navzgor proti vzorcem nad izložbami.",
+      "tip": "Pročelje primerjajte z Urbančevo hišo na drugi strani trga."
+    }
+  },
+  "urbanc-house": {
+    "kind": "shop",
+    "minutes": "10–25",
+    "en": {
+      "tagline": "A Secession department store at the mouth of Miklošičeva",
+      "note": "For an interior stop, check trading hours and the store’s photography rules.",
+      "walk": [
+        "From Prešeren Square, find the corner at Miklošičeva.",
+        "Look up at the entrance canopy before checking whether the shop is open.",
+        "Continue along Miklošičeva for another view of the façade."
+      ],
+      "photography": "Frame the canopy and corner from the open square. Ask store staff before taking interior photographs.",
+      "highlight": "Look at how the entrance canopy marks the junction of the square and Miklošičeva.",
+      "discovery": "The shopfront is part of an early twentieth-century department store. The corner canopy marks the entry and connects the commercial front to the square and Miklošičeva.",
+      "tip": "See the corner from the square and from Miklošičeva before deciding whether to visit the shop."
+    },
+    "sl": {
+      "tagline": "Secesijska veleblagovnica ob začetku Miklošičeve",
+      "note": "Za ogled notranjosti preverite odpiralni čas in pravila fotografiranja.",
+      "walk": [
+        "S Prešernovega trga poiščite vogal pri Miklošičevi.",
+        "Pred vstopom si oglejte nadstrešek in preverite, ali je trgovina odprta.",
+        "Nadaljujte po Miklošičevi za pogled s strani."
+      ],
+      "photography": "Nadstrešek in vogal fotografirajte s trga. Za fotografiranje notranjosti vprašajte osebje.",
+      "highlight": "Oglejte si, kako vhodni nadstrešek označuje stik trga z Miklošičevo.",
+      "discovery": "Trgovinsko pročelje je del veleblagovnice z začetka 20. stoletja. Vogalni nadstrešek označuje vhod med trgom in Miklošičevo.",
+      "tip": "Pred obiskom trgovine si vogal oglejte s trga in z Miklošičeve."
+    }
+  },
+  "dragon-bridge": {
+    "kind": "bridge",
+    "minutes": "10–15",
+    "en": {
+      "tagline": "Four bronze dragons at a historic road crossing",
+      "note": "Stay on the pavement while viewing the dragons. Step aside for photos at the bridge approaches.",
+      "walk": [
+        "Follow the Ljubljanica from the market to the bridge.",
+        "Compare a dragon at each end using the pavements.",
+        "Return along the opposite quay for a side view."
+      ],
+      "photography": "Use the riverside approach for a dragon against the skyline. Move to the quay for an unobstructed side view of the bridge.",
+      "highlight": "Compare the dragons at both ends with the smaller details in the bridge railings.",
+      "discovery": "The bridge is an early twentieth-century concrete crossing. The four bronze dragons serve as corner markers while the street carries ordinary traffic across the Ljubljanica.",
+      "tip": "Visit after the Central Market and return along the quieter bank if the bridge pavement is busy."
+    },
+    "sl": {
+      "tagline": "Štirje bronasti zmaji na zgodovinskem cestnem mostu",
+      "note": "Zmaje si oglejte s pločnika. Za fotografije se na izteku mostu umaknite s poti.",
+      "walk": [
+        "Od tržnice sledite Ljubljanici do mostu.",
+        "Po pločniku si oglejte zmaje na obeh koncih.",
+        "Po drugem nabrežju se vrnite za pogled s strani."
+      ],
+      "photography": "Z rečnega pristopa zajemite zmaja proti mestni silhueti. Za pogled na cel most se umaknite na nabrežje.",
+      "highlight": "Zmaje na obeh koncih primerjajte z manjšimi okrasnimi detajli ograje.",
+      "discovery": "Most je betonski prehod z začetka 20. stoletja. Štirje bronasti zmaji označujejo vogale, čez Ljubljanico pa poteka običajni cestni promet.",
+      "tip": "Most obiščite po tržnici. Ob gneči na pločniku se vrnite po nabrežju."
+    }
+  },
+  "central-market": {
+    "kind": "market",
+    "minutes": "30–60",
+    "en": {
+      "tagline": "Open-air stalls and Plečnik’s riverside arcades",
+      "note": "Go earlier for a wider choice of stalls and check event-day changes before visiting.",
+      "walk": [
+        "Start at the outdoor stalls on Vodnikov trg.",
+        "Walk through the arcades on Adamič-Lundrovo nabrežje.",
+        "Finish at the covered market on Pogačarjev trg if it is open."
+      ],
+      "photography": "From the opposite bank, frame the length of the arcades. On the market side, ask vendors before taking close-up photos.",
+      "hours": "Indoor hall and arcades Mon–Fri 07:00–16:00, Sat 07:00–14:00. Outdoor stalls open from 06:00 Mon–Sat, with seasonal closing times.",
+      "admission": "Free to browse. Vendors set the prices for food and goods.",
+      "highlight": "Alternate between the open stalls and the long covered arcade to see the different ways goods reach the street.",
+      "discovery": "Plečnik’s arcades turn the market toward the river while the open stalls fill the inland squares. Walking both parts shows how the same market uses sheltered and open space.",
+      "tip": "For market shopping, go early and distinguish the stalls from the covered halls before navigating."
+    },
+    "sl": {
+      "tagline": "Stojnice na prostem in Plečnikove rečne arkade",
+      "note": "Za več izbire pridite zgodaj in pred obiskom preverite spremembe ob prireditvah.",
+      "walk": [
+        "Začnite pri stojnicah na Vodnikovem trgu.",
+        "Sprehodite se skozi arkade na Adamič-Lundrovem nabrežju.",
+        "Če je odprta, obiščite še pokrito tržnico na Pogačarjevem trgu."
+      ],
+      "photography": "Z drugega brega zajemite arkadni niz. Pri bližnjih posnetkih stojnic najprej vprašajte prodajalca.",
+      "hours": "Pokrita tržnica in arkade pon–pet 7.00–16.00, sob 7.00–14.00. Zunanje stojnice pon–sob od 6.00, čas zaprtja se spreminja s sezono.",
+      "admission": "Ogled je brezplačen. Cene hrane in izdelkov določajo ponudniki.",
+      "highlight": "Primerjajte stojnice na prostem in dolgo pokrito arkado, kjer je ponudba drugače razporejena.",
+      "discovery": "Plečnikove arkade tržnico povezujejo z reko, stojnice na prostem pa zapolnjujejo trge v zaledju. Med obema deloma se izmenjujeta pokriti in odprti prostor.",
+      "tip": "Za nakupovanje pridite zgodaj in pri načrtovanju ločite stojnice od pokritih delov."
+    },
+    "hoursUrl": "https://www.lpt.si/en/marketplaces/descriptions-and-working-hours-of-marketplaces/ljubljana-central-market"
+  },
+  "ljubljana-cathedral": {
+    "kind": "church",
+    "minutes": "20–35",
+    "en": {
+      "tagline": "Bronze portals and a Baroque cathedral interior",
+      "note": "Check the tourist entrance and service times before choosing an interior visit.",
+      "walk": [
+        "Approach from Ciril-Metodov trg.",
+        "Look at the bronze doors from the public street.",
+        "Follow the entrance signs and finish on Pogačarjev trg."
+      ],
+      "photography": "Frame the western portal from across the narrow street. From the market side look back for a view of the towers.",
+      "hours": "Tourist access follows the parish’s arrangements and can pause during Mass and celebrations.",
+      "admission": "Exterior portals are free to see. Check the visitor sign or ask parish staff about current interior admission.",
+      "highlight": "Compare the narrative bronze doors before entering to look for the Baroque interior when open.",
+      "discovery": "The bronze portals are a street-level stop even when the Baroque interior is closed. Standing near the market gives a better view of the towers above the tight streets.",
+      "tip": "Start with the portals and check the entrance notice if you also want to see the interior."
+    },
+    "sl": {
+      "tagline": "Bronasta portala in baročna notranjost stolnice",
+      "note": "Pred ogledom preverite turistični vhod in urnik bogoslužja.",
+      "walk": [
+        "Pridite s Ciril-Metodovega trga.",
+        "Z ulice si oglejte bronasta vrata.",
+        "Sledite oznakam za vstop in zaključite na Pogačarjevem trgu."
+      ],
+      "photography": "Z nasprotnega roba ulice zajemite zahodni portal. S tržnice poglejte nazaj proti zvonikoma.",
+      "hours": "Ogled poteka po pravilih župnije in je lahko med mašo ali slovesnostmi prekinjen.",
+      "admission": "Ogled portalov od zunaj je brezplačen. Za vstop v notranjost preverite obvestilo ali vprašajte osebje.",
+      "highlight": "Pred morebitnim ogledom baročne notranjosti primerjajte pripovedna bronasta vrata.",
+      "discovery": "Bronasti portali so dostopni z ulice tudi, ko je baročna notranjost zaprta. S tržnice se zvonika vidita nad ozkimi ulicami.",
+      "tip": "Začnite pri portalih in na vhodu preverite pogoje za ogled notranjosti."
+    },
+    "hoursUrl": "https://www.stolnica.com/Home_Page.php"
+  },
+  "mestni-trg": {
+    "kind": "square",
+    "minutes": "15–30",
+    "en": {
+      "tagline": "A long old-town square framed by civic buildings",
+      "note": "The route is paved. Leave passage between shopfronts and café terraces when taking pictures.",
+      "walk": [
+        "Enter from Stritarjeva.",
+        "Pass the Robba Fountain and look into the Town Hall forecourt.",
+        "Walk south to Stari trg and the next stretch of old-town façades."
+      ],
+      "photography": "Look north from the south end for the long frontage, or position yourself on the open side of the fountain for the civic buildings.",
+      "highlight": "Look at the visual alignment between the fountain, Town Hall and the slightly curving rows of buildings.",
+      "discovery": "The fountain and Town Hall form a civic focus in the long old-town street space. Follow its curve south to see how the frontage leads into Stari trg.",
+      "tip": "Pause at the fountain before following the older street front toward Stari trg."
+    },
+    "sl": {
+      "tagline": "Podolgovat staromestni trg med znamenitimi stavbami",
+      "note": "Pot je tlakovana. Med fotografiranjem pustite prehod med lokali in terasami.",
+      "walk": [
+        "Vstopite s Stritarjeve.",
+        "Mimo Robbovega vodnjaka pridite pred Mestno hišo.",
+        "Nadaljujte južno na Stari trg med staromestnimi pročelji."
+      ],
+      "photography": "Z južnega konca poglejte proti severu. Ob vodnjaku zajemite mestne stavbe z odprte strani.",
+      "highlight": "Opazujte lego vodnjaka, Mestne hiše in rahlo ukrivljenih nizov stavb.",
+      "discovery": "Vodnjak in Mestna hiša sta osrednji točki vzdolž podolgovatega staromestnega prostora. Po krivulji proti jugu se Mestni trg nadaljuje v Stari trg.",
+      "tip": "Ustavite se ob vodnjaku, nato ob starih pročeljih nadaljujte do Starega trga."
+    }
+  },
+  "congress-square": {
+    "kind": "square",
+    "minutes": "20–35",
+    "en": {
+      "tagline": "A civic square between Park Zvezda and the Philharmonic",
+      "note": "Temporary events may interrupt the diagonal paths. Use the outer pavements if the square is busy.",
+      "walk": [
+        "Start on the river side at the Philharmonic.",
+        "Walk across the plaza toward the Ursuline Church.",
+        "Return on the tree-lined paths through Park Zvezda."
+      ],
+      "photography": "From the west side, take a wide photo toward the Philharmonic and Castle Hill. Use the park edge for a foreground of trees.",
+      "highlight": "The paved square and leafy Park Zvezda provide very different views of the same civic buildings.",
+      "discovery": "The open paved square frames a view toward the Philharmonic and Castle Hill, while the shaded paths of Park Zvezda offer a second way across.",
+      "tip": "Cross the open square for the buildings, then retrace the route through the park for shade."
+    },
+    "sl": {
+      "tagline": "Mestni trg med parkom Zvezda in Filharmonijo",
+      "note": "Prireditve lahko zaprejo prečne poti. Ob gneči uporabite zunanje pločnike.",
+      "walk": [
+        "Začnite pri Filharmoniji na rečni strani.",
+        "Prečkajte trg proti Uršulinski cerkvi.",
+        "Vrnite se po poteh skozi park Zvezda."
+      ],
+      "photography": "Z zahodne strani zajemite Filharmonijo in Grajski grič. Z roba parka vključite drevesa v ospredju.",
+      "highlight": "S tlakovane ploščadi in iz parka Zvezda se odpirajo različni pogledi na iste mestne stavbe.",
+      "discovery": "Odprta ploščad usmerja pogled proti Filharmoniji in Grajskemu griču. Skozi park Zvezda se lahko na drugo stran sprehodite v senci.",
+      "tip": "Za ogled stavb prečkajte odprto ploščad, nato se vrnite po senčnih poteh parka."
+    }
+  },
+  "ljubljana-castle": {
+    "kind": "castle",
+    "minutes": "90–150",
+    "en": {
+      "tagline": "A hilltop fortress, a funicular and views of the old town",
+      "note": "Check last entry and the funicular timetable separately. The signed uphill paths can be steep.",
+      "walk": [
+        "Start at Krekov trg and take the funicular, or choose a signed uphill path from the old town.",
+        "Walk through the courtyard to locate the exhibitions and tower entrance.",
+        "Return on a signed path or take the funicular back to the market."
+      ],
+      "photography": "From the hill paths, photograph the walls from outside. Check tower admission before planning the elevated city panorama.",
+      "hours": "Castle daily 09:00–18:00 Oct–Apr and 09:00–20:00 May–Sep. Funicular runs later. Check New Year exceptions.",
+      "admission": "Adult Castle Ticket €15, or €19 with funicular. A standalone adult funicular return is €6.",
+      "highlight": "The courtyard, tower and former defensive walls give three ways to understand the site. Allow extra time for the exhibitions.",
+      "discovery": "The former defences follow the rise of Castle Hill. Inside, the courtyard links the exhibition spaces, and the viewing tower gives a different perspective from the viewpoints on the hill paths.",
+      "tip": "Choose the funicular for an easier ascent or allow extra time for the uphill lanes."
+    },
+    "sl": {
+      "tagline": "Trdnjava nad mestom, vzpenjača in razgled na staro jedro",
+      "note": "Ločeno preverite zadnji vstop in vozni red vzpenjače. Označene poti na grič so lahko strme.",
+      "walk": [
+        "Na Krekovem trgu izberite vzpenjačo ali se iz starega mesta odpravite po označeni pešpoti.",
+        "Na dvorišču poiščite razstave in vhod na stolp.",
+        "Vrnite se po označeni poti ali z vzpenjačo."
+      ],
+      "photography": "Z zunanjih poti zajemite obzidje. Za razgled s stolpa preverite vstopnino.",
+      "hours": "Grad vsak dan 9.00–18.00 okt–apr in 9.00–20.00 maj–sep. Vzpenjača vozi dlje. Preverite novoletne izjeme.",
+      "admission": "Odrasla grajska vstopnica 15 €, z vzpenjačo 19 €. Samostojna povratna vozovnica za odrasle 6 €.",
+      "highlight": "Dvorišče, stolp in nekdanje obrambno obzidje omogočajo tri poglede na grad. Za razstave si pustite dodaten čas.",
+      "discovery": "Nekdanje obzidje sledi vzponu Grajskega griča. Dvorišče povezuje razstavne prostore, razgledni stolp pa ponuja drugačen pogled kot poti po griču.",
+      "tip": "Za lažji dostop izberite vzpenjačo ali si pustite več časa za vzpon po ulicah."
+    },
+    "hoursUrl": "https://ljubljanskigrad.si/en/plan-your-visit/opening-hours/",
+    "ticketsUrl": "https://www.ljubljanskigrad.si/en/plan-your-visit/price-list/"
+  }
+}

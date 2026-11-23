@@ -1,3 +1,6 @@
+import { nearbyLabels } from '@/data/nearby-labels';
+import { attractionDetails, getAttraction } from '@/data/attractions';
+import { localeUrl } from '@/i18n/routing';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import { BASE_URL, type Locale, routing } from '@/i18n/routing';
@@ -34,6 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<TopicParams
   }
 
   const alternates = topicAlternates(topic, safeLocale);
+  const photo = getAttraction(topic)?.photo;
 
   return {
     metadataBase: new URL(BASE_URL),
@@ -49,6 +53,7 @@ export async function generateMetadata({ params }: { params: Promise<TopicParams
       url: alternates.canonical,
       siteName: 'Prešernov trg',
       type: 'article',
+      ...(photo && { images: [{ url: photo.src, alt: content.h1 }] }),
     },
     twitter: {
       card: 'summary_large_image',
@@ -74,12 +79,22 @@ export default async function TopicRoute({ params }: { params: Promise<TopicPara
   setRequestLocale(safeLocale);
 
   const canonical = topicAlternates(topic, safeLocale).canonical;
+  const attraction = getAttraction(topic);
+  const place = attraction ? attractionDetails(attraction, safeLocale) : null;
+  const destination = attraction && place ? {
+    '@type': 'TouristAttraction',
+    name: content.h1,
+    address: { '@type': 'PostalAddress', streetAddress: attraction.address, addressLocality: 'Ljubljana', addressCountry: 'SI' },
+    hasMap: place.map,
+    ...(attraction.photo && { image: new URL(attraction.photo.src, BASE_URL).href }),
+  } : { '@id': `${BASE_URL}/#attraction` };
   const breadcrumbLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Prešernov trg', item: `${BASE_URL}/` },
-      { '@type': 'ListItem', position: 2, name: content.h1, item: canonical },
+      { '@type': 'ListItem', position: 1, name: 'Prešernov trg', item: localeUrl(safeLocale) },
+      ...(attraction ? [{ '@type': 'ListItem', position: 2, name: nearbyLabels[safeLocale], item: localeUrl(safeLocale, 'nearby') }] : []),
+      { '@type': 'ListItem', position: attraction ? 3 : 2, name: content.h1, item: canonical },
     ],
   };
   const faqLd = {
@@ -98,7 +113,7 @@ export default async function TopicRoute({ params }: { params: Promise<TopicPara
     description: content.description,
     url: canonical,
     isPartOf: { '@id': `${BASE_URL}/#attraction` },
-    about: { '@id': `${BASE_URL}/#attraction` },
+    about: destination,
     inLanguage: safeLocale === 'zh' ? 'zh-Hans' : safeLocale,
   };
 
@@ -108,7 +123,7 @@ export default async function TopicRoute({ params }: { params: Promise<TopicPara
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
+      {content.faq.length > 0 && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageLd) }}

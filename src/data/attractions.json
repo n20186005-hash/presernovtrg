@@ -1,0 +1,2105 @@
+[
+  {
+    "slug": "butchers-bridge",
+    "address": "Petkovškovo nabrežje / Adamič-Lundrovo nabrežje",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Butchers’ Bridge",
+      "description": "Look for Jakov Brdar’s sculptures and the glass strips along the sides. The modern pedestrian crossing opened in 2010, directly connecting the market with the cafés on the opposite bank.",
+      "tip": "Cross from the market colonnade and photograph the padlocks from the Petkovškovo bank."
+    },
+    "sl": {
+      "name": "Mesarski most",
+      "description": "Sodobna brv iz leta 2010 povezuje tržnico s Petkovškovim nabrežjem. Ob steklenih pasovih ob robovih stojijo kipi Jakova Brdarja.",
+      "tip": "Na most stopite s tržnice, ključavnice pa si oglejte s Petkovškovega nabrežja."
+    },
+    "photo": {
+      "src": "/attractions/butchers-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Butchers'_Bridge.jpg",
+      "author": "Marion Golsteijn",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/butchers-bridge",
+    "rating": {
+      "score": 4.6,
+      "count": 661,
+      "source": "https://evendo.com/locations/slovenia/ljubljana/landmark/mesarski-most"
+    },
+    "guide": {
+      "en": {
+        "history": "A crossing was envisaged here as part of the market scheme. The footbridge that eventually opened in 2010 belongs to a later generation. The contrast is clearest at the south landing, where the steel and glass deck meets Plečnik’s stone colonnade.",
+        "walk": [
+          "Follow the colonnade from the Triple Bridge toward the Dragon Bridge.",
+          "Turn onto the footbridge at the opening in the market arcade.",
+          "Cross to the north bank and turn either way along the river."
+        ],
+        "photography": "From the Petkovškovo bank, frame the deck against the market arches. On the bridge itself, look for small bronze details among the padlocks.",
+        "faq": [
+          {
+            "question": "Does the glass cover the whole bridge?",
+            "answer": "No. The middle of the deck is solid and there are narrow glass sections along the edges."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Prehod je bil predviden že v zasnovi tržnice. Današnja brv je bila odprta leta 2010. Na južnem bregu se stikata njena jeklo in steklo ter kamen Plečnikovega arkadnega niza.",
+        "walk": [
+          "Od Tromostovja sledite arkadam proti Zmajskemu mostu.",
+          "Pri odprtini v tržničnem nizu stopite na brv.",
+          "Prečkajte jo in nadaljujte po severnem nabrežju."
+        ],
+        "photography": "S Petkovškovega nabrežja zajemite most pred arkadami. Na brvi poiščite manjše bronaste podrobnosti med ključavnicami.",
+        "faq": [
+          {
+            "question": "Ali je celoten most steklen?",
+            "answer": "Sredina pohodne površine je polna. Steklena pasova sta ob robovih."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "cobblers-bridge",
+    "address": "Hribarjevo nabrežje / Pod Trančo",
+    "operator": "public",
+    "area": "south",
+    "en": {
+      "name": "Cobblers’ Bridge",
+      "description": "Plečnik designed this as a small square over the river. Its tall stone columns recall a roofline that was never built, while its name remembers the shoemakers who once traded on an earlier crossing.",
+      "tip": "View the bridge from Hribarjevo nabrežje first, then cross into the lane at Pod Trančo."
+    },
+    "sl": {
+      "name": "Čevljarski most",
+      "description": "Plečnik je most oblikoval kot majhen trg nad Ljubljanico. Visoki kamniti stebri nakazujejo streho, ime pa spominja na čevljarje, ki so nekoč delali na prejšnjem mostu.",
+      "tip": "Najprej si ga oglejte s Hribarjevega nabrežja in nato prečkajte reko proti Pod Tranči."
+    },
+    "photo": {
+      "src": "/attractions/cobblers-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Liubliana_31.jpg",
+      "author": "LBM1948",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/cobblers-bridge",
+    "guide": {
+      "en": {
+        "history": "The covered wooden bridge that once stood here connected two medieval parts of town. Plečnik’s replacement of 1931–32 opens both views along the river and leaves room to gather between its rows of columns.",
+        "walk": [
+          "From the Triple Bridge, follow Hribarjevo nabrežje upstream.",
+          "Cross toward Pod Trančo.",
+          "Continue into Stari trg or return along Cankarjevo nabrežje."
+        ],
+        "photography": "From the Hribarjevo quay, shoot diagonally across both rows of columns. The gap between them gives a clear sense of how wide the deck is.",
+        "faq": [
+          {
+            "question": "Can I use it to get from the river to Stari trg?",
+            "answer": "Yes. The east landing opens into Pod Trančo, a short passage to the old-town street."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Pokriti leseni most je nekoč povezoval dva dela srednjeveškega mesta. Plečnikov most iz let 1931–1932 je odprl poglede vzdolž reke in med stebri ustvaril prostor za srečevanje.",
+        "walk": [
+          "Od Tromostovja sledite Hribarjevemu nabrežju proti toku.",
+          "Prečkajte most proti Pod Trančo.",
+          "Nadaljujte na Stari trg ali se vrnite po Cankarjevem nabrežju."
+        ],
+        "photography": "S Hribarjevega nabrežja zajemite obe vrsti stebrov pod kotom. Prostor med njima pokaže širino mostu.",
+        "faq": [
+          {
+            "question": "Ali most vodi do Starega trga?",
+            "answer": "Da. Vzhodni iztek vodi skozi kratek prehod Pod Trančo do Starega trga."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "trnovo-bridge",
+    "address": "Krakovski nasip / Eipprova ulica",
+    "operator": "public",
+    "area": "south",
+    "en": {
+      "name": "Trnovo Bridge",
+      "description": "Plečnik treated the bridge over the Gradaščica as an extension of the church forecourt. Its pyramids, trees and broad deck make it feel like a plaza.",
+      "tip": "Walk along Krakovski nasip and frame the church with the bridge from the embankment."
+    },
+    "sl": {
+      "name": "Trnovski most",
+      "description": "Plečnik je most čez Gradaščico zasnoval kot podaljšek trga pred cerkvijo. Piramide, drevesa in široka površina mu dajejo značaj javnega prostora.",
+      "tip": "S Krakovskega nasipa se odpre pogled na most in cerkev v isti osi."
+    },
+    "photo": {
+      "src": "/attractions/trnovo-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_pont_et_l'%C3%A9glise_de_Trnovo_(Ljubljana)_(9397818425).jpg",
+      "author": "Jean-Pierre Dalbéra",
+      "license": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/trnovo-bridge",
+    "guide": {
+      "en": {
+        "history": "Plečnik rebuilt the crossing in 1929–32 as part of his work along the Gradaščica. The squat stone pyramids repeat the pointed forms of the church towers, linking the scale of the bridge with that of the church.",
+        "walk": [
+          "Walk upstream from Breg to Krakovski nasip.",
+          "Follow the Gradaščica to the broad crossing facing the twin towers.",
+          "Cross to the church and continue to Karunova ulica for Plečnik House."
+        ],
+        "photography": "Stand back on the approach opposite the church and shoot straight through the bridge toward the towers. Use a side view for the trees growing on the deck.",
+        "faq": [
+          {
+            "question": "Which river does it cross?",
+            "answer": "The Gradaščica, a tributary that meets the Ljubljanica just downstream."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Plečnik je prehod obnovil v letih 1929–1932 v sklopu urejanja Gradaščice. Nizke kamnite piramide oblikovno povezujejo most s konicama cerkvenih zvonikov.",
+        "walk": [
+          "Z Brega nadaljujte na Krakovski nasip.",
+          "Ob Gradaščici poiščite široki most nasproti cerkve.",
+          "Prečkajte ga in nadaljujte proti Karunovi ulici za Plečnikovo hišo."
+        ],
+        "photography": "Z nasprotne strani cerkve fotografirajte vzdolž osi mostu. S strani se bolje vidijo drevesa na njem.",
+        "faq": [
+          {
+            "question": "Katero reko prečka most?",
+            "answer": "Gradaščico, ki se nekoliko nižje izliva v Ljubljanico."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "hradecky-bridge",
+    "address": "Krakovski nasip / Grudnovo nabrežje",
+    "operator": "public",
+    "area": "south",
+    "en": {
+      "name": "Hradecky Bridge",
+      "description": "The cast-iron bridge has served at several locations since the nineteenth century. Its lattice sides and shallow arch contrast with Plečnik’s stone crossings.",
+      "tip": "Approach from the Breg embankment and compare the ironwork from the bank before crossing toward Krakovo."
+    },
+    "sl": {
+      "name": "Hradeckega most",
+      "description": "Litoželezni most je od 19. stoletja stal na več lokacijah. Mrežasta ograja in plitev lok se razlikujeta od Plečnikovih kamnitih mostov.",
+      "tip": "Do mostu pridite z Brega in si z nabrežja oglejte železno konstrukcijo."
+    },
+    "photo": {
+      "src": "/attractions/hradecky-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hradeckega_most_Ljubljana_2026-01-21_02.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "source": "https://www.ljubljana.si/sl/vizija-ljubljane/projekti-mol/vsi-projekti/ozivitev-nabrezij-ljubljanice",
+    "guide": {
+      "en": {
+        "history": "The iron crossing dates to 1867 and formerly occupied the site of today’s Cobblers’ Bridge. Its relocations are part of its history. At the present site, the visible connections between the cast components show how it could be dismantled and rebuilt.",
+        "walk": [
+          "Walk south along Breg and continue beyond the St James’s road crossing.",
+          "Take Krakovski nasip toward the mouth of the Gradaščica.",
+          "Cross the iron span toward Prule."
+        ],
+        "photography": "Photograph the shallow iron arch from the embankment. Near the end of the bridge, move to one side to frame a row of repeating panels.",
+        "faq": [
+          {
+            "question": "Is this the same bridge as Plečnik’s Trnovo Bridge?",
+            "answer": "No. Trnovo Bridge crosses the Gradaščica farther west. Hradecky Bridge is the iron span over the Ljubljanica."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Litoželezni most iz leta 1867 je sprva stal na mestu današnjega Čevljarskega mostu. Vidni spoji posameznih delov pomagajo razumeti, kako so konstrukcijo lahko prestavili.",
+        "walk": [
+          "Po Bregu hodite južno in nadaljujte mimo Šentjakobskega mostu.",
+          "Po Krakovskem nasipu pojdite proti izlivu Gradaščice.",
+          "Prečkajte železni most proti Prulam."
+        ],
+        "photography": "Plitev železni lok fotografirajte z nabrežja. Z roba mostu poiščite pogled vzdolž ponavljajočih se polj ograje.",
+        "faq": [
+          {
+            "question": "Ali gre za Plečnikov Trnovski most?",
+            "answer": "Ne. Trnovski most je bolj zahodno na Gradaščici. Hradeckega most prečka Ljubljanico."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "st-james-bridge",
+    "address": "Zoisova cesta / Karlovška cesta",
+    "operator": "public",
+    "area": "south",
+    "en": {
+      "name": "St James’s Bridge",
+      "description": "This road crossing links the Breg side of the old town with the foot of Castle Hill. It offers a view downstream toward the old town and upstream toward the embankments leading to Špica.",
+      "tip": "Use the pedestrian pavement and pause on an embankment for pictures away from traffic."
+    },
+    "sl": {
+      "name": "Šentjakobski most",
+      "description": "Cestni most povezuje Breg z vznožjem Grajskega griča in odpira pogled proti nabrežjem v smeri Špice.",
+      "tip": "Po mostu hodite po pločniku, za fotografiranje pa se ustavite na nabrežju."
+    },
+    "photo": {
+      "src": "/attractions/st-james-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20230427_01_Ljubljana_-_St._Jacobs_bridge_(52896921433).jpg",
+      "author": "Sjaak Kempe",
+      "license": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "guide": {
+      "en": {
+        "history": "Its name recalls the historic parish on the Castle Hill side. The bridge sits where the old town’s upstream promenade meets the east–west road corridor, a change in street layout that is easiest to see on the west approach.",
+        "walk": [
+          "Follow Breg upstream from the historic centre.",
+          "Use the marked crossings at Zoisova cesta.",
+          "Cross on the pavement toward Karlovška cesta and turn uphill toward St James’s Church."
+        ],
+        "photography": "From the Breg side, frame the bridge from the quay. For a quieter river view continue to the paths on the Prule side.",
+        "faq": [
+          {
+            "question": "Can I stop in the middle for a photo?",
+            "answer": "There is a pavement, but it carries through foot traffic. Use the quay if you need space to stop."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Ime mostu spominja na staro župnijo na strani Grajskega griča. Tu se sprehajalna pot ob Bregu sreča s prometno povezavo med Zoisovo in Karlovško cesto.",
+        "walk": [
+          "Po Bregu hodite proti toku.",
+          "Pri Zoisovi cesti uporabite označene prehode.",
+          "Po pločniku prečkajte most in zavijte proti cerkvi sv. Jakoba."
+        ],
+        "photography": "Most zajemite z Brega. Za mirnejši pogled na reko nadaljujte na poti na strani Prul.",
+        "faq": [
+          {
+            "question": "Ali se lahko sredi mostu ustavim za fotografijo?",
+            "answer": "Pločnik je namenjen prehodu. Za daljši postanek je primernejše nabrežje."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "st-peters-bridge",
+    "address": "Njegoševa cesta / Rozmanova ulica",
+    "operator": "public",
+    "area": "east",
+    "en": {
+      "name": "St Peter’s Bridge",
+      "description": "The bridge carries road traffic beside St Peter’s Church at the eastern end of the historic river walk. It shows how the Ljubljanica changes from a pedestrian centre to an everyday transport corridor.",
+      "tip": "Follow the riverside from the Dragon Bridge, then use the marked crossing to reach the church."
+    },
+    "sl": {
+      "name": "Šempetrski most",
+      "description": "Most ob cerkvi sv. Petra je na vzhodnem robu starega mestnega jedra. Na tem mestu se značaj reke spremeni iz območja za pešce v prometni koridor.",
+      "tip": "Od Zmajskega mostu hodite ob vodi in do cerkve prečkajte cesto po označenem prehodu."
+    },
+    "photo": {
+      "src": "/attractions/st-peters-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_%C5%A0empetrski_most.jpg",
+      "author": "Sl-Ziga",
+      "license": "PD"
+    },
+    "guide": {
+      "en": {
+        "history": "The reinforced-concrete bridge was completed in 1918. It takes its name from the church near the north landing. Here the river cuts between streets built for ordinary city traffic, where pavements and marked crossings shape the visitor’s approach.",
+        "walk": [
+          "From the Dragon Bridge, follow Petkovškovo nabrežje east.",
+          "Continue to the junction by St Peter’s Church.",
+          "Use the marked crossings to join the bridge pavement or go on to the church."
+        ],
+        "photography": "Stay on the north-bank pavement and angle back toward the railings, or use the south approach to include the church towers beyond the bridge.",
+        "faq": [
+          {
+            "question": "Is it part of the pedestrian-only riverside zone?",
+            "answer": "It is a road bridge with pavements. Follow crossings at both ends."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Železobetonski most je bil dograjen leta 1918. Poimenovan je po cerkvi pri severnem izteku. Okolica pokaže, kako se mestno središče ob reki prevesi v območje z običajnim cestnim prometom.",
+        "walk": [
+          "Od Zmajskega mostu sledite Petkovškovemu nabrežju proti vzhodu.",
+          "Nadaljujte do križišča ob cerkvi sv. Petra.",
+          "Uporabite označene prehode do pločnika na mostu ali do cerkve."
+        ],
+        "photography": "S severnega pločnika obrnite pogled proti ograji. Z južnega pristopa lahko vključite cerkvena zvonika.",
+        "faq": [
+          {
+            "question": "Je most del območja samo za pešce?",
+            "answer": "Gre za cestni most s pločnikoma. Na obeh koncih uporabite označene prehode."
+          }
+        ]
+      }
+    },
+    "source": "https://www.ljubljana.si/Static/upload/file/MOSTOVI%20V-LJ.pdf"
+  },
+  {
+    "slug": "ljubljana-town-hall",
+    "address": "Mestni trg 1",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Ljubljana Town Hall",
+      "description": "The municipal seat anchors Mestni trg. The entrance, clock tower and courtyard arcades reveal how the building opens from a narrow square into a civic interior.",
+      "tip": "Start by the Robba Fountain. Check the city’s programme for courtyard exhibitions or guided access."
+    },
+    "sl": {
+      "name": "Mestna hiša",
+      "description": "Sedež mestne uprave zaznamuje Mestni trg. Za vhodom in stolpom z uro se prostor odpre v dvorišče z arkadami.",
+      "tip": "Začnite pri Robbovem vodnjaku in v občinskem programu preverite razstave ali vodene oglede."
+    },
+    "photo": {
+      "src": "/attractions/ljubljana-town-hall.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_Town_Hall.jpg",
+      "author": "Joe Passe",
+      "license": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/town-hall",
+    "guide": {
+      "en": {
+        "history": "The building was substantially remodelled in the early eighteenth century. The tower reads as part of the street front, while the arcade and courtyard reveal a second arrangement of rooms tucked behind Mestni trg.",
+        "walk": [
+          "Cross the Triple Bridge and follow Stritarjeva ulica to the fountain.",
+          "Turn toward Mestni trg 1 and see the façade from the square.",
+          "Enter the courtyard only when public access is available."
+        ],
+        "photography": "From near the fountain, turn to include both the clock and the entrance. Use a wider frame if the fountain is in active use by tour groups.",
+        "faq": [
+          {
+            "question": "Can I walk into the offices?",
+            "answer": "The municipal offices serve city business. For visitor access, use areas signed as open or check for an exhibition or guided visit."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Stavbo so v začetku 18. stoletja temeljito preuredili. Pročelje s stolpom usmerja pogled z ulice, arkadno dvorišče pa odkriva prostore za ozkim robom Mestnega trga.",
+        "walk": [
+          "Prečkajte Tromostovje in po Stritarjevi pridite do vodnjaka.",
+          "Pri Mestnem trgu 1 si oglejte pročelje.",
+          "Na dvorišče vstopite, kadar je odprto javnosti."
+        ],
+        "photography": "Od vodnjaka obrnite fotoaparat proti uri in vhodu. Na bolj živahen dan zajemite pročelje iz širšega kadra.",
+        "faq": [
+          {
+            "question": "Ali so mestne pisarne odprte za ogled?",
+            "answer": "Pisarne so namenjene delu občine. Za ogled preverite razstave, vodene obiske in označene javne prostore."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "robba-fountain",
+    "address": "Mestni trg 1, forecourt",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Robba Fountain",
+      "description": "Three river figures surround the obelisk in front of the Town Hall. The outdoor work is a replica of Francesco Robba’s fountain, whose original is in the National Gallery.",
+      "tip": "Walk around the base to see the sculpture from three sides, then compare it with the original at the gallery."
+    },
+    "sl": {
+      "name": "Robbov vodnjak",
+      "description": "Tri rečne figure obdajajo obelisk pred Mestno hišo. Na trgu stoji kopija, izvirnik Francesca Robbe pa hrani Narodna galerija.",
+      "tip": "Oglejte si figure z vseh treh strani in jih pozneje primerjajte z izvirnikom."
+    },
+    "photo": {
+      "src": "/attractions/robba-fountain.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Slovenia_2026_260_Ljubljana_-_Robba_Fountain.jpg",
+      "author": "Scotch Mist",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/robba-fountain-the-fountain-of-three-carniolan-rivers",
+    "guide": {
+      "en": {
+        "history": "Robba completed the fountain in the eighteenth century. The tall obelisk can be seen from farther down the street, but the figures and their vessels only come into view as you circle the basin.",
+        "walk": [
+          "Follow Stritarjeva ulica to the forecourt of Town Hall.",
+          "Circle the basin on the paved side of the square.",
+          "For the original, continue separately to the National Gallery on Prešernova cesta."
+        ],
+        "photography": "Crouch slightly at the open side of the square for a figure against the obelisk, or step back toward Stritarjeva for the whole ensemble.",
+        "faq": [
+          {
+            "question": "Where can I see the original stonework?",
+            "answer": "The National Gallery on Prešernova cesta displays the original. The fountain outside Town Hall is a replica."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Robba je vodnjak dokončal v 18. stoletju. Visoki obelisk je viden že z ulice, posamezne figure in posode pa se razkrijejo, ko obidete bazen.",
+        "walk": [
+          "Po Stritarjevi ulici pridite na trg pred Mestno hišo.",
+          "Po tlakovani površini obidite bazen.",
+          "Za ogled izvirnika obiščite Narodno galerijo na Prešernovi cesti."
+        ],
+        "photography": "Z odprtega dela trga zajemite figuro proti obelisku. S strani Stritarjeve se vidi celota z mestnim ozadjem.",
+        "faq": [
+          {
+            "question": "Kje je mogoče videti izvirnik?",
+            "answer": "Izvirnik je v Narodni galeriji. Pred Mestno hišo stoji kopija."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "tivoli-park",
+    "address": "Jakopičevo sprehajališče",
+    "operator": "public",
+    "area": "west",
+    "en": {
+      "name": "Tivoli Park",
+      "description": "The park takes the city’s street grid into the wooded foothills. Plečnik’s Jakopič Promenade offers a straight sightline to Tivoli Mansion and often hosts outdoor photography.",
+      "tip": "Enter from Cankarjeva cesta, follow the promenade to the mansion and return via the quieter paths beside the lawns."
+    },
+    "sl": {
+      "name": "Park Tivoli",
+      "description": "Park povezuje mestne ulice z gozdnatim vznožjem Rožnika. Jakopičevo sprehajališče vodi proti Tivolskemu gradu in pogosto gosti fotografske razstave na prostem.",
+      "tip": "Vstopite s Cankarjeve ceste in se mimo gradu vrnite po mirnejših poteh ob tratah."
+    },
+    "photo": {
+      "src": "/attractions/tivoli-park.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Park_Tivoli_Ljubljana_2026-01-21_01.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The grounds grew out of estates at the edge of Ljubljana. The open promenade introduces a formal axis, while paths toward the wooded hillside offer a different experience within the same park.",
+        "walk": [
+          "Walk up Čopova and along Cankarjeva.",
+          "Use the pedestrian entry into Tivoli and follow the Jakopič Promenade.",
+          "At the mansion, loop back on a parallel park path for a different view."
+        ],
+        "photography": "At the city end of the promenade, look west and use the two edges of the path to frame Tivoli Mansion. Step aside when setting up beside the outdoor displays.",
+        "faq": [
+          {
+            "question": "Can I visit the park without walking up Rožnik?",
+            "answer": "Yes. The lower lawns and promenade work as a standalone visit. Paths behind the mansion climb into the woods."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Tivoli je nastal iz vrtov nekdanjih posesti ob mestu. Ravno os sprehajališča dopolnjujejo ožje poti proti gozdnatim pobočjem Rožnika.",
+        "walk": [
+          "Po Čopovi in Cankarjevi pridite do vhoda za pešce.",
+          "Sledite Jakopičevemu sprehajališču do gradu.",
+          "Vrnite se po eni od vzporednih poti ob tratah."
+        ],
+        "photography": "Z mestnega konca sprehajališča poglejte proti Tivolskemu gradu. Pot naj vodi pogled proti stavbi.",
+        "faq": [
+          {
+            "question": "Ali lahko obiščem Tivoli brez vzpona na Rožnik?",
+            "answer": "Da. Spodnji park in sprehajališče sta primerna za samostojen obisk. Za gradom se poti vzpenjajo."
+          }
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "src": "/attractions/tivoli-jakopic-promenade.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jakopi%C4%8D_Promenade%2C_Tivoli_Park%2C_Ljubljana.jpg",
+        "author": "Dgp4004",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0",
+        "caption": {
+          "en": "Jakopič Promenade in Tivoli Park",
+          "sl": "Jakopičevo sprehajališče v Tivoliju"
+        }
+      }
+    ],
+    "source": "https://www.ljubljana.si/assets/Uploads/publikacija-KPTRSh-ANG-mala2.pdf"
+  },
+  {
+    "slug": "tivoli-mansion",
+    "address": "Pod turnom 3",
+    "operator": "https://mglc.si/en/",
+    "area": "west",
+    "en": {
+      "name": "Tivoli Mansion",
+      "description": "The mansion terminates the park’s main promenade. The International Centre of Graphic Arts occupies the building, where prints and changing exhibitions give a reason to climb the steps.",
+      "tip": "Photograph the staircase from the promenade. Check MGLC’s calendar before making the climb for an exhibition."
+    },
+    "sl": {
+      "name": "Tivolski grad",
+      "description": "Tivolski grad stoji na koncu glavnega sprehajališča. V njem Mednarodni grafični likovni center pripravlja razstave grafike in druge programe.",
+      "tip": "Z Jakopičevega sprehajališča se vidi celotno stopnišče. Pred obiskom preverite razstavni program."
+    },
+    "photo": {
+      "src": "/attractions/tivoli-mansion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tivolski_grad_Ljubljana_2026-01-21_01.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The building is also known as Podturn. Its high position at the end of the promenade predates its role as a gallery. The staircase, terrace and open prospect down the hill are worth seeing before entering the exhibition rooms.",
+        "walk": [
+          "Cross Tivoli along the Jakopič Promenade.",
+          "At the end of the avenue, take the broad steps up to the mansion.",
+          "Check the gallery entrance for the current exhibition or return through the park."
+        ],
+        "photography": "Use the foot of the stairs to include the cast-iron dogs and the whole front. From the terrace, turn around for a view back toward town.",
+        "faq": [
+          {
+            "question": "Is this the same museum as the one at Cekin Mansion?",
+            "answer": "No. This is MGLC, the graphic arts centre. Cekin Mansion houses the museum of contemporary history."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Dvorec, znan tudi kot Podturn, je stal ob vznožju Rožnika že pred galerijsko rabo. Stopnišče in terasa sta odprta proti mestu in poudarjata višjo lego stavbe.",
+        "walk": [
+          "Po Jakopičevem sprehajališču hodite proti zahodu.",
+          "Na koncu se povzpnite po stopnicah do gradu.",
+          "Pri vhodu preverite razstavo ali se vrnite skozi park."
+        ],
+        "photography": "Od vznožja stopnic zajemite pročelje in litoželezne pse. S terase se obrnite proti mestu.",
+        "faq": [
+          {
+            "question": "Ali gre za isti muzej kot v Cekinovem gradu?",
+            "answer": "Ne. V Tivolskem gradu deluje grafični center MGLC. V Cekinovem gradu je muzej novejše in sodobne zgodovine."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "cekin-mansion",
+    "address": "Celovška cesta 23",
+    "operator": "https://www.muzej-nz.si/en/",
+    "area": "west",
+    "en": {
+      "name": "Cekin Mansion",
+      "description": "This Baroque mansion houses the National Museum of Contemporary History of Slovenia. The collections trace twentieth-century history through objects, photographs and personal accounts.",
+      "tip": "Approach from the Celovška side of Tivoli Park and set aside a separate museum stop rather than rushing through on a park walk."
+    },
+    "sl": {
+      "name": "Cekinov grad",
+      "description": "V baročnem dvorcu je Muzej novejše in sodobne zgodovine Slovenije. Predmeti, fotografije in osebna pričevanja predstavljajo zgodovino 20. stoletja.",
+      "tip": "Pridite s strani Celovške ceste in za muzej načrtujte poseben postanek."
+    },
+    "photo": {
+      "src": "/attractions/cekin-mansion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cekinov_grad,_Tivoli_-_panoramio.jpg",
+      "author": "Kasius Klej",
+      "license": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "guide": {
+      "en": {
+        "history": "A symmetrical Baroque country residence now gives visitors access to accounts of modern Slovenian history. The contrast between the small-scale palace rooms and twentieth-century objects is part of the experience.",
+        "walk": [
+          "From the park side of Celovška cesta, follow the signs for Cekinov grad.",
+          "Approach the mansion from its open grounds.",
+          "After the museum, follow the park paths back to the Jakopič Promenade."
+        ],
+        "photography": "From the open space in front, line up the central doorway and upper windows. Photograph interiors only where the exhibition permits it.",
+        "faq": [
+          {
+            "question": "Which branch should I select in a map app?",
+            "answer": "Select Cekinov grad at Celovška cesta 23. It is near the north side of Tivoli Park."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Simetrični baročni dvorec danes gosti zbirke novejše zgodovine. Starejši prostori dajejo drugačen okvir predmetom in pričevanjem iz 20. stoletja.",
+        "walk": [
+          "S strani Celovške ceste sledite oznakam za Cekinov grad.",
+          "Do vhoda pridite čez odprti prostor pred dvorcem.",
+          "Po obisku se po poteh skozi park vrnite na Jakopičevo sprehajališče."
+        ],
+        "photography": "S prostora pred stavbo poravnajte sredinska vrata z zgornjimi okni. Pri fotografiranju v notranjosti upoštevajte pravila razstave.",
+        "faq": [
+          {
+            "question": "Katero lokacijo naj izberem na zemljevidu?",
+            "answer": "Cekinov grad na Celovški cesti 23, ob severnem delu Tivolija."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "national-gallery",
+    "address": "Prešernova cesta 24",
+    "operator": "https://www.ng-slo.si/en/",
+    "area": "west",
+    "en": {
+      "name": "National Gallery of Slovenia",
+      "description": "The permanent galleries trace Slovenian art across centuries. The entrance hall brings the old and new wings together around the original Robba Fountain.",
+      "tip": "Begin at the fountain, then choose the historical collections or the Impressionists according to the time you have."
+    },
+    "sl": {
+      "name": "Narodna galerija",
+      "description": "Stalne zbirke spremljajo slovensko umetnost skozi stoletja. V vhodni dvorani, ki povezuje staro in novo krilo, stoji izvirni Robbov vodnjak.",
+      "tip": "Začnite pri vodnjaku in nato izberite starejše zbirke ali impresioniste."
+    },
+    "photo": {
+      "src": "/attractions/national-gallery.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Narodna_galerija_Ljubljana_2026-01-21_01.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The older gallery building and modern additions create several kinds of exhibition space. The entrance with Robba’s fountain gives a useful reference point before a visit to either the earlier collections or the paintings of the Slovenian Impressionists.",
+        "walk": [
+          "Walk up Čopova, cross Slovenska cesta and continue toward the corner of Cankarjeva and Prešernova.",
+          "Use the gallery entrance on Prešernova cesta.",
+          "Orient yourself at the fountain before choosing a collection."
+        ],
+        "photography": "From the public pavement, look for the connection between old and new wings. Ask the gallery’s staff about photography before photographing the fountain or paintings inside.",
+        "faq": [
+          {
+            "question": "Is the fountain here different from the one on Mestni trg?",
+            "answer": "Yes. This is Robba’s original. The square outside Town Hall has the outdoor copy."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Starejša stavba in novejša krila ustvarjajo različne razstavne prostore. Izvirni Robbov vodnjak pri vhodu je orientacijska točka pred ogledom starejših zbirk ali slovenskih impresionistov.",
+        "walk": [
+          "Po Čopovi prečkajte Slovensko cesto in nadaljujte do križišča Cankarjeve s Prešernovo.",
+          "Uporabite vhod na Prešernovi cesti.",
+          "Pri vodnjaku izberite zbirko ali razstavo."
+        ],
+        "photography": "S pločnika poiščite stik starega in sodobnega krila. V notranjosti preverite pravila fotografiranja.",
+        "faq": [
+          {
+            "question": "Ali je vodnjak isti kot na Mestnem trgu?",
+            "answer": "V galeriji je Robbov izvirnik. Pred Mestno hišo stoji kopija."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "modern-gallery",
+    "address": "Cankarjeva cesta 15",
+    "operator": "https://www.mg-lj.si/en/",
+    "area": "west",
+    "en": {
+      "name": "Museum of Modern Art",
+      "description": "Edvard Ravnikar’s building near Tivoli Park houses Moderna galerija’s modern-art programme. Its Metelkova counterpart, +MSUM, has a separate address and focuses on contemporary art.",
+      "tip": "Use the Cankarjeva entrance and check which exhibitions are on before adding the National Gallery across the street."
+    },
+    "sl": {
+      "name": "Moderna galerija",
+      "description": "V stavbi Edvarda Ravnikarja ob Tivoliju Moderna galerija predstavlja moderno umetnost. Muzej sodobne umetnosti na Metelkovi ima ločen naslov in program.",
+      "tip": "Vstopite s Cankarjeve ceste in pred obiskom preverite, katere razstave so odprte."
+    },
+    "photo": {
+      "src": "/attractions/modern-gallery.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moderna_galerija.jpg",
+      "author": "Jurij Leban",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "Ravnikar’s composition uses a restrained entrance and repeated vertical elements. Viewing it from the park approach makes the planned relationship of the building and its open surroundings easier to see.",
+        "walk": [
+          "Follow Cankarjeva west from Slovenska cesta.",
+          "Stop on the near side of the route into Tivoli at number 15.",
+          "After the exhibition, cross to the National Gallery if you want a comparison."
+        ],
+        "photography": "Take an angled photo from the Cankarjeva pavement to show the entry volume and the horizontal wings together.",
+        "faq": [
+          {
+            "question": "Which building is meant by +MSUM?",
+            "answer": "+MSUM is the Museum of Contemporary Art on Metelkova. For Moderna galerija’s modern-art building, use Cankarjeva cesta 15."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Ravnikarjeva stavba uporablja zadržan vhod in ponavljajoče se navpične člene. S pristopa proti Tivoliju je dobro vidno, kako je stavba povezana z odprtim prostorom.",
+        "walk": [
+          "S Slovenske ceste sledite Cankarjevi proti zahodu.",
+          "Pred prehodom v Tivoli poiščite številko 15.",
+          "Po ogledu lahko pot nadaljujete do Narodne galerije."
+        ],
+        "photography": "S pločnika na Cankarjevi fotografirajte pod kotom, da se v kadru vidijo vhod in vodoravna krila.",
+        "faq": [
+          {
+            "question": "Kaj je +MSUM?",
+            "answer": "To je Muzej sodobne umetnosti na Metelkovi. Za stavbo Moderne galerije uporabite naslov Cankarjeva cesta 15."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "national-museum",
+    "address": "Muzejska ulica 1",
+    "operator": "https://www.nms.si/en/",
+    "area": "west",
+    "en": {
+      "name": "National Museum of Slovenia",
+      "description": "The main museum building houses archaeological collections that tell the story of settlement in present-day Slovenia. The institution also has a Metelkova branch with different displays.",
+      "tip": "Use the Muzejska ulica address when checking exhibitions and tickets. Pair this stop with the galleries around Prešernova cesta."
+    },
+    "sl": {
+      "name": "Narodni muzej Slovenije",
+      "description": "Osrednja stavba hrani arheološke zbirke o poselitvi današnje Slovenije. Enota na Metelkovi ima druge razstave.",
+      "tip": "Pri iskanju razstav in vstopnic izberite lokacijo na Muzejski ulici."
+    },
+    "photo": {
+      "src": "/attractions/national-museum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Narodni_muzej_Slovenije_%E2%80%93_Pre%C5%A1ernova_Ljubljana_2026-01-21_01.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The late nineteenth-century museum building was planned as a setting for public collections. Its classical front and ceremonial entrance belong to the same period of institutional building as other landmarks around the museum quarter.",
+        "walk": [
+          "Walk from the centre past the Opera House to Muzejska ulica.",
+          "Use the entrance for the main National Museum building.",
+          "Then follow the street toward Prešernova if continuing to the galleries."
+        ],
+        "photography": "Step back on the public approach for the symmetrical frontage, then look at the doorway and stone detail from closer in.",
+        "faq": [
+          {
+            "question": "Does the same building contain the natural history museum?",
+            "answer": "Yes. The Slovenian Museum of Natural History shares the building. Check each museum for its own displays and visitor arrangements."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Stavba iz poznega 19. stoletja je bila zasnovana za javne zbirke. Klasično pročelje in poudarjeni vhod spadata v čas nastanka več javnih stavb v muzejski četrti.",
+        "walk": [
+          "Mimo Opere pojdite na Muzejsko ulico.",
+          "Uporabite vhod v glavno stavbo Narodnega muzeja.",
+          "Za galerije nadaljujte proti Prešernovi cesti."
+        ],
+        "photography": "S poti pred stavbo zajemite simetrično pročelje, nato si od blizu oglejte vhod in kamnite podrobnosti.",
+        "faq": [
+          {
+            "question": "Ali je v isti stavbi tudi Prirodoslovni muzej?",
+            "answer": "Da. Muzeja si delita stavbo. Razstave in pogoje obiska preverite pri posameznem muzeju."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "plecnik-house",
+    "address": "Karunova ulica 4",
+    "operator": "https://mgml.si/en/plecnik-house/",
+    "area": "south",
+    "en": {
+      "name": "Plečnik House",
+      "description": "Plečnik’s home and studio preserve his furniture, tools and the spaces where he worked. The garden and compact rooms offer the domestic counterpart to his civic architecture.",
+      "tip": "Reserve the house tour ahead, then walk back via Trnovo Bridge to see how he designed space at a different scale."
+    },
+    "sl": {
+      "name": "Plečnikova hiša",
+      "description": "V Plečnikovi hiši so ohranjeni arhitektovi delovni prostori, pohištvo in pripomočki. Vrt in majhne sobe ponujajo drugačen pogled na avtorja velikih javnih stavb.",
+      "tip": "Ogled hiše rezervirajte vnaprej in se vrnite čez Trnovski most."
+    },
+    "photo": {
+      "src": "/attractions/plecnik-house.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Plecnik_House_1.jpg",
+      "author": "Thomas Ledl",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "Plečnik worked on the house after he returned to Ljubljana in 1921. The cylindrical extension and garden show how he designed for his own small-scale routines, an intimate counterpart to the bridges and squares nearby.",
+        "walk": [
+          "From Breg, take Krakovski nasip west along the Gradaščica.",
+          "Cross Trnovo Bridge toward the parish church.",
+          "Turn into Karunova ulica and look for number 4."
+        ],
+        "photography": "Use the pavement across from the street front for the low roofline. Inside the house, follow the guide’s photography instructions.",
+        "faq": [
+          {
+            "question": "Can I see the house without reserving?",
+            "answer": "The historic interiors are visited on guided tours. Check the museum’s availability for your date and reserve if times are limited."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Plečnik je hišo urejal po vrnitvi v Ljubljano leta 1921. Valjasti prizidek in vrt kažeta njegovo delo v merilu vsakdanjega bivanja.",
+        "walk": [
+          "Z Brega pojdite zahodno po Krakovskem nasipu.",
+          "Čez Trnovski most pridite do župnijske cerkve.",
+          "Na Karunovi ulici poiščite številko 4."
+        ],
+        "photography": "S pločnika nasproti hiše zajemite nizko streho in ulični rob. V notranjosti upoštevajte navodila vodnika.",
+        "faq": [
+          {
+            "question": "Ali si hišo lahko ogledam brez rezervacije?",
+            "answer": "Zgodovinski prostori so dostopni na vodenih ogledih. Preverite proste termine in po potrebi rezervirajte."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "slovene-ethnographic-museum",
+    "address": "Metelkova ulica 2",
+    "operator": "https://www.etno-muzej.si/en",
+    "area": "east",
+    "en": {
+      "name": "Slovene Ethnographic Museum",
+      "description": "The museum occupies part of the converted Metelkova barracks. Its collections use everyday objects and oral histories to explore how people make, trade and use things.",
+      "tip": "Enter from the museum courtyard and distinguish the museum’s opening hours from those of the adjacent alternative arts complex."
+    },
+    "sl": {
+      "name": "Slovenski etnografski muzej",
+      "description": "Muzej zaseda del prenovljenih vojašnic. Z vsakdanjimi predmeti in ustnimi pričevanji prikazuje izdelovanje, menjavo in uporabo predmetov.",
+      "tip": "Vstopite z muzejskega dvorišča in preverite muzejski urnik ločeno od programa sosednjega AKC."
+    },
+    "photo": {
+      "src": "/attractions/slovene-ethnographic-museum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Slovenia_Ethnographic_Museum,_Ljubljana.jpg",
+      "author": "Mark Iverson",
+      "license": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The museum buildings form part of the former barracks quarter. The gallery setting makes it possible to put domestic objects, clothing and crafts in context with accounts of the people who used them.",
+        "walk": [
+          "Head east from the square along Trubarjeva to the Metelkova area.",
+          "Enter the museum forecourt at Metelkova ulica 2.",
+          "Afterwards continue north to the separately run arts yards if desired."
+        ],
+        "photography": "From the museum forecourt, use the paved approach to show the modern glass frontage and its relationship to the older complex.",
+        "faq": [
+          {
+            "question": "Is my museum visit also an admission to the Metelkova arts venues?",
+            "answer": "The museum and the independent arts venues have separate programmes and access arrangements."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Stavbe muzeja so del nekdanjega vojašniškega območja. Razstave oblačila, obrt in domače predmete povezujejo s pričevanji o njihovi uporabi.",
+        "walk": [
+          "S trga pojdite proti vzhodu po Trubarjevi cesti.",
+          "Vstopite na muzejsko dvorišče pri Metelkovi ulici 2.",
+          "Za ogled neodvisnih kulturnih prostorov nadaljujte proti severu."
+        ],
+        "photography": "S tlakovanega dvorišča zajemite stekleno pročelje in sosednji starejši del kompleksa.",
+        "faq": [
+          {
+            "question": "Ali muzejska vstopnica velja tudi v klubih na Metelkovi?",
+            "answer": "Muzej in neodvisna prizorišča imajo ločene programe in pogoje dostopa."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "metelkova",
+    "address": "Metelkova ulica 10",
+    "operator": "collective",
+    "area": "east",
+    "en": {
+      "name": "Metelkova Arts Centre",
+      "description": "Artists and independent organisers established cultural spaces in the former barracks in the 1990s. Murals, mosaics and improvised façades change over time, while venues publish their own programmes.",
+      "tip": "Look at the courtyard art in daylight. Check individual venue listings for evening shows and respect people’s privacy when photographing."
+    },
+    "sl": {
+      "name": "AKC Metelkova mesto",
+      "description": "Umetniki in neodvisni organizatorji so v nekdanjih vojašnicah v devetdesetih letih vzpostavili kulturne prostore. Poslikave in mozaiki se spreminjajo, posamezna prizorišča pa imajo svoje programe.",
+      "tip": "Dvorišča si oglejte podnevi. Za večerni dogodek preverite program organizatorja in pri fotografiranju spoštujte zasebnost."
+    },
+    "photo": {
+      "src": "/attractions/metelkova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_AKC_Metelkova_(48754567141).jpg",
+      "author": "Fred Romero",
+      "license": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/metelkova-mesto-autonomous-cultural-centre",
+    "guide": {
+      "en": {
+        "history": "The autonomous arts centre grew out of the occupation of former barracks in 1993. Courtyard artworks and repurposed buildings still change, so a detail you discover on one visit may not look the same on the next.",
+        "walk": [
+          "From the station, follow Masarykova toward Metelkova ulica.",
+          "Find the arts centre courtyards at number 10.",
+          "If you are attending an event, continue to the specific venue named on the ticket."
+        ],
+        "photography": "From a public path in the courtyard, frame a mural with part of its building. Ask before including identifiable people in close-ups.",
+        "faq": [
+          {
+            "question": "Do all the clubs follow one opening schedule?",
+            "answer": "No. Find the organiser’s event listing for admission, timing and venue."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Avtonomno kulturno središče je nastalo po zasedbi nekdanjih vojašnic leta 1993. Poslikave in predelani objekti se spreminjajo skupaj z dejavnostmi posameznih skupin.",
+        "walk": [
+          "Od postaje sledite Masarykovi cesti do Metelkove ulice.",
+          "Poiščite dvorišča pri številki 10.",
+          "Za prireditev nadaljujte do prizorišča, navedenega na vstopnici."
+        ],
+        "photography": "Poslikavo zajemite skupaj z delom stavbe. Pred bližnjim fotografiranjem ljudi jih prosite za dovoljenje.",
+        "faq": [
+          {
+            "question": "Ali imajo vsi klubi enak urnik?",
+            "answer": "Ne. V objavi organizatorja preverite čas, vstop in točno prizorišče."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "krizanke",
+    "address": "Trg francoske revolucije 1",
+    "operator": "https://ljubljanafestival.si/en/",
+    "area": "south",
+    "en": {
+      "name": "Križanke",
+      "description": "Plečnik adapted the former Teutonic Order monastery into a performance complex. The stone paving, courtyards and outdoor theatre make the conversion visible from several entrances.",
+      "tip": "Start at Trg francoske revolucije to see the complex from the street. Check Ljubljana Festival for ticketed access to events."
+    },
+    "sl": {
+      "name": "Križanke",
+      "description": "Plečnik je nekdanji samostan križnikov preuredil v prireditveni prostor. Tlak, dvorišča in poletno gledališče kažejo, kako je povezal stare stavbe z novim programom.",
+      "tip": "Začnite na Trgu francoske revolucije. Za prireditve in dostop preverite program Festivala Ljubljana."
+    },
+    "photo": {
+      "src": "/attractions/krizanke.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Krizanke,_bust_of_Anton_Bitenc.jpg",
+      "author": "Ajznponar",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The former monastery was adapted by Plečnik in the 1950s. Notice the patterned masonry and relationship between the open courts, entrances and sheltered edges as you approach the theatre complex.",
+        "walk": [
+          "Follow Vegova ulica south from Congress Square.",
+          "Stop at Trg francoske revolucije to view the walls and entrances.",
+          "For a performance, follow the entrance specified by Ljubljana Festival."
+        ],
+        "photography": "Take a street-level view of the complex from the square, then move closer for patterns in the doorway or masonry without blocking the entrances.",
+        "faq": [
+          {
+            "question": "Can I visit the open-air auditorium whenever I pass?",
+            "answer": "Check the festival programme. Access to the auditorium and courtyards can depend on performances and other events."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Plečnik je nekdanji samostan v petdesetih letih 20. stoletja preuredil za prireditve. Vzorci v zidu, vhodi in odprta dvorišča kažejo razmerje med starejšimi deli ter gledališčem.",
+        "walk": [
+          "S Kongresnega trga pojdite južno po Vegovi ulici.",
+          "Na Trgu francoske revolucije si oglejte stene in vhode.",
+          "Za predstavo poiščite vhod, naveden v programu Festivala Ljubljana."
+        ],
+        "photography": "S trga naredite širši posnetek. Za vzorce ob vhodu se približajte, vendar pustite prehod prost.",
+        "faq": [
+          {
+            "question": "Ali je poletno gledališče vedno dostopno?",
+            "answer": "Preverite festivalski program. Dostop do gledališča in dvorišč je lahko odvisen od dogodkov."
+          }
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "src": "/attractions/krizanke-southwest-corner.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Krizanke%2C_SW_corner.jpg",
+        "author": "Ajznponar",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0",
+        "caption": {
+          "en": "Southwest corner of Križanke",
+          "sl": "Jugozahodni vogal Križank"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ursuline-church",
+    "address": "Slovenska cesta 21",
+    "operator": "church",
+    "area": "west",
+    "en": {
+      "name": "Ursuline Church of the Holy Trinity",
+      "description": "The church presents a broad Baroque façade toward Congress Square. Its expressive columns and curved upper silhouette are easiest to read from the eastern side of Slovenska cesta.",
+      "tip": "Take in the whole façade from Congress Square and check parish access before planning an interior visit."
+    },
+    "sl": {
+      "name": "Uršulinska cerkev Svete Trojice",
+      "description": "Baročno pročelje cerkve je obrnjeno proti Kongresnemu trgu. Izstopajoči stebri in razgiban zgornji del so dobro vidni z vzhodne strani Slovenske ceste.",
+      "tip": "Pročelje si oglejte s Kongresnega trga in pri župniji preverite možnost obiska notranjosti."
+    },
+    "photo": {
+      "src": "/attractions/ursuline-church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ursuline_church_in_Ljubljana_(3).jpg",
+      "author": "Tournasol7",
+      "license": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/ursuline-church",
+    "guide": {
+      "en": {
+        "history": "The early eighteenth-century church faces Congress Square across Slovenska cesta. The forceful curves of its façade and the scrollwork above the columns bring depth to a front seen against a narrow street.",
+        "walk": [
+          "Walk from the square through Kongresni trg toward Slovenska cesta.",
+          "Pause on the square side to view the façade.",
+          "Use the formal crossing before approaching the church door."
+        ],
+        "photography": "Use a wider view from Congress Square for the gable and base together. From closer in, look for the way the half-columns project from the wall.",
+        "faq": [
+          {
+            "question": "Can I go in during a service to look around?",
+            "answer": "Attend respectfully if joining worship. For sightseeing, check visiting access and use another time when a service is taking place."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Cerkev iz začetka 18. stoletja je obrnjena proti Kongresnemu trgu. Polkrožni členi in okras nad stebri ustvarjajo globino pročelja ob ozki ulici.",
+        "walk": [
+          "Prečkajte Kongresni trg proti Slovenski cesti.",
+          "S trške strani si oglejte celotno pročelje.",
+          "Do vhoda pridite po označenem prehodu."
+        ],
+        "photography": "Širši posnetek s Kongresnega trga zajame spodnji del in zatrep. Od blizu poiščite sence, ki jih mečejo polstebri.",
+        "faq": [
+          {
+            "question": "Ali je ogled primeren med bogoslužjem?",
+            "answer": "Za turistični ogled preverite čas obiska in izberite termin izven bogoslužja."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "st-james-church",
+    "address": "Gornji trg 18",
+    "operator": "church",
+    "area": "south",
+    "en": {
+      "name": "St James’s Church",
+      "description": "This former Jesuit church stands at the south edge of the old town. The tower marks the route from Gornji trg to the Ljubljanica, and the chapel and altars reward an interior visit when access permits.",
+      "tip": "Arrive from Gornji trg and use Levstikov trg for a view of the tower before heading to the bridge."
+    },
+    "sl": {
+      "name": "Cerkev sv. Jakoba",
+      "description": "Nekdanja jezuitska cerkev stoji na južnem robu starega mesta. Zvonik označuje pot z Gornjega trga proti Ljubljanici, notranjost pa odlikujejo oltarji in kapela.",
+      "tip": "Z Gornjega trga pridite do Levstikovega trga, od koder se vidi zvonik."
+    },
+    "photo": {
+      "src": "/attractions/st-james-church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Ljubljana_with_Sv_Jakoba.JPG",
+      "author": "Oliver-Bonjoch",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/church-of-st-james",
+    "guide": {
+      "en": {
+        "history": "The Jesuits built the church in the early seventeenth century where an earlier church stood. The tower gives a street-level reference point above Gornji trg and Levstikov trg. The sculptural altars show a different aspect of the building indoors.",
+        "walk": [
+          "From Mestni trg, walk through Stari trg toward Gornji trg.",
+          "Stop in the open space near Levstikov trg to see the tower.",
+          "Continue down toward St James’s Bridge after your visit."
+        ],
+        "photography": "Stand on the Levstikov trg side to include the tower and adjoining streets. For the entrance, frame upward from across the open space.",
+        "faq": [
+          {
+            "question": "What is worth seeing if the interior is open?",
+            "answer": "Allow time for the altars and chapel. Keep visits quiet and follow any signs when the church is in use."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Jezuiti so cerkev zgradili v začetku 17. stoletja na mestu starejše cerkve. Zvonik je orientacijska točka nad Gornjim in Levstikovim trgom, oltarji pa razkrivajo drugo plat stavbe.",
+        "walk": [
+          "Z Mestnega trga sledite staremu uličnemu nizu prek Starega trga do Gornjega.",
+          "Pri Levstikovem trgu si oglejte zvonik.",
+          "Po obisku se spustite proti Šentjakobskemu mostu."
+        ],
+        "photography": "Z Levstikovega trga zajemite stolp skupaj s sosednjimi ulicami. Za pogled na vhod fotografirajte z odprtega prostora.",
+        "faq": [
+          {
+            "question": "Kaj si ogledati, če je cerkev odprta?",
+            "answer": "Namenite čas oltarjem in kapeli. Če je cerkev v uporabi, spoštujte mir in navodila ob vhodu."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "st-peters-church",
+    "address": "Trubarjeva cesta 80",
+    "operator": "church",
+    "area": "east",
+    "en": {
+      "name": "St Peter’s Church",
+      "description": "St Peter’s Church stands beside the eastern bridge carrying its name. The twin-towered façade is a landmark on the approach along Trubarjeva cesta.",
+      "tip": "Take the riverside east from the Dragon Bridge and add the adjoining river crossing to see the façade in context."
+    },
+    "sl": {
+      "name": "Cerkev sv. Petra",
+      "description": "Cerkev ob istoimenskem mostu označuje vzhodni konec sprehoda skozi staro mesto. Pročelje z dvema zvonikoma je opazno s Trubarjeve ceste.",
+      "tip": "Od Zmajskega mostu hodite vzhodno ob reki in nato prečkajte Šempetrski most."
+    },
+    "photo": {
+      "src": "/attractions/st-peters-church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Peter's_Parish_Church,_Ljubljana.jpg",
+      "author": "Unomano",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The parish has a long history in the eastern part of Ljubljana. The paired towers give it a broad front visible beyond the bridge, making the church a landmark as the river bends away from the pedestrian centre.",
+        "walk": [
+          "Walk east along Trubarjeva cesta from the Dragon Bridge area.",
+          "Use the marked crossing by Rozmanova ulica to reach the church approach.",
+          "Continue to St Peter’s Bridge for a view from the river."
+        ],
+        "photography": "From the far side of the bridge, centre the towers over the river corridor. Use the forecourt for architectural details if it is open.",
+        "faq": [
+          {
+            "question": "Where should I stop if the church is closed?",
+            "answer": "The pavement near the bridge offers an exterior view of the towers without entering the church grounds."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Župnija ima dolgo zgodovino na vzhodnem robu Ljubljane. Pročelje z dvema zvonikoma je vidno tudi z drugega konca mostu.",
+        "walk": [
+          "Z območja Zmajskega mostu hodite vzhodno po Trubarjevi cesti.",
+          "Pri Rozmanovi uporabite označeni prehod.",
+          "Nadaljujte na Šempetrski most za pogled čez reko."
+        ],
+        "photography": "Z druge strani mostu poravnajte oba zvonika z reko v ospredju. S cerkvenega trga zajemite manjše podrobnosti.",
+        "faq": [
+          {
+            "question": "Kaj lahko vidim, če je cerkev zaprta?",
+            "answer": "Pločnik ob mostu omogoča pogled na oba zvonika brez vstopa na cerkveno zemljišče."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "trnovo-church",
+    "address": "Kolezijska ulica 1",
+    "operator": "church",
+    "area": "south",
+    "en": {
+      "name": "Trnovo Church",
+      "description": "The parish church of St John the Baptist faces Plečnik’s Trnovo Bridge. The bridge, forecourt and twin towers form a single view from across the Gradaščica.",
+      "tip": "Approach from Krakovski nasip for the axial view of the towers and combine the stop with Plečnik House nearby."
+    },
+    "sl": {
+      "name": "Cerkev sv. Janeza Krstnika",
+      "description": "Župnijska cerkev sv. Janeza Krstnika stoji v osi Plečnikovega mostu. Most, cerkveni trg in dva zvonika ustvarjajo skupen pogled čez Gradaščico.",
+      "tip": "Pridite s Krakovskega nasipa in obisk povežite z bližnjo Plečnikovo hišo."
+    },
+    "photo": {
+      "src": "/attractions/trnovo-church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grada%C5%A1%C4%8Dica_Trnovo_cerkev.jpg",
+      "author": "Miha Peče",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/trnovo-church-church-of-st-john-the-baptist",
+    "guide": {
+      "en": {
+        "history": "The parish church is associated with the story of Prešeren and Julija Primic. Physically, its relationship to Trnovo Bridge is what distinguishes the approach: the forecourt begins in the open space across the stream.",
+        "walk": [
+          "Walk along Krakovski nasip to the bridge facing the church.",
+          "Cross through the trees on the bridge and approach the forecourt.",
+          "Continue into Karunova ulica if you are also visiting Plečnik House."
+        ],
+        "photography": "Move to the opposite bank for the twin towers with the bridge in the foreground. Use the forecourt for a closer façade view.",
+        "faq": [
+          {
+            "question": "Can I combine it with Plečnik House on foot?",
+            "answer": "Yes. The two are close together in Trnovo. Check tour availability at the house and visiting access at the church separately."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Cerkev je povezana z zgodbo o Prešernu in Juliji Primic. Poseben značaj ji daje lega nasproti Plečnikovega mostu, ki podaljšuje prostor pred cerkvijo čez Gradaščico.",
+        "walk": [
+          "Sledite Krakovskemu nasipu do mostu nasproti cerkve.",
+          "Mimo dreves na mostu pridite na cerkveni trg.",
+          "Za obisk Plečnikove hiše nadaljujte na Karunovo ulico."
+        ],
+        "photography": "Z nasprotnega brega zajemite most v ospredju in zvonika v ozadju. Na trgu se približajte pročelju.",
+        "faq": [
+          {
+            "question": "Ali lahko ogled združim s Plečnikovo hišo?",
+            "answer": "Da, obe lokaciji sta blizu. Termine vodenja hiše in dostop do cerkve preverite ločeno."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "neboticnik",
+    "address": "Štefanova ulica 1",
+    "operator": "private",
+    "area": "west",
+    "en": {
+      "name": "Nebotičnik",
+      "description": "Vladimir Šubic’s 1930s high-rise changed Ljubljana’s skyline. Its tower sits above the rounded street corner, and an upper-floor terrace looks over the city toward Castle Hill.",
+      "tip": "Look up from Slovenska cesta first. Check the terrace venue’s hours and access before planning a skyline photo."
+    },
+    "sl": {
+      "name": "Nebotičnik",
+      "description": "Stolpnica Vladimirja Šubica je v tridesetih letih spremenila mestno silhueto. Nad zaobljenim vogalom je stolp, z zgornje terase pa se vidi Grajski grič.",
+      "tip": "Najprej poglejte navzgor s Slovenske ceste. Pred obiskom preverite urnik in dostop na teraso."
+    },
+    "photo": {
+      "src": "/attractions/neboticnik.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neboticnik-Ljubljana.JPG",
+      "author": "Žiga",
+      "license": "PD"
+    },
+    "guide": {
+      "en": {
+        "history": "Completed in 1933, the high-rise uses a rounded corner and stacked upper storeys to mark the intersection. From the terrace, the difference in scale between the older roofs and the tower is easier to appreciate.",
+        "walk": [
+          "Follow Čopova to Slovenska cesta.",
+          "Turn north and view the tower from the pavement at Štefanova.",
+          "For the terrace, use the entrance indicated by the venue."
+        ],
+        "photography": "From the opposite pavement, try a vertical frame with the curved base and tower. If visiting the terrace, look southeast toward Castle Hill.",
+        "faq": [
+          {
+            "question": "Can I rely on the terrace being accessible whenever the street is open?",
+            "answer": "Terrace access is controlled by the venue. Check its current hours and lift access before going."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Stolpnica, dokončana leta 1933, z zaobljenim vogalom poudarja križišče. Z višjih nadstropij je najbolj jasna razlika v merilu med stolpom in starejšimi strehami.",
+        "walk": [
+          "Po Čopovi pridite do Slovenske ceste.",
+          "Zavijte proti severu do križišča s Štefanovo.",
+          "Za dostop na teraso poiščite vhod, ki ga navaja lokal."
+        ],
+        "photography": "Z nasprotnega pločnika naredite navpičen posnetek zaobljenega vznožja in stolpa. S terase poglejte proti Grajskemu griču.",
+        "faq": [
+          {
+            "question": "Ali je terasa vedno dostopna?",
+            "answer": "Dostop določa upravljavec lokala. Pred odhodom preverite delovni čas in dostop z dvigalom."
+          }
+        ]
+      }
+    },
+    "source": "https://www.neboticnik.si/kavarna/"
+  },
+  {
+    "slug": "cankar-hall",
+    "address": "Prešernova cesta 10",
+    "operator": "https://www.cd-cc.si/en",
+    "area": "west",
+    "en": {
+      "name": "Cankar Hall",
+      "description": "The cultural centre designed by Edvard Ravnikar forms part of the Republic Square ensemble. Galleries, concert halls and conference rooms follow separate programmes.",
+      "tip": "Check the individual event listing for the correct entrance and use Republic Square to see how the complex fits into the civic district."
+    },
+    "sl": {
+      "name": "Cankarjev dom",
+      "description": "Kulturni center Edvarda Ravnikarja je del celote Trga republike. Galerije, koncertne dvorane in konferenčni prostori imajo različne programe.",
+      "tip": "V napovedi dogodka poiščite pravi vhod. S trga si oglejte umestitev centra v mestno četrt."
+    },
+    "photo": {
+      "src": "/attractions/cankar-hall.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cankarjevdom.jpg",
+      "author": "Ylow ducks",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The complex was built in the early 1980s and forms the cultural edge of Republic Square. From outside, compare its low entrance volumes with the taller buildings along the civic plaza.",
+        "walk": [
+          "Walk west from Congress Square toward Republic Square.",
+          "Cross the plaza toward the venue.",
+          "Check whether your ticket directs you to the Prešernova entrance or another lobby."
+        ],
+        "photography": "Photograph the low entrance from the edge of Republic Square to place it alongside the civic complex.",
+        "faq": [
+          {
+            "question": "Can I use one entrance for all concerts and exhibitions?",
+            "answer": "Read the event listing. The complex has multiple lobbies and rooms and entry arrangements depend on the programme."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Kulturni center iz začetka osemdesetih let je del ureditve Trga republike. Nizki vhodni deli in višji objekti v okolici kažejo različna merila istega mestnega prostora.",
+        "walk": [
+          "S Kongresnega trga pojdite zahodno do Trga republike.",
+          "Prečkajte ploščad proti kulturnemu centru.",
+          "Na vstopnici poiščite pravi vhod in preddverje."
+        ],
+        "photography": "Z roba trga zajemite vhod v odnosu do večjih stavb ob ploščadi.",
+        "faq": [
+          {
+            "question": "Ali vse predstave uporabljajo isti vhod?",
+            "answer": "Cankarjev dom ima več dvoran in preddverij. Pravi vhod je naveden pri posameznem dogodku."
+          }
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "src": "/attractions/cankar-gallus-hall.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cankarjev_dom_-_Gallusova_dvorana.jpg",
+        "author": "Pv21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": {
+          "en": "Gallus Hall inside Cankarjev dom",
+          "sl": "Gallusova dvorana v Cankarjevem domu"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ljubljana-opera",
+    "address": "Župančičeva ulica 1",
+    "operator": "https://www.opera.si/en/",
+    "area": "west",
+    "en": {
+      "name": "Ljubljana Opera and Ballet",
+      "description": "The historic theatre pairs a decorated nineteenth-century façade with a modern extension. It houses the national opera and ballet companies, with access depending on the performance schedule.",
+      "tip": "Walk the block to compare the old and new elevations, then consult the opera’s seating and ticket information if attending."
+    },
+    "sl": {
+      "name": "SNG Opera in balet Ljubljana",
+      "description": "Gledališče združuje okrašeno zgodovinsko pročelje in sodobni prizidek. V njem nastopata operni in baletni ansambel, dostop pa je odvisen od sporeda.",
+      "tip": "Obhodite stavbo za primerjavo pročelij, pred predstavo pa preverite vstopnice in sedežni red."
+    },
+    "photo": {
+      "src": "/attractions/ljubljana-opera.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Opera_and_Ballet_building_in_Ljubljana_(55020176247).jpg",
+      "author": "Filip Maljković",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The historic building opened in the late nineteenth century. Decorative bays and sculpture mark the older street front, while the modern addition is best understood by walking around the block.",
+        "walk": [
+          "From Slomškova’s western approaches or the centre, walk toward the Museum Quarter.",
+          "Approach the historic frontage around Župančičeva.",
+          "Walk around to compare the extension, then use the entrance on your ticket."
+        ],
+        "photography": "Frame the historic entry from across the public street. A side view gives a clearer comparison of the two construction periods.",
+        "faq": [
+          {
+            "question": "How do I choose a performance if I need subtitles?",
+            "answer": "Check the opera’s event listing for performance language and surtitles. Ballet listings may have different accessibility information."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Gledališče je bilo odprto konec 19. stoletja. Okras in kipi zaznamujejo zgodovinsko pročelje. Sodobni prizidek si je najbolje ogledati z druge strani stavbe.",
+        "walk": [
+          "Iz središča pojdite proti muzejski četrti.",
+          "Z Župančičeve ulice se približajte zgodovinskemu vhodu.",
+          "Obhodite stavbo in nato poiščite vhod, naveden na vstopnici."
+        ],
+        "photography": "Z nasprotne strani ulice zajemite stari vhod. Stranski pogled omogoča primerjavo starega in novega dela.",
+        "faq": [
+          {
+            "question": "Kako vem, ali ima opera nadnapise?",
+            "answer": "Na strani izbrane predstave preverite jezik in nadnapise. Za balet so lahko navedene druge informacije o dostopu."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "philharmonic-hall",
+    "address": "Kongresni trg 10",
+    "operator": "https://filharmonija.si/en/",
+    "area": "west",
+    "en": {
+      "name": "Slovenian Philharmonic Hall",
+      "description": "This nineteenth-century concert hall anchors the river side of Congress Square. Its façade announces Ljubljana’s musical traditions on a compact building whose interior is chiefly experienced through concerts.",
+      "tip": "Look across Congress Square for the whole building, and use the Philharmonic’s own concert calendar when booking a visit."
+    },
+    "sl": {
+      "name": "Slovenska filharmonija",
+      "description": "Koncertna stavba iz 19. stoletja stoji na rečnem robu Kongresnega trga. Notranjost je najlažje doživeti na koncertu.",
+      "tip": "Pročelje si oglejte z druge strani trga, za obisk pa uporabite koncertni spored Slovenske filharmonije."
+    },
+    "photo": {
+      "src": "/attractions/philharmonic-hall.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Slovenian_Philharmonic_Orchestra_(Ljubljana).jpg",
+      "author": "Petar Milošević",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The building opened in the late nineteenth century. The institution traces its musical tradition farther back through Ljubljana’s historic societies. Above the street frontage, the inscriptions recall that longer history.",
+        "walk": [
+          "Enter Congress Square from the river end.",
+          "Look for the hall on the square’s eastern edge.",
+          "Continue across the open square for a wider architectural view."
+        ],
+        "photography": "Use the open plaza for a head-on façade shot, or move toward the river edge for an angled view that includes the building’s neighbours.",
+        "faq": [
+          {
+            "question": "Can I see the hall interior without a concert ticket?",
+            "answer": "Check the Philharmonic’s programme for public events and any separate tours. Concert admission follows the event listing."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Dvorana je bila odprta konec 19. stoletja. Ustanova svojo širšo glasbeno tradicijo povezuje s starejšimi ljubljanskimi društvi, na kar spominjajo tudi napisi na pročelju.",
+        "walk": [
+          "Na Kongresni trg pridite z rečne strani.",
+          "Poiščite dvorano ob vzhodnem robu.",
+          "Za širši pogled na stavbo prečkajte odprti del trga."
+        ],
+        "photography": "Z odprtega trga fotografirajte naravnost proti pročelju. Z rečne strani pridobite pogled pod kotom.",
+        "faq": [
+          {
+            "question": "Ali si lahko ogledam notranjost brez koncertne vstopnice?",
+            "answer": "Pri Slovenski filharmoniji preverite javne dogodke in morebitne oglede. Za koncerte veljajo pogoji posameznega dogodka."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "botanical-garden",
+    "address": "Ižanska cesta 15",
+    "operator": "https://www.botanicni-vrt.si/en/",
+    "area": "south",
+    "en": {
+      "name": "Ljubljana Botanical Garden",
+      "description": "The University of Ljubljana maintains this teaching and conservation garden, established in 1810. Outdoor collections and a tropical glasshouse offer different seasonal experiences.",
+      "tip": "Approach from the Hladnik footbridge near Špica and check glasshouse access separately from the garden."
+    },
+    "sl": {
+      "name": "Botanični vrt Univerze v Ljubljani",
+      "description": "Univerza v Ljubljani skrbi za vrt, ki je bil ustanovljen leta 1810. Zunanje zbirke in tropski rastlinjak ponujajo različne možnosti obiska skozi leto.",
+      "tip": "Od Špice pridite čez Hladnikovo brv in posebej preverite dostop do rastlinjaka."
+    },
+    "photo": {
+      "src": "/attractions/botanical-garden.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_Botanical_Garden_interior.jpg",
+      "author": "Tiia Monto",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The garden dates to 1810 and remains a university collection. Plant labels, beds and the glasshouse let visitors compare cultivated collections across habitats and seasons.",
+        "walk": [
+          "Follow the Ljubljanica toward Špica.",
+          "Cross the Hladnik footbridge toward Ižanska cesta.",
+          "Enter the garden and locate the outdoor beds and glasshouse entrance separately."
+        ],
+        "photography": "Photograph labeled plants from the public paths. In the glasshouse, stay clear of narrow passages and shoot from the wider points.",
+        "faq": [
+          {
+            "question": "Are the open-air garden and the glasshouse visited on the same terms?",
+            "answer": "Their hours and admission arrangements can differ. Check the university garden’s current notice for both."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Univerzitetni vrt deluje od leta 1810. Oznake rastlin, gredice in rastlinjak obiskovalcu pomagajo primerjati zbirke glede na rastne razmere in letni čas.",
+        "walk": [
+          "Ob Ljubljanici pojdite proti Špici.",
+          "Čez Hladnikovo brv pridite do Ižanske ceste.",
+          "V vrtu ločeno poiščite zunanje zbirke in vhod v rastlinjak."
+        ],
+        "photography": "Označene rastline fotografirajte s poti. V rastlinjaku se za fotografijo ustavite tam, kjer je prehod širši.",
+        "faq": [
+          {
+            "question": "Ali za vrt in rastlinjak veljajo isti pogoji obiska?",
+            "answer": "Urnika in vstopnina se lahko razlikujeta. Preverite aktualne informacije vrta za oba dela."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "spica",
+    "address": "Gruberjevo nabrežje / Prule",
+    "operator": "public",
+    "area": "south",
+    "en": {
+      "name": "Špica Embankment",
+      "description": "The terraces at Špica overlook the point where the Gruber Canal branches off from the Ljubljanica. The former swimming area is now a public riverside meeting place.",
+      "tip": "Continue south along the river from Hradecky Bridge. At the point, look for both channels before crossing toward the botanical garden."
+    },
+    "sl": {
+      "name": "Špica",
+      "description": "Urejeno nabrežje leži na razcepu Ljubljanice in Gruberjevega prekopa. Nekdanje kopališče je danes javni prostor s terasami ob vodi.",
+      "tip": "Od Hradeckega mostu nadaljujte proti jugu. Pri konici poiščite oba vodna kraka."
+    },
+    "photo": {
+      "src": "/attractions/spica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_Spica(2016).jpg",
+      "author": "Evropa",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/park-spica",
+    "guide": {
+      "en": {
+        "history": "The former bathing place was reworked into a public embankment. Terraced seating turns the river fork into a place to pause. The two watercourses are easier to distinguish from the point than from the approach.",
+        "walk": [
+          "Walk south along the embankment through Prule.",
+          "Follow the path down to the terraces before the river divides.",
+          "Continue toward Hladnik footbridge for the botanical garden."
+        ],
+        "photography": "From the upper paths, frame the two channels and the tip in one wide view. Stay on the terraces rather than climbing down the bank.",
+        "faq": [
+          {
+            "question": "Is there a walking connection to the botanical garden?",
+            "answer": "Yes. Follow the park paths to the Hladnik footbridge and continue toward Ižanska cesta."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Nekdanje kopališče je bilo preurejeno v javno nabrežje. Terase ob razcepu reke usmerjajo pogled proti obema vodnima krakoma.",
+        "walk": [
+          "Skozi Prule hodite južno ob vodi.",
+          "Pred razcepom se spustite do teras.",
+          "Za botanični vrt nadaljujte proti Hladnikovi brvi."
+        ],
+        "photography": "Z višje poti zajemite oba kraka v širokem kadru. Ostanite na urejenih terasah.",
+        "faq": [
+          {
+            "question": "Ali lahko od tu peš pridem do botaničnega vrta?",
+            "answer": "Da. Po parkovni poti pojdite do Hladnikove brvi in nadaljujte proti Ižanski cesti."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "gruber-palace",
+    "address": "Zvezdarska ulica 1",
+    "operator": "https://www.gov.si/en/state-authorities/bodies-within-ministries/archives-of-the-republic-of-slovenia/",
+    "area": "south",
+    "en": {
+      "name": "Gruber Palace",
+      "description": "The palace built for engineer Gabriel Gruber now houses the Archives of the Republic of Slovenia. Its late-Baroque street frontage is visible near the uphill junction by St James’s Church.",
+      "tip": "Combine the façade with the church and the south end of Gornji trg. Arrange archive access separately if you are doing research."
+    },
+    "sl": {
+      "name": "Gruberjeva palača",
+      "description": "Palača inženirja Gabrijela Gruberja danes gosti Arhiv Republike Slovenije. Poznobaročno ulično pročelje stoji blizu cerkve sv. Jakoba.",
+      "tip": "Pročelje si oglejte skupaj s cerkvijo in Gornjim trgom. Za raziskovalno delo se z arhivom dogovorite posebej."
+    },
+    "photo": {
+      "src": "/attractions/gruber-palace.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana,_view_of_Gruber_Mansion_01.jpg",
+      "author": "Ajznponar",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The late-Baroque palace is associated with engineer Gabriel Gruber and the nearby canal. Its formal frontage and windows contrast with the close street around the archives entrance.",
+        "walk": [
+          "Walk down Gornji trg toward St James’s Church.",
+          "Find the archive building off the east end of the square on Zvezdarska ulica.",
+          "Continue toward the river before returning along Breg."
+        ],
+        "photography": "View the frontage from the public approach. Frame a doorway or window detail if the street is too tight for the whole elevation.",
+        "faq": [
+          {
+            "question": "Can a sightseeing visitor use the archives reading room?",
+            "answer": "The reading room is for archive research and has its own visitor procedures. Contact the archives in advance if you plan to use records."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Poznobaročna palača je povezana z inženirjem Gabrijelom Gruberjem in bližnjim prekopom. Urejeno pročelje je v izrazitem kontrastu s tesno ulico ob vhodu v arhiv.",
+        "walk": [
+          "Po Gornjem trgu pojdite proti cerkvi sv. Jakoba.",
+          "Na Zvezdarski ulici poiščite vhod v arhiv.",
+          "Pot nadaljujte do reke in se vrnite po Bregu."
+        ],
+        "photography": "Pročelje si oglejte z javne poti. Če ni prostora za širok posnetek, zajemite vhod ali okensko obrobo.",
+        "faq": [
+          {
+            "question": "Ali je čitalnica odprta turistom?",
+            "answer": "Čitalnica je namenjena raziskovanju arhivskega gradiva. Za uporabo dokumentov se predhodno obrnite na arhiv."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "zois-mansion",
+    "address": "Breg 22",
+    "operator": "private",
+    "area": "south",
+    "en": {
+      "name": "Zois Mansion",
+      "description": "The mansion on the Breg embankment was home to the Enlightenment patron and mineral collector Žiga Zois. The street entrance and plaques make a short stop on the southbound river walk.",
+      "tip": "View the portal from the Breg pavement before continuing to St James’s Bridge."
+    },
+    "sl": {
+      "name": "Zoisova palača",
+      "description": "V palači ob Bregu je živel razsvetljenec in zbiralec mineralov Žiga Zois. Ulični portal in spominske plošče so kratek postanek na poti ob Ljubljanici.",
+      "tip": "Portal si oglejte s pločnika na Bregu in nadaljujte do Šentjakobskega mostu."
+    },
+    "photo": {
+      "src": "/attractions/zois-mansion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana,_portal_of_the_Zois_Mansion.jpg",
+      "author": "Ajznponar",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "Zois’s collection and patronage made this address part of Ljubljana’s Enlightenment history. At street level, the portal and plaques provide details to look for on what is now an occupied building.",
+        "walk": [
+          "Follow Breg upstream from the old town.",
+          "Look for the portal at Breg 22.",
+          "Continue toward the St James’s crossing and the southern embankment."
+        ],
+        "photography": "Take a close view of the stone portal from the pavement. A shot along the quay shows the mansion in its historic street frontage.",
+        "faq": [
+          {
+            "question": "Is this an exhibition about Žiga Zois?",
+            "answer": "The ordinary sightseeing stop is the exterior. The premises include privately operated accommodation."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Zoisovo mecenstvo in zbirateljstvo sta naslov povezala z ljubljanskim razsvetljenstvom. Na ulični strani o tem pričata portal in spominska obeležja.",
+        "walk": [
+          "Po Bregu hodite od starega mesta proti toku.",
+          "Poiščite portal pri številki 22.",
+          "Nadaljujte proti Šentjakobskemu mostu in južnemu nabrežju."
+        ],
+        "photography": "S pločnika zajemite kamniti portal. Pogled vzdolž nabrežja pokaže mesto palače v nizu hiš.",
+        "faq": [
+          {
+            "question": "Ali je v palači razstava o Žigi Zoisu?",
+            "answer": "Običajen turistični postanek je ogled zunanjosti. V stavbi so tudi zasebno upravljane nastanitve."
+          }
+        ]
+      }
+    },
+    "source": "https://www.visitljubljana.com/en/poi/zois-apartments"
+  },
+  {
+    "slug": "republic-square",
+    "address": "Trg republike, between Šubičeva and Erjavčeva",
+    "operator": "public",
+    "area": "west",
+    "en": {
+      "name": "Republic Square",
+      "description": "Edvard Ravnikar’s civic ensemble juxtaposes a broad paved plaza, angular towers and the parliament building across Šubičeva. Slovenia’s independence was proclaimed here in 1991.",
+      "tip": "Start by parliament, then walk toward Cankar Hall to see how the plaza changes at the cultural-centre edge."
+    },
+    "sl": {
+      "name": "Trg republike",
+      "description": "Ravnikarjeva zasnova povezuje tlakovano ploščad, stolpnici in stavbo državnega zbora na drugi strani Šubičeve. Na trgu je bila leta 1991 razglašena samostojnost Slovenije.",
+      "tip": "Začnite ob državnem zboru in nadaljujte proti Cankarjevemu domu, da vidite oba robova trga."
+    },
+    "photo": {
+      "src": "/attractions/republic-square.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trg_republike_Ljubljana_2026-01-21_01.jpg",
+      "author": "Leonhard Lenz",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0"
+    },
+    "guide": {
+      "en": {
+        "history": "Ravnikar’s ensemble puts government, commercial towers and cultural venues around a large open plane. It became a setting for the declaration of Slovenian independence in 1991.",
+        "walk": [
+          "Approach from Congress Square along Šubičeva.",
+          "Use the square to compare the parliament façade with the towers.",
+          "Cross toward Cankar Hall and look back across the open space."
+        ],
+        "photography": "Frame from the Cankar Hall side to show the scale of the plaza. A corner view along Šubičeva gives a clearer view of the parliament frontage.",
+        "faq": [
+          {
+            "question": "Does a walk through the square include a parliament visit?",
+            "answer": "No. Parliament has separate access and visitor arrangements. Check with the National Assembly if you want to go inside."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Ravnikarjev kompleks povezuje državni zbor, stolpnice in kulturni center z veliko odprto ploščadjo. Na trgu je bila leta 1991 razglašena slovenska samostojnost.",
+        "walk": [
+          "S Kongresnega trga pridite po Šubičevi ulici.",
+          "S ploščadi primerjajte pročelje državnega zbora s stolpnicama.",
+          "Nadaljujte proti Cankarjevemu domu in poglejte nazaj čez trg."
+        ],
+        "photography": "S strani Cankarjevega doma zajemite razsežnost ploščadi. Z vogala ob Šubičevi je bolje vidno pročelje državnega zbora.",
+        "faq": [
+          {
+            "question": "Ali obisk trga vključuje vstop v državni zbor?",
+            "answer": "Za obisk parlamenta veljajo ločena pravila. Aktualne možnosti preverite pri Državnem zboru."
+          }
+        ]
+      }
+    },
+    "source": "https://www.ljubljana.si/sl/vizija-ljubljane/projekti-mol/vsi-projekti/trg-republike"
+  },
+  {
+    "slug": "ljubljana-zoo",
+    "address": "Večna pot 70",
+    "operator": "https://www.zoo.si/",
+    "area": "zoo",
+    "en": {
+      "name": "Ljubljana Zoo",
+      "description": "The zoo sits in woodland below Rožnik hill, west of Tivoli. Its paths climb and curve through the slope, so the visit is best planned as its own outing.",
+      "tip": "Use the LPP journey planner for the zoo entrance on Večna pot. Check the zoo map for gradients and seasonal animal programmes."
+    },
+    "sl": {
+      "name": "Živalski vrt Ljubljana",
+      "description": "Živalski vrt leži v gozdu pod Rožnikom, zahodno od Tivolija. Poti so speljane po pobočju in obisk je smiselno načrtovati kot samostojen izlet.",
+      "tip": "V načrtovalniku LPP poiščite vhod na Večni poti. Na karti vrta preverite naklone in sezonski program."
+    },
+    "photo": {
+      "src": "/attractions/ljubljana-zoo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vhod_v_ZOO_Ljubljana.jpg",
+      "author": "Pehrotra",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The zoo uses the wooded terrain below Rožnik as part of its layout. The slope separates some areas of the grounds and makes the site map useful for planning a route around the exhibits.",
+        "walk": [
+          "Check the current LPP timetable for the ZOO stop on Večna pot, served by line 18.",
+          "Get the current zoo map at entry and note which paths climb.",
+          "Choose a loop that returns to the entrance without repeating the longest slopes."
+        ],
+        "photography": "Use the zoo’s viewing areas for photos, keep the flash off around animals and leave room for other visitors to see.",
+        "faq": [
+          {
+            "question": "Is the terrain flat enough for a pushchair?",
+            "answer": "Expect gradients. Use the zoo’s map and ask staff which routes suit your group and which paths may be closed."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Živalski vrt je umeščen v gozdnato pobočje pod Rožnikom. Naklon vpliva na poti med posameznimi deli in je dober razlog, da si pred obhodom ogledate zemljevid.",
+        "walk": [
+          "V aktualnem voznem redu LPP poiščite postajališče ZOO na Večni poti, ki ga vozi linija 18.",
+          "Pri vhodu preverite zemljevid in potek klancev.",
+          "Izberite krožno pot, ki se vrne do vhoda."
+        ],
+        "photography": "Fotografirajte z urejenih opazovališč, brez bliskavice ob živalih. Pustite prostor še drugim obiskovalcem.",
+        "faq": [
+          {
+            "question": "Ali so poti primerne za otroški voziček?",
+            "answer": "Ponekod so klanci. Za svoji skupini primerno pot in morebitne zapore vprašajte osebje."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "st-florian-church",
+    "address": "Gornji trg 33",
+    "operator": "church",
+    "area": "south",
+    "en": {
+      "name": "St Florian’s Church",
+      "description": "This church closes the upper end of Gornji trg, where the street starts climbing Castle Hill. The tight setting makes the relationship between the church steps and the old street particularly clear.",
+      "tip": "Walk uphill along Gornji trg and photograph the church from below, then continue toward the castle only if you want a steeper walk."
+    },
+    "sl": {
+      "name": "Cerkev sv. Florijana",
+      "description": "Cerkev stoji na koncu Gornjega trga, kjer se ulica začne vzpenjati po Grajskem griču. Na ozkem prostoru je dobro viden odnos med stopniščem in staro ulico.",
+      "tip": "Cerkev fotografirajte z Gornjega trga. Proti gradu nadaljujte, če vam ustreza strmejša pot."
+    },
+    "photo": {
+      "src": "/attractions/st-florian-church.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana,_church_of_St._Florian.jpg",
+      "author": "Ajznponar",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "guide": {
+      "en": {
+        "history": "The church sits where Gornji trg narrows and starts to climb. That alignment makes the façade and stairway stand out as you approach through the old town’s closely spaced houses.",
+        "walk": [
+          "From the Town Hall side, follow Stari trg into Gornji trg.",
+          "Stop at the lower end of the steps to view the church.",
+          "Head back downhill toward the river or continue onto a signed Castle Hill route."
+        ],
+        "photography": "Stand below the entrance stairs on the public street and frame the church between the buildings rather than backing into the roadway.",
+        "faq": [
+          {
+            "question": "Is this on the way to the castle?",
+            "answer": "It is near one approach to Castle Hill. Continuing uphill is a separate walk with more gradient than the riverside route."
+          }
+        ]
+      },
+      "sl": {
+        "history": "Cerkev stoji ob zožitvi Gornjega trga, kjer se ulica začne vzpenjati. Pročelje in stopnice izstopajo med tesno postavljenimi hišami.",
+        "walk": [
+          "Z Mestnega trga skozi Stari trg pridite na Gornji trg.",
+          "Ustavite se pod cerkvenimi stopnicami.",
+          "Vrnite se proti reki ali nadaljujte po označeni poti na Grajski grič."
+        ],
+        "photography": "Z javnega prostora pod stopnicami zajemite cerkev med stavbama. Pri iskanju kadra ostanite zunaj vozišča.",
+        "faq": [
+          {
+            "question": "Ali je cerkev na poti na grad?",
+            "answer": "Leži blizu enega od pristopov na Grajski grič. Nadaljevanje je bolj strmo od poti ob reki."
+          }
+        ]
+      }
+    },
+    "source": "https://javnipodatki.si/kulturna-dediscina/enota/ljubljana-cerkev-sv-florijana"
+  },
+  {
+    "slug": "preseren-monument",
+    "address": "Prešernov trg",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Prešeren Monument",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Prešernov spomenik",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/gallery/presernov-trg-ljubljana-preseren-monument-3.jpg",
+      "source": "",
+      "author": "",
+      "license": ""
+    }
+  },
+  {
+    "slug": "triple-bridge",
+    "address": "Prešernov trg / Stritarjeva ulica",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Triple Bridge",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Tromostovje",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/gallery/presernov-trg-ljubljana-triple-bridge-2.jpg",
+      "source": "",
+      "author": "",
+      "license": ""
+    }
+  },
+  {
+    "slug": "franciscan-church",
+    "address": "Prešernov trg 4",
+    "operator": "https://www.franciskani.si/",
+    "area": "market",
+    "en": {
+      "name": "Franciscan Church of the Annunciation",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Frančiškanska cerkev Marijinega oznanjenja",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/gallery/presernov-trg-ljubljana-franciscan-church-4.jpg",
+      "source": "",
+      "author": "",
+      "license": ""
+    },
+    "rating": {
+      "score": 4.6,
+      "count": 1167,
+      "source": "https://evendo.com/locations/slovenia/ljubljana/attraction/franciscan-church-of-the-annunciation"
+    }
+  },
+  {
+    "slug": "hauptman-house",
+    "address": "Prešernov trg 1",
+    "operator": "private",
+    "area": "market",
+    "en": {
+      "name": "Hauptmann House",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Hauptmanova hiša",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/hauptman-house.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_Hauptmann_House.jpg",
+      "author": "Tiia Monto",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "urbanc-house",
+    "address": "Prešernov trg 5",
+    "operator": "https://www.galerijaemporium.si/",
+    "area": "market",
+    "en": {
+      "name": "Urbanc House",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Urbančeva hiša",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/gallery/presernov-trg-ljubljana-mayer-department-store-5.jpg",
+      "source": "",
+      "author": "",
+      "license": ""
+    }
+  },
+  {
+    "slug": "dragon-bridge",
+    "address": "Resljeva cesta / Kopitarjeva ulica",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Dragon Bridge",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Zmajski most",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/dragon-bridge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dragon-DragonBridge-Ljubljana.jpg",
+      "author": "acediscovery",
+      "license": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "slug": "central-market",
+    "address": "Vodnikov trg / Pogačarjev trg",
+    "operator": "https://www.lpt.si/",
+    "area": "market",
+    "en": {
+      "name": "Ljubljana Central Market",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Osrednja ljubljanska tržnica",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/central-market.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_Poga%C4%8Darjev_trg_(2008-07).jpg",
+      "author": "Szeder László",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rating": {
+      "score": 4.5,
+      "count": 3144,
+      "source": "https://evendo.com/locations/slovenia/ljubljana/landmark/central-market"
+    }
+  },
+  {
+    "slug": "ljubljana-cathedral",
+    "address": "Dolničarjeva ulica 1",
+    "operator": "https://www.stolnica.com/",
+    "area": "market",
+    "en": {
+      "name": "Ljubljana Cathedral",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Stolnica sv. Nikolaja",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/ljubljana-cathedral.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Statues_on_the_facade_of_Ljubljana_Cathedral_01.jpg",
+      "author": "John Samuel",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rating": {
+      "score": 4.5,
+      "count": 2267,
+      "source": "https://evendo.com/locations/slovenia/ljubljana/attraction/saint-nicholas-s-cathedral"
+    }
+  },
+  {
+    "slug": "mestni-trg",
+    "address": "Mestni trg",
+    "operator": "public",
+    "area": "market",
+    "en": {
+      "name": "Town Square",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Mestni trg",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/mestni-trg.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_Mestni_trg.jpg",
+      "author": "Tiia Monto",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "congress-square",
+    "address": "Kongresni trg / park Zvezda",
+    "operator": "public",
+    "area": "west",
+    "en": {
+      "name": "Congress Square",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Kongresni trg",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/congress-square.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljana_Congress_Square.jpg",
+      "author": "Tiia Monto",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "source": "https://www.visitljubljana.com/en/poi/kongresni-trg-square"
+  },
+  {
+    "slug": "ljubljana-castle",
+    "address": "Grajska planota 1",
+    "operator": "https://www.ljubljanskigrad.si/en/",
+    "area": "castle",
+    "en": {
+      "name": "Ljubljana Castle",
+      "description": "",
+      "tip": ""
+    },
+    "sl": {
+      "name": "Ljubljanski grad",
+      "description": "",
+      "tip": ""
+    },
+    "photo": {
+      "src": "/attractions/ljubljana-castle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ljubljanski_grad_in_Grajski_gri%C4%8D.jpg",
+      "author": "LjGrad",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rating": {
+      "score": 4.4,
+      "count": 36818,
+      "source": "https://evendo.com/locations/slovenia/southeast-slovenia/landmark/ljubljana-castle"
+    }
+  }
+]

@@ -2,7 +2,6 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
-  const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
@@ -17,18 +16,6 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
-
-        <div
-          className="mb-8 p-6 sm:p-8 rounded-xl border-2"
-          style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--accent)' }}
-        >
-          <h3 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-            {tOff('title')}
-          </h3>
-          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
-            {tOff('text')}
-          </div>
-        </div>
 
         {/* Entity Equivalence Declaration */}
         <p

@@ -15,8 +15,8 @@
   "hero": {
     "title": "普列舍伦广场 Prešernov trg (卢布尔雅那 Ljubljana)",
     "subtitle": "斯洛文尼亚卢布尔雅那城市心脏与民族文化象征",
-    "rating": "4.7(13,383)",
-    "reviewCount": "13,383 条评价",
+    "rating": "4.7(13,470)",
+    "reviewCount": "13,470 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
@@ -105,7 +105,7 @@
     "city": "城市",
     "cityValue": "卢布尔雅那（Ljubljana）",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.7/5（13,383 条评价）",
+    "googleRatingValue": "4.7/5（13,470 条评价）",
     "address": "地址",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
   },
@@ -250,10 +250,10 @@
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "展示的评分为 Google 地图聚合快照，2026 年 10 月核实。本站不转载单条用户评价。",
+    "declaration": "展示的评分为 Google 地图聚合快照，2026 年 11 月23日核实。本站不转载单条用户评价。",
     "moreReviews": "在 Google Maps 查看更多评价",
     "items": [],
-    "snapshot": "4.7 / 5 · Google 地图 13,383 条评价 · 2026 年 10 月核实"
+    "snapshot": "4.7 / 5 · Google 地图 13,470 条评价 · 2026 年 11 月23日核实"
   },
   "mapSection": {
     "title": "普列舍伦广场位置与交通指南 Location & How to Visit",
@@ -720,19 +720,12 @@
     ]
   },
   "footer": {
-    "rights": "© 2026 普列舍伦广场独立旅游研究协会 · 保留所有权利。",
+    "rights": "© 2026 普列舍伦广场 · 版權所有",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "公共参考链接",
-    "officialLinks": {
-      "sloveniaInfo": "斯洛文尼亚旅行信息",
-      "govSi": "政府信息",
-      "visitLjubljana": "Visit Ljubljana — 官方游客信息",
-      "lpp": "LPP — 市区公交与票价"
-    },
-    "disclaimer": "本网站是独立的非营利旅游信息指南，不是 Turizem Ljubljana 或其他公共机构的官方网站，也不代表其立场。",
-    "contactNote": "对本指南有疑问或纠错：请通过隐私政策所列邮箱联系本站团队。该邮箱仅用于本站内容，与广场管理方、卢布尔雅那市政府及旅游局无关。官方信息来源：Visit Ljubljana 与 LPP（见上方链接）。"
+    "disclaimer": "本网站是一个独立的旅游信息项目。我们与任何政府机构或官方组织均无关联",
+    "siteLinks": "网站链接"
   },
   "privacy": {
     "title": "隐私政策",
@@ -754,7 +747,9 @@
         "heading": "4. 数据安全",
         "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
       }
-    ]
+    ],
+    "contactTitle": "联系与纠错",
+    "contactNote": "本站的联系渠道仅用于接收对本指南的疑问与纠错。有关广场管理或官方事务，请直接联系卢布尔雅那市政府或旅游局。"
   },
   "terms": {
     "title": "服务条款",
@@ -799,7 +794,14 @@
   },
   "officialManagement": {
     "title": "独立网站声明",
-    "text": "本网站是关于普列舍伦广场的独立、非营利旅游信息指南。\n本网站并非由 Turizem Ljubljana、卢布尔雅那市政府或任何其他官方机构运营、授权、认可，也不代表其发声。\n\n如需查看官方公告、许可或行政事务信息，请直接以相关公共机构发布的内容为准。"
+    "text": "本网站是关于普列舍伦广场的独立、非营利旅游信息指南。\n本网站并非由 Turizem Ljubljana、卢布尔雅那市政府或任何其他官方机构运营、授权、认可，也不代表其发声。\n\n如需查看官方公告、许可或行政事务信息，请直接以相关公共机构发布的内容为准。",
+    "officialResourcesTitle": "公共参考链接",
+    "officialLinks": {
+      "sloveniaInfo": "斯洛文尼亚旅行信息",
+      "govSi": "政府信息",
+      "visitLjubljana": "Visit Ljubljana — 官方游客信息",
+      "lpp": "LPP — 市区公交与票价"
+    }
   },
   "topicLinks": {
     "title": "普列舍伦广场与卢布尔雅那深度专题",

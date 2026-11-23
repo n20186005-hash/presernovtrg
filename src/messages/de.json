@@ -15,8 +15,8 @@
   "hero": {
     "title": "Prešeren-Platz (Prešernov trg, Ljubljana)",
     "subtitle": "Das Herz von Ljubljana und nationales Kultursymbol Sloweniens",
-    "rating": "4.7(13,383)",
-    "reviewCount": "13.383 Bewertungen",
+    "rating": "4.7(13,470)",
+    "reviewCount": "13.470 Bewertungen",
     "hours": "Rund um die Uhr geöffnet",
     "openMaps": "Standort ansehen"
   },
@@ -105,7 +105,7 @@
     "city": "Stadt",
     "cityValue": "Ljubljana",
     "googleRating": "Google-Bewertung",
-    "googleRatingValue": "4,7/5 (13.383 Bewertungen)",
+    "googleRatingValue": "4,7/5 (13.470 Bewertungen)",
     "address": "Adresse",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slowenien"
   },
@@ -253,7 +253,7 @@
     "declaration": "Die angezeigte Bewertung ist ein aggregierter Stand von Google Maps, geprüft im Oktober 2026. Einzelbewertungen geben wir nicht wieder.",
     "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [],
-    "snapshot": "4,7 / 5 · 13.383 Bewertungen auf Google Maps · geprüft Oktober 2026"
+    "snapshot": "4,7 / 5 · 13.470 Bewertungen auf Google Maps · geprüft am 23. November 2026"
   },
   "mapSection": {
     "title": "Lage und Anreise zum Prešeren-Platz in Ljubljana",
@@ -720,19 +720,12 @@
     ]
   },
   "footer": {
-    "rights": "© 2026 Unabhängige Reiseforschung Prešeren-Platz. Alle Rechte vorbehalten.",
+    "rights": "© 2026 Prešeren-Platz · Alle Rechte vorbehalten",
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
     "cookies": "Cookie-Einstellungen",
-    "officialResourcesTitle": "Öffentliche Referenzlinks",
-    "officialLinks": {
-      "sloveniaInfo": "Reiseinformationen zu Slowenien",
-      "govSi": "Behördliche Informationen",
-      "visitLjubljana": "Visit Ljubljana — offizielle Besucherinformation",
-      "lpp": "LPP — Stadtverkehr und Fahrpreise"
-    },
-    "disclaimer": "Dies ist ein unabhängiger, gemeinnütziger Reiseführer. Es ist weder die offizielle Website von Turizem Ljubljana noch einer anderen öffentlichen Institution und gibt deren Positionen nicht wieder.",
-    "contactNote": "Fragen oder Korrekturen zu diesem Guide: schreiben Sie dem Team über die Adresse in der Datenschutzerklärung. Diese Adresse gilt nur für unsere Inhalte — sie ist keine Kontaktadresse für den Platz, die Stadt Ljubljana oder das Tourismusamt. Offizielle Quellen: Visit Ljubljana und LPP (Links oben)."
+    "disclaimer": "Diese Website ist ein unabhängiges touristisches Informationsprojekt. Wir sind mit keiner Behörde oder offiziellen Organisation verbunden.",
+    "siteLinks": "Website-Links"
   },
   "privacy": {
     "title": "Datenschutzerklärung",
@@ -754,7 +747,9 @@
         "heading": "4. Datensicherheit",
         "content": "Die Sicherheit Ihrer Daten ist uns wichtig. Wir setzen angemessene Maßnahmen zum Schutz der Daten ein, doch keine Übertragung über das Internet bietet vollständige Sicherheit."
       }
-    ]
+    ],
+    "contactTitle": "Kontakt und Korrekturen",
+    "contactNote": "Die Kontaktwege dieser Website dienen Fragen und Korrekturen zu diesem Reiseführer. Für die Verwaltung des Platzes oder amtliche Anliegen wenden Sie sich direkt an die Stadt Ljubljana oder das Tourismusbüro."
   },
   "terms": {
     "title": "Nutzungsbedingungen",
@@ -799,7 +794,14 @@
   },
   "officialManagement": {
     "title": "Hinweis zur Unabhängigkeit der Website",
-    "text": "Diese Website ist ein unabhängiger, gemeinnütziger Reiseführer über den Prešeren-Platz.\nSie wird weder von Turizem Ljubljana, der Stadt Ljubljana noch von einer anderen offiziellen Institution betrieben, beauftragt, unterstützt oder vertreten.\n\nFür offizielle Bekanntmachungen, Genehmigungen und Verwaltungsangelegenheiten wenden Sie sich bitte direkt an die zuständigen öffentlichen Stellen."
+    "text": "Diese Website ist ein unabhängiger, gemeinnütziger Reiseführer über den Prešeren-Platz.\nSie wird weder von Turizem Ljubljana, der Stadt Ljubljana noch von einer anderen offiziellen Institution betrieben, beauftragt, unterstützt oder vertreten.\n\nFür offizielle Bekanntmachungen, Genehmigungen und Verwaltungsangelegenheiten wenden Sie sich bitte direkt an die zuständigen öffentlichen Stellen.",
+    "officialResourcesTitle": "Öffentliche Referenzlinks",
+    "officialLinks": {
+      "sloveniaInfo": "Reiseinformationen zu Slowenien",
+      "govSi": "Behördliche Informationen",
+      "visitLjubljana": "Visit Ljubljana — offizielle Besucherinformation",
+      "lpp": "LPP — Stadtverkehr und Fahrpreise"
+    }
   },
   "topicLinks": {
     "title": "Detailführer zum Prešeren-Platz & Ljubljana",

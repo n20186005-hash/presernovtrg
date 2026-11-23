@@ -1,5 +1,4 @@
-import { useTranslations } from 'next-intl';
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { routing } from '@/i18n/routing';
 
 export default function Footer() {
@@ -8,63 +7,23 @@ export default function Footer() {
   const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
 
   return (
-    <footer
-      className="py-12 px-4 sm:px-6"
-      style={{ background: 'var(--bg-tertiary)', borderTop: '1px solid var(--border-color)' }}
-    >
-      <div className="max-w-5xl mx-auto">
-        <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
-          <div className="max-w-md">
-            <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Prešernov trg
-            </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('officialResourcesTitle')}
-            </p>
-            <div className="flex flex-col gap-2">
-              <a href="https://www.visitljubljana.com/en" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.visitLjubljana')}
-              </a>
-              <a href="https://www.lpp.si/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.lpp')}
-              </a>
-              <a href="https://www.slovenia.info/en" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.sloveniaInfo')}
-              </a>
-              <a href="https://www.gov.si/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.govSi')}
-              </a>
-            </div>
-          </div>
-          <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
-            <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('privacy')}
-            </a>
-            <a href={`${prefix}/terms-of-service`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('terms')}
-            </a>
-            <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('cookies')}
-            </a>
-          </div>
-        </div>
-
-        <div
-          className="pt-6 text-center text-sm space-y-4"
-          style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
-        >
-          <p>{t('rights')}</p>
-          <p
-            className="text-xs max-w-3xl mx-auto leading-relaxed rounded-lg px-4 py-3"
-            style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-color)' }}
-          >
-            {t('disclaimer')}
-          </p>
-          <p className="text-xs max-w-3xl mx-auto leading-relaxed" style={{ color: 'var(--text-muted)' }}>
-            {t('contactNote')}
-          </p>
-        </div>
-      </div>
-    </footer>
+    <>
+      <nav
+        aria-label={t('siteLinks')}
+        className="flex flex-wrap justify-center gap-x-6 gap-y-2 px-4 py-5 text-sm"
+        style={{ color: 'var(--text-secondary)' }}
+      >
+        <a href={`${prefix}/privacy-policy`} className="hover:underline">{t('privacy')}</a>
+        <a href={`${prefix}/terms-of-service`} className="hover:underline">{t('terms')}</a>
+        <a href={`${prefix}/cookie-settings`} className="hover:underline">{t('cookies')}</a>
+      </nav>
+      <footer
+        className="space-y-2 px-4 py-7 text-center text-sm leading-relaxed"
+        style={{ background: 'var(--bg-tertiary)', borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
+      >
+        <p>{t('rights')}</p>
+        <p>{t('disclaimer')}</p>
+      </footer>
+    </>
   );
 }

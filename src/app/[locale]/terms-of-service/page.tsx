@@ -20,6 +20,7 @@ export async function generateMetadata({
 
 function TermsContent() {
   const t = useTranslations('terms');
+  const notice = useTranslations('officialManagement');
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
@@ -48,6 +49,12 @@ function TermsContent() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="space-y-8">
+          <section id="independent-site">
+            <h2 className="font-display text-xl font-semibold mb-3">{notice('title')}</h2>
+            {notice('text').split(/\n+/).map((paragraph) => (
+              <p key={paragraph} className="mb-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{paragraph}</p>
+            ))}
+          </section>
           {sections.map((section, i) => (
             <div key={i}>
               <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
@@ -58,6 +65,19 @@ function TermsContent() {
               </p>
             </div>
           ))}
+          <section id="sources">
+            <h2 className="font-display text-xl font-semibold mb-3">{notice('officialResourcesTitle')}</h2>
+            <ul className="space-y-2" style={{ color: 'var(--accent)' }}>
+              {[
+                ['visitLjubljana', 'https://www.visitljubljana.com/en'],
+                ['lpp', 'https://www.lpp.si/'],
+                ['sloveniaInfo', 'https://www.slovenia.info/en'],
+                ['govSi', 'https://www.gov.si/'],
+              ].map(([key, href]) => (
+                <li key={key}><a href={href} className="underline">{notice(`officialLinks.${key}`)}</a></li>
+              ))}
+            </ul>
+          </section>
         </div>
       </div>
     </div>

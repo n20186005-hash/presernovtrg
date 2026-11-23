@@ -15,8 +15,8 @@
   "hero": {
     "title": "Piazza Prešeren (Prešernov trg, Lubiana)",
     "subtitle": "Il cuore di Lubiana e simbolo culturale nazionale della Slovenia",
-    "rating": "4.7(13,383)",
-    "reviewCount": "13.383 recensioni",
+    "rating": "4.7(13,470)",
+    "reviewCount": "13.470 recensioni",
     "hours": "Aperto 24/7",
     "openMaps": "Vedi la posizione"
   },
@@ -105,7 +105,7 @@
     "city": "Città",
     "cityValue": "Lubiana",
     "googleRating": "Valutazione Google",
-    "googleRatingValue": "4,7/5 (13.383 recensioni)",
+    "googleRatingValue": "4,7/5 (13.470 recensioni)",
     "address": "Indirizzo",
     "addressValue": "Prešernov trg 1, 1000 Lubiana, Slovenia"
   },
@@ -253,7 +253,7 @@
     "declaration": "Il punteggio mostrato è una media aggregata da Google Maps, verificata a ottobre 2026. Non ripubblichiamo le recensioni individuali.",
     "moreReviews": "Vedi più recensioni su Google Maps",
     "items": [],
-    "snapshot": "4,7 / 5 · 13.383 recensioni su Google Maps · verificato ottobre 2026"
+    "snapshot": "4,7 / 5 · 13.470 recensioni su Google Maps · verificato il 23 novembre 2026"
   },
   "mapSection": {
     "title": "Posizione e come visitare Piazza Prešeren a Lubiana",
@@ -720,19 +720,12 @@
     ]
   },
   "footer": {
-    "rights": "© 2026 Associazione indipendente di ricerca turistica Prešernov trg. Tutti i diritti riservati.",
+    "rights": "© 2026 Piazza Prešeren · Tutti i diritti riservati",
     "privacy": "Informativa sulla privacy",
     "terms": "Termini di servizio",
     "cookies": "Impostazioni cookie",
-    "officialResourcesTitle": "Link pubblici di riferimento",
-    "officialLinks": {
-      "sloveniaInfo": "Informazioni di viaggio sulla Slovenia",
-      "govSi": "Informazioni governative",
-      "visitLjubljana": "Visit Ljubljana — informazioni ufficiali per i visitatori",
-      "lpp": "LPP — trasporto urbano e tariffe"
-    },
-    "disclaimer": "Questa è una guida di viaggio indipendente e senza scopo di lucro. Non è il sito ufficiale di Turizem Ljubljana o di altre istituzioni pubbliche e non ne rappresenta le posizioni.",
-    "contactNote": "Domande o correzioni su questa guida: scrivi al team all’indirizzo indicato nella privacy policy. Quell’indirizzo serve solo per i nostri contenuti —non è un contatto della piazza, del Comune di Lubiana o dell’ufficio del turismo—. Fonti ufficiali: Visit Ljubljana e LPP (link sopra)."
+    "disclaimer": "Questo sito è un progetto indipendente di informazione turistica. Non siamo affiliati ad alcun ente pubblico o organizzazione ufficiale.",
+    "siteLinks": "Collegamenti del sito"
   },
   "privacy": {
     "title": "Informativa sulla privacy",
@@ -754,7 +747,9 @@
         "heading": "4. Sicurezza dei dati",
         "content": "La sicurezza dei vostri dati è importante per noi. Adottiamo misure adeguate per proteggerli, ma nessun metodo di trasmissione su Internet può garantire sicurezza assoluta."
       }
-    ]
+    ],
+    "contactTitle": "Contatti e correzioni",
+    "contactNote": "I canali di contatto del sito sono dedicati a domande e correzioni sulla guida. Per questioni ufficiali o relative alla gestione della piazza, contatta direttamente il Comune di Lubiana o l’ufficio del turismo."
   },
   "terms": {
     "title": "Termini di servizio",
@@ -799,7 +794,14 @@
   },
   "officialManagement": {
     "title": "Avviso di sito indipendente",
-    "text": "Questo sito web è una guida indipendente e senza scopo di lucro dedicata a Piazza Prešeren.\nNon è gestito da Turizem Ljubljana, dal Comune di Lubiana o da altre istituzioni ufficiali, non è affiliato né autorizzato e non parla a loro nome.\n\nPer annunci ufficiali, permessi e questioni amministrative, fai riferimento direttamente alle autorità pubbliche competenti."
+    "text": "Questo sito web è una guida indipendente e senza scopo di lucro dedicata a Piazza Prešeren.\nNon è gestito da Turizem Ljubljana, dal Comune di Lubiana o da altre istituzioni ufficiali, non è affiliato né autorizzato e non parla a loro nome.\n\nPer annunci ufficiali, permessi e questioni amministrative, fai riferimento direttamente alle autorità pubbliche competenti.",
+    "officialResourcesTitle": "Link pubblici di riferimento",
+    "officialLinks": {
+      "sloveniaInfo": "Informazioni di viaggio sulla Slovenia",
+      "govSi": "Informazioni governative",
+      "visitLjubljana": "Visit Ljubljana — informazioni ufficiali per i visitatori",
+      "lpp": "LPP — trasporto urbano e tariffe"
+    }
   },
   "topicLinks": {
     "title": "Guide dettagliate a Piazza Prešeren e Lubiana",

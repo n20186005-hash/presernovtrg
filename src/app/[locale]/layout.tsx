@@ -11,11 +11,7 @@ import {
 } from '@/i18n/routing';
 import {
   HERO_IMAGE,
-  type FaqMessages,
   type MetaMessages,
-  buildBreadcrumbLd,
-  buildFaqLd,
-  buildTouristAttractionLd,
 } from '@/lib/structuredData';
 import type { Metadata } from 'next';
 
@@ -66,14 +62,6 @@ export async function generateMetadata({
   };
 }
 
-function localizedNodeName(locale: Locale) {
-  if (locale === 'de') return 'Prešeren-Platz (Prešernov trg)';
-  if (locale === 'es') return 'Plaza Prešeren (Prešernov trg)';
-  if (locale === 'it') return 'Piazza Prešeren (Prešernov trg)';
-  if (locale === 'zh') return '普列舍伦广场 Prešernov trg';
-  return 'Prešernov trg';
-}
-
 export default async function LocaleLayout({
   children,
   params,
@@ -91,30 +79,11 @@ export default async function LocaleLayout({
   setRequestLocale(currentLocale);
   const messages = await getMessages();
 
-  const meta = (messages as unknown as { meta: MetaMessages }).meta;
-  const faq = (messages as unknown as { faq: FaqMessages }).faq;
-
-  const attractionLd = buildTouristAttractionLd(currentLocale, meta);
-  const breadcrumbLd = buildBreadcrumbLd(currentLocale, localizedNodeName(currentLocale));
-  const faqLd = buildFaqLd(faq);
-
   return (
     <html lang={HTML_LANG[currentLocale]} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(attractionLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
-        />
         <script
           dangerouslySetInnerHTML={{
             __html: `

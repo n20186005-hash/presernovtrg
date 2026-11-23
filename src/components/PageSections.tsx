@@ -4,6 +4,7 @@ import Intro from './Intro';
 import UniversityContext from './UniversityContext';
 import TopicLinks from './TopicLinks';
 import WeatherSection from './WeatherSection';
+import NearbyWalks from './NearbyWalks';
 import NearbyLandmarks from './NearbyLandmarks';
 import HoursSection from './HoursSection';
 import TicketsSection from './TicketsSection';
@@ -34,6 +35,7 @@ export default function PageSections() {
         <Hero />
         <Intro />
         <UniversityContext />
+        <NearbyWalks />
         <TopicLinks />
         <WeatherSection />
         <NearbyLandmarks />

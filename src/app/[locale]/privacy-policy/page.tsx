@@ -58,6 +58,10 @@ function PrivacyContent() {
               </p>
             </div>
           ))}
+          <section id="contact">
+            <h2 className="font-display text-xl font-semibold mb-3">{t('contactTitle')}</h2>
+            <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('contactNote')}</p>
+          </section>
         </div>
       </div>
     </div>

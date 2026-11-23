@@ -1,3 +1,5 @@
+import { EDITORIAL_INTERVIEW, PRESS_COVERAGE, PRESS_TOPICS } from './topics.press';
+import { attractionTopic, newAttractionSlugs } from './attractions';
 import {
   HREFLANG_TAGS,
   X_DEFAULT_LOCALE,
@@ -13,6 +15,7 @@ export type TopicSection = {
   title: string;
   paragraphs?: string[];
   bullets?: string[];
+  steps?: string[];
   table?: { columns: string[]; rows: string[][] };
 };
 
@@ -33,6 +36,7 @@ export type TopicContent = {
   related: string[];
   /** Source / verification note shown at the bottom of the page. */
   updated: string;
+  sources?: { label: string; href: string }[];
 };
 
 /**
@@ -42,7 +46,7 @@ export type TopicContent = {
  * Batch 2 (2026-10): france-preseren … river-bridges-walk.
  * Batch 3 (planned): pedestrian-zone-arrival … food-and-cafes.
  */
-export const TOPIC_SLUGS = [
+const ORIGINAL_TOPIC_SLUGS = [
   'history',
   'preseren-monument',
   'map',
@@ -85,12 +89,17 @@ export const TOPIC_SLUGS = [
   'food-and-cafes',
 ] as const;
 
-export type TopicSlug = (typeof TOPIC_SLUGS)[number];
+export type TopicSlug = (typeof ORIGINAL_TOPIC_SLUGS)[number];
+const PRESS_SLUGS = [PRESS_COVERAGE, EDITORIAL_INTERVIEW] as const;
+export const TOPIC_SLUGS = [...PRESS_SLUGS, ...ORIGINAL_TOPIC_SLUGS, ...newAttractionSlugs];
+type EditorialSlug = TopicSlug | (typeof PRESS_SLUGS)[number];
 
 import { EN_TOPICS } from './topics.en';
 import { SL_TOPICS } from './topics.sl';
 
-const CONTENT: Partial<Record<TopicSlug, Partial<Record<Locale, TopicContent>>>> = {
+const CONTENT: Partial<Record<EditorialSlug, Partial<Record<Locale, TopicContent>>>> = {
+  [PRESS_COVERAGE]: { en: PRESS_TOPICS.en.coverage, sl: PRESS_TOPICS.sl.coverage, zh: PRESS_TOPICS.zh.coverage },
+  [EDITORIAL_INTERVIEW]: { en: PRESS_TOPICS.en.interview, sl: PRESS_TOPICS.sl.interview, zh: PRESS_TOPICS.zh.interview },
   history: { en: EN_TOPICS.history, sl: SL_TOPICS.history },
   'preseren-monument': { en: EN_TOPICS['preseren-monument'], sl: SL_TOPICS['preseren-monument'] },
   map: { en: EN_TOPICS.map, sl: SL_TOPICS.map },
@@ -135,22 +144,20 @@ const CONTENT: Partial<Record<TopicSlug, Partial<Record<Locale, TopicContent>>>>
 
 /** Content for one topic in one locale, or null when that version does not exist. */
 export function getTopic(slug: string, locale: string): TopicContent | null {
-  const byLocale = CONTENT[slug as TopicSlug];
-  if (!byLocale) return null;
+  const byLocale = CONTENT[slug as EditorialSlug];
+  if (!byLocale) return attractionTopic(slug, locale);
   return (byLocale as Partial<Record<string, TopicContent>>)[locale] ?? null;
 }
 
 /** Locales in which a given topic page exists (English first, then Slovenian). */
 export function topicLocales(slug: string): Locale[] {
-  const byLocale = CONTENT[slug as TopicSlug];
-  if (!byLocale) return [];
   const order: Locale[] = ['en', 'sl', 'de', 'es', 'it', 'zh'];
-  return order.filter((locale) => (byLocale as Partial<Record<string, TopicContent>>)[locale]);
+  return order.filter((locale) => getTopic(slug, locale) !== null);
 }
 
 /** Slugs available for a locale (for the homepage interlink grid). */
-export function topicSlugsForLocale(locale: string): TopicSlug[] {
-  return TOPIC_SLUGS.filter((slug) => getTopic(slug, locale) !== null);
+export function topicSlugsForLocale(locale: string): EditorialSlug[] {
+  return [...PRESS_SLUGS, ...ORIGINAL_TOPIC_SLUGS].filter((slug) => getTopic(slug, locale) !== null);
 }
 
 /**

@@ -15,8 +15,8 @@
   "hero": {
     "title": "Prešernov trg (Ljubljana)",
     "subtitle": "Ljubljana's Heart & National Cultural Symbol of Slovenia",
-    "rating": "4.7(13,383)",
-    "reviewCount": "13,383 reviews",
+    "rating": "4.7(13,470)",
+    "reviewCount": "13,470 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
@@ -105,7 +105,7 @@
     "city": "City",
     "cityValue": "Ljubljana",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7/5 (13,383 reviews)",
+    "googleRatingValue": "4.7/5 (13,470 reviews)",
     "address": "Address",
     "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
   },
@@ -250,10 +250,10 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "The rating shown is an aggregate snapshot from Google Maps, checked October 2026. We do not republish individual reviews.",
+    "declaration": "The rating shown is an aggregate snapshot from Google Maps, checked 23 November 2026. We do not republish individual reviews.",
     "moreReviews": "View More Reviews on Google Maps",
     "items": [],
-    "snapshot": "4.7 / 5 · 13,383 reviews on Google Maps · checked October 2026"
+    "snapshot": "4.7 / 5 · 13,470 reviews on Google Maps · checked 23 November 2026"
   },
   "mapSection": {
     "title": "Location & How to Visit Prešernov trg in Ljubljana",
@@ -720,19 +720,12 @@
     ]
   },
   "footer": {
-    "rights": "© 2026 Prešernov trg Independent Travel Research Association. All Rights Reserved.",
+    "rights": "© 2026 Prešeren Square · All rights reserved",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Public Reference Links",
-    "officialLinks": {
-      "sloveniaInfo": "Slovenia travel information",
-      "govSi": "Government information",
-      "visitLjubljana": "Visit Ljubljana — official visitor information",
-      "lpp": "LPP — Ljubljana public transport & fares"
-    },
-    "disclaimer": "This is an independent, non-profit travel guide. It is not the official website of Turizem Ljubljana or any other public institution, and it does not represent their views.",
-    "contactNote": "Questions or corrections about this guide: write to the site team at the address listed in the privacy policy. That address serves our own content only — it is not a contact for the square, the City of Ljubljana or the tourist board. Official sources: Visit Ljubljana and LPP (links above)."
+    "disclaimer": "This website is an independent travel information project. We are not affiliated with any government agency or official organisation.",
+    "siteLinks": "Site links"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -754,7 +747,9 @@
         "heading": "4. Data Security",
         "content": "The security of your data is important to us. We strive to use commercially acceptable means to protect your personal data, but no method of internet transmission is 100% secure."
       }
-    ]
+    ],
+    "contactTitle": "Contact and corrections",
+    "contactNote": "The site’s contact channels are for questions and corrections about this guide. For square management or official matters, contact the City of Ljubljana or the tourist board directly."
   },
   "terms": {
     "title": "Terms of Service",
@@ -799,7 +794,14 @@
   },
   "officialManagement": {
     "title": "Independent Site Notice",
-    "text": "This website is an independent, non-profit travel information guide about Prešernov trg.\nIt is not operated by, affiliated with, endorsed by, or speaking on behalf of Turizem Ljubljana, the City of Ljubljana, or any other official institution.\n\nFor official announcements, permits and administrative matters, please refer to the relevant public authorities directly."
+    "text": "This website is an independent, non-profit travel information guide about Prešernov trg.\nIt is not operated by, affiliated with, endorsed by, or speaking on behalf of Turizem Ljubljana, the City of Ljubljana, or any other official institution.\n\nFor official announcements, permits and administrative matters, please refer to the relevant public authorities directly.",
+    "officialResourcesTitle": "Public Reference Links",
+    "officialLinks": {
+      "sloveniaInfo": "Slovenia travel information",
+      "govSi": "Government information",
+      "visitLjubljana": "Visit Ljubljana — official visitor information",
+      "lpp": "LPP — Ljubljana public transport & fares"
+    }
   },
   "topicLinks": {
     "title": "In-Depth Guides to Prešeren Square & Ljubljana",
