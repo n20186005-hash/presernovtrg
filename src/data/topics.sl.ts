@@ -355,6 +355,13 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
     ],
     sections: [
       {
+        id: 'switch-on-transport-2026',
+        title: 'Kako na prižig luči 27. novembra 2026',
+        paragraphs: [
+          'V petek, 27. novembra 2026, so od 16.00 po lokalnem času brezplačne vožnje z avtobusi LPP v coni 1 in parkiranje na vseh sedmih ljubljanskih parkiriščih P+R. Med 16.00 in 17.00 proti središču vozijo dodatni avtobusi; prižig luči na Prešernovem trgu se začne ob 17.00. Vozovnico ali kartico validirajte ob vsakem vstopu, tudi če je vožnja brezplačna. Če nimate kartice Urbana, aplikacije Urbana ali plačilne kartice, uporabite QR-kodo za dan prižiga iz spodnjega obvestila LPP.',
+        ],
+      },
+      {
         id: 'datumi',
         title: 'Datumi in dnevni vzorec',
         paragraphs: [
@@ -420,6 +427,9 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
           'Delovnostran dopoldne in zgodaj popoldne ter prva ali zadnja ura dneva. Vrh je prvi vikend po prižigu.',
       },
     ],
+    sources: [
+      { label: 'LPP: obvestilo za 27. november 2026 in QR-koda za validacijo', href: 'https://www.lpp.si/aktualno/brezskrbno-in-varno-v-praznicno-ljubljano-z-lpp-2/' },
+    ],
     related: ['christmas-lights', 'evening-walk', 'rainy-day', 'food-and-cafes'],
     updated:
       'Viri: Visit Ljubljana (program Festive December) za datume 2026–2027 in čas prižiga. Preverjeno oktober 2026; ure blizu sezone ponovno preverite.',
@@ -441,6 +451,13 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
       { label: 'Prinesite', value: 'Tople plasti — trg je odprt rečnemu vetru' },
     ],
     sections: [
+      {
+        id: 'switch-on-transport-2026',
+        title: 'Kako na prižig luči 27. novembra 2026',
+        paragraphs: [
+          'V petek, 27. novembra 2026, so od 16.00 po lokalnem času brezplačne vožnje z avtobusi LPP v coni 1 in parkiranje na vseh sedmih ljubljanskih parkiriščih P+R. Med 16.00 in 17.00 proti središču vozijo dodatni avtobusi; prižig luči na Prešernovem trgu se začne ob 17.00. Vozovnico ali kartico validirajte ob vsakem vstopu, tudi če je vožnja brezplačna. Če nimate kartice Urbana, aplikacije Urbana ali plačilne kartice, uporabite QR-kodo za dan prižiga iz spodnjega obvestila LPP.',
+        ],
+      },
       {
         id: 'prizig',
         title: 'Trenutek prižiga',
@@ -502,6 +519,9 @@ export const SL_TOPICS: Partial<Record<TopicSlug, TopicContent>> = {
         answer:
           'Da — šotore obiščite v mraku, nato sledite poti luči; obe se prekrivata okoli trga in reke.',
       },
+    ],
+    sources: [
+      { label: 'LPP: obvestilo za 27. november 2026 in QR-koda za validacijo', href: 'https://www.lpp.si/aktualno/brezskrbno-in-varno-v-praznicno-ljubljano-z-lpp-2/' },
     ],
     related: ['christmas-market', 'evening-walk', 'one-hour-walk', 'new-years-eve'],
     updated:

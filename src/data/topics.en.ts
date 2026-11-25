@@ -933,6 +933,13 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
     ],
     sections: [
       {
+        id: 'switch-on-transport-2026',
+        title: 'Getting to the 27 November 2026 switch-on',
+        paragraphs: [
+          'On Friday, 27 November 2026, LPP city buses in Zone 1 and all seven Ljubljana park-and-ride lots are free from 16:00 local time. Additional buses run towards the centre from 16:00 to 17:00, before the 17:00 lights switch-on at Prešeren Square. Validate each time you board, even when the ride is free. If you do not have an Urbana card, the Urbana app or a payment card, use the switch-on QR code in the official LPP notice linked below.',
+        ],
+      },
+      {
         id: 'dates',
         title: 'Dates and daily pattern',
         paragraphs: [
@@ -999,6 +1006,9 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
           'Weekday mornings and early afternoons, and the first or last hour of the day. The first weekend after the switch-on is the peak.',
       },
     ],
+    sources: [
+      { label: 'LPP: 27 November 2026 travel notice and validation QR code', href: 'https://www.lpp.si/aktualno/brezskrbno-in-varno-v-praznicno-ljubljano-z-lpp-2/' },
+    ],
     related: ['christmas-lights', 'evening-walk', 'rainy-day', 'food-and-cafes'],
     updated:
       'Sources: Visit Ljubljana (Festive December programme) for the 2026\u20132027 dates and switch-on time. Checked October 2026; re-verify daily hours closer to the season.',
@@ -1020,6 +1030,13 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
       { label: 'Bring', value: 'Warm layers \u2014 the square is open to the river breeze' },
     ],
     sections: [
+      {
+        id: 'switch-on-transport-2026',
+        title: 'Getting to the 27 November 2026 switch-on',
+        paragraphs: [
+          'On Friday, 27 November 2026, LPP city buses in Zone 1 and all seven Ljubljana park-and-ride lots are free from 16:00 local time. Additional buses run towards the centre from 16:00 to 17:00, before the 17:00 lights switch-on at Prešeren Square. Validate each time you board, even when the ride is free. If you do not have an Urbana card, the Urbana app or a payment card, use the switch-on QR code in the official LPP notice linked below.',
+        ],
+      },
       {
         id: 'switch-on',
         title: 'The switch-on moment',
@@ -1082,6 +1099,9 @@ export const EN_TOPICS: Record<TopicSlug, TopicContent> = {
         answer:
           'Yes \u2014 do the market stalls at dusk, then follow the lights route; the two overlap around the square and the river.',
       },
+    ],
+    sources: [
+      { label: 'LPP: 27 November 2026 travel notice and validation QR code', href: 'https://www.lpp.si/aktualno/brezskrbno-in-varno-v-praznicno-ljubljano-z-lpp-2/' },
     ],
     related: ['christmas-market', 'evening-walk', 'one-hour-walk', 'new-years-eve'],
     updated:
